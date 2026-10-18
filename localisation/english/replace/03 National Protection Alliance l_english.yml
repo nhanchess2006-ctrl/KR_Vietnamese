@@ -1,0 +1,246 @@
+l_english:
+
+### Parties ###
+
+ CHS_authoritarian_democrat_party: "Hộ Quốc Hiệp hội"
+ CHS_authoritarian_democrat_party_long: "Hộ Quốc Hiệp hội"
+
+### Flags and Tooltips ###
+
+ refused_npa: "Đã từ chối gia nhập Hộ Quốc Đồng Minh hoặc bị Hộ Quốc Đồng Minh cự tuyệt"
+ CHS_centralism_tt: "Thay thế §H$CHS_empowered_legislative$§! hoặc §H$CHS_empowered_executive$§! bằng §H$CHS_empowered_executive_centralist$§!\nThay đổi hiệu lực:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10.00%§!\n"
+ CHS_federalism_tt: "Thay thế §H$CHS_empowered_legislative$§! hoặc §H$CHS_empowered_executive$§! bằng §H$CHS_empowered_executive_federalist$§!\nThay đổi hiệu lực:\n$MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR$: §G+10.00%§!\n"
+ CHS_merge_personality_cult: "Hợp nhất §H$CHS_empowered_executive_centralist$§! hoặc §H$CHS_empowered_executive_federalist$§! với §H$CHS_NPA_legacy$§!\nThay đổi hiệu lực:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\n$MODIFIER_WAR_SUPPORT_FACTOR$: §G+10.00%§!"
+ CHS_merge_new_republic: "Hợp nhất §H$CHS_empowered_executive_centralist$§! hoặc §H$CHS_empowered_executive_federalist$§! với §H$CHS_xinhai_legacy_idea$§!\nThay đổi hiệu lực:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\n$MODIFIER_STABILITY_FACTOR$: §G+10.00%§!"
+ NPA_northern_officers_tt: "Tiêu điểm này đang trong quá trình phát triển và hiện chưa có hiệu lực."
+
+### Ideas ###
+
+ CHS_legitimacy: "Tính chính danh hạn chế"
+ CHS_legitimacy_desc: "Giờ đây khi hai miền Nam Bắc đã được tái thống nhất, chúng ta phải bắt tay vào nhiệm vụ khổng lồ là thành lập một Chính phủ Trung ương mới cho Trung Hoa. Rất nhiều người trên khắp đất nước, đặc biệt là ở miền Bắc vừa mới thu phục, ngay từ đầu đã không công nhận tính chính danh của chúng ta. Sẽ cần nhiều thời gian và nỗ lực để chứng minh năng lực trước những kẻ còn hoài nghi, và chỉ khi đó chúng ta mới có thể thực sự tuyên bố đã thống nhất Trung Hoa."
+
+ CHS_bureaucracy: "Bộ máy quan liêu quá tải"
+ CHS_bureaucracy_desc: "Chỉ sau một đêm, bộ máy hành chính của chúng ta từ chỗ chỉ quản lý vài tỉnh ở miền Nam đã phải cáng đáng phần lớn lãnh thổ Trung Hoa. Nói rằng bộ máy quan liêu đang bị quá tải vẫn còn là nói giảm nói tránh. Đội ngũ công chức cần được mở rộng gấp bội để phục vụ các tỉnh mới sáp nhập. Cho đến lúc đó, nền kinh tế và khả năng tiếp cận nhân dân của chúng ta sẽ còn phải chịu nhiều ảnh hưởng."
+
+ CHS_military: "Tân Quân Trung Hoa"
+ CHS_military_desc: "Hiện tại khi Trung Hoa đã thống nhất, các đội quân bách chiến bách thắng của chúng ta giờ đây là quân đội của Chính phủ Trung ương mới. Vì vậy, hàng loạt kho vũ khí và học viện quân sự cần được hợp nhất sau nhiều thập kỷ phát triển độc lập."
+ NPA_navallegacy: "Các xưởng đóng tàu của nền Cộng hòa"
+ CHS_NPA_legacy: "Di sản của Chiến tranh Hộ quốc"
+ CHS_empowered_executive: "Tăng cường Hành pháp"
+ CHS_empowered_executive_centralist: "Chính phủ Tập quyền"
+ CHS_empowered_executive_federalist: "Chính phủ Liên bang"
+ CHS_empowered_executive_centralist_NPA: "Chế độ Tổng thống Nhất thể"
+ CHS_empowered_executive_federalist_NPA: "Chế độ Tổng thống Liên bang"
+ CHS_xinhai_legacy_idea: "Di sản Cách mạng Tân Hợi"
+ CHS_empowered_legislative: "Tăng cường Lập pháp"
+ CHS_empowered_legislative_federalist: "Chính phủ Liên bang"
+ CHS_empowered_legislative_centralist: "Chính phủ Tập quyền"
+ CHS_empowered_legislative_federalist_xinhai: "Cộng hòa Liên bang"
+ CHS_empowered_legislative_centralist_xinhai: "Cộng hòa Đơn nhất"
+
+### Focus ###
+
+ CHS_provisional_government: "Chính phủ Lâm thời"
+ CHS_provisional_government_desc: "Với việc nắm quyền kiểm soát phần lõi của Trung Hoa, chúng ta đã thành lập một Chính phủ Lâm thời mới nhằm soạn thảo một bản hiến pháp mới, hy vọng là lâu dài, và kiến tạo một nền Cộng hòa thống nhất trường tồn với thời gian."
+
+ CHS_strengthen_parliament: "Củng cố Nghị viện"
+ CHS_strengthen_parliament_desc: "Những người theo đường lối dân chủ khắp Trung Hoa đều nhất trí rằng Nghị viện phải được củng cố để bảo đảm nền dân chủ tại đất nước và ngăn ngừa những kẻ độc tài lại tiếm đoạt quyền lực trong nền Cộng hòa non trẻ một lần nữa."
+
+ CHS_strengthen_presidency: "Tăng quyền Tổng thống"
+ CHS_strengthen_presidency_desc: "Sự thất bại của chính phủ cộng hòa tiền nhiệm cho thấy các quyền hạn của chính phủ phải được xác định rõ ràng, cũng như tầm quan trọng của cương vị tổng thống nhằm bảo đảm sự ổn định và quản trị đúng đắn."
+
+ CHS_xinhai_legacy: "Di sản Tân Hợi"
+ CHS_xinhai_legacy_desc: "Cách mạng Tân Hợi đánh dấu sự ra đời của Trung Hoa hiện đại và nền Cộng hòa. Cuộc cách mạng và những nhà tiền bối cách mạng phải được tôn vinh và tưởng niệm, bởi di sản của họ sẽ còn sống mãi chừng nào nền Cộng hòa của chúng ta còn tồn tại."
+
+ CHS_national_protection_legacy: "Di sản Hộ quốc"
+ CHS_national_protection_legacy_desc: "Các phong trào Hộ quốc đã trở thành biểu tượng cho sự tận tụy của giới lãnh đạo và quân đội chúng ta đối với chủ nghĩa cộng hòa và chủ nghĩa hợp hiến; họ xứng đáng được vinh danh cùng với Cách mạng Tân Hợi — sự kiện đã khai sinh ra nền Cộng hòa — bởi chính họ đã đảm bảo cho nền Cộng hòa có thể sống sót."
+
+ CHS_federalist_model: "Mô hình Liên bang"
+ CHS_federalist_model_desc: "Phong trào Liên bang tại Trung Hoa đã nhiều lần thăng trầm kể từ sau Cách mạng Tân Hợi, nhưng đây vẫn là một phong trào trọng yếu trong chính phủ lâm thời của chúng ta. Một hệ thống liên bang sẽ đảm bảo quyền lực được phân định rành mạch và các công việc địa phương vẫn nằm trong tay người dân sở tại — những người thấu hiểu các vấn đề của chính họ hơn bất kỳ chính phủ trung ương nào."
+
+ CHS_weaken_provincialism: "Bài trừ Chủ nghĩa Tỉnh bang"
+ CHS_weaken_provincialism_desc: "Chủ nghĩa tỉnh bang là công cụ chia rẽ quốc gia thành các lãnh địa cát cứ, và chủ nghĩa liên bang chỉ là một nỗ lực nhằm thể chế hóa điều đó. Quyền lực tối cao của chính phủ trung ương phải được đảm bảo, vì đó là con đường duy nhất để Trung Hoa thực sự tái thống nhất thành một quốc gia duy nhất chứ không phải là một tập hợp của những tên bạo chúa địa phương."
+
+ CHS_new_republic: "Nền Cộng hòa Mới"
+ CHS_new_republic_desc: "Từ những bài học xương máu của nền Cộng hòa cũ, chúng ta có thể dựng xây một nền Cộng hòa mới. Một trật tự mới tại Trung Hoa — trật tự thực sự tôn trọng di sản của những người lập quốc, chủ nghĩa cộng hòa, chủ nghĩa hợp hiến và nền dân chủ — sẽ được khai sinh và lần này sẽ trường tồn mãi mãi."
+
+ CHS_personality_cult: "Sùng bái Cá nhân"
+ CHS_personality_cult_desc: "[Root.GetLeader] là lý do duy nhất giúp Trung Hoa Dân Quốc có thể đè bẹp bè lũ quân chủ, các phần tử cực đoan cùng những kẻ tiếm quyền để phục hưng di sản Cách mạng Tân Hợi. Không có ngài, sẽ chẳng thể có nền Cộng hòa, và di sản của ngài với tư cách là người giải phóng Trung Hoa sẽ lưu danh muôn thuở."
+
+ CHS_new_bureaucracy: "Bộ máy Hành chính Mới"
+ CHS_new_bureaucracy_desc: "Từ việc chỉ cai quản một hai tỉnh đến việc nắm quyền điều hành toàn bộ phần lõi Trung Hoa, bộ máy quan liêu của chúng ta đang phải vật lộn vất vả. Dù áp dụng mô hình liên bang hay tập quyền, các công chức mới đều cần được tuyển dụng và toàn bộ hệ thống phải được tái tổ chức lại từ đầu."
+
+ CHS_election: "Bầu cử Quốc hội Mới"
+ CHS_election_desc: "Chính phủ mới không thể kỳ vọng hành động một cách danh chính ngôn thuận như một nền Cộng hòa nếu không triệu tập một Nghị viện mới. Cuộc bầu cử mới vào Quốc hội sẽ được tổ chức lần đầu tiên sau nhiều thập kỷ (dĩ nhiên là không tính các cuộc bầu cử phi pháp của bạo chúa Mãn Thanh), giúp củng cố tính chính danh cho Chính phủ Lâm thời của chúng ta."
+
+ CHS_national_reunification: "Đại Thống nhất Quốc gia"
+ CHS_national_reunification_desc: "Với một Quốc hội mới được triệu tập và một bản Hiến pháp mới được phê chuẩn, chính phủ của chúng ta không còn là lâm thời nữa, mà là chính phủ hợp pháp duy nhất của Trung Hoa. Đại Tổng thống [Root.GetLeader] sẽ lãnh đạo đất nước tiến tới công cuộc Đại Thống nhất Quốc gia, và Trung Hoa sẽ một lần nữa thống nhất và tự do. Nền Cộng hòa vạn tuế!"
+
+ CHS_reintegrate_academies: "Tái sáp nhập các Học viện Quân sự"
+ CHS_reintegrate_academies_desc: "Các học viện quân sự nằm rải rác khắp Trung Hoa kể từ trước Cách mạng Tân Hợi và phần lớn đã phát triển độc lập kể từ sau sự sụp đổ đầu tiên của nhà Thanh. Chúng cần được hợp nhất trở lại và chương trình giảng dạy của tất cả các sĩ quan phải được chuẩn hóa một lần nữa."
+
+ CHS_standardised_arsenals: "Tiêu chuẩn hóa các Binh xưởng"
+ CHS_standardised_arsenals_desc: "Trong nhiều thập kỷ, các kho binh xưởng của Trung Hoa nằm dưới sự kiểm soát của nhiều chính quyền cấp tỉnh và cấp quốc gia độc lập khác nhau. Giờ đây khi nhiều kho vũ khí trong số đó đã nằm dưới quyền kiểm soát của chúng ta, những vấn đề hậu cần phát sinh từ việc các xưởng khác nhau sản xuất các loại vũ khí với cỡ đạn khác nhau cho cùng một đội quân là rất nghiêm trọng và cần được khắc phục càng sớm càng tốt."
+
+ CHS_fate_of_northern_officers: "Số phận các Sĩ quan Miền Bắc"
+ CHS_fate_of_northern_officers_desc: "Kể từ sau thất bại của các quân phiệt phương Bắc, chúng ta đang bắt giữ nhiều sĩ quan làm tù binh chiến tranh. Trần Quýnh Minh tin rằng chúng ta nên khoan hồng, vì nhiều người trong số họ rất có năng lực và đa số sẵn sàng tuyên thệ trung thành với nền Cộng hòa mới. Tuy nhiên, không nhiều người có chung sự lạc quan này, họ cho rằng những kẻ đó phải bị trừng trị làm gương vì tội phản bội Trung Hoa."
+
+ CHS_small_arms_development: "Phát triển Vũ khí Bộ binh"
+ CHS_small_arms_development_desc: "Bất chấp những nỗ lực nâng cấp từ nhiều chính quyền quốc gia và cấp tỉnh, khẩu súng trường phổ biến nhất trong biên chế vẫn là súng trường Kiểu 88 (Hán Dương 88) tuy đáng kính nhưng đã quá lỗi thời. Việc hiện thực hóa việc tiêu chuẩn hóa một mẫu súng trường hiện đại mới thay vì chỉ là dự án trên giấy là ưu tiên hàng đầu nhằm cải thiện năng lực quân sự nghèo nàn của chúng ta so với các quân đội hiện đại khác."
+
+ CHS_motorisation: "Cơ giới hóa Quân đội"
+ CHS_motorisation_desc: "Khi cơ sở hạ tầng của một Trung Hoa thống nhất dần cải thiện, cơ giới hóa không chỉ trở thành một khả năng mà còn là một nhu cầu cấp thiết do chính quy mô rộng lớn của đất nước. Tăng cường khả năng cơ động sẽ nâng cao năng lực trong và ngoài chiến trường, mang lại sự linh hoạt và tầm vươn xa hơn — đặc biệt là ở những vùng xa xôi hẻo lánh nơi thổ phỉ vẫn tiếp tục hoành hành."
+
+ CHS_artillery_modernisation: "Hiện đại hóa Pháo binh"
+ CHS_artillery_modernisation_desc: "Pháo binh là vua của chiến trường và những cỗ pháo hiện đại từng là thứ xa xỉ trong thời kỳ quân phiệt. Với tiềm lực của một Trung Hoa thống nhất, chúng ta có thể hiện đại hóa các khẩu pháo và đưa hỏa lực của mình tiệm cận với tiêu chuẩn toàn cầu."
+
+ CHS_support_companies: "Hậu cần và Hỗ trợ Quân sự"
+ CHS_support_companies_desc: "Kẻ nghiệp dư bàn chiến thuật, bậc thầy bàn hậu cần. Với một quốc gia rộng lớn và địa hình phức tạp như Trung Hoa, câu châm ngôn này phải được nhìn nhận một cách nghiêm túc — điều mà nhiều quân phiệt đã phải trả giá đắt mới nhận ra. Nâng cao năng lực hậu cần sẽ cải thiện khả năng chiến đấu của quân đội chúng ta hơn nhiều so với bất kỳ loại súng hiện đại nào."
+
+ CHS_tank_arsenal: "Xưởng Thiết giáp"
+ CHS_tank_arsenal_desc: "Sự phát triển của chiến tranh thiết giáp chắc chắn đã được chú ý tại Trung Hoa, nhưng việc chế tạo và sử dụng chúng ở đây từng chỉ là một giấc mơ viển vông. Giờ đây khi đất nước đã thống nhất và hùng mạnh hơn bao giờ hết, đã đến lúc chúng ta dấn thân vào các công nghệ tiên tiến này. Một kho xưởng chuyên trách dành cho các phương tiện bọc thép nên được thành lập như một bước đệm quan trọng trong công cuộc hiện đại hóa của Trung Hoa."
+
+ CHS_aviation_school: "Chuẩn hóa các Trường Hàng không"
+ CHS_aviation_school_desc: "Dù Trung Hoa thực sự có các trường đào tạo phi công, chúng còn quá ít ỏi và tương đối thiếu tổ chức. Việc chính quy hóa các trường này và xây dựng một giáo trình bài bản cho phi công cũng như đội ngũ kỹ thuật bảo trì sẽ giúp xây dựng một lực lượng không quân đúng nghĩa cho Trung Hoa."
+
+ CHS_new_aircraft_factories: "Các Nhà máy Chế tạo Máy bay Mới"
+ CHS_new_aircraft_factories_desc: "Miền Nam đất nước đã chứng kiến một số xưởng máy bay nhỏ được thành lập trong một hoặc hai thập kỷ qua, nhưng chúng vẫn khá nhỏ bé, chỉ đủ sức sửa chữa vài chiếc máy bay ít ỏi hiện có. Xây dựng các nhà máy thực thụ là một bước tiến nữa hướng tới việc phát triển ngành công nghiệp hàng không non trẻ — trụ cột của kỷ nguyên hiện đại."
+
+ CHS_native_fighter_design: "Thiết kế Tiêm kích Nội địa"
+ CHS_native_fighter_design_desc: "Đã có nhiều nỗ lực chế tạo máy bay Trung Quốc, chủ yếu dựa trên các thiết kế nước ngoài. Với sự giúp đỡ của các chuyên gia ngoại quốc cùng lực lượng kỹ thuật viên địa phương ngày càng đông đảo, giờ đây chúng ta có đủ khả năng hơn bao giờ hết để phát triển các thiết kế của riêng mình với hy vọng tạo ra một lực lượng không quân hiện đại bảo vệ bầu trời tổ quốc."
+
+ CHS_medium_bomber: "Phi đội Oanh tạc cơ Chiến thuật"
+ CHS_medium_bomber_desc: "Oanh tạc cơ chiến thuật hạng trung mang lại sự đa năng cho lực lượng không quân với khả năng hoàn thành nhiều loại nhiệm vụ khác nhau. Dĩ nhiên, việc thiết kế một chiếc máy bay lớn như vậy là điều chưa từng có cho đến nay và chắc chắn sẽ là một thử thách cam go."
+
+ CHS_light_bomber: "Không quân Yểm trợ Bộ binh"
+ CHS_light_bomber_desc: "Oanh tạc cơ hạng nhẹ đóng vai trò như một loại pháo binh bay là cách tốt nhất để không quân yểm trợ các chiến dịch tác chiến trên bộ. Hoàn toàn hợp lý khi chúng ta tập trung vào các phi cơ yểm trợ mặt đất tầm gần này trong quá trình rèn giũa một lực lượng không quân hiện đại."
+
+ CHS_southern_fleets_legacy: "Di sản Hạm đội Phương Nam"
+ CHS_southern_fleets_legacy_desc: "Hạm đội Quảng Đông (hay Hạm đội Phương Nam) có một lịch sử ngắn ngủi và đầy biến động. Được thành lập vào cuối thế kỷ 19, ngân sách của nó đã bị bòn rút chuyển sang cho Nam Dương Thủy sư ở Thượng Hải, đạt được rất ít thành tựu trong Chiến tranh Pháp - Thanh và Chiến tranh Giáp Ngọ, rồi bị giải thể không kèn không trống trước Cách mạng Tân Hợi. Dẫu vậy, đó từng là một trong bốn hạm đội hiện đại của Trung Hoa và di sản của nó vẫn còn in đậm trong ký ức người dân địa phương."
+
+ CHS_recruit_beiyang_admiralty: "Chiêu mộ Đô đốc Bắc Dương"
+ CHS_recruit_beiyang_admiralty_desc: "Với sự tái thống nhất của quốc gia, đội ngũ đông đảo các đô đốc và sĩ quan hải quân trước đây, cùng với kiến thức và hiểu biết sâu rộng của họ, đã rơi vào cảnh thất tán. Thông qua một chương trình đại xá nhắm vào những thủy thủ kỳ cựu từ đống tro tàn của chính phủ Bắc Dương, chúng ta có thể đảm bảo rằng Trung Hoa mới có thể xây dựng một hạm đội xứng tầm để bảo vệ bờ cõi và phô diễn tầm ảnh hưởng."
+
+ CHS_naval_academy: "Chấn hưng Học viện Hải quân"
+ CHS_naval_academy_desc: "Các học viện hải quân của Trung Hoa phần lớn đã bị lãng quên qua các chính quyền quốc gia và cấp tỉnh nối tiếp nhau. Giờ đây khi đã có một Chính phủ Trung ương duy nhất không còn đối thủ cạnh tranh, chúng ta có đủ khả năng để khơi dậy các mối quan tâm hàng hải và hỗ trợ xây dựng một đội ngũ sĩ quan mới cho Hải quân Cộng hòa."
+
+ CHS_destroyers: "Hạm đội Khu trục hạm Hiện đại"
+ CHS_destroyers_desc: "Tàu khu trục là xương sống của bất kỳ lực lượng hải quân hiện đại nào, đặc biệt là một lực lượng còn non trẻ như của Trung Hoa. Chúng sẽ bảo vệ bờ biển, các tuyến hàng hải thương mại và các tàu chiến lớn hơn của chúng ta trước tàu ngầm và các tàu tấn công nhỏ của địch."
+
+ CHS_submarines: "Phát triển Tàu ngầm"
+ CHS_submarines_desc: "Tàu ngầm đang chứng minh là phương tiện không thể thiếu trong chiến tranh hải quân hiện đại. Đối với một lực lượng hải quân hạn chế như chúng ta, chúng có thể là cứu cánh cho phép chúng ta tấn công những kẻ thù mạnh hơn nhiều bằng cách đột kích các tuyến vận tải và quấy rối các hạm đội lớn hơn của đối phương."
+
+ CHS_cruisers: "Tuần dương hạm cho Hạm đội"
+ CHS_cruisers_desc: "Tuần dương hạm đóng vai trò quan trọng trong việc do thám và hộ tống bảo vệ; thực tế mà nói, đây có thể là những tàu chiến lớn nhất mà chúng ta có khả năng đóng được vào thời điểm hiện tại."
+
+ CHS_coastal_defence: "Tập trung Phòng thủ Duyên hải"
+ CHS_coastal_defence_desc: "Sẽ là điên rồ nếu bắt đầu lên kế hoạch xây dựng một hạm đội quy mô lớn đủ sức cạnh tranh với các Đại cường Hải quân. Do đó, chúng ta phải tập trung vào một lực lượng hải quân linh hoạt hơn, có khả năng bảo vệ bờ biển trải dài cùng các lợi ích của chúng ta ở Thái Bình Dương."
+
+ CHS_grand_fleet: "Một Đại Hạm đội?"
+ CHS_grand_fleet_desc: "Nếu Trung Hoa muốn được công nhận là một Đại cường quốc như đúng vị thế của mình, hải quân là điều tối quan trọng. Dù đây chắc chắn sẽ là một kế hoạch rất dài hạn, đại hạm đội của chúng ta phải bắt đầu từ một xuất phát điểm nào đó, và xuất phát điểm đó phải là ngay lúc này."
+
+ CHS_naval_bomber: "Dự án Oanh tạc cơ Hải quân"
+ CHS_naval_bomber_desc: "Từng bị xem nhẹ lúc ban đầu, các máy bay ném bom hải quân mang ngư lôi và bom xuyên giáp đang nhanh chóng trở thành mối đe dọa nghiêm trọng đối với ngay cả những tàu chiến lớn nhất trên biển. Công nghệ này có thể chính là thứ mà Trung Hoa cần: Một giải pháp tiết kiệm chi phí để tiêu diệt một hạm đội thù địch vượt trội về quy mô đang đe dọa bờ biển của chúng ta."
+
+### Events ###
+
+ national_protection_alliance_events.1.t: "Thành lập Hộ Quốc Đồng Minh"
+ national_protection_alliance_events.1.d: "Bắc Kinh đã phản bội dân tộc Trung Hoa quá lâu rồi. Từ việc ủng hộ những kẻ độc tài cho đến đám tàn dư phong kiến quân chủ, chúng ta không thể tiếp tục ngồi yên khi phương Bắc cứ mãi xói mòn quốc gia vĩ đại của chúng ta. Các nhà lãnh đạo cấp tỉnh ở miền Nam phải đoàn kết lại một lần nữa và khôi phục phong trào Hộ quốc để lật đổ chúng một lần và mãi mãi. Một nền cộng hòa mới sẽ mang lại sự vĩ đại cho Trung Hoa thêm một lần nữa!"
+ national_protection_alliance_events.1.a: "Nền Cộng hòa vạn tuế!"
+
+ national_protection_alliance_events.2.t: "Thỉnh cầu từ [From.GetLeader]"
+ national_protection_alliance_events.2.d: "[From.GetLeader] đã chính thức đệ đơn xin gia nhập Hộ Quốc Đồng Minh. Mặc dù sự đoàn kết nên được đặt lên hàng đầu trong cuộc chiến chống lại phương Bắc, sẽ là thiếu khôn ngoan nếu chấp nhận yêu cầu này mà không cân nhắc kỹ lưỡng hậu quả của một sự phản bội tiềm tàng."
+ national_protection_alliance_events.2.a: "Dĩ nhiên rồi!"
+ national_protection_alliance_events.2.b: "Việc đó thật thiếu khôn ngoan."
+
+ national_protection_alliance_events.3.t: "[ROOT.GetLeader] được tiếp nhận vào Hộ Quốc Đồng Minh"
+ national_protection_alliance_events.3.d: "Tỉnh của chúng ta đã được nhiệt liệt hoan nghênh gia nhập Hộ Quốc Đồng Minh. Giờ đây chúng ta sẽ chuẩn bị cho cuộc Bắc phạt lần thứ hai tất yếu, cuộc viễn chinh chắc chắn sẽ buộc chính phủ Bắc Kinh phải quỳ gối quy phục!"
+ national_protection_alliance_events.3.a: "Vì nền Cộng hòa!"
+
+ national_protection_alliance_events.4.t: "[ROOT.GetLeader] bị từ chối gia nhập Hộ Quốc Đồng Minh"
+ national_protection_alliance_events.4.d: "Yêu cầu của chúng ta đã bị bác bỏ; [From.GetLeader] đã từ chối cho phép chúng ta gia nhập Hộ Quốc Đồng Minh."
+ national_protection_alliance_events.4.a: "Thật là vô lễ!"
+
+ national_protection_alliance_events.5.t: "Lời mời từ [From.GetLeader]"
+ national_protection_alliance_events.5.d: "[From.GetLeader], thủ lĩnh của Hộ Quốc Đồng Minh, đã chính thức gửi lời mời chúng ta tham gia phong trào lật đổ chế độ Bắc Kinh. Liên minh này, cũng giống như phong trào Hộ quốc trước đây, là một tập hợp lỏng lẻo bao gồm nhiều nhà lãnh đạo cấp tỉnh với những mức độ tham vọng khác nhau. Dù điều này sẽ gia tăng ảnh hưởng của [From.GetLeader] trong khu vực, nó cũng có khả năng củng cố vị thế của chính chúng ta trên cả bình diện khu vực lẫn quốc gia, và một cuộc tranh giành quyền lực tiềm tàng sau khi đánh chiếm Bắc Kinh hoàn toàn có thể mang lại lợi ích cho chúng ta."
+ national_protection_alliance_events.5.a: "Chúng ta phải sát cánh bên nhau!"
+ national_protection_alliance_events.5.b: "Chúng ta buộc phải từ chối."
+
+ national_protection_alliance_events.6.t: "[From.GetLeader] gia nhập!"
+ national_protection_alliance_events.6.d: "[From.GetLeader] đã chấp nhận lời đề nghị của chúng ta, chính thức gia nhập Hộ Quốc Đồng Minh. Chúng ta đã tiến thêm một bước gần hơn tới mục tiêu chinh phạt phương Bắc!"
+ national_protection_alliance_events.6.a: "Tuyệt hảo!"
+
+ national_protection_alliance_events.7.t: "[From.GetLeader] từ chối"
+ national_protection_alliance_events.7.d: "[From.GetLeader] đã từ chối gia nhập Hộ Quốc Đồng Minh. Chúng ta sẽ phải xử lý hắn sau hoặc tự lực cánh sinh mà không cần đến hắn."
+ national_protection_alliance_events.7.a: "Tên phản trắc!"
+
+ national_protection_alliance_events.8.t: "Bắc Kinh được giải phóng"
+ national_protection_alliance_events.8.d: "Với việc cựu kinh đô của đế chế đã nằm dưới sự kiểm soát của Hộ Quốc Đồng Minh, cuối cùng chúng ta cũng có thể khôi phục nền Cộng hòa và vinh danh di sản của Cách mạng Tân Hợi. Với tư cách là người lãnh đạo Liên minh, trách nhiệm của chúng ta là tuyên bố thành lập một Chính phủ Lâm thời mới và nhận lấy vị trí dẫn dắt Chính phủ Trung ương mới của Trung Hoa."
+ national_protection_alliance_events.8.a: "Nền Cộng hòa vạn tuế!"
+
+ national_protection_alliance_events.9.t: "Thành lập Chính phủ Lâm thời"
+ national_protection_alliance_events.9.d: "Với sự ủng hộ kiên định từ các đồng minh phía sau, giờ đây chúng ta có thể bắt đầu nhiệm vụ vĩ đại là tái thiết Trung Hoa và nền Cộng hòa."
+ national_protection_alliance_events.9.a: "Nền Cộng hòa vạn tuế!"
+
+ national_protection_alliance_events.10.t: "Thành lập Chính phủ Lâm thời"
+ national_protection_alliance_events.10.d: "Với việc cựu kinh đô của đế chế đã nằm dưới sự kiểm soát của Hộ Quốc Đồng Minh, cuối cùng chúng ta cũng có thể khôi phục nền Cộng hòa và tôn vinh di sản của Cách mạng Tân Hợi. [From.GetLeader], thủ lĩnh của Liên minh, đã mời chúng ta cùng chung tay thành lập một chính phủ lâm thời mới. Điều này sẽ đặt chúng ta dưới sự lãnh đạo vững chắc của ông ấy, và chúng ta sẽ dốc lòng ủng hộ ông ấy trong trọng trách to lớn sắp tới."
+ national_protection_alliance_events.10.a: "Rất tốt."
+ national_protection_alliance_events.10.b: "[From.GetLeader] không đủ tư cách để lãnh đạo!"
+
+ national_protection_alliance_events.11.t: "(( Đang xử lý Tranh giành Quyền lực... ))"
+ national_protection_alliance_events.11.d: "Đây là một sự kiện ẩn. Nếu bạn nhìn thấy dòng này, thì tôi, Vidyaország, đã làm hỏng điều gì đó, hoặc bạn vừa dùng lệnh gian lận. Vui lòng gửi báo cáo lỗi nếu bạn nhìn thấy sự kiện này. Cảm ơn bạn."
+ national_protection_alliance_events.11.a: "Bíp bíp"
+
+ national_protection_alliance_events.12.t: "Tranh giành Quyền lực"
+ national_protection_alliance_events.12.d: "Khối liên minh mong manh từng là Hộ Quốc Đồng Minh đã hoàn toàn tan vỡ. Một số đồng minh cũ đã quay giáo phản bội chúng ta, tuyên bố chúng ta không có năng lực lãnh đạo nền Cộng hòa mới và gọi chính phủ lâm thời của chúng ta là bất hợp pháp.\n\nDường như một vòng xoáy nội chiến mới lại bắt đầu."
+ national_protection_alliance_events.12.a: "Lũ phản bội! Đồ đâm sau lưng!"
+
+ national_protection_alliance_events.13.t: "(( Hoàn tất Tranh giành Quyền lực... ))"
+ national_protection_alliance_events.13.d: "Đây là một sự kiện ẩn. Nếu bạn nhìn thấy dòng này, thì tôi, Vidyaország, đã làm hỏng điều gì đó (hoặc bạn vừa dùng lệnh gian lận). Vui lòng gửi báo cáo lỗi nếu bạn nhìn thấy sự kiện này. Cảm ơn bạn."
+ national_protection_alliance_events.13.a: "Vào năm [GetYear] Chiến tranh Đã được Tuyên bố"
+
+ national_protection_alliance_events.14.t: "Bảo toàn Chính phủ Lâm thời"
+ national_protection_alliance_events.14.d: "Khi tất cả những kẻ tiếm quyền khác đều đã bị khuất phục, chúng ta đã bảo đảm vững chắc vị thế người đứng đầu chính phủ lâm thời của mình. Giờ đây chúng ta có thể bắt đầu nhiệm vụ to lớn là tái thiết Trung Hoa và nền Cộng hòa."
+ national_protection_alliance_events.14.a: "Nền Cộng hòa vạn tuế!"
+
+ national_protection_alliance_events.15.t: "Thành lập Hộ Quốc Hiệp hội"
+ national_protection_alliance_events.15.d: "Cùng với sự ra đời của Chính phủ Lâm thời, hàng loạt chính khách Trung Hoa — từ các tướng lĩnh quân phiệt, thương gia cho đến những kẻ xu nịnh không biết xấu hổ — đã liên kết lại để thành lập một đảng phái chính trị: Hộ Quốc Hiệp hội. Với mục tiêu bảo vệ nền cộng hòa mới và di sản của phong trào Hộ quốc, đảng thân chính phủ này ra đời chỉ nhằm ủng hộ các chính sách của chúng ta và vận động sự ủng hộ của công chúng cho các chính sách đó. Điều này đảm bảo cho chúng ta có nhiều tiếng nói trong nghị viện tương lai của Trung Hoa cùng quyền lực chính trị đáng kể trong quá trình chuyển đổi từ một chính quyền cấp tỉnh thành một chính phủ quốc gia."
+ national_protection_alliance_events.15.a: "Một sự hiện diện vô cùng cần thiết trong Quốc hội."
+
+ national_protection_alliance_events.16.t: "Khôi phục Hiến pháp năm 1924"
+ national_protection_alliance_events.16.d: "Bản hiến pháp cuối cùng của Trung Hoa Dân Quốc từng được thông qua trong những năm tháng suy tàn của nó nhằm thay thế các bản Hiến pháp Lâm thời cũ. Dù bản mới này cũng nhanh chóng chứng minh nó chẳng khác gì lâm thời, Chính phủ Lâm thời mới — không có gì đáng ngạc nhiên — đã quyết định khôi phục lại nó cho đến khi một bản hiến pháp mới được thống nhất. Hy vọng rằng bản Hiến pháp mới và chính thức sẽ được soạn thảo kịp thời, không giống như thời kỳ hỗn loạn của nền Cộng hòa thứ nhất."
+ national_protection_alliance_events.16.a: "Nó chỉ là lâm thời thôi... đúng không?"
+
+ national_protection_alliance_events.17.t: "Bầu cử Quốc hội năm [GetYear]"
+ national_protection_alliance_events.17.d: "Thời khắc bầu chọn các đại biểu cho cơ quan lập pháp mới cuối cùng đã điểm. Do bối cảnh chính trị và hiến pháp hiện tại, các ứng viên thân chính phủ gần như tham gia tranh cử mà không có đối thủ cạnh tranh thực sự, nguyên nhân là do lượng cử tri tương đối hạn hẹp và cuộc bầu cử bị các phần tử cấp tiến tẩy chay. Dù điều này có thể không thúc đẩy tính đa nguyên chính trị, nó sẽ đảm bảo cơ quan lập pháp hoàn toàn ủng hộ các chính sách của chúng ta, qua đó giúp nền Cộng hòa duy trì được sự ổn định trong những năm đầu non trẻ."
+ national_protection_alliance_events.17.a: "Nền Cộng hòa vạn tuế!"
+
+ national_protection_alliance_events.19.t: "Tối hậu thư từ Chính phủ Trung ương"
+ national_protection_alliance_events.19.d: "Chính phủ Trung ương mới đã yêu cầu chúng ta phải công nhận họ là chính phủ hợp pháp duy nhất của Trung Hoa. Điều này đồng nghĩa với việc chúng ta sẽ bị sáp nhập vào nền Cộng hòa mới và đánh mất quyền tự trị đáng kể."
+ national_protection_alliance_events.19.a: "Chấp thuận"
+ national_protection_alliance_events.19.b: "Cự tuyệt"
+
+ national_protection_alliance_events.20.t: "[From.GetLeader] chấp thuận"
+ national_protection_alliance_events.20.d: "[From.GetLeader] của [From.GetNameDef] đã chấp thuận các yêu sách của chúng ta và công nhận chúng ta là chính phủ hợp pháp của Trung Hoa. Họ sẽ được sáp nhập vào nền Cộng hòa mới."
+ national_protection_alliance_events.20.a: "Trung Hoa vạn tuế!"
+
+ national_protection_alliance_events.21.t: "[From.GetLeader] cự tuyệt"
+ national_protection_alliance_events.21.d: "[From.GetLeader] của [From.GetNameDef] đã từ chối công nhận chúng ta là chính phủ hợp pháp của Trung Hoa. Sự ngạo mạn xấc xược của chúng sẽ là bài học đắt giá làm gương cho những kẻ khác dám từ chối quy phục."
+ national_protection_alliance_events.21.a: "Chúng sẽ phải trả giá."
+
+### Decisions ###
+
+ CHS_national_protection_alliance: "Hộ Quốc Đồng Minh"
+ CHS_national_protection_alliance_desc: "Hộ Quốc Đồng Minh là một liên minh lỏng lẻo gồm các quân phiệt phương Nam với mục tiêu lật đổ chính phủ Bắc Kinh và khôi phục nền pháp trị cộng hòa."
+
+ CHS_NPA_second_northern_expedition: "Cuộc Bắc phạt lần thứ hai"
+ CHS_NPA_second_northern_expedition_desc: "Tiến đánh phương Bắc là một kỳ tích vô cùng gian truân, như đã được chứng minh qua nỗ lực của Quốc dân Đảng dẫn đến sự diệt vong của chính họ. Chiến dịch này đòi hỏi sự chuẩn bị kỹ lưỡng, bảo đảm an toàn hậu cần và tất nhiên là một đội quân chung một ý chí. Chúng ta sẽ thành công ở nơi mà KMT từng gục ngã và tái thống nhất non sông!"
+
+ CHS_NPA_invite_country: "[From.GetFlag] Mời [From.GetNameDef]"
+ CHS_NPA_attack_country: "[From.GetFlag] Tiếp quản [From.GetNameDef]"
+ CHS_NPA_attack_KMT: "[CHI.GetFlag] Thanh trừng phe Cánh tả"
+
+ CHS_NPA_mopping_up: "Tái thống nhất Đất nước"
+ CHS_NPA_mopping_up_desc: "Hộ Quốc Đồng Minh đã khôi phục lại nền Cộng hòa. Giờ đây là lúc củng cố và tái hợp nhất đất nước bằng cách tiêu diệt các tỉnh phiến loạn và giải tán các lực lượng bán quân sự chống đối."
+
+ CHS_NPA_mop_up_tag: "[From.GetFlag] Tối hậu thư gửi [From.GetNameDef]"

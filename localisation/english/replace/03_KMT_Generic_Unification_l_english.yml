@@ -1,0 +1,784 @@
+﻿l_english:
+
+###Shared Mechanics
+
+#Zeal
+ RKT_add_zeal_small_tt: "§GNhiệt huyết trong đảng sẽ tăng một lượng §Ynhỏ§!!§!"
+ RKT_add_zeal_medium_tt: "§GNhiệt huyết trong đảng sẽ tăng một lượng §Yvừa§!!§!"
+ RKT_add_zeal_large_tt: "§GNhiệt huyết trong đảng sẽ tăng một lượng §Ylớn§!!§!"
+ RKT_add_zeal_mega_tt: "§GNhiệt huyết trong đảng sẽ tăng một lượng §Yrất lớn§!!§!"
+ RKT_add_zeal_giga_tt: "§GNhiệt huyết trong đảng sẽ tăng một lượng §Ykhổng lồ§!!§!"
+ RKT_sub_zeal_small_tt: "§RNhiệt huyết trong đảng sẽ giảm một lượng §Ynhỏ§!!§!"
+ RKT_sub_zeal_medium_tt: "§RNhiệt huyết trong đảng sẽ giảm một lượng §Yvừa§!!§!"
+ RKT_sub_zeal_large_tt: "§RNhiệt huyết trong đảng sẽ giảm một lượng §Ylớn§!!§!"
+ RKT_sub_zeal_mega_tt: "§RNhiệt huyết trong đảng sẽ giảm một lượng §Yrất lớn§!!§!"
+ RKT_sub_zeal_giga_tt: "§RNhiệt huyết trong đảng sẽ giảm một lượng §Ykhổng lồ§!!§!"
+
+ RKT_low_zeal_mechanic_warning_tt: "§RChủ nghĩa hiện thực cách mạng đang trỗi dậy trong Quốc dân đảng, đại diện cho chủ nghĩa dân tộc cuồng tín, sự tàn nhẫn cách mạng và tình đồng đội quân ngũ. Điều này chủ yếu có lợi cho phe quân sự của đảng, dù ngay cả các phe quân sự cũng cần chút nhiệt huyết để duy trì đà cách mạng. Tuy nhiên, càng phát triển thì càng khó ngăn chặn; nếu lên quá cao, chúng ta sẽ chẳng khác gì quân phiệt.§!"
+
+ RKT_high_zeal_mechanic_warning_tt: "§GChủ nghĩa lý tưởng cách mạng đang trỗi dậy trong Quốc dân đảng, đại diện cho lòng yêu nước nhiệt thành, tinh thần cách mạng và tình đồng chí trong đảng. Điều này chủ yếu có lợi cho phe dân sự, dù mọi phe đều cần chút nhiệt huyết để duy trì động lực của đảng. Tuy nhiên, càng phát triển thì càng khó kiểm soát, nhất là khi cấp dưới bắt đầu chống lại hệ thống cấp bậc trong đảng.§!"
+
+#Land Reform
+ KMT_set_conservative_land_reform_tt: "§YChúng ta sẽ áp dụng chính sách cải cách ruộng đất §cBảo thủ§!.§!"
+ KMT_set_moderate_land_reform_tt: "§YChúng ta sẽ áp dụng chính sách cải cách ruộng đất §SÔn hòa§!.§!"
+ KMT_set_radical_land_reform_tt: "§YChúng ta sẽ áp dụng chính sách cải cách ruộng đất §RCấp tiến§!.§!"
+ KMT_set_total_land_reform_tt: "§YChúng ta sẽ áp dụng chính sách cải cách ruộng đất §oToàn diện§!.§!"
+
+#Balance of Power (BOP)
+ RKT_power_balance: "Nhiệt huyết của Cách mạng Quốc dân"
+ RKT_balance_of_power_category: "Nhiệt huyết của Cách mạng Quốc dân"
+ RKT_low_zeal_side: "Chủ nghĩa hiện thực cách mạng"
+ RKT_high_zeal_side: "Chủ nghĩa lý tưởng cách mạng"
+ RKT_bop_rising_cynicism: "Sự hoài nghi gia tăng"
+ RKT_bop_ruthless_cynicism: "Hoài nghi tàn nhẫn"
+ RKT_bop_unrelenting_cynicism: "Hoài nghi không lay chuyển"
+ RKT_bop_rising_conviction: "Niềm tin gia tăng"
+ RKT_bop_fervent_conviction: "Niềm tin mãnh liệt"
+ RKT_bop_unbridled_conviction: "Niềm tin không kiềm chế"
+
+#Ideas
+ KR_RKMT_popular_support_loc: "Vì chúng ta không phải Ủy ban Trung ương Quốc dân đảng đã chạy ra nước ngoài và được quốc tế công nhận, người dân Trung Quốc và thế giới không xem chúng ta là Quốc dân đảng chính thống. Chúng ta phải nỗ lực củng cố hình ảnh quốc gia và tính chính danh của mình với tư cách người kế thừa thực sự cuộc cách mạng của Tôn tiên sinh."
+ KR_RKMT_popular_support_1: "Tính chính danh quốc gia cực thấp"
+ KR_RKMT_popular_support_1_desc: "$KR_RKMT_popular_support_loc$"
+
+ KR_RKMT_popular_support_2: "Tính chính danh quốc gia yếu kém"
+ KR_RKMT_popular_support_2_desc: "$KR_RKMT_popular_support_loc$"
+
+ KR_RKMT_popular_support_3: "Tính chính danh quốc gia gia tăng"
+ KR_RKMT_popular_support_3_desc: "$KR_RKMT_popular_support_loc$"
+
+ KR_RKMT_popular_support_4: "Tính chính danh được công nhận rộng rãi"
+ KR_RKMT_popular_support_4_desc: "$KR_RKMT_popular_support_loc$"
+
+ KR_RKMT_popular_support_5: "Tính chính danh trên toàn quốc"
+ KR_RKMT_popular_support_5_desc: "$KR_RKMT_popular_support_loc$"
+
+ GXC_rkmt_spy_idea: "Cục Điều tra và Thống kê"
+
+ GXC_provisional_yuan_idea: "Viện Lập pháp Lâm thời Quốc dân đảng"
+ GXC_legislative_yuan_idea: "Viện Lập pháp Quốc dân đảng"
+
+ GXC_economic_instability: "Kinh tế quốc gia hỗn loạn"
+ GXC_economic_instability2: "Kinh tế quốc gia đang phục hồi"
+ GXC_economic_instability3: "Kinh tế quốc gia đang phục hồi"
+ GXC_economic_instability4: "Kinh tế gần phục hồi hoàn toàn"
+ GXC_economic_instability5: "Kinh tế phục hồi hoàn toàn"
+
+ GXC_low_literacy: "Tình trạng mù chữ nghiêm trọng"
+ GXC_low_literacy2: "Trình độ dân trí thấp"
+ GXC_low_literacy3: "Trình độ dân trí đang cải thiện"
+ GXC_low_literacy4: "Phổ cập biết chữ"
+
+ GXC_rkmt_revolution: "Cách mạng Quốc dân Trung Quốc"
+ GXC_rkmt_revolution_desc: "Như âm và dương, vũ trụ vận hành trong sự cân bằng và xã hội cũng phải được tổ chức như vậy. Từ người ăn xin khạc nhổ nơi góc phố đến người lính bộ binh Quốc dân Cách mệnh quân đầy kiêu hãnh, toàn thể Trung Quốc phải học con đường đúng đắn của trật tự để hiện thực hóa tư tưởng Dân sinh."
+
+ GXC_rkmt_revolution2: "Cách mạng Quốc dân Trung Quốc"
+ GXC_rkmt_revolution2_desc: "Như âm và dương, vũ trụ vận hành trong sự cân bằng và xã hội cũng phải được tổ chức như vậy. Từ người ăn xin khạc nhổ nơi góc phố đến người lính bộ binh Quốc dân Cách mệnh quân đầy kiêu hãnh, toàn thể Trung Quốc phải học con đường đúng đắn của trật tự để hiện thực hóa tư tưởng Dân sinh."
+
+ GXC_rkmt_revolution3: "Phong trào Đời sống mới"
+ GXC_rkmt_revolution3_desc: "Phải có sự phục tùng, hy sinh, nghiêm khắc, sạch sẽ, chính xác, nhanh nhẹn, siêng năng, bí mật... và tất cả phải kiên định, dũng cảm hy sinh mọi thứ vì tập thể và quốc gia. Chúng ta sẽ quân sự hóa triệt để đời sống công dân cả nước để họ rèn luyện lòng dũng cảm, sự nhanh nhẹn, sức chịu đựng gian khổ và tinh thần lao động cần cù."
+
+ GXC_kmt_demobilisation: "Hội nghị Giải ngũ Toàn quốc"
+ GXC_kmt_demobilisation_desc: "Cồng kềnh và tốn kém, Quốc dân Cách mệnh quân sau thống nhất dù đã mệt mỏi vì chiến trận vẫn cần được cải cách. Hãy giảm bớt tổn thất của quá trình thống nhất và thực sự biến lực lượng này thành quân đội của nền Cộng hòa Trung Hoa."
+
+#Decisions
+ RKT_zeal_decision_category: "Nhiệt huyết cách mạng của Quốc dân đảng"
+ RKT_zeal_decision_category_desc: "\"Chìa khóa thành công là hành động, và điều cốt yếu trong hành động là sự kiên trì.\"\n-Tôn Trung Sơn\n\nCuộc cách mạng của Quốc dân đảng được duy trì nhờ sự tận tụy cuồng nhiệt của binh sĩ và lòng yêu nước của cán bộ. Dù chủ nghĩa thực dụng có lợi, về lâu dài lãnh đạo đảng phải tăng §cNhiệt huyết cách mạng§! để tránh rơi trở lại vào chia rẽ phe phái nhỏ nhen.\n\nCó thể hình dung §cNhiệt huyết cách mạng§! được cất trong một tài khoản chung trên toàn Trung Quốc. Các thế lực địa phương có thể §Rrút§! hoặc §Ggửi§! nguồn năng lượng dân tộc này, còn chính quyền trung ương có thể §Gbù đắp thiếu hụt§! hoặc §Rbiển thủ phần dư§!. Sự tương tác này cho phép phân bổ nguồn lực đến nơi cần thiết, nhưng vận mệnh cuối cùng của cách mạng có thể bị quyết định bởi nhiệt huyết ấy.\n\n§cNhiệt huyết cách mạng§! hiện ở mức [?global.RKT_revolutionary_zeal_var|c%] trên toàn quốc."
+
+ LKT_decision_category: "Đấu đá trong Cách mạng Nhân dân"
+ LKT_decision_category_desc: "Cánh tả Trung Quốc tuyên bố chiến đấu vì nhân dân và sự giải phóng của họ, nhưng ngay cả trong giờ phút đen tối nhất, sự đoàn kết giữa những người xã hội chủ nghĩa, dân tộc chủ nghĩa và cách mạng cũng rất mong manh. Nay cách mạng lại dâng cao, chia rẽ vẫn tồn tại.\n\nCánh tả Quốc dân đảng chia thành hai liên minh lớn. §RHội Đồng chí Cải tổ§! và người đứng đầu §RUông Tinh Vệ§! đang giằng co quyết liệt để tranh ảnh hưởng với §SỦy ban Hành động Lâm thời của Tống Khánh Linh§!.\n§YTình hình hiện tại có thể được mô tả là§! [CHI_bop_status_loc].\n\nQuá trình cực đoan hóa đã làm lung lay quyền kiểm soát của giới lãnh đạo đối với phong trào, mở đường cho các phe bên lề như §lRCF tự do§!, §rLCS nổi dậy§! và §oCRS cuồng tín§!.\n§YChủ nghĩa cấp tiến cách mạng hiện ở mức§! [?CHI.CHI_radicalism_var|o%]\n\nCán cân quyền lực và mức độ cấp tiến cách mạng được cho là sẽ quyết định kết quả cuối cùng của cuộc tranh giành quyền lực trong Quốc dân đảng. Đấu đá tại các tỉnh xa cũng có thể ảnh hưởng đến vận mệnh cuộc cách mạng Trung Quốc khó kiểm soát. Biết đâu một người ngoài lại có cơ hội nắm quyền. Điều chắc chắn là nhân dân đã lên tiếng, và họ đòi một Trung Quốc mới!"
+
+ #National Reconstruction
+ KMT_national_reconstruction_category: "Công cuộc Kiến quốc của Quốc dân đảng"
+ KMT_national_reconstruction_category_desc: "Ủy ban Kiến thiết Quốc gia là ý tưởng của cố Tôn Trung Sơn, người cho rằng trong giai đoạn huấn chính cần có những bước đi bảo đảm đất nước hiện đại hóa và dân chủ hóa thành công. Muốn trở lại thành cường quốc thế giới, Trung Quốc phải được xây dựng từ nền móng với sự giúp đỡ của Quốc dân đảng.\n\nDù công cuộc kiến quốc bị hai cuộc Bắc phạt cản trở đáng kể, thắng lợi của cuộc Bắc phạt lần hai cuối cùng đã cho đảng cơ hội hoàn thành mục tiêu \"kiến thiết\" của Cách mạng Tân Hợi năm 1911. Nay có thể rời giai đoạn tuyên truyền và quân sự, theo nguyên tắc của vị Tổng lý vĩnh viễn vĩ đại, chúng ta phải bước vào giai đoạn tái thiết chính trị và kinh tế của Cách mạng Quốc dân. Từng bước, từng nhà máy, từng nông trại, chúng ta sẽ xây lại nền tảng kinh tế và chính trị vững mạnh để Trung Quốc mãi chống được đế quốc ngoại bang và trở lại vĩ đại."
+
+ KMT_national_reconstruction_mission: "£civ_factory_output  Hoàn thành công cuộc Kiến quốc"
+ KMT_national_reconstruction_mission_desc: "Dự án lớn của đảng đã được triển khai đầy đủ và nhận được toàn bộ sự ủng hộ nội bộ. Dù các phe thống nhất thực hiện công cuộc Kiến quốc, thất bại có thể khiến một phe mất quyền lực chính trị và phe khác giành được quyền lực."
+ KMT_factory_goals_tt: "Có tổng cộng hơn §Y[?KMT_factory_goals]§! nhà máy"
+
+ KMT_NRC_heavy_industry_decisions_tt: "§CTiêu điểm này mở thêm các quyết định §YCông nghiệp nặng§! trong nhóm quyết định §Y$KMT_national_reconstruction_category$§!.§!"
+ KMT_NRC_autarky_decisions_tt: "§CTiêu điểm này mở thêm các quyết định §YThương mại và Tự cung tự cấp§! trong nhóm quyết định §Y$KMT_national_reconstruction_category$§!.§!"
+ KMT_NRC_resource_decisions_tt: "§CTiêu điểm này mở thêm các quyết định §YThăm dò tài nguyên§! trong nhóm quyết định §Y$KMT_national_reconstruction_category$§!.§!"
+ KMT_NRC_railroad_decisions_flag: "§CTiêu điểm này mở thêm các quyết định §YXây dựng đường sắt§! trong nhóm quyết định §Y$KMT_national_reconstruction_category$§!.§!"
+
+ KMT_delay_the_reconstruction_project: "Trì hoãn dự án tái thiết"
+ KMT_delay_the_reconstruction_project_desc: "Dù đã hết sức cố gắng, các kỹ sư và công nhân vẫn khó hoàn thành đúng hạn. Chúng ta phải đề nghị NEC gia hạn thời gian hoàn thành dự án."
+
+ KMT_nationalise_nanjing_electrical_works: "Quốc hữu hóa Nhà máy Điện Nam Kinh"
+ KMT_nationalise_nanjing_electrical_works_desc: "[KMT_nationalise_nanjing_electrical_works_desc_scripted_loc]"
+
+ KMT_nationalise_nanjing_electrical_works_lkmt_desc_key: "Lấy cảm hứng từ sự phát triển tại Luân Đôn và Paris, dự án Nhà máy Điện Nam Kinh nhằm thắp sáng thủ đô tráng lệ của Trung Hoa Quốc dân. Cơ quan này là một trong những nơi đầu tiên phải xử lý sự mơ hồ trong tư tưởng kinh tế của cố Tôn tiên sinh về ranh giới giữa khu vực công và tư. Vì vậy, quốc hữu hóa và tổ chức lại nhà máy điện sẽ mang điện đến hàng nghìn người đang sống trong bóng tối tại Nam Kinh."
+ KMT_nationalise_nanjing_electrical_works_rkmt_desc_key: "Lấy cảm hứng từ sự phát triển tại Moskva, dự án Nhà máy Điện Nam Kinh nhằm thắp sáng thủ đô tráng lệ của Trung Hoa Quốc dân. Cơ quan này là một trong những nơi đầu tiên phải xử lý sự mơ hồ trong tư tưởng kinh tế của cố Tôn tiên sinh về ranh giới giữa khu vực công và tư. Vì vậy, quốc hữu hóa và tổ chức lại nhà máy điện sẽ mang điện đến hàng nghìn người đang sống trong bóng tối tại Nam Kinh."
+
+ KMT_establish_the_yongli_chemical_plant: "Thành lập Nhà máy Hóa chất Vĩnh Lợi"
+ KMT_establish_the_yongli_chemical_plant_desc: "[KMT_establish_the_yongli_chemical_plant_scripted_loc]"
+
+ KMT_establish_the_yongli_chemical_plant_lkmt_desc_key: "Là quốc gia sống dựa vào đất đai, Trung Quốc thiếu phương tiện và ngành công nghiệp sản xuất phân bón hiện đại để tăng sản lượng nông nghiệp. Dưới sự lãnh đạo của Phạm Húc Đông, dự án Vĩnh Lợi nhằm xây dựng nhà máy phân bón đầu tiên của Trung Quốc, phát triển sản xuất axit sulfuric, amoniac tổng hợp và axit nitric trong nước. Các cố vấn Anh và Pháp cũng tham gia, với mục tiêu sản xuất hàng tấn amoniac, axit và sulfat mỗi ngày."
+
+ KMT_establish_the_yongli_chemical_plant_rkmt_desc_key: "Là quốc gia sống dựa vào đất đai, Trung Quốc thiếu phương tiện và ngành công nghiệp sản xuất phân bón hiện đại để tăng sản lượng nông nghiệp. Dưới sự lãnh đạo của Phạm Húc Đông, dự án Vĩnh Lợi nhằm xây dựng nhà máy phân bón đầu tiên của Trung Quốc, phát triển sản xuất axit sulfuric, amoniac tổng hợp và axit nitric trong nước. Các cố vấn Nga cũng tham gia, với mục tiêu sản xuất hàng tấn amoniac, axit và sulfat mỗi ngày."
+
+ KMT_renovate_shanghai_arsenal: "Cải tạo Xưởng quân giới Thượng Hải"
+ KMT_renovate_shanghai_arsenal_desc: "[KMT_renovate_shanghai_arsenal_desc_scripted_loc]"
+
+ KMT_renovate_shanghai_arsenal_lkmt_desc_key: "Thời gian ở Anh và Pháp đã dạy chúng ta tầm quan trọng của chiến tranh thiết giáp và cơ giới. Dù còn lâu mới phát triển được công nghệ thiết giáp tiên tiến như phương Tây, Xưởng quân giới Thượng Hải sẽ được cải tạo để sản xuất xe bọc thép tương tự loại Quân đoàn Tình nguyện Thượng Hải sử dụng."
+ KMT_renovate_shanghai_arsenal_rkmt_desc_key: "Thời gian ở Nga đã dạy chúng ta tầm quan trọng của chiến tranh thiết giáp và cơ giới. Dù còn lâu mới phát triển được công nghệ thiết giáp tiên tiến như phương Tây, Xưởng quân giới Thượng Hải sẽ được cải tạo để sản xuất xe bọc thép tương tự loại Quân đoàn Tình nguyện Thượng Hải sử dụng."
+
+ KMT_create_nez_in_shanghai: "Thành lập khu kinh tế mới tại Thượng Hải"
+ KMT_create_nez_in_guangzhou: "Thành lập khu kinh tế mới tại Quảng Châu"
+ KMT_create_nez_in_beijing: "Thành lập khu kinh tế mới tại Bắc Kinh"
+ KMT_create_nez_in_hangzhou: "Thành lập khu kinh tế mới tại Hàng Châu"
+ KMT_create_nez_in_xiamen: "Thành lập khu kinh tế mới tại Hạ Môn"
+
+ KMT_state_capitalism_plan: "Khu vực Chính sách Kinh tế mới"
+
+ KMT_state_capitalism_tt: "§YCác thành phố Nam Kinh, Hàng Châu, Hạ Môn và Bắc Kinh§! sẽ nhận hiệu ứng §YKhu vực Chính sách Kinh tế mới§!, mang lại\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+15%§!\n $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+2§!\n\n"
+
+ KMT_create_nez_in_shanghai_desc: "[KMT_create_nez_in_shanghai_desc_scripted_loc]"
+ KMT_create_nez_in_shanghai_lkmt_desc_key: "Cả Trần Công Bác và Tống Tử Văn, hai nhân vật lớn của công cuộc Kiến quốc, đều tin rằng kinh tế công nghiệp ven biển Trung Quốc là nền tảng của nền cộng hòa mới. Vì vậy, các khu vực được chỉ định đặc biệt tại những thành phố ven biển sẽ giúp tạo vốn quốc gia dưới sự giám sát chặt chẽ của nhà nước."
+ KMT_create_nez_in_shanghai_rkmt_desc_key: "Mọi phe trong Quốc dân đảng cánh hữu đều tin rằng kinh tế công nghiệp ven biển Trung Quốc là nền tảng của nền cộng hòa mới. Vì vậy, các khu vực được chỉ định đặc biệt tại những thành phố ven biển sẽ giúp tạo vốn quốc gia dưới sự giám sát chặt chẽ của nhà nước."
+
+ KMT_create_nez_in_guangzhou_desc: "[KMT_create_nez_in_shanghai_desc_scripted_loc]"
+ KMT_create_nez_in_beijing_desc: "[KMT_create_nez_in_shanghai_desc_scripted_loc]"
+ KMT_create_nez_in_hangzhou_desc: "[KMT_create_nez_in_shanghai_desc_scripted_loc]"
+ KMT_create_nez_in_xiamen_desc: "[KMT_create_nez_in_shanghai_desc_scripted_loc]"
+
+ KMT_anhui_industrial_plan: "Kế hoạch Công nghiệp An Huy"
+ KMT_anhui_industrial_plan_desc: "Dưới sự chỉ đạo của Ủy ban Tài nguyên và Bộ Công nghiệp trong Kế hoạch Kiến quốc, việc xây dựng Nhà máy Thép Trung ương Mã An Sơn sẽ phát triển sản xuất thép và than tại An Huy. Dù tài nguyên dồi dào, sản lượng thép Trung Quốc vẫn rất thấp, còn cơ sở lớn nhất tại An Sơn thuộc sở hữu Nhật Bản. Thành lập một cơ sở thép trung ương quốc hữu sẽ giảm ảnh hưởng đế quốc trong kinh tế và phát huy tiềm năng sản xuất thép. Chúng ta cũng phải phát triển hạ tầng địa phương để vận chuyển than hiệu quả."
+
+ KMT_mining_operations_in_five_provinces: "Khai mỏ tại Ngũ tỉnh"
+ KMT_mining_operations_in_five_provinces_desc: "Ngũ tỉnh miền Đông Trung Quốc giàu có và trù phú từ lâu bị quân phiệt, địa chủ tham nhũng khai thác, làm suy thoái đất đai và tài nguyên. Lãnh đạo đảng sẽ khắc phục điều này và hiện đại hóa toàn diện khu vực. Ủy ban Tài nguyên sẽ tận dụng than và vonfram tại vùng từng thuộc Liên minh Bát tỉnh để công nghiệp hóa đất nước."
+
+ KMT_mine_yaogangxian_mining_area: "Khuyến khích khai thác mỏ Dao Cương Tiên"
+ KMT_mine_yaogangxian_mining_area_desc: "Mỏ vonfram đầu tiên tại Hồ Nam là mỏ Tây Xung, được phát hiện ở huyện Đào Giang năm 1901. Chính phủ Quốc dân dự định tiếp tục phát triển công nghiệp Hồ Nam bằng việc khai thác khu mỏ Dao Cương Tiên. Điều này vừa cải thiện hạ tầng vừa mang lại nhiều việc làm và cơ hội cho tỉnh chủ yếu sống bằng nông nghiệp này."
+
+ KMT_central_machinery_factory: "Thành lập Nhà máy Cơ khí Trung ương"
+ KMT_central_machinery_factory_desc: "Hồ Nam vẫn là một trong những tỉnh nông nghiệp và nông thôn nhất miền Nam Trung Quốc. Chính phủ Quốc dân hy vọng thay đổi tình hình bằng việc thành lập Nhà máy Cơ khí Trung ương với sự giúp đỡ của Bộ Nội vụ. Nhà máy dự kiến sản xuất máy móc và thiết bị hiện đại như ô tô, tua-bin hơi nước và điện thoại."
+
+ KMT_xiangtan_steel_work: "Thành lập Nhà máy Thép Tương Đàm"
+ KMT_xiangtan_steel_work_desc: "[KMT_xiangtan_steel_work_scripted_loc]"
+
+ KMT_xiangtan_steel_work_lkmt_desc_key: "Tương Đàm có vai trò quan trọng nhờ công nghiệp hiện đại và giao thông đường bộ, đường thủy thuận tiện. Do ngành than và sắt nặng tập trung ở vùng Đông Bắc xa xôi, Ủy ban Tài nguyên của Chính phủ Quốc dân muốn xây dựng nhà máy thép tại Hồ Nam với sự hỗ trợ của cố vấn Pháp."
+ KMT_xiangtan_steel_work_rkmt_desc_key: "Tương Đàm có vai trò quan trọng nhờ công nghiệp hiện đại và giao thông đường bộ, đường thủy thuận tiện. Do ngành than và sắt nặng tập trung ở vùng Đông Bắc xa xôi, Ủy ban Tài nguyên của Chính phủ Quốc dân muốn xây dựng nhà máy thép tại Hồ Nam với sự hỗ trợ của cố vấn Nga."
+
+ KMT_developing_hunans_industrial_capacity: "Phát triển năng lực công nghiệp Hồ Nam"
+ KMT_developing_hunans_industrial_capacity_desc: "Nhờ vị trí địa lý, Hồ Nam là một trong những vựa lúa và nơi tập trung nông dân đông nhất Trung Quốc. Để huy động sức mạnh công nghiệp quốc gia, chúng ta phải xây dựng kế hoạch công nghiệp hóa tại các thành phố như Trường Sa nhằm thúc đẩy hiện đại hóa."
+
+ KMT_construct_yuehan_railway: "Hoàn thành đường sắt Việt-Hán"
+ KMT_construct_yuehan_railway_desc: "Đường sắt Quảng Đông-Hán Khẩu khởi công năm 1896 dưới triều Thanh nhưng đến nay vẫn chưa hoàn thành. Nội chiến và sự quản lý yếu kém của quân phiệt đã cản trở nghiêm trọng tiến độ. Dưới sự chỉ đạo của Bộ Đường sắt, Chính phủ Quốc dân đã thuê Lăng Hồng Huân hoàn thành đoạn Chu-Shao."
+
+ KMT_modernise_yellow_river_levees: "Hiện đại hóa đê Hoàng Hà"
+ KMT_modernise_yellow_river_levees_desc: "Dòng Hoàng Hà cổ xưa đã nuôi sống người Hán qua bao thế hệ. Hệ thống đê ở hạ lưu dần hình thành từ thời Xuân Thu. Từ thời Minh và Thanh, dòng sông liên tục được trị thủy để tránh lũ lụt thảm khốc, nhưng đê điều và đường thủy ngày càng lỗi thời. Chính phủ Quốc dân sẽ hiện đại hóa chúng để đáp ứng nhu cầu thế kỷ 20."
+
+ KMT_nationalise_beijing_steel: "Quốc hữu hóa ngành thép Bắc Kinh"
+ KMT_nationalise_beijing_steel_desc: "Các nhà máy luyện thép Thạch Cảnh Sơn được giới doanh nghiệp và chính quyền Bắc Dương cùng thành lập năm 1919. Một công ty Mỹ thiết kế nhà máy ở chân núi Thạch Cảnh Sơn, nhưng chiến tranh liên miên khiến xây dựng trì trệ. Chính quyền Trực Lệ cuối cùng hoàn thành với viện trợ Đức rồi bán cho Siemens. Khi quyền lực Trực Lệ sụp đổ, Chính phủ Quốc dân quốc hữu hóa, đưa các nhà máy trở lại quyền kiểm soát của Trung Quốc."
+
+ KMT_nationalise_german_mines_zibo: "Quốc hữu hóa các mỏ Đức tại Truy Bác"
+ KMT_nationalise_german_mines_zibo_desc: "[KMT_nationalise_german_mines_zibo_desc_scripted_loc]"
+
+ KMT_nationalise_german_mines_zibo_lkmt_desc_key: "Vùng Truy Bác trên bán đảo Sơn Đông bị đế quốc phương Tây nhòm ngó vì nguồn than dồi dào. Đức chiếm vùng này sau hiệp ước năm 1898 và giữ nó như một phần Đông Á thuộc Đức. Người Đức tiếp tục bóc lột dân ta làm lao động giá rẻ, trong khi chúng ta có quan hệ chặt chẽ với công đoàn thợ mỏ do Vương Tẫn Mỹ, thành viên LCS, lãnh đạo. Để củng cố công nghiệp nội địa và giải phóng nhân dân khỏi xiềng xích đế quốc, chúng ta nên quốc hữu hóa các mỏ bị Đức chiếm tại Truy Bác."
+ KMT_nationalise_german_mines_zibo_rkmt_desc_key: "Vùng Truy Bác trên bán đảo Sơn Đông bị đế quốc phương Tây nhòm ngó vì nguồn than dồi dào. Đức chiếm vùng này sau hiệp ước năm 1898 và giữ nó như một phần Đông Á thuộc Đức. Người Đức tiếp tục bóc lột dân ta làm lao động giá rẻ, trong khi chúng ta có quan hệ chặt chẽ với công nhân trong các công đoàn thợ mỏ. Để củng cố công nghiệp nội địa và giải phóng nhân dân khỏi xiềng xích đế quốc, chúng ta nên quốc hữu hóa các mỏ bị Đức chiếm tại Truy Bác."
+
+ KMT_complete_the_tongpu_railway: "Hoàn thành đường sắt Đồng-Bồ"
+ KMT_complete_the_tongpu_railway_desc: "Đường sắt Đồng-Bồ khởi công trong giai đoạn cải cách của vua Quang Tự. Tuyến đi qua trung tâm Sơn Tây, qua Thái Nguyên đến ga Hoa Sơn ở Thiểm Tây. Quân phiệt Diêm Tích Sơn bắt đầu xây dựng nhưng bất ổn Trung Nguyên làm đình trệ tiến độ. Bộ Đường sắt vì thế hợp tác với cố vấn Anh để hoàn thành tuyến, giúp đi lại dễ dàng qua hai tỉnh nhiều núi."
+
+ KMT_revive_jinan_arsenal: "Khôi phục Xưởng quân giới Tế Nam"
+ KMT_revive_jinan_arsenal_desc: "Xưởng quân giới Tế Nam bắt nguồn từ Cục Cơ khí Sơn Đông năm 1875, từng sản xuất thuốc súng, dược phẩm nhẹ và vật dụng làm bánh. Năm 1894, khi chiến tranh Trung-Nhật nổ ra, cơ sở mở rộng để sản xuất vũ khí nhẹ. Dưới các quân phiệt cũ, xưởng trang bị cho phe Sơn Đông trước khi rơi vào tay Quốc dân Cách mệnh quân. Bộ Quân sự muốn tận dụng cơ sở hiện đại để sản xuất đạn, lựu đạn và ngòi nổ bom máy bay."
+
+ KMT_refurbish_taiyuan_arsenal: "Tân trang Xưởng quân giới Thái Nguyên"
+ KMT_refurbish_taiyuan_arsenal_desc: "Xưởng quân giới Thái Nguyên được xây theo lệnh Diêm Tích Sơn để sản xuất vũ khí nội địa. Các cải cách của ông giúp xưởng sản xuất cả súng cối và pháo ngoài vũ khí nhẹ. Chất lượng xưởng cao so với mặt bằng Trung Quốc; nhiều bản sao súng trường và pháo đã được bán cho Mã gia quân ở phía Tây và Tân Quế hệ ở phía Nam. Bộ Quân sự muốn tận dụng máy móc, dây chuyền hiện đại để trang bị Quốc dân Cách mệnh quân. Chúng ta cũng sẽ hiện đại hóa Xưởng quân giới Hoa Âm tại Thiểm Tây, nổi tiếng về súng cối và pháo nhẹ."
+
+ KMT_improve_han_river_infrastructure: "Cải thiện hạ tầng sông Hàn"
+ KMT_improve_han_river_infrastructure_desc: "Dài hơn 400 kilômét, sông Hàn là sông lớn thứ hai Quảng Đông, chỉ sau Châu Giang. Tuy nhiên, sông thường xuyên gây lũ; nhiều cơ sở hạ tầng đã lỗi thời hoặc hư hại sau nhiều năm chiến tranh. Chính phủ Quốc dân quyết định triển khai dự án đập đầy tham vọng để tăng việc làm ở Quảng Đông và kiểm soát dòng nước tốt hơn."
+
+ KMT_wuzhou_vegetable_oil_company: "Tân trang Công ty Dầu thực vật Ngô Châu"
+ KMT_wuzhou_vegetable_oil_company_desc: "Dầu trẩu, hay \"dầu gỗ Trung Quốc\", là dầu khô ép từ hạt cây trẩu, được ghi chép sử dụng từ thời Khổng Tử khoảng năm 400 trước Công nguyên. Dầu chủ yếu dùng hoàn thiện và bảo vệ gỗ, có thể củng cố công nghiệp nội địa. Chính phủ Quốc dân đã dành đất tại Quảng Tây để chế biến dầu trẩu; Ngô Châu rất phù hợp nhờ vị trí địa lý và nền tảng công nghiệp sẵn có."
+
+ KMT_nanning_grain_storage: "Xây kho lương thực tại Nam Ninh"
+ KMT_nanning_grain_storage_desc: "Lương thực từ lâu là hàng hóa chủ chốt của Quảng Tây, tỉnh nổi tiếng với lúa gạo chất lượng cao. Ban Thủy lợi thuộc Ủy ban Kiến thiết Quốc gia quyết định bảo quản mùa màng hằng năm bằng cách xây kho lương ở Nam Ninh, qua đó dự trữ ngũ cốc cho người khó khăn và các tỉnh bị nạn đói."
+
+ KMT_green_gold_in_qiongya: "Vàng xanh tại Quỳnh Nhai"
+ KMT_green_gold_in_qiongya_desc: "Cao su là chìa khóa trang bị và tiếp tế cho mọi quân đội hiện đại; may thay Quỳnh Nhai có nguồn cao su tự nhiên phong phú. Khí hậu nhiệt đới ấm áp giúp cao su phát triển mạnh, đến mức dân địa phương gọi là \"vàng xanh\". Ủy ban Tài nguyên sẽ biến Quỳnh Nhai thành vùng trồng cao su của Trung Quốc, hỗ trợ sản xuất nội địa và ngoại thương có kiểm soát."
+
+ KMT_encourage_oil_extraction_in_yanchang: "Khuyến khích khai thác dầu tại Diên Trường"
+ KMT_encourage_oil_extraction_in_yanchang_desc: "Diên Trường là một trong số ít mỏ dầu tự nhiên được phát hiện trong nước. Năm 1907, chính quyền Thanh lập giếng dầu đầu tiên của Trung Quốc tại đây và xây nhà máy lọc dầu vào năm sau. Ủy ban Tài nguyên muốn tiếp tục khai thác, đồng thời tìm nguồn dầu mới trong vùng đề phòng các mỏ hiện tại cạn kiệt."
+
+ KMT_chongqing_electric_steel_mill: "Khôi phục Nhà máy Thép điện Trùng Khánh"
+ KMT_chongqing_electric_steel_mill_desc: "Do quân phiệt cộng hòa Hùng Khắc Vũ thành lập năm 1919, Nhà máy Thép điện Trùng Khánh ban đầu phục vụ tham vọng và công nghiệp vũ khí của ông. Về sau nhà máy lần lượt chịu sự chi phối của các quân phiệt khác tàn phá Tứ Xuyên. Khi Chính phủ Quốc dân lập lại trật tự, nhà máy đã nằm trong tay nhà nước. Chúng ta sẽ mở rộng và hiện đại hóa để nhân dân cuối cùng được hưởng thành quả thay cho quân phiệt."
+
+ KMT_chongqing_weapon_plant: "Tân trang Nhà máy Vũ khí Trùng Khánh"
+ KMT_chongqing_weapon_plant_desc: "Nhà máy Sửa chữa Vũ khí Trùng Khánh ban đầu do Dương Sâm và Lưu Tương xây dựng. Dù hai quân phiệt đẩy Tứ Xuyên vào hỗn loạn và nạn đói, không thể phủ nhận đóng góp của họ trong việc hiện đại hóa nhà máy. Tuy nhiên, cơ sở vẫn cần cải thiện, nhất là tình trạng thiếu máy móc. Chính phủ Quốc dân và Bộ Nội vụ đề xuất cải tạo nhà máy theo tiêu chuẩn hiện đại."
+
+ KMT_tap_into_sichuans_natural_reserves: "Khai thác trữ lượng tự nhiên Tứ Xuyên"
+ KMT_tap_into_sichuans_natural_reserves_desc: "Trải rộng hơn 180.000 km, bồn địa Tứ Xuyên chứa khí đốt và dầu mỏ. Chính phủ Quốc dân giao Ủy ban Tài nguyên giám sát các cơ quan địa phương khai thác nguồn dự trữ này để đáp ứng nhu cầu dầu trong nước và giảm nhập khẩu."
+
+ KMT_bauxite_extraction_in_guizhou: "Khai thác bô-xít tại Quý Châu"
+ KMT_bauxite_extraction_in_guizhou_desc: "Quý Châu có một số mỏ bô-xít lớn nhất Trung Quốc. Chính phủ Quốc dân muốn hiện đại hóa miền Nam để đạt tiêu chuẩn khai thác bô-xít của miền Bắc. Ủy ban Tài nguyên sẽ giám sát, chỉ đạo chính quyền địa phương tham gia khai mỏ và khai thác bô-xít."
+
+ KMT_expand_tin_production_in_gejiu: "Mở rộng sản xuất thiếc tại Cá Cựu"
+ KMT_expand_tin_production_in_gejiu_desc: "Cá Cựu nổi tiếng cả nước về sản xuất thiếc, với lịch sử từ thời Hán. Khai thác và chế biến thiếc bắt đầu từ cuối thời Thanh; ngành thiếc Cá Cựu hiện chiếm gần 90% sản lượng Vân Nam. Để tập trung quản lý và duy trì chất lượng chế biến, Bộ Tài chính cùng Ủy ban Tài nguyên đang hợp tác với doanh nghiệp địa phương, sáp nhập thành một Công ty Công nghiệp Thiếc Vân Nam thống nhất."
+
+ KMT_refurbish_gongxian_arsenal: "Tân trang Xưởng quân giới Củng Huyện"
+ KMT_refurbish_gongxian_arsenal_desc: "Xưởng quân giới Củng Huyện nằm ở Hà Nam, tỉnh giàu tài nguyên và từng ở gần chính quyền trung ương thời Bắc Dương. Xưởng sản xuất súng ngắn, súng trường cùng vũ khí nặng như pháo. Sau đó xưởng bị quân phiệt Trực Lệ sử dụng, dù hưởng lợi lớn từ đầu tư Đức. Nay đã kiểm soát vững Hà Nam, chúng ta sẽ cải tạo xưởng theo nhu cầu Quốc dân Cách mệnh quân."
+
+ KMT_kaifeng_mines: "Quốc hữu hóa các mỏ Khai Phong"
+ KMT_kaifeng_mines_desc: "Các mỏ than hiện đại đầu tiên do công ty Anh thiết kế và sở hữu, vận hành bằng cách bóc lột lao động Trung Quốc. Sau Cách mạng Anh, chúng vẫn tồn tại và được quân phiệt Trực Lệ dung túng; các mỏ Tiêu Tác đóng góp đáng kể vào sản lượng than quốc gia. Trong cuộc chiến chống đế quốc, Chính phủ Quốc dân có nghĩa vụ quốc hữu hóa các cơ sở này và cải thiện điều kiện lao động tàn khốc mà ngoại quốc áp đặt lên công nhân."
+
+ KMT_revitalise_hanyang_industry: "Khôi phục công nghiệp Hán Dương"
+ KMT_revitalise_hanyang_industry_desc: "Nhờ gần Vũ Hán, công nghiệp Hán Dương từ lâu tương đối phát triển so với phần còn lại của Trung Quốc. Vùng có Xưởng quân giới Hán Dương và Nhà máy Gang thép Hán Dương nay đã suy tàn, từng chiếm gần 90% sản lượng thép cả nước. Công nghiệp nơi đây còn mang tinh thần cách mạng: một khẩu súng trường Hán Dương đã nổ phát súng đầu tiên châm ngòi Cách mạng Tân Hợi."
+
+ KMT_revive_gansu_machine_works: "Khôi phục Nhà máy Cơ khí Cam Túc"
+ KMT_revive_gansu_machine_works_desc: "Tiền thân là Cục Chế tạo Máy Cam Túc thành lập năm 1872, đây là cơ sở công nghiệp quân sự kiểu phương Tây đầu tiên ở Tây Bắc Trung Quốc. Khi miền Tây rơi vào bất ổn, nhà máy bị bỏ mặc, phần lớn máy móc bị quân phiệt lấy đi. Chính phủ Quốc dân muốn khôi phục nhà máy nhằm tạo việc làm và hiện đại hóa Tây Bắc."
+
+ KMT_qinghai_cultivation_programme: "Khởi động chương trình canh tác Thanh Hải"
+ KMT_qinghai_cultivation_programme_desc: "Từ lâu tách biệt với tinh thần cách mạng Phúc Kiến và Quảng Châu, Thanh Hải có rất ít sự hiện diện của Quốc dân đảng. Khi chúng ta mở rộng ảnh hưởng và quyền lực sang miền Tây, Bộ Nội vụ thúc đẩy chương trình phát triển nông nghiệp Thanh Hải. Kế hoạch sẽ đưa kỹ thuật, phân bón hiện đại vào sử dụng, đồng thời tích hợp cơ cấu và cơ quan Quốc dân đảng vào chính quyền địa phương."
+
+ KMT_jinghui_irrigation_canal: "Xây kênh tưới Kính Huệ"
+ KMT_jinghui_irrigation_canal_desc: "Thiểm Tây khô cằn, dễ hạn hán, thường xuyên gây khốn khó cho người dân. Kỹ sư thủy lợi bản địa Lý Nghi Chỉ có thiện cảm với Chính phủ Quốc dân, đặc biệt phe Hawaii, đã đề nghị Ban Thủy lợi triển khai chương trình bảo tồn nguồn nước. Sau nhiều đợt khảo sát, ông đề xuất xây kênh tưới và đập để quản lý, giữ nước và cải thiện sinh kế người dân Thiểm Tây."
+
+ KMT_minsheng_irrigation_canal: "Xây kênh tưới Dân Sinh"
+ KMT_minsheng_irrigation_canal_desc: "Như cố Tôn tiên sinh từng viết, Dân sinh là nguyên tắc cải thiện đời sống người Trung Quốc. Ủy ban Kiến thiết Quốc gia vì thế muốn triển khai dự án mới tại Tuy Viễn ở phía Bắc. Khu vực này chưa mấy ủng hộ sự nghiệp của ta. Ban Tài nguyên Nước đề nghị cấp vốn xây kênh dài 75 kilômét để tưới các trang trại khô hạn. Nhằm tôn vinh chủ nghĩa Tam Dân, kênh sẽ mang tên \"Dân Sinh\", thể hiện quyết tâm giúp đỡ nhân dân."
+
+ KMT_complete_the_longhai_railway: "Hoàn thành đường sắt Lũng Hải"
+ KMT_complete_the_longhai_railway_desc: "Những đèo núi Thiểm Tây khiến việc đi xuyên tỉnh khó khăn và tốn thời gian. Từ thời Thanh, tuyến đường sắt từ Lạc Dương đến Cam Túc đã bắt đầu xây dựng nhưng thường đình trệ vì bất ổn quân phiệt. Bộ Đường sắt của Chính phủ Quốc dân đã giao dự án mới để hoàn thành tuyến. Mục tiêu cuối cùng là tuyến dài hơn 1.700 kilômét, do kỹ sư Lăng Hồng Huân chỉ đạo."
+
+ KMT_create_the_lanxin_railway: "Xây đường sắt Lan-Tân" #兰新铁路
+ KMT_create_the_lanxin_railway_desc: "Để cải thiện liên lạc, tiếp tế và hành trình giữa Lan Châu ở Cam Túc với biên viễn Tân Cương, Bộ Đường sắt chính thức phê duyệt dự án đường sắt Lan Châu-Tân Cương, nối Cam Túc qua hành lang Hà Tây đến Địch Hóa, dự kiến dài hơn 1.904 km. Tuyến thứ hai sẽ nối Cáp Mật với Hòa Điền, cải thiện liên lạc tại cực Tây Trung Quốc."
+
+ KMT_appropriate_shenyang_arsenal: "Tiếp quản Xưởng quân giới Thẩm Dương"
+ KMT_appropriate_shenyang_arsenal_desc: "Xưởng quân giới Thẩm Dương nổi tiếng cả nước về tay nghề chế tạo. Do quân phiệt Phụng Thiên Trương Tác Lâm lập năm 1921, xưởng sản xuất súng, pháo, đạn, thuốc nổ và máy móc. Có lúc đây là xưởng quân giới lớn nhất Trung Quốc, thường xuyên đón cố vấn và sĩ quan Nhật. Nay kiểm soát Đông Bắc đã vững chắc, Bộ Quân sự quyết định tiếp quản xưởng để trang bị Quốc dân Cách mệnh quân."
+
+ KMT_finish_fengman_hydroelectric_dam: "Hoàn thành đập thủy điện Phong Mãn"
+ KMT_finish_fengman_hydroelectric_dam_desc: "Dưới thời Phụng Thiên, phe Giao thông bắt đầu xây đập thủy điện cấp điện cho Cát Lâm với sự hỗ trợ của cố vấn Nhật. Sau chiến thắng vẻ vang trước Phụng Thiên và việc đưa Mãn Châu trở về với nhân dân Trung Quốc, chúng ta có một đập còn dang dở có thể mang lại lợi ích lớn cho dân Cát Lâm. Bộ Nội vụ đã giao dự án hoàn thành đập Phong Mãn và tăng việc làm."
+
+ KMT_nationalising_manchurian_iron_industry: "Quốc hữu hóa ngành sắt Mãn Châu"
+ KMT_nationalising_manchurian_iron_industry_desc: "Các mỏ sắt An Sơn và Công ty Than Sắt Bản Khê Hồ từng thuộc sở hữu chung của Phụng Thiên và Nhật Bản, lời nhắc đáng buồn về ảnh hưởng sâu rộng của Nhật thông qua Mantetsu. Nhờ nguồn than dồi dào, công ty cung cấp thép rẻ cho Nhật bằng cách bóc lột lao động Trung Quốc. Suốt thời chiếm đóng, thợ mỏ bị đối xử tàn bạo; nay chúng ta có cơ hội giải phóng họ. Khi Đông Bắc đã được kiểm soát vững chắc, chúng ta có thể quốc hữu hóa hoàn toàn các mỏ và công ty để tài nguyên chỉ phục vụ nhân dân Trung Quốc."
+
+ KMT_add_research_slot_decision: "Tăng cường nỗ lực giáo dục"
+ KMT_add_research_slot_decision_desc: "Dù đã nỗ lực phổ cập biết chữ, năng lực nghiên cứu và giáo dục cả nước vẫn tụt xa các đối thủ. Hãy thúc đẩy phát triển tri thức và cải cách giáo dục nhanh chóng để bắt kịp thế giới."
+
+ RKT_is_interacting_with_zeal_flag: "Đang tương tác với một quyết định §cNhiệt huyết cách mạng§! khác."
+
+ #PLACEHOLDER - Get a KMT texticon
+ RKT_3_zeal_cost: "£GFX_pol_violence §H3% Nhiệt huyết cách mạng§!"
+ RKT_3_zeal_cost_blocked: "£GFX_pol_violence §R3% Nhiệt huyết cách mạng§!"
+ RKT_3_zeal_cost_tooltip: "Cần $RKT_3_zeal_cost_blocked$ để thực hiện quyết định"
+
+ RKT_10_zeal_cost: "£GFX_pol_violence §H10% Nhiệt huyết cách mạng§!"
+ RKT_10_zeal_cost_blocked: "£GFX_pol_violence §R10% Nhiệt huyết cách mạng§!"
+ RKT_10_zeal_cost_tooltip: "Cần $RKT_10_zeal_cost_blocked$ để thực hiện quyết định"
+
+ RKT_zeal_bank_withdrawl_tt: "§Y[RKT.GetNameDefCap] sẽ buộc phải bù phần chênh lệch hoặc để §cNhiệt huyết cách mạng§! giảm.§!"
+ RKT_zeal_bank_deposit_tt: "§Y[RKT.GetNameDefCap] có thể cho §cNhiệt huyết cách mạng§! tăng hoặc bỏ túi phần chênh lệch.§!"
+
+ #RKMT Satellite Decisions
+ RKT_challenge_the_RKMT_decision: "Thách thức ban lãnh đạo đảng"
+ RKT_challenge_the_RKMT_decision_desc: "Lãnh đạo hiện tại của Cách mạng Quốc dân đã chứng tỏ không xứng đáng kế thừa di sản Tôn tiên sinh. Là người trung thành với chủ nghĩa Tam Dân, chúng ta đã thể hiện nhiệt huyết lớn hơn với sự nghiệp chung. Có lẽ đã đến lúc cân nhắc thay đổi lãnh đạo..."
+
+ RKT_eliminate_RKMT_pretenders_decision: "Loại bỏ những kẻ tiếm danh [RKT.GetNonIdeologyAdjective]"
+ RKT_eliminate_RKMT_pretenders_decision_desc: "Một đối thủ tranh quyền lãnh đạo đảng cách mạng đã xuất hiện tại [RKT.Capital.GetCapitalVictoryPointName], đòi cán bộ trung thành cả nước quy phục. Dù mang biểu tượng Bạch Nhật, chúng chẳng phải đồng chí trung thành hay người kế thừa xứng đáng của Tôn tiên sinh. Chúng ta sẽ lật đổ chúng khỏi bục cao, qua đó cứu cả đảng lẫn quốc gia."
+
+ RKT_revising_the_three_principles_decision: "Điều chỉnh chủ nghĩa Tam Dân"
+ RKT_revising_the_three_principles_decision_desc: "Chủ nghĩa Tam Dân của Tôn tiên sinh tuy sâu sắc nhưng còn nhiều khoảng trống để diễn giải, lớn hơn nhiều so với điều phe chính thống muốn chúng ta tin. Để thích nghi với tình hình địa phương, chúng ta phải sẵn lòng kết hợp những tư tưởng ấy với chương trình hiện có."
+
+ RKT_implementing_the_three_principles_decision: "Thực hiện chủ nghĩa Tam Dân"
+ RKT_implementing_the_three_principles_decision_desc: "Chủ nghĩa Tam Dân của Tôn tiên sinh gần như thiêng liêng trong Quốc dân đảng. Chúng ta phải bắt đầu \"đảng hóa\" bộ máy hành chính, thực hiện chỉ thị của trung ương và loại bỏ những tư tưởng trái với sự cai trị của đảng quốc."
+
+ RKT_decision_cost_stb_05: "£GFX_stability_texticon §Y5%§!"
+ RKT_decision_cost_stb_05_blocked: "£GFX_stability_texticon  §R5%§!"
+ RKT_decision_cost_stb_05_tooltip: "Cần £GFX_stability_texticon  §Y5%§! để thực hiện quyết định"
+
+ RKT_defend_our_autonomy_decision: "Bảo vệ quyền tự trị"
+ RKT_defend_our_autonomy_decision_desc: "Việc quy phục chính quyền trung ương Quốc dân đảng không cho họ quyền chi phối đặc quyền địa phương [ROOT.GetAdjective]. Dù hứa để chính quyền [ROOT.GetLeader] tự thực hiện huấn chính trong tỉnh, trung ương vẫn gửi gián điệp và quan chức đến [ROOT.Capital.GetCapitalVictoryPointName] để phá hoại quyền lực của ta và hút tài nguyên cho cách mạng. Phải chấm dứt sự hai mặt ấy."
+
+ RKT_express_our_loyalty_decision: "Thể hiện lòng trung thành"
+ RKT_express_our_loyalty_decision_desc: "Trung thành với cách mạng Quốc dân đảng đi kèm trách nhiệm đạo đức. Cách mạng được dựng nên bằng tình yêu và hy sinh; cũng như binh sĩ, liệt sĩ hiến mạng vì đất nước, các tỉnh phải đóng góp của cải, sức lực, tài nguyên vì lợi ích quốc gia. Chúng ta sẽ huy động mọi phần dư có thể, thậm chí hơn thế, vì cách mạng để một ngày toàn Trung Quốc cùng hưởng tương lai sung túc."
+
+ RKT_decision_cost_ws_05: "£GFX_war_support_texticon §Y5%§!"
+ RKT_decision_cost_ws_05_blocked: "£GFX_war_support_texticon  §R5%§!"
+ RKT_decision_cost_ws_05_tooltip: "Cần £GFX_war_support_texticon  §Y5%§! để thực hiện quyết định"
+
+ RKT_coopt_kuomintang_legitimacy_decision: "Tận dụng tính chính danh của Quốc dân đảng"
+ RKT_coopt_kuomintang_legitimacy_decision_desc: "Uy tín Quốc dân đảng vẫn bền bỉ qua nhiều năm dù chịu nhiều thất bại nặng nề. Có lẽ thông điệp của Tôn tiên sinh thực sự chạm đến nhân dân, mang hy vọng giữa loạn lạc; hoặc nó dễ được diễn giải thành bất cứ điều gì người nghe muốn. Dù sao, khoác lên quyền cai trị hình thức Quốc dân đảng sẽ giúp nó dễ được chấp nhận hơn. Dù Tổng lý vĩnh viễn che bóng lên nhiều người, ngôi sao [ROOT.GetLeader] càng sáng khi đứng cạnh ông. Chúng ta sẽ tự khẳng định là người kế thừa chân chính và tập hợp nhân dân quanh mình."
+
+ RKT_exhort_national_unity_decision: "Kêu gọi đoàn kết quốc gia"
+ RKT_exhort_national_unity_decision_desc: "Quốc dân đảng vượt qua bao thử thách vì dù đối thủ có bao nhiêu súng hay ngoại bang đổ bao nhiêu vàng chống lại, lời giải phóng vẫn chinh phục lòng dân. Tuy vậy, giữa quân phiệt và chia rẽ, luôn có kẻ đặt tư lợi trên nhu cầu quốc gia. Chúng ta phải thực thi quyền lực đảng quốc chống phản động, dập tắt bất đồng nội bộ. Chỉ như vậy mới có thể huy động đất nước chống kẻ thù."
+
+ RKT_secure_overseas_donations_decision: "Đảm bảo quyên góp từ hải ngoại"
+ RKT_secure_overseas_donations_decision_desc: "Sau cuộc Bắc phạt thất bại, hàng trăm đảng viên lưu vong, lập căn cứ khắp châu Á và xa hơn. Dù là hậu quả đáng tiếc, đồng chí hải ngoại vẫn giữ tài sản và quan hệ. Ngay thời Tôn tiên sinh, ông đã tìm sự ủng hộ từ cộng đồng Hoa kiều. Nay đảng lại có chỗ đứng trên đại lục, hãy kêu gọi đồng chí trở về giúp tái thiết sức mạnh công nghiệp Trung Quốc."
+
+ RKT_encourage_intellectuals_decision: "Khuyến khích giới trí thức"
+ RKT_encourage_intellectuals_decision_desc: "Cách mạng không thể thắng chỉ bằng binh sĩ và đạn dược, mà còn nhờ tiến bộ của các ủy ban nghiên cứu. Thiếu tiến bộ, chúng ta sẽ nhanh chóng tụt sau đối thủ muốn kiểm soát Trung Quốc. Vì vậy, giữ vị trí tiên tiến về công nghệ chiến tranh quan trọng hơn bao giờ hết. Hãy tìm sự hỗ trợ từ trí thức trong và ngoài nước để biến quân đội thành lực lượng hiện đại nhất Trung Quốc."
+
+ RKT_further_militarisation_decision: "Đẩy mạnh quân sự hóa"
+ RKT_further_militarisation_decision_desc: "Quân số đông đến đâu cũng vô ích nếu không được trang bị đầy đủ. Trước khi kiểm soát toàn đại lục, ưu tiên cao nhất là mở rộng tổ hợp công nghiệp quân sự. Chúng ta phải phân bổ nguồn vốn mới để xây thêm nhà máy vũ khí."
+
+ RKT_foster_regionalist_tendencies_decision: "Thúc đẩy khuynh hướng địa phương"
+ RKT_foster_regionalist_tendencies_decision_desc: "Dù muốn thừa nhận hay không, Quốc dân đảng hiện phân tán khắp Trung Quốc, phụ thuộc nặng vào các thống đốc mang tham vọng lớn. Tuy đáng tiếc, trước mắt có thể biến chủ nghĩa địa phương thành lợi ích tạm thời. Khuyến khích xu hướng ấy và tạm bảo đảm sĩ quan địa phương giữ chức sẽ giúp giành lòng trung thành của họ."
+
+ RKT_expand_national_reconstruction_decision: "Mở rộng công cuộc Kiến quốc"
+ RKT_expand_national_reconstruction_decision_desc: "Dù sự nghiệp phục hưng quốc gia là chính nghĩa, đừng bỏ quên các tỉnh ta kiểm soát. Thổ phỉ, quân phiệt và tham nhũng đã tàn phá Trung Quốc từng hùng mạnh; các nhà máy một thời nhộn nhịp nay đổ nát vì chiến tranh. Đã củng cố quyền lực trên phần lớn đất nước, hãy hướng vào trong và tập trung khôi phục công nghiệp."
+
+ RKT_embrace_human_elan: "Phát huy nhuệ khí con người"
+ RKT_embrace_human_elan_desc: "Có lẽ sức mạnh và đức tính lớn nhất của con người là nhuệ khí: tinh thần cao đẹp và sinh lực. Muốn cứu đất nước, chúng ta phải dùng hết sức lực tinh thần lẫn thể chất, sẵn sàng đổ máu chống sức mạnh máy móc và vượt qua trang bị vật chất ưu thế của địch."
+
+ RKT_political_terror: "Nền cai trị khủng bố chính trị"
+ RKT_political_terror_desc: "Nhìn đâu, đi đâu, đảng cũng bị kẻ thù bao vây. Chúng đe dọa Cách mạng Quốc dân và chính sự tồn tại của công cuộc cứu dân. Chúng âm mưu lật đổ ta, và ta cũng có thể làm vậy. Hãy săn lùng những kẻ tôn sùng tự do, chống đảng quốc và \"Hội Dân quyền Trung Quốc\" phản trắc. Tất cả sẽ khuất phục trước làn sóng khủng bố."
+
+ RKT_mobilising_the_youth: "Huy động thanh niên"
+ RKT_mobilising_the_youth_desc: "Phần lớn cơ quan chính quyền bỏ mặc thanh niên nghèo lạc lối. Không được người có thẩm quyền hướng dẫn, họ sống vô định, lang thang, làm thổ phỉ hoặc chịu cảnh nghèo khổ, nô dịch triền miên. Một số ít may mắn là trí thức, con cháu quan chức có thể thoát. Với những người còn lại, đảng và quân đội sẽ trao mục đích mới: mang ngọn đuốc tương lai của chính họ."
+
+ RKT_reform_the_administration: "Cải cách bộ máy hành chính"
+ RKT_reform_the_administration_desc: "Bộ máy Quốc dân đảng là một khối khổng lồ, quan liêu chồng chất chỉ vì quan liêu, kém hiệu quả và bị giới kỹ trị Câu lạc bộ Trung ương cùng phe quân sự Hoàng Phố chi phối. Là những chuyên gia hành chính thực sự mang bản chất dân sự, chúng ta có thể tinh giản đảng quốc, vì đất nước tồn tại nhờ khả năng vận hành hằng ngày."
+
+ RKT_shanghai_connections: "Các mối quan hệ Thượng Hải"
+ RKT_shanghai_connections_desc: "Bị phần lớn đảng lên án, thế giới ngầm Trung Quốc đang phát triển bị các phe như Hoàng Phố và Chính học xem là rác rưởi, sâu bọ. Nhưng sự thiển cận cuối cùng sẽ hại họ. Giữ liên lạc với những người như Đỗ Nguyệt Sênh, một người rất thông minh và tài giỏi, sẽ giúp ta có thêm nguồn tài trợ... kém trong sạch hơn."
+
+ RKT_spiritual_warfare: "Tiến hành chiến tranh tinh thần"
+ RKT_spiritual_warfare_desc: "Thông qua \"Đề cương Giáo dục Đạo đức Tổng quát\" cung cấp cho mọi cấp học, chúng ta tạo phương tiện tái thiết tinh thần Trung Hoa. Đánh giá lại và kết hợp bốn đức tính Nho giáo, ta có thể cổ vũ tự giác, phụng sự đất nước và vận dụng chúng để mưu sinh. \"Tin mình đồng thời tin đạo; trị mình đồng thời trị việc; dạy mình đồng thời dạy người; bảo vệ mình đồng thời bảo vệ đất nước.\""
+
+ #GXC LKMT Decisions
+ GXC_coax_the_reluctant_decision: "Thuyết phục những người do dự"
+ GXC_coax_the_reluctant_decision_desc: "Giai cấp tiểu tư sản luôn có quan hệ khó xử với cách mạng. Họ thường là đối thủ cứng đầu nhất của chủ nghĩa xã hội, nhưng nhiều lãnh đạo xã hội chủ nghĩa lại xuất thân từ giai cấp này. Cần nhượng bộ đôi chút, và có lao động lành nghề, trí thức đứng về phía mình luôn có lợi."
+
+ GXC_court_peasant_activists_decision: "Tranh thủ các nhà hoạt động nông dân"
+ GXC_court_peasant_activists_decision_desc: "Nông hội bắt đầu củng cố ảnh hưởng tại nông thôn, rất có lợi chừng nào ta giữ được lòng trung thành của họ. Điều đó không dễ. Nông dân chịu khổ lâu năm đòi thay đổi kinh tế, chính trị và cả xã hội; chúng ta phải nhanh chóng đáp ứng!"
+
+ GXC_bolster_iron_army_decision: "Củng cố Thiết quân"
+ GXC_bolster_iron_army_decision_desc: "Đệ Tứ quân là niềm tự hào Quảng Đông, có lịch sử vẻ vang chống quân phiệt và chiến đấu anh dũng trong Bắc phạt. Nhiều người Quảng Đông từng phục vụ trong các đơn vị tại tỉnh, tạo nguồn binh sĩ ổn định cho cả chiến đấu lẫn hỗ trợ. Bảo đảm tiếp tế cho quân đội này là thiết yếu để tiếp tục thắng lợi."
+
+ GXC_win_over_unions_decision: "Tranh thủ các công đoàn"
+ GXC_win_over_unions_decision_desc: "Hoạt động công đoàn tại Lưỡng Quảng rất đa dạng, từ công nghiệp truyền thống, xưởng tàu đến lao động trên Châu Giang. Dù ảnh hưởng Thứ Hai Đen đã dịu bớt, nhiều người vẫn cần giúp đỡ, nhất là khi đầu tư nước ngoài rút khỏi vùng."
+
+ GXC_reinvigorate_the_party_decision: "Tiếp sức cho đảng"
+ GXC_reinvigorate_the_party_decision_desc: "Có lẽ phần được chờ đợi nhất trong cương lĩnh cách mạng là công cuộc Kiến quốc, kế hoạch kinh tế lớn nhưng còn mơ hồ, làm nền tảng cho thay đổi xã hội và chính trị lâu dài. Cán bộ mong cơ hội chứng tỏ mình bằng cách giám sát các dự án lớn có thể quyết định cả sự nghiệp."
+
+ #YUN Satellite Decisions
+ YUN_appease_the_radicals: "Xoa dịu phe cấp tiến"
+ YUN_appease_the_radicals_desc: "Bị đồng đảng cả tả lẫn hữu đòi một chính quyền \"cách mạng\" hơn vây ép, Đệ Tam quân phải đi trên sợi dây rất hẹp. Ảnh hưởng cánh tả nội bộ đòi lập tức giải quyết khổ cực, nhu cầu công nông; tàn dư Hoàng Phố lại khẳng định họ ưu việt hơn trong lãnh đạo cách mạng. Chính quyền chịu nhiều căng thẳng. Để tránh nội chiến, hãy tìm tiếng nói chung với đồng đảng vì chủ nghĩa dân tộc chung của chúng ta."
+
+ YUN_embrace_sanminism: "Tiếp nhận chủ nghĩa Tam Dân"
+ YUN_embrace_sanminism_desc: "Với người nhiệt thành và tận tụy, Tam Dân chính là những nguyên tắc mà cuộc đấu tranh cách mạng chiến đấu và đổ máu vì chúng. Nhưng khắp đất nước, tư tưởng Tôn Trung Sơn cùng cách diễn giải của người trung thành đã bị bôi nhọ. Dù đảng thập niên trước không đạt tham vọng lớn, đảng hiện tại tiến lên không còn bất định ấy. Thuần khiết về tư tưởng và tinh thần, nhân dân phải hiểu đảng chiến đấu vì điều gì."
+
+ YUN_publicise_landlord_transgressions: "Công khai sai phạm của địa chủ"
+ YUN_publicise_landlord_transgressions_desc: "Quá lâu rồi những \"lãnh chúa\" nhỏ ở nông thôn, từ thân hào đến địa chủ, cai trị gần như không ai đụng tới. Người lao động cày ruộng trong cảnh gần như nông nô khiến đảng đau lòng. Muốn cứu giai cấp vô sản và người bị áp bức, chúng ta phải phát động chiến dịch chính nghĩa chống kẻ ngược đãi người khác và lạm dụng địa vị."
+
+ YUN_hold_mass_rallies: "Tổ chức mít tinh quần chúng"
+ YUN_hold_mass_rallies_desc: "Khắp Trung Quốc, cộng đồng và tổ chức nông dân tiếp tục bị chủ bóc lột. Nhiều tiểu tư sản đô thị, xương sống trí thức của chủ nghĩa xã hội Trung Quốc, cũng vẫn xa lạ với Cách mạng Quốc dân. Để mừng kỷ nguyên mới thay đổi chính trị, kinh tế, xã hội, chúng ta phải truyền bá rộng rãi thông điệp đảng. Quân phiệt, đế quốc, thân hào và ác bá sẽ không còn chi phối các bạn!"
+
+ YUN_rally_the_whampoa_cliques: "Tập hợp các phe Hoàng Phố"
+ YUN_rally_the_whampoa_cliques_desc: "Dù phe ôn hòa Đệ Tam quân và các phe Hoàng Phố xuất thân Đệ Nhất quân thù địch, tình anh em cách mạng vẫn còn. Các phe Hoàng Phố sinh ra từ cái nôi cách mạng, ủng hộ Cách mạng Quốc dân hơn ai hết và tận tụy tuyệt đối. Dù tham vọng, mưu mô, họ vẫn chia rẽ nội bộ. Hãy rung chuông cách mạng, đoàn kết các phe khác biệt trong Quốc dân Cách mệnh quân."
+
+ YUN_invigorate_the_youth_leagues: "Tiếp sức các đoàn thanh niên"
+ YUN_invigorate_the_youth_leagues_desc: "Thanh niên là nguồn cấp tiến và cách mạng dồi dào nhưng bị phần lớn cơ quan chính quyền bỏ mặc. Không mục đích, hướng dẫn hay phương hướng, họ chấp nhận an phận, đầu hàng số phận hoặc trở thành thổ phỉ. Con em gia đình có thế lực may mắn thoát cảnh ấy từ lúc sinh ra. Với người bị bỏ lại, cứu cánh gần như duy nhất là các đoàn thanh niên của đảng."
+
+ YUN_promoting_reformist_continuity: "Duy trì đường lối cải cách"
+ YUN_promoting_reformist_continuity_desc: "Không chỉ các đảng cách mạng như Quốc dân đảng hay Đảng Công đoàn Trung Quốc muốn hiện đại hóa đất nước. Luôn có bàn tay thận trọng, khôn ngoan của những người hiện đại hóa ổn định thường bị lãng quên. Vân Nam luôn được hun đúc từ khát vọng một quốc gia mới, hiện đại, dựa trên phẩm chất và giá trị cộng hòa. Hãy nhắc dân chúng rằng trụ cột cải cách nằm ở những người kế thừa các anh hùng Trùng Cửu."
+
+ YUN_cultivate_business_ties: "Vun đắp quan hệ doanh nghiệp"
+ YUN_cultivate_business_ties_desc: "Dựa vào lý tưởng rất tốt, nhưng sức mạnh và mục tiêu quân sự chỉ đạt được khi có vật chất hỗ trợ. Không có sản xuất kinh tế và nhà máy phát triển, binh sĩ sẽ thiếu súng, đạn và đạn pháo cần cho thống nhất. Hãy thương lượng với các nhà sản xuất vũ khí, tài phiệt Trung Quốc để đạt thỏa thuận có lợi, bất kể giá nào."
+
+ YUN_harkening_back_to_our_legacy: "Trở về di sản của chúng ta"
+ YUN_harkening_back_to_our_legacy_desc: "Quá lâu rồi Quốc dân đảng bị dẫn vào tư tưởng cực đoan cuồng nhiệt, khát máu. Tự cô lập trong thất bại thập niên 1920, đảng chà đạp hy sinh của anh hùng các cuộc cách mạng trước chỉ để áp đặt khủng bố lên nhân dân. Chúng ta phải nhắc cả đảng và dân rằng Quốc dân đảng sinh ra từ sự tham gia dân chủ trong một cuộc cách mạng dân chủ, kẻo Trung Quốc rơi vào bạo quyền được lát đường bằng thiện ý."
+
+ YUN_rallying_the_veterans_of_revolution: "Triệu tập các cựu binh cách mạng"
+ YUN_rallying_the_veterans_of_revolution_desc: "\"Niềm tin được gây dựng bằng nhiều việc làm, nhưng chỉ một việc cũng đủ đánh mất.\"\nĐảng có thể chê bai ảnh hưởng phe Chính học trong công việc thường ngày, nhưng không ai phủ nhận sự tận tâm gìn giữ lý tưởng chân chính Tân Hợi của họ. Gồm các cựu binh đấu tranh lâu dài chống quân phiệt và bạo chúa, phe Chính học vẫn tồn tại trên chính trường khi đảng chính thống mục ruỗng trong cảnh gần như lưu vong. Hãy báo hiệu sự trở lại xứng đáng của những người lý tưởng thực sự trong Quốc dân đảng, những người không bị chủ nghĩa chuyên chế dẫn lạc đường."
+
+ #CHI Puppet Decisions
+ LKT_challenge_the_LKMT_decision: "Thách thức Ủy ban Trung ương"
+ LKT_challenge_the_LKMT_decision_desc: "Ủy ban Trung ương đã chứng tỏ không phù hợp lãnh đạo Cách mạng Quốc dân. Là cán bộ trung thành, chúng ta thể hiện cam kết chân thành hơn với Tam Dân và phải chuẩn bị khả năng thay thế lãnh đạo hiện tại."
+
+ LKT_eliminate_LKMT_pretenders_decision: "Loại bỏ những kẻ tiếm danh [LKT.GetNonIdeologyAdjective]"
+ LKT_eliminate_LKMT_pretenders_decision_desc: "Ủy ban Trung ương cũ đã sụp đổ, từ tro tàn lại mọc lên một nhóm xét lại mới. Hàng triệu người Trung Quốc lần nữa có nguy cơ bị dẫn xa giáo huấn chân chính của Tôn tiên sinh, điều mà những môn đệ trung thành của cánh tả như chúng ta không thể chấp nhận."
+
+ LKT_promote_rca_chapters_decision: "Thúc đẩy các chi hội RCA"
+ LKT_promote_rca_chapters_decision_desc: "Hội Đồng chí Cải tổ Quốc dân đảng là hội kín do chính phủ lưu vong lập ban đầu để bảo đảm kỷ luật cách mạng, nghiên cứu kỹ Tam Dân và trên hết trung thành với sự lãnh đạo Uông Tinh Vệ. Dù cấp cao RCA nhiều bất đồng, các chi hội địa phương nổi tiếng với hạt nhân xã hội chủ nghĩa gắn bó và lòng trung thành cứng rắn với Chủ tịch. Khuyến khích họ liên kết với quan chức và cán bộ [ROOT.GetAdjective] sẽ giúp ngăn mọi thách thức đối với quyền lực của Uông."
+
+ LKT_assist_pac_opposition_decision: "Hỗ trợ phe đối lập PAC"
+ LKT_assist_pac_opposition_decision_desc: "Ủy ban Hành động Lâm thời Quốc dân đảng hình thành đầu cuộc nổi dậy Mân-Cám để lập cơ cấu lãnh đạo tự chủ với chính phủ lưu vong xa xôi. Liên minh với các nhóm đối lập dân sự và Hội Đồng học Cách mạng Trường Quân sự Hoàng Phố, PAC ủng hộ Tống Khánh Linh, góa phụ Tôn Trung Sơn, tranh lãnh đạo đảng. Liên minh ít ai ngờ này tìm sự hỗ trợ của ta để ngăn chế độ độc tài Uông Tinh Vệ; nhưng thắng rồi họ tồn tại cùng nhau bao lâu lại là chuyện khác."
+
+ LKT_embrace_crs_fanaticism_decision: "Tiếp nhận sự cuồng tín của CRS"
+ LKT_embrace_crs_fanaticism_decision_desc: "Trung Hoa Phục hưng Xã là nhóm bí mật gồm sĩ quan cực đoan dân tộc chủ nghĩa, toàn trị tập hợp quanh tướng Hồ Tông Nam. Kết hợp các hội anh em từ tình đồng đội Hoàng Phố, CRS là biểu hiện rõ nhất của nhiệt tình cách mạng do cánh quân sự Quốc dân đảng tạo ra. Đưa tinh thần này vào lực lượng địa phương sẽ có hệ quả, nhưng có thể quyết định sự sống còn của cách mạng."
+
+ LKT_tolerate_lcs_agitation_decision: "Dung thứ hoạt động vận động của LCS"
+ LKT_tolerate_lcs_agitation_decision_desc: "Liên đoàn Công đoàn chủ nghĩa Trung Quốc do những người xã hội chủ nghĩa ngoài Quốc dân đảng thành lập để tạo đối trọng cánh tả với đảng quốc. Do Đảng Công đoàn Trung Quốc dẫn đầu, cùng sự hỗ trợ miễn cưỡng của Thế giới Xã (mới) theo chủ nghĩa vô chính phủ và các nhóm độc lập, Liên đoàn thiếu ổn định, dễ đấu đá nội bộ. Tuy vậy, nhờ chủ nghĩa công đoàn hoặc các hình thức mô phỏng chiếm ưu thế trong phong trào xã hội chủ nghĩa thế giới, LCS có vai trò lớn trong huy động dân chúng ủng hộ cách mạng. Cho họ đặt chân tại [ROOT.Capital.GetCapitalVictoryPointName] sẽ giảm ủng hộ của giới quyền lực địa phương, nhưng làm dấy hy vọng ở [CHI.Capital.GetCapitalVictoryPointName] và nơi khác về một ngày mới đầy đấu tranh."
+
+ LKT_engage_rcf_dialogue_decision: "Đối thoại với RCF"
+ LKT_engage_rcf_dialogue_decision_desc: "Phe Tái thiết do Tôn Khoa và những người ủng hộ lưu vong còn lại lập tại Hawaii. Dựa vào mạng lưới ủng hộ cũ của cha ông trong cộng đồng Hoa kiều Đông Nam Á, họ dùng nguồn tài chính để đưa giá trị tự do theo cảm hứng phương Tây vào phong trào. Việc thường tranh thủ người ngoài đảng và những người tự do chống hiện trạng địa phương khiến cả phe xã hội chủ nghĩa lẫn quân phiệt xa lánh, nhưng có thể cải thiện hình ảnh đảng trong nước và quốc tế."
+
+#Liberation of Asia
+
+ KMT_liberation_of_asia_category: "Giải phóng châu Á"
+ KMT_liberation_of_asia_category_desc: "Người Trung Quốc không phải nạn nhân duy nhất của đế quốc. Khắp lục địa, sự bành trướng tham lam của các đế quốc châu Âu nuốt chửng quốc gia tự do, đẩy hàng triệu người dưới ách thuộc địa tàn bạo. Ở phía Đông, Nhật Bản cũng nhập hội áp bức, đua cắm cờ trên đất ngoại bang.\n\nVới tư cách người bảo vệ tự nhiên của châu Á, chúng ta có nghĩa vụ giải phóng mọi dân tộc. Bằng tinh thần, máu và nếu cần cả mưu lược, chúng ta sẽ phá ách đế quốc trong lẫn ngoài nước. Trước mắt, chúng ta sẽ nâng cao ý thức dân tộc của nhân dân châu Á, giúp họ cùng hưởng vinh quang chủ nghĩa xã hội Liên Á."
+
+ KMT_found_our_faction_decision: "Khẳng định vị thế trên thế giới"
+ KMT_found_our_faction_decision_desc: "Tầm nhìn Tôn Trung Sơn là Trung Quốc có vị thế xứng đáng tại Đông Á và thế giới, dùng tài nguyên và nhân lực hùng hậu để thúc đẩy thiện chí, hợp tác quốc tế. Cách mạng Quốc dân thành công, bước tiếp theo hợp lý là tái khẳng định ảnh hưởng và truyền bá lý tưởng cách mạng để Trung Quốc không bao giờ lại thành nạn nhân đế quốc."
+
+ KMT_invite_countries_to_faction: "Mời [FROM.GetNameDef] gia nhập [ROOT.GetFactionName]"
+ KMT_invite_countries_to_faction_desc: "Cuộc Cách mạng Quốc dân Tôn tiên sinh thiết kế cho Trung Quốc nên là hình mẫu cho nhiều dân tộc khác; Tam Dân có thể dẫn đường cho trật tự châu Á mới tự do. Hãy đoàn kết thành những quốc gia trẻ đang vươn lên chống bạo quyền đế quốc ngoại bang, bảo đảm hòa bình và thiện chí bền vững qua nhiều thế hệ châu Á."
+
+ KMT_invite_countries_to_faction_tt: "§YKhả năng chấp nhận tùy thuộc thái độ của §Y[FROM.GetAdjective]§! đối với chúng ta.§!"
+ KMT_invite_countries_to_faction_peace_requirement_tt: "Chúng ta và nước được mời đều phải hòa bình hoặc có chung kẻ thù, đồng thời không sắp bước vào một cuộc chiến tiềm tàng, ngoại trừ Hawaii."
+
+ KMT_invite_into_economic_sphere: "Mời [FROM.GetNameDef] tham gia $KMT_minsheng_partnership_full_name$"
+ KMT_invite_into_economic_sphere_desc: "Sứ mệnh Cách mạng Quốc dân là đưa Trung Quốc, quốc gia thấm nhuần tinh thần dân tộc mạnh mẽ, vào vị trí thuận lợi nhất phương Đông để chống đế quốc. Lịch sử và kinh tế các dân tộc bị áp bức phương Đông giống Trung Quốc. Họ cũng không nên phát triển thành hệ thống tư bản hay thuần công đoàn chủ nghĩa, mà nên noi mô hình Trung Quốc, lập \"các quốc gia Dân sinh Nhân dân\".\n\nVì vậy, thành công cách mạng buộc Trung Quốc mở kỷ nguyên mới cho các dân tộc phương Đông, truyền cảm hứng hình thành liên minh chống đế quốc vững mạnh. Là trung tâm phong trào chống đế quốc, Trung Quốc nên đoàn kết nhân dân phương Đông, xây dựng cộng đồng dân tộc và kinh tế Đông Á rộng lớn."
+ KMT_withdraws_from_sphere: "[THIS.GetNameDefCap] bị loại khỏi $KMT_minsheng_partnership_full_name$"
+
+ KMT_liberation_war_decision: "Chuẩn bị chiến tranh giải phóng chống [FROM.GetNameDef]"
+ KMT_liberation_war_decision_desc: "Vị thế đặc biệt của Trung Quốc ở châu Á bắt nguồn từ hàng thế kỷ ưu thế văn hóa và chính trị trong vùng. Là một trong những nền văn minh vĩ đại, lâu đời nhất thế giới, Trung Quốc nay hồi sinh xứng đáng có khả năng tiến hành cách mạng thế giới. Dùng sức mạnh công nghiệp và quân sự to lớn, chúng ta sẽ phá bỏ chế độ phản động và giải phóng đồng chí châu Á để họ cuối cùng cũng được cứu rỗi."
+
+ KMT_freed_core_tt: "Các khu vực thiết yếu nhất với lợi ích chiến lược Trung Quốc do chính quyền ngoại quốc thân thiện, đồng minh hoặc chư hầu, cai trị, gồm §YTriều Tiên§!, §YNhật Bản§!, §YPhilippines§! và §Ycác nước Đông Dương§!\nCác cảng §Y[408.GetName]§! và §Y[336.GetName]§! phải do Trung Quốc hoặc đồng minh nắm giữ."
+ LKT_freed_india_tt: "Toàn bộ tiểu lục địa Ấn Độ, gồm §Y[321.GetName]§!, §Y[818.GetName]§!, §Y[422.GetName]§!, §Y[323.GetName]§!, §Y[324.GetName]§!, do các chính quyền §RXã hội chủ nghĩa§! cai trị."
+ LKT_freed_SEA_tt: "Toàn bộ Đông Nam Á do các chính quyền §RXã hội chủ nghĩa§! cai trị và các thuộc địa châu Âu §Y[GEA.GetName]§!, §Y[DEI.GetName]§!, §Y[721.GetName]§! đã bị xóa bỏ."
+ LKT_freed_CEA_tt: "Toàn bộ Trung Á, gồm §Y[AFG.GetName]§!, do các chính quyền §RXã hội chủ nghĩa§! cai trị."
+ LKT_freed_AST_tt: "Toàn bộ châu Đại Dương do các chính quyền §RXã hội chủ nghĩa§! cai trị."
+ LKT_freed_HAW_tt: "Tự do vang khắp Thái Bình Dương; cả những đảo xa như §YHawaii§! cũng do các chính quyền §RXã hội chủ nghĩa§! có trách nhiệm cai trị."
+ RKT_freed_india_tt: "Toàn bộ tiểu lục địa Ấn Độ, gồm §Y[321.GetName]§!, §Y[818.GetName]§!, §Y[422.GetName]§!, §Y[323.GetName]§!, §Y[324.GetName]§!, do các chính quyền §CCùng phe§! cai trị."
+ RKT_freed_SEA_tt: "Toàn bộ Đông Nam Á do các chính quyền §CCùng phe§! cai trị và các thuộc địa châu Âu §Y[GEA.GetName]§!, §Y[DEI.GetName]§!, §Y[721.GetName]§! đã bị xóa bỏ."
+ RKT_freed_CEA_tt: "Toàn bộ Trung Á, gồm §Y[AFG.GetName]§!, do các chính quyền §CCùng phe§! cai trị."
+ RKT_freed_AST_tt: "Toàn bộ châu Đại Dương do các chính quyền §CCùng phe§! cai trị."
+ RKT_freed_HAW_tt: "Tự do vang khắp Thái Bình Dương; cả những đảo xa như §YHawaii§! cũng do các chính quyền §CCùng phe§! có trách nhiệm cai trị."
+
+#Afro-Asian Conference
+
+ KMT_afro_asian_conference_category: "Hội nghị Á-Phi"
+ KMT_afro_asian_conference_category_desc: "Kể từ khi [Root.GetLeader] tổ chức Hội nghị Á-Phi sau khi Quốc dân đảng thống nhất Trung Quốc, phong trào thúc đẩy các cường quốc xã hội chủ nghĩa đầu tư vào thế giới đang phát triển mạnh lên. Đầu tư này không chỉ để giành thiện cảm; những người tổ chức hội nghị đặt tham vọng xây dựng nền kinh tế toàn cầu mới thoát khỏi bóc lột tư bản."
+
+ KMT_invest_in_third_world_decision: "Đầu tư vào [FROM.GetNameDef]"
+ KMT_invest_in_third_world_decision_desc: "Nhân dân [FROM.GetNameDef] đã phá bỏ xiềng xích thực dân; chính phủ xã hội chủ nghĩa non trẻ có lẽ cần hỗ trợ bên ngoài để chuyển tiếp hậu thuộc địa thuận lợi. Điều này đòi hỏi chương trình toàn diện phát triển đô thị, hiện đại hóa nông nghiệp, xây dựng thể chế, đầu tư giáo dục và xóa tham nhũng, kéo dài hàng thập kỷ. Nhiều lĩnh vực chỉ dân địa phương mới xây được tương lai thịnh vượng, nhưng chút hào phóng của ta có thể giúp khởi động tiến trình."
+
+#People's Minsheng Cooperative Economic Partnership
+
+ minsheng_partnership_research_name: "Đối tác Hợp tác Công nghệ Dân sinh Nhân dân"
+ minsheng_partnership_research_desc: "Ngoài hợp tác kinh tế, Đối tác Dân sinh còn thúc đẩy hợp tác công nghệ giữa các thành viên, với hy vọng châu Á cùng bước vào thời hiện đại."
+
+ KR_minsheng_partnership_member_dynamic_mod: "$KR_minsheng_partnership_name$"
+ KR_minsheng_partnership_member_dynamic_mod_desc: "$KR_minsheng_partnership_desc$"
+ KR_minsheng_partnership_leader_dynamic_mod: "$KR_minsheng_partnership_name_leader$"
+ KR_minsheng_partnership_leader_dynamic_mod_desc: "$KR_minsheng_partnership_desc_CHI$"
+
+ KMT_minsheng_effects_layout_tabbed: "     Hiệu suất khai thác tài nguyên: [?0.10|+=%]\n     $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.05|+=%]\n     $MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|Y%]\n     Xuất khẩu tối thiểu: [?0.10|+=%]\n     $MODIFIER_RESEARCH_SPEED_FACTOR$: [?global.minsheng_partnership_research_var|+=%]"
+ KMT_minsheng_leader_effects_layout_tabbed: "     Hiệu suất khai thác tài nguyên: [?0.005|+=%]\n     $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.005|+=%]\n     $MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.002|Y%]\n     Hệ số quan hệ trong thỏa thuận thương mại: [?0.01|Y%]\n     $MODIFIER_RESEARCH_SPEED_FACTOR$: [?0.002|+=%]"
+ CHI_founder_of_minsheng_partnership: "Thành lập §H$KMT_minsheng_partnership_full_name$§!\n$KMT_minsheng_leader_effects_layout_tabbed$"
+ CHI_invitation_for_minsheng_partnership_tt: "Chúng ta sẽ mở các quyết định mời thành viên phe tham gia §H$KMT_minsheng_partnership_full_name$§!"
+ CHI_member_of_minsheng_partnership: "Trở thành thành viên §H$KMT_minsheng_partnership_full_name$§!\n$KMT_minsheng_effects_layout_tabbed$"
+ CHI_modify_minsheng_partnership: "Điều chỉnh $KR_minsheng_partnership_name_leader$\n$KMT_minsheng_leader_effects_layout_tabbed$"
+
+ KR_minsheng_partnership_tooltip: "[GetMinshengPartnershipName]\n[GetMinshengPartnershipEffects]"
+ KR_minsheng_partnership_tooltip_desc: "§L[GetMinshengPartnershipDesc]§!"
+
+ KR_minsheng_partnership_name_leader: "Lãnh đạo §H$KMT_minsheng_partnership_full_name$§!"
+ KR_minsheng_partnership_name: "Thành viên §H$KMT_minsheng_partnership_full_name$§!"
+
+ KR_minsheng_partnership_desc_CHI: "Sứ mệnh Cách mạng Quốc dân là đưa Trung Quốc, quốc gia thấm nhuần tinh thần dân tộc mạnh mẽ, vào vị trí thuận lợi nhất phương Đông để chống đế quốc. Kinh tế và lịch sử các dân tộc bị áp bức phương Đông giống Trung Quốc. Họ không nên phát triển thành quốc gia tư bản hay thuần công đoàn chủ nghĩa, mà nên noi mô hình Trung Quốc, lập \"các quốc gia Dân sinh\" thông qua §H$KMT_minsheng_partnership_full_name$§!.\n\nVì vậy, thắng lợi cách mạng buộc Trung Quốc mở kỷ nguyên mới cho nhân dân phương Đông, truyền cảm hứng lập liên minh chống đế quốc vững mạnh. Là trung tâm phong trào, Trung Quốc nên đoàn kết nhân dân phương Đông, lập cộng đồng dân tộc và kinh tế Đông Á rộng lớn. Khi tái lập bá quyền tại châu Á-Thái Bình Dương, Trung Quốc trở thành trung tâm trật tự kinh tế phương Đông mới và hưởng nhiều lợi ích từ đó."
+
+ KR_minsheng_partnership_desc: "Sứ mệnh Cách mạng Quốc dân là đưa Trung Quốc, quốc gia thấm nhuần tinh thần dân tộc mạnh mẽ, vào vị trí thuận lợi nhất phương Đông để chống đế quốc. Kinh tế và lịch sử các dân tộc bị áp bức phương Đông giống Trung Quốc. Họ không nên phát triển thành quốc gia tư bản hay thuần công đoàn chủ nghĩa, mà nên noi mô hình Trung Quốc, lập \"các quốc gia Dân sinh Nhân dân\" thông qua §H$KMT_minsheng_partnership_full_name$§!.\n\nLà thành viên trật tự kinh tế phương Đông mới, khi rồng Trung Hoa tái lập bá quyền tại châu Á-Thái Bình Dương, kinh tế ta hưởng một số lợi ích nhờ tăng thương mại, đầu tư và phát triển khu vực. Tuy nhiên, ai cũng nhận thấy cơ chế chủ yếu có lợi cho Trung Quốc: hàng xuất khẩu các thuộc địa mới giải phóng chuyển từ mẫu quốc cũ sang Quảng Châu và Thượng Hải. Chúng ta chỉ có thể hy vọng những người \"giải phóng\" đồng ý một thỏa thuận công bằng hơn trong tương lai; hiện họ tự cho quyền hưởng phần thưởng với tư cách \"người thầy\" trong thời kỳ huấn chính của ta."
+
+ KR_minsheng_partnership_effects_CHI: "Hiệu suất khai thác tài nguyên: [?KMT_minsheng_local_resources_var|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?KMT_minsheng_construction_var|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?KMT_minsheng_consumer_goods_var|Y%]\nHệ số quan hệ trong thỏa thuận thương mại: [?KMT_minsheng_trade_opinion_var|Y%]\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?KMT_minsheng_research_speed_var|+=%]"
+ KR_minsheng_partnership_effects: "Hiệu suất khai thác tài nguyên: [?0.1|+=%]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.05|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!\nTài nguyên đưa ra thị trường: [?0.1|+=%Y]\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?global.minsheng_partnership_research_var|+=%]"
+
+#Zeal Events
+ RKT.zealmechanic.001.t: "Tam Dân bị sửa đổi tại [FROM.GetNameDef]!"
+ RKT.zealmechanic.001.d: "Các tác phẩm về kiến quốc của Tôn Trung Sơn, đặc biệt bài giảng Tam Dân và ba giai đoạn cách mạng, luôn là trung tâm tư tưởng Quốc dân đảng. Gần như kinh thánh với đảng viên trung thành, mọi lệch lạc khỏi chính thống đều bị nghi ngờ, còn cố tình bóp méo để tư lợi bị khinh miệt sâu sắc.\n\nThế nhưng quan chức [FROM.GetNameDef] dường như đang làm đúng điều ấy, xuyên tạc lời Tổng lý vĩnh viễn dưới danh nghĩa \"dung hòa\" với chính sách [FROM.GetAdjective] hiện có. Khi bị chất vấn, [FROM.GetLeader] khăng khăng đó là nhu cầu thực tế và truyền thống chính trị [FROM.GetAdjective] đòi hỏi sửa đổi Tam Dân phần nào để tiếp nhận.\n\nLời viện dẫn lợi ích chung dường như che giấu sự thiếu niềm tin vào tầm nhìn Quốc dân đảng, có lẽ cả sự bất trung với [ROOT.GetLeader]. Dù vậy, việc đã rồi, sửa sai chính quyền tỉnh sẽ không rẻ. Nhưng đôi khi phải trả giá đắt để giữ tư tưởng người sáng lập đảng trong sạch."
+ RKT.zealmechanic.001.a: "Phải thực thi đường lối chính thống của đảng!"
+ RKT.zealmechanic.001.b: "Linh hoạt một chút cũng chẳng hại gì..."
+
+ RKT.zealmechanic.002.t: "Sự trung thành của [FROM.GetAdjective] với Tam Dân"
+ RKT.zealmechanic.002.d: "Chủ nghĩa Tam Dân của Tôn tiên sinh luôn sâu sắc, đi thẳng vào các thách thức Trung Quốc đối mặt. Lời lẽ ấy có sức nặng cả ở nơi quyền lực trung ương chưa vươn tới. Dù xa [ROOT.Capital.GetCapitalVictoryPointName], chính quyền [FROM.GetNameDef] đã chăm chỉ thu hẹp khoảng cách bằng cách \"đảng hóa\" bộ máy.\n\nViệc gần đây tuân thủ chỉ thị trung ương và loại bỏ tư tưởng cạnh tranh với học thuyết đảng làm [ROOT.GetLeader] cùng cộng sự hài lòng, báo hiệu [FROM.GetAdjective] ngày càng phục tùng. Không nên diễn giải quá mức; trên thực tế họ vẫn ngoan cố giữ tự chủ hành chính.\n\nTuy vậy, cách tận dụng xu hướng này vẫn chưa được quyết định. Dù [FROM.GetLeader] có lẽ muốn nâng tinh thần đảng, ta cũng có thể dùng cơ hội kéo ông gần mình hơn."
+ RKT.zealmechanic.002.a: "Cơ hội đưa họ vào hàng ngũ."
+ RKT.zealmechanic.002.b: "Tấm gương cho mọi người trung thành!"
+
+ RKT.zealmechanic.003.t: "Địa phương bất tuân tại [FROM.GetNameDef]!"
+ RKT.zealmechanic.003.d: "Việc [FROM.GetLeader] được cho là quy phục trung ương không ngăn họ khăng khăng giữ đặc quyền địa phương. Dù đồng ý để họ tự quyết phần nào khi huấn chính trong tỉnh, thỏa thuận ngầm cho phép quan chức [ROOT.GetAdjective] giám sát công việc địa phương.\n\nNhưng nỗ lực thực thi quyền hạn chính đáng chỉ gặp phá hoại và nghi kỵ từ quan chức [FROM.GetAdjective]. Ngày càng rõ đây là hành động cố ý của [FROM.GetLeader] nhằm ngăn quá trình đưa [FROM.GetNameDef] vào quyền cai trị của ta.\n\nỞ bất cứ nước nào khác, sự xấc xược ấy không thể dung thứ; nhưng giữa khủng hoảng, lựa chọn không dễ. Cưỡng chế sẽ gây bất ổn thỏa thuận chính trị khi đoàn kết hiếm hoi. Tuy nhiên, bất trung lại sinh bất trung; dung túng địa phương chủ nghĩa sẽ khiến người ta nghi ngờ khả năng kiểm soát quân phiệt của ta."
+ RKT.zealmechanic.003.a: "Phải bắt họ phục tùng."
+ RKT.zealmechanic.003.b: "Cuối cùng tất cả sẽ quy phục."
+
+ RKT.zealmechanic.004.t: "[FROM.GetAdjective] ủng hộ sự nghiệp quốc gia!"
+ RKT.zealmechanic.004.d: "Trung thành với sự nghiệp quốc gia đi kèm trách nhiệm đạo đức. Cách mạng xây bằng tình yêu và hy sinh; cũng như binh sĩ, liệt sĩ hiến mạng vì đất nước, các tỉnh phải đóng góp của cải, sức lực, tài nguyên vì lợi ích chung.\n\n[FROM.GetLeader] dường như hiểu rất rõ bài học này, thể hiện qua lượng đóng góp từ [FROM.GetNameDef] cho trung ương tăng lên, dù có lẽ tạm thời. Một trường hợp vị tha hiếm có thời quân phiệt; niềm tin vào lãnh đạo ta là diễn biến đáng mừng.\n\nDù vậy, người trao niềm tin cũng mong được đáp lại. Thực tế đáng buồn là lãnh đạo phải sẵn sàng quyết định khó khăn. Ta có thể dùng nguồn lực này củng cố vị thế, ổn định cai trị dù tổn hại cách mạng chung; hoặc dùng nguồn thu tăng để hỗ trợ mọi mặt trận, tăng nhiệt tình với chương trình quốc gia của Quốc dân đảng."
+ RKT.zealmechanic.004.a: "Thực tế là [ROOT.Capital.GetCapitalVictoryPointName] phải được ưu tiên."
+ RKT.zealmechanic.004.b: "Sự anh hùng của họ giúp mọi người yêu nước."
+
+ RKT.zealmechanic.005.t: "Tính chính danh của đảng bị chiếm dụng tại [FROM.GetNameDef]!"
+ RKT.zealmechanic.005.d: "Uy tín Quốc dân đảng vẫn bền bỉ qua nhiều năm và nhiều thất bại nặng nề. Thông điệp Tôn tiên sinh thực sự chạm tới lòng dân, mang hy vọng giữa loạn lạc. Nhưng với nhiều quân phiệt, chân lý ấy dễ bị bóp méo thành bất cứ điều gì phục vụ tư lợi, một sự xuyên tạc cố ý và tàn nhẫn đối với lời hiệu triệu giải phóng.\n\nMọi quân phiệt đều làm ít nhiều, nhưng gần đây [FROM.GetLeader] và phe cánh đặc biệt trơ trẽn, khoác hình thức Quốc dân đảng lên quyền cai trị và tự nhận ngang hàng trong việc kế thừa đảng.\n\nSự đánh cắp tính chính danh đầy vụ lợi này khiến những người lý tưởng cay đắng, kéo theo chỉ trích toàn bộ cách mạng. Trấn an họ về lòng trung thành của ta và bắt [FROM.GetLeader] phục tùng sẽ không dễ, nhưng có lẽ cần thiết để tránh nhiệt tình suy giảm rộng hơn."
+ RKT.zealmechanic.005.a: "Phải bảo đảm với nhân dân rằng ta tốt hơn chúng."
+ RKT.zealmechanic.005.b: "Nhân dân sẽ tự nhìn thấu trò bịp của chúng."
+
+ RKT.zealmechanic.006.t: "Những người yêu nước [FROM.GetAdjective] tập hợp!"
+ RKT.zealmechanic.006.d: "Quốc dân đảng vượt qua bao thử thách suốt nhiều thập kỷ bởi dù đối thủ có bao nhiêu súng hay ngoại bang đổ bao nhiêu vàng, lời giải phóng vẫn thực sự chinh phục lòng dân.\n\nTuy nhiên, giữa quân phiệt và chia rẽ luôn có kẻ đặt tư lợi trên nhu cầu quốc gia. Vì vậy hiếm khi thấy chính quyền địa phương ưu tiên ta hơn họ, thực thi quyền đảng quốc chống phản động, dập tắt bất đồng từ những người thích sự tham nhũng của trật tự cũ.\n\nHành động này mang lại nhiều lời khen cho [FROM.GetLeader], giúp ta huy động nhiều người chiến đấu. Câu hỏi giờ là hướng làn sóng đấu tranh ấy vào kẻ thù bên trong hay bên ngoài."
+ RKT.zealmechanic.006.a: "Quân phiệt và phản động run rẩy trước chúng ta!"
+ RKT.zealmechanic.006.b: "Đế quốc ngoại bang sẽ sợ cơn thịnh nộ của ta!"
+###Focus
+ KMT_white_sun: "Bạch Nhật trên Trung Hoa"
+ KMT_white_sun_desc: "Dù gian nan, cuối cùng chúng ta đã củng cố quyền cai trị cả nước và có thể chính thức thành lập nền cộng hòa mới dưới Bạch Nhật. Nay phải đặt nền móng cho giai đoạn cách mạng tiếp theo, hợp nhất mọi tỉnh vào các cơ quan chính quyền."
+
+ KMT_tridemism: "Học thuyết Tam Dân"
+ KMT_tridemism_desc: "Chủ nghĩa Tam Dân là nền tảng triết lý chính trị Tôn Trung Sơn và Quốc dân đảng. Ba nguyên tắc dẫn dắt chính sách, quyết định của chính phủ; nhân dân phải hiểu tầm quan trọng của chúng trong cuộc đấu tranh sắp tới."
+
+ KMT_organic_law: "Luật Tổ chức của nền Cộng hòa"
+ KMT_organic_law_desc: "Trong khi huấn chính tiếp tục và hiến pháp cuối cùng đang soạn thảo, Luật Tổ chức Chính phủ Quốc dân đã được ban hành. Luật tổ chức lại chính phủ thành năm viện và củng cố việc Quốc dân đảng thực thi chủ quyền trong thời kỳ huấn chính."
+
+ KMT_minzu_focus: "Dân tộc"
+ KMT_minzu_focus_desc: "Dân tộc là một trong ba nguyên tắc của Tôn Trung Sơn, xoay quanh đời sống, ngôn ngữ, tôn giáo, phong tục chung và quan trọng nhất là chung huyết thống. Đoàn kết quốc gia là tối quan trọng để thành công, giúp Trung Quốc thắng các nước khác trong cuộc tranh giành ưu thế."
+
+ KMT_minquan_focus: "Dân quyền"
+ KMT_minquan_focus_desc: "Dân quyền, hay dân chủ, là nguyên tắc thứ hai của Tôn Trung Sơn. Xây dựng thể chế dân chủ và chuẩn bị cho nhân dân sử dụng là mục tiêu quan trọng hàng đầu của Cách mạng Quốc dân; về lâu dài sẽ chứng minh đảng là lựa chọn tốt nhất cho Trung Quốc."
+
+ KMT_legislature: "Viện Lập pháp"
+ KMT_legislature_desc: "Dù Trung Quốc chưa sẵn sàng bầu cử đầy đủ, Chính phủ Quốc dân cần bắt đầu lập các thể chế mà một ngày dân chủ sẽ dùng để thể hiện ý chí. Viện Lập pháp, gồm đại diện Quốc dân đảng từ cả vùng kiểm soát và tranh chấp, sẽ tiếp nhận trách nhiệm lập pháp từ Ủy ban Trung ương."
+
+ KMT_land_reform: "Cải cách ruộng đất Quốc dân"
+ KMT_land_reform_desc: "Nông dân chiếm đại đa số dân số nhưng ít người sở hữu đất mình cày, khiến cơ hội tiến bộ kinh tế-xã hội bị dập tắt. Cải cách ruộng đất là cần thiết để cải thiện sinh kế, giảm căng thẳng xã hội. Chừng nào nông dân còn thuê đất của địa chủ tham nhũng thay vì sở hữu, họ chưa thể tự do."
+
+ KMT_rent_control: "Thuế giá trị đất"
+ KMT_rent_control_desc: "Tôn Trung Sơn thúc đẩy áp dụng thuế giá trị đất để cải thiện tài chính quốc gia, hỗ trợ cải cách ruộng đất và tạo hệ thống kinh tế, thuế công bằng hơn. Chúng ta phải thực hiện tầm nhìn ấy để hiện đại hóa đất nước và cải thiện kinh tế."
+
+ KMT_minsheng: "Dân sinh"
+ KMT_minsheng_desc: "Dân sinh, thường hiểu là phúc lợi nhân dân, là nguyên tắc cuối cùng của Tôn Trung Sơn. Sau khi áp dụng thuế giá trị đất, các chương trình xã hội sẽ được lập và mở rộng, giúp công nông nâng chất lượng sống thông qua trợ cấp thực phẩm, quần áo và nhà ở."
+
+ KMT_revive_china: "Chương trình Chấn hưng Trung Hoa"
+ KMT_revive_china_desc: "Không có Quốc dân đảng sẽ không có Trung Quốc mới. Cần chương trình quy hoạch và sáng kiến nhà nước sâu rộng để đưa Trung Quốc ngang tầm phương Tây và cứu nền kinh tế bị tàn phá."
+
+ KMT_national_mausoleum: "Xây Quốc lăng"
+ KMT_national_mausoleum_desc: "Đã quá muộn để tôn vinh những người hy sinh vì nền dân chủ Trung Quốc. Một quốc lăng sẽ được xây ngoài [Root.Capital.GetCapitalVictoryPointName] để an táng Tôn Trung Sơn và các nhà cách mạng nổi bật khác."
+
+ KMT_civil_service: "Mở rộng nền công vụ"
+ KMT_civil_service_desc: "Để bền vững lâu dài, Chính phủ Quốc dân phải vượt lên trên một phe quân phiệt hay đảng quốc. Cần bắt đầu xây dựng nền công vụ độc lập với cả bộ máy Quốc dân đảng lẫn quân đội."
+
+ KMT_academia_sinica: "Viện Nghiên cứu Trung ương"
+ KMT_academia_sinica_desc: "Để thúc đẩy năng lực khoa học nội địa, Quốc dân đảng phải cam kết thành lập và tài trợ các cơ sở nghiên cứu học thuật riêng. Viện Nghiên cứu Trung ương, được đề xuất từ lâu nhưng chưa thực hiện, sẽ là trung tâm nỗ lực này khi thành lập đầy đủ."
+
+ KMT_national_reconstruction_commission: "Ủy ban Kiến thiết Quốc gia"
+ KMT_national_reconstruction_commission_desc: "Lấy cảm hứng từ đề xuất của Trương Tĩnh Giang, Chính phủ Quốc dân nên lập Ủy ban Kiến thiết Quốc gia do trung ương chỉ đạo, quy hoạch chương trình đầu tư vốn và tiêu chuẩn hóa toàn quốc. Chương trình gồm nhiều nỗ lực có quy mô phát triển độc lập, tập trung quanh các trung tâm dân cư lớn."
+
+ KMT_bopomofo: "B, P, M, F..."
+ KMT_bopomofo_desc: "Cách Latinh hóa tiếng Quan thoại và cả cách dạy chữ Hán hiện tại rất bất cập với trẻ em và người bình thường. Cần lập chuẩn ký âm mới tương tự bảng Hiragana Nhật Bản, phổ biến khắp hệ thống giáo dục để chuẩn hóa phương ngữ Trung Quốc và mở rộng giao lưu với phương Tây."
+
+ KMT_triumphant_revolution: "Cách mạng toàn thắng"
+ KMT_triumphant_revolution_desc: "Trung Quốc cuối cùng thống nhất dưới Thanh Thiên, Bạch Nhật, Mãn Địa Hồng của Quốc dân đảng. Dù còn xa mới hồi phục sau Thế kỷ Quốc nhục, chúng ta đã thực hiện giấc mơ của cố Tôn tiên sinh."
+
+ KMT_renovate_whampoa: "Mở rộng Trường Quân sự Hoàng Phố"
+ KMT_renovate_whampoa_desc: "Trường Quân sự Quốc dân đảng do Tôn Trung Sơn lập năm 1924 tại Hoàng Phố gần Quảng Châu, đào tạo đội ngũ sĩ quan có ý thức chính trị. Trước đây chỉ khôi phục là đủ, nhưng biến Quốc dân Cách mệnh quân thành quân đội quốc gia thực sự đòi hỏi mở rộng Hoàng Phố để cung cấp sĩ quan vừa có năng lực vừa đáng tin chính trị."
+
+ KMT_central_military_academy: "Thành lập Trường Quân sự Trung ương"
+ KMT_central_military_academy_desc: "Cách mạng đã nắm vững Trung Quốc, không cần giữ Hoàng Phố tại Quảng Châu nữa. Trường danh tiếng sẽ chuyển đến thủ đô để tạo học viện quân sự tập trung, hỗ trợ cơ cấu chỉ huy trung ương và khuyến khích tân binh khắp nước học từ các sĩ quan giỏi nhất."
+
+ KMT_standardised_arsenals: "Tiêu chuẩn hóa xưởng quân giới"
+ KMT_standardised_arsenals_desc: "Suốt nhiều thập kỷ, xưởng quân giới Trung Quốc nằm dưới các chính quyền tỉnh và trung ương khác nhau, phần lớn độc lập. Nay nhiều xưởng thuộc quyền ta, vấn đề hậu cần do mỗi xưởng sản xuất vũ khí, cỡ đạn khác nhau cho cùng một quân đội rất nghiêm trọng và cần sớm khắc phục."
+
+ KMT_small_arms_development: "Phát triển vũ khí bộ binh"
+ KMT_small_arms_development_desc: "Dù nhiều chính quyền trung ương và tỉnh cố nâng cấp, súng trường phổ biến nhất vẫn là Mẫu 88 lâu đời, rất lạc hậu. Biến tiêu chuẩn hóa bằng súng trường hiện đại mới thành thực tế thay vì kế hoạch giấy là ưu tiên hàng đầu để cải thiện năng lực quân sự yếu kém so với quân đội hiện đại."
+
+ KMT_artillery_modernisation: "Hiện đại hóa pháo binh"
+ KMT_artillery_modernisation_desc: "Pháo binh là vua chiến trường; pháo hiện đại từng là xa xỉ thời quân phiệt. Với khả năng của Trung Quốc thống nhất, chúng ta có thể hiện đại hóa pháo và đưa hỏa lực gần chuẩn thế giới hơn."
+
+ KMT_tank_arsenal: "Chiến tranh thiết giáp"
+ KMT_tank_arsenal_desc: "Trung Quốc đã chú ý sự phát triển chiến tranh thiết giáp, nhưng phát triển và sử dụng nó trong nước từng chỉ là giấc mơ. Nay thống nhất, mạnh hơn bao giờ hết, đã đến lúc nghiên cứu công nghệ tiên tiến này như bước đệm quan trọng của hiện đại hóa."
+
+ KMT_new_model_army: "Quân đội kiểu mới"
+ KMT_new_model_army_desc: "Quân đội tình nguyện chuyên nghiệp sẽ là tương lai quân đội Trung Quốc: quy mô nhỏ hơn, tận tụy với Tam Dân và Cách mạng Quốc dân, coi trọng chất lượng hơn số lượng. Điều này tạo tinh thần đồng đội và kỷ luật cao hơn, đào tạo binh sĩ giỏi có thể hoàn thành nhiệm vụ khó và chấp hành mệnh lệnh khó khăn."
+
+ KMT_professionalisation: "Rèn kỷ luật quân đội"
+ KMT_professionalisation_desc: "Quân đội mới sẽ chuyên nghiệp, tập trung toàn thời gian huấn luyện, đề cao kỷ luật và kỹ năng. Tấm gương Thiết quân sẽ thành hình mẫu quân đội chuyên nghiệp hiện đại, sánh với bất kỳ cường quốc phương Tây nào."
+
+ KMT_peoples_army: "Quân đội Nhân dân"
+ KMT_peoples_army_desc: "Quân đội Trung Quốc nên tận dụng nhân lực và quy mô để chiến đấu. Đó phải là quân đội nhân dân, đại diện và bảo vệ nhân dân, trụ cột thống nhất quốc gia thay vì áp bức, đàn áp."
+
+ KMT_conscription: "Đoàn kết qua quân ngũ"
+ KMT_conscription_desc: "Nghĩa vụ quân sự rộng rãi đưa người nhiều vùng lại với nhau, cho trải nghiệm chung và giúp họ coi nhau như anh em: minh chứng cụ thể, chân thực về tình đồng bào thay vì khái niệm quốc gia mơ hồ. Đoàn kết quốc gia sẽ được củng cố."
+
+ KMT_NRA: "Quốc dân Cách mệnh quân hồi sinh"
+ KMT_NRA_desc: "Dù quân đội gặp nhiều vấn đề sau thống nhất, chúng ta đã cải cách thành công để hiện đại hóa và trang bị cho xung đột tương lai. Mỗi ngày có tân binh háo hức chờ được cựu binh dạn dày huấn luyện. Là quân đội chân chính của nền Cộng hòa Trung Hoa, lực lượng vũ trang sẽ chứng minh thành công hiện đại hóa cho các thế hệ sau. Quốc dân Cách mệnh quân muôn năm, Trung Quốc Quốc dân đảng muôn năm!"
+
+ KMT_aviation_school: "Chính quy hóa trường hàng không"
+ KMT_aviation_school_desc: "Trung Quốc có trường phi công nhưng ít và khá vô tổ chức. Chính quy hóa trường học, lập giáo trình phù hợp cho phi công và đội bảo dưỡng sẽ giúp xây lực lượng không quân đúng nghĩa."
+
+ KMT_new_aircraft_factories: "Các nhà máy máy bay mới"
+ KMT_new_aircraft_factories_desc: "Miền Nam có một số xưởng máy bay nhỏ được lập trong một, hai thập kỷ qua, nhưng chỉ đủ sửa số ít máy bay hiện có. Xây nhà máy đúng nghĩa là bước tiếp theo để phát triển ngành hàng không non trẻ, một trụ cột của thời hiện đại."
+
+ KMT_native_fighter_design: "Thiết kế tiêm kích nội địa"
+ KMT_native_fighter_design_desc: "Đã có nhiều nỗ lực chế tạo máy bay Trung Quốc, chủ yếu dựa mẫu nước ngoài. Với chuyên gia ngoại quốc hỗ trợ và đội ngũ kỹ thuật trong nước tăng lên, ta nay có khả năng phát triển mẫu riêng hơn bao giờ hết, xây không quân hiện đại bảo vệ bầu trời."
+
+ KMT_naval_bomber: "Dự án máy bay ném bom hải quân"
+ KMT_naval_bomber_desc: "Ban đầu bị xem nhẹ, máy bay mang ngư lôi và bom xuyên giáp nhanh chóng thành đe dọa nghiêm trọng với cả chiến hạm lớn nhất. Công nghệ này có thể đúng thứ Trung Quốc cần: cách tiết kiệm chi phí để tiêu diệt hạm đội địch lớn hơn nhiều đang đe dọa bờ biển."
+
+ KMT_medium_bomber: "Phi đội ném bom chiến thuật"
+ KMT_medium_bomber_desc: "Máy bay ném bom chiến thuật hạng trung mang lại tính linh hoạt cho không quân với khả năng làm nhiều nhiệm vụ. Tất nhiên, thiết kế máy bay lớn như vậy là điều chưa từng có với chúng ta và chắc chắn đầy thách thức."
+
+ KMT_light_bomber: "Yểm trợ đường không cho lục quân"
+ KMT_light_bomber_desc: "Máy bay ném bom nhẹ đóng vai trò pháo binh bay là cách tốt nhất để không quân hỗ trợ tác chiến mặt đất. Tập trung máy bay yểm trợ gần là hợp lý khi xây không quân hiện đại."
+
+ KMT_expand_dockyard: "Mở rộng xưởng tàu Cộng hòa"
+ KMT_expand_dockyard_desc: "Thống nhất quốc gia hoàn tất, tầm nhìn Tôn tiên sinh thành hiện thực, nay cần biến các lực lượng hải quân tỉnh non trẻ thành hải quân quốc gia mới. Hãy hồi sinh Hải quân Trung Hoa Dân quốc dưới cờ Bạch Nhật, khuyến khích xây xưởng tàu khắp bờ biển để đáp ứng nhu cầu tàu tăng lên."
+
+ KMT_incorporate_beiyang_fleet: "Hợp nhất Hạm đội Bắc Dương"
+ KMT_incorporate_beiyang_fleet_desc: "Sau chiến tranh thống nhất, một số đô đốc và sĩ quan hải quân giỏi nhất Trung Quốc lại thất nghiệp. Chúng ta sẽ ân xá hoàn toàn để họ huấn luyện, dẫn dắt thế hệ thủy thủ tiếp theo trên biển lớn trong hải quân cách mạng mới."
+
+ KMT_destroyers: "Hải đội khu trục hiện đại"
+ KMT_destroyers_desc: "Tàu khu trục là xương sống mọi hải quân hiện đại, nhất là lực lượng non trẻ như Trung Quốc. Chúng sẽ bảo vệ bờ biển, tuyến hàng hải và chiến hạm lớn trước tàu ngầm, tàu tấn công nhỏ."
+
+ KMT_submarines: "Phát triển tàu ngầm"
+ KMT_submarines_desc: "Tàu ngầm đang chứng minh vai trò không thể thiếu trong hải chiến hiện đại. Với hải quân hạn chế như ta, chúng có thể là cứu tinh, cho phép đánh đối thủ mạnh hơn nhiều bằng cách tập kích vận tải và quấy rối hạm đội lớn."
+
+ KMT_cruisers: "Tàu tuần dương cho hạm đội"
+ KMT_cruisers_desc: "Tàu tuần dương quan trọng cho trinh sát và hộ vệ; thực tế có thể là chiến hạm lớn nhất ta đủ khả năng đóng lúc này."
+
+ KMT_coastal_defence: "Tập trung phòng thủ bờ biển"
+ KMT_coastal_defence_desc: "Lập kế hoạch hạm đội lớn cạnh tranh cường quốc hải quân là điên rồ. Vì vậy, ta phải tập trung hải quân linh hoạt hơn, đủ bảo vệ bờ biển dài và lợi ích tại Thái Bình Dương."
+
+ KMT_grand_fleet: "Đại hạm đội"
+ KMT_grand_fleet_desc: "Muốn Trung Quốc được coi là cường quốc đúng vị thế, hải quân là không thể thiếu. Dù chắc chắn là kế hoạch rất dài hạn, hải quân hùng mạnh phải bắt đầu từ đâu đó, và phải bắt đầu ngay."
+
+ ###Ideas
+
+ KMT_revolution_minsheng: "Chủ nghĩa Tam Dân"
+
+ KMT_economy_1: "Kinh tế hồi sinh"
+
+ KMT_model_army_1: "Quân đội kiểu mới"
+
+ KMT_peoples_army_1: "Quân đội Nhân dân"
+
+ KMT_model_army_3: "Quốc dân Cách mệnh quân cải tổ"
+
+### Other Stuff
+
+ RKT_wang_jingwei_advisor_desc: "§YSinh:§! §gNgày 4 tháng 5 năm 1883, tại Tam Thủy, tỉnh Quảng Đông, Đại Thanh§!\n§YPhe phái:§! §gRCA§!\n§YTiểu sử:§! §L Thời trẻ, Uông Tinh Vệ say mê cuộc đời Saigo Takamori và Katsu Kaishu, coi họ là hình mẫu đã biến Nhật Bản lạc hậu thành nước công nghiệp. Tự hỏi vì sao Trung Quốc trì trệ, ông tìm đến tác phẩm Lương Khải Siêu và Tôn Trung Sơn. Ở Tôn, ông thấy người thầy kính yêu; trong Đồng minh Hội, ông nổi danh toàn quốc khi mưu sát Nhiếp chính Tải Phong, cha vua Phổ Nghi, dù thất bại và bị cầm tù.\n\nCách mạng Tân Hợi nổ ra, Uông được thả nhưng từ chối thề trung thành với Tôn đang vỡ mộng vì bị chính trường và quân phiệt gạt sang bên. Ông sang Pháp, rồi trở về không lâu sau khi Tôn khải hoàn về Quảng Châu năm 1921 để tham gia chính phủ cách mạng của Quốc dân đảng mới thành lập. Uông dự cuộc cải tổ đảng năm 1924, dần đại diện cánh tả đang lớn mạnh, dù không tự coi mình là nhà tư tưởng xã hội chủ nghĩa. Khi Tôn mất năm 1925, Uông có mặt bên giường bệnh và giúp viết di chúc.\n\nBộ ba Hồ Hán Dân, Tưởng Giới Thạch và Uông Tinh Vệ nhanh chóng bước vào cuộc tranh quyền cay đắng nhất nhì trong đảng. Uông chiến thắng sau khi Hồ lưu vong sang Moskva, còn Tưởng bị ám sát sau thất bại Bắc phạt. Nhưng cuộc viễn chinh sụp đổ buộc Uông cùng đồng minh chính trị chạy sang châu Âu, hy vọng ngày trở về thực hiện cách mạng của Tôn.\n\nTrong lưu vong, ông củng cố vị trí lãnh đạo Ủy ban Trung ương cánh tả, cạnh tranh với Ủy ban cánh hữu của Hồ. Nhờ Quốc tế và cuộc nổi dậy Mân-Cám hỗ trợ, ông mong giành chức Chủ tịch Quốc dân đảng.\n\nSố phận không chiều ý; phong trào sụp đổ, Uông dùng tài sinh tồn chính trị để chuyển từ đại diện chủ nghĩa xã hội sang một người dân tộc chủ nghĩa cánh tả đơn thuần, mong tìm chỗ đứng trong Quốc dân đảng của đối thủ.§!"
+
+ CHI_song_qingling_advisor_desc: "§YSinh:§! Ngày 27 tháng 1 năm 1893, tại Thượng Hải, Khu tô giới Quốc tế Thượng Hải\n§YPhe phái:§! §gPAC§!\n§YTiểu sử:§! §L Nổi loạn từ trẻ, Tống Khánh Linh thách thức cha mẹ phản đối cuộc hôn nhân với Tôn Trung Sơn, thậm chí bỏ nhà để cưới nhà cách mạng. Được giáo dục phương Tây, thông thạo Anh và Trung, duyên dáng, thanh lịch và nhân hậu, bà thể hiện lòng trung thành tuyệt đối khi bảo Tôn trốn trước trận pháo kích của quân phiệt Trần Quýnh Minh, dù theo ghi chép bà bị sảy thai và không thể sinh con nữa.\n\nLuôn bên chồng, bà có mặt khi Tôn đồng ý hợp tác Quốc tế thứ Ba và ở giường bệnh khi di chúc cuối cùng được đọc. Rồi Bắc phạt diễn ra; bà tham gia với vị thế góa phụ Tôn tiên sinh khiến không ai trong đảng dám đụng đến hay thách thức. Khi viễn chinh thất bại, bà không xem đó là thất bại cách mạng. Bà cùng tướng cánh tả chạy về khu nổi dậy Mân-Cám, thường xuyên đi lại giữa căn cứ và Thượng Hải để tìm viện trợ cho chiến tranh du kích chống quân phiệt Trực Lệ đáng khinh.\n\nSát cánh cùng bà là người bạn thân Đặng Diễn Đạt. Gắn bó từ những ngày tươi đẹp của chính phủ cách mạng Quảng Châu, họ trở thành anh em trong đấu tranh. Cả hai lập Ủy ban Hành động Lâm thời, tin mình phải hoàn thành giấc mơ Tôn tiên sinh.\n\nNhưng người thực hiện di nguyện chồng bà lại không phải họ. Dù tiếp tục chống Quốc dân đảng của Hồ Hán Dân, lời khẩn cầu của Trần Hữu Nhân và em trai Tống Tử Văn khiến bà miễn cưỡng ủng hộ chính phủ mới; Đặng Diễn Đạt cũng làm theo.§!"
+
+ KMT_lead_the_liberation_of_asia: "Lãnh đạo công cuộc giải phóng châu Á"
+ KMT_lead_the_liberation_of_asia_desc: "Cách mạng Quốc dân Trung Quốc phát triển thành cách mạng lớn hơn cho các dân tộc châu Á bị áp bức chống tai họa đế quốc là tiến trình tự nhiên. Những năm qua, chúng ta chứng minh với thế giới phương pháp của mình mang tự do và giải phóng, rằng Tam Dân sẽ giải phóng mọi người lắng nghe."
+
+ KMT_demand_concessions_return: "Yêu cầu hoàn trả các tô giới"
+ KMT_demand_concessions_return_desc: "Chúng ta từng đau đớn vì nỗi nhục bán đứng đồng bào cho đế quốc. Không quên anh chị em Thượng Hải nhiều năm dẫn dắt tinh thần cách mạng chống thế lực phản động. Nay ta lãnh đạo Trung Quốc mới, cuối cùng có thể đứng lên chống chế độ ủy trị Sứ quán nhục nhã. Chúng ta sẽ giải phóng đồng bào, bằng hòa bình hay vũ lực."
+
+ KMT_consolidate_the_frontiers: "Củng cố biên cương"
+ KMT_consolidate_the_frontiers_desc: "Ưu tiên là khẳng định Tây Tạng, Mông Cổ và Tân Cương vốn thuộc quốc gia Trung Hoa vĩ đại. Đồng bào các dân tộc đã bị đế quốc áp bức quá lâu, vẫn mong ta dẫn đến Cách mạng Quốc dân. Như cố Tôn tiên sinh dạy, khi đoàn kết và dẫn dắt họ, đất nước, nền văn minh sẽ lại vĩ đại."
+
+ KMT_beyond_macmahon_line: "Vượt đường MacMahon"
+ KMT_beyond_macmahon_line_desc: "Đường MacMahon bị Anh vạch bất công, cưỡng ép nhượng Tawang cho Tây Tạng ly khai. Quyết định không có sự chấp thuận của ta là nỗi phẫn nộ quốc gia, sỉ nhục quyền can thiệp công việc của chính mình, bởi việc Tây Tạng là việc Trung Quốc. Nay đất nước hùng mạnh trở lại, ta sẽ tiến lên khôi phục danh dự và toàn vẹn lãnh thổ."
+
+ KMT_secure_the_northern_frontier: "Bảo đảm biên giới phía Bắc"
+ KMT_secure_the_northern_frontier_desc: "Vị trí gần cùng chế độ phản động của Nga luôn nhắc ta rằng đế quốc không chỉ đe dọa từ Tây mà cả Bắc. Nga tham lam nhòm ngó yêu sách Mông Cổ của ta; đừng quên Ngoại Mãn Châu từng thuộc Trung Quốc rộng lớn. Muốn giữ biên giới, phải bất ngờ đánh Gấu Nga bằng sức mạnh lớn."
+
+ KMT_liberate_southeast_asia: "Giải phóng Đông Nam Á"
+ KMT_liberate_southeast_asia_desc: "Nam Hải từ thời Đại Minh nằm trong ảnh hưởng văn hóa, xã hội, kinh tế và chính trị Trung Quốc. Đông Nam Á từ lâu có cả đồng chí lẫn đế quốc, cùng đồng bào hải ngoại mong mỏi, ủng hộ giải phóng. Nay cuối cùng có thể đáp lại, dùng sức mạnh Trung Quốc đoàn kết tất cả."
+
+ KMT_we_will_liberate_taiwan: "Chúng ta sẽ giải phóng Đài Loan!"
+ KMT_we_will_liberate_taiwan_desc: "Không bi kịch nào lớn hơn việc bán đứng đồng bào cho đế quốc Nhật khi nhượng đảo Đài Loan. Nay Trung Quốc mạnh trở lại, đoàn tụ với đồng bào Đài Loan là nghĩa vụ quốc gia. Anh chị em Đài Loan mong giải phóng; ta sẽ phá xiềng xích cho họ, thống nhất đất nước lần nữa."
+
+ KMT_two_suns_in_sky: "Hai mặt trời trên bầu trời"
+ KMT_two_suns_in_sky_desc: "Có lẽ không nước đế quốc nào man rợ hơn Nhật Bản. Nhân dân ta chịu bất công trắng trợn từ Nhật, kẻ luôn muốn lợi dụng nền văn minh Trung Quốc. Nhiều đồng bào còn nhớ sự tàn phá trong Chiến tranh Kháng chiến. Nay quốc gia hồi sinh, đã đến lúc ngăn chúng lợi dụng lần nữa."
+
+ KMT_strike_german_east_asia: "Tấn công Đông Á thuộc Đức"
+ KMT_strike_german_east_asia_desc: "Quốc gia phản động tư bản [GER.GetNameDef] chỉ muốn bóc lột nhân dân, đất nước Trung Quốc. Chính lúc Bắc phạt cao trào, đòn đánh sau lưng của Đức khiến sự nghiệp cứu nước sụp đổ. Chừng nào đế quốc ấy còn ở châu Á, nhân dân châu Á chưa thể tự do. Cứu họ là nghĩa vụ của ta."
+
+ KMT_secure_the_southern_seas: "Bảo đảm các vùng biển phương Nam"
+ KMT_secure_the_southern_seas_desc: "Biển Đông và vùng xa hơn từ lâu chịu quyền kiểm soát hàng hải Trung Quốc; dưới ảnh hưởng Trung Quốc, các vùng ấy trở thành quốc gia phồn thịnh. Chừng nào nhà nước phản động [AST.GetNameDef] còn tồn tại, hòa bình chưa thể đến và tài nguyên biển không thể chia sẻ với Trung Quốc cùng đồng minh. Ta phải chủ động giành quyền bảo đảm các vùng biển."
+
+ KMT_ensure_pacific_security: "Bảo đảm an ninh Thái Bình Dương"
+ KMT_ensure_pacific_security_desc: "Một số người trong chính phủ xuất thân Hawaii; Quốc dân đảng có hiện diện đáng kể trong cộng đồng Hoa kiều trên đảo. Họ cũng tận mắt thấy sự man rợ của đế quốc khi Hoa Kỳ cưỡng chiếm Hawaii. Trung Quốc phải bảo đảm Thái Bình Dương thoát âm mưu của Mỹ, Nhật và mọi kẻ muốn thống trị, trở thành người bảo vệ đại dương."
+
+ KMT_imperialism_crushed_forevermore: "Đế quốc bị nghiền nát vĩnh viễn"
+ KMT_imperialism_crushed_forevermore_desc: "Cuối cùng đã hoàn thành. Bằng sức mạnh tự nhiên vẻ vang, ta đuổi hết tàn dư đế quốc ngoại bang khỏi châu Á và Thái Bình Dương. Các dân tộc châu Á cuối cùng sống hòa hợp, đoàn kết, hòa bình, hợp tác, không bị phương Tây hay Nhật can thiệp. Đế quốc ngoại bang sẽ không bao giờ đe dọa nhân dân Trung Quốc nữa."
+
+#The Internationale of the East Focus Tree
+ KMT_chinese_expeditionary_force: "Quân Viễn chinh Trung Quốc"
+ KMT_chinese_expeditionary_force_desc: "Chúng ta từng ở lâu với đồng chí châu Âu thân yêu, không bao giờ quên họ hào phóng cho Ủy ban Trung ương lưu vong tại các nước công đoàn chủ nghĩa tự do. Nay khi họ cần, phái người và tài nguyên giúp anh chị em xã hội chủ nghĩa là hoàn toàn xứng đáng."
+
+ KMT_extend_the_mmic: "[KMT_extend_mmic_loc]"
+ KMT_extend_the_mmic_desc: "[KMT_extend_mmic_desc_loc]"
+ KMT_extend_the_mmic_alive_desc: "Phái bộ Quân sự Quốc tế tại Trung Quốc giữ vai trò then chốt trong thắng lợi cách mạng những năm qua. Dù đã thống nhất và thắng Kháng chiến, viện trợ của họ vẫn quý giá cho phát triển lực lượng vũ trang. Hãy đề nghị kéo dài lưu trú để tiếp tục hiện đại hóa quân đội."
+ KMT_extend_the_mmic_dead_desc: "Quốc tế thứ Ba sụp đổ, số phận trớ trêu khiến hàng nghìn người tị nạn từ các thủ đô cũ Paris, Luân Đôn nay đến Trung Quốc để giữ tinh thần cách mạng. Phản động hiện diện và thống trị thế giới, ta phải đoàn kết người xã hội chủ nghĩa toàn cầu cùng tiêu diệt tư bản vĩnh viễn."
+ KMT_extend_mmic_int_alive: "Gia hạn lưu trú của MMIC"
+ KMT_extend_mmic_int_dead: "Tuyển người lưu vong từ Quốc tế"
+
+ KMT_reach_out_to_the_overseas_community: "Tiếp cận cộng đồng hải ngoại"
+ KMT_reach_out_to_the_overseas_community_desc: "Ngay trong Ủy ban Trung ương, một số thành viên như Trần Bích Quân xuất thân cộng đồng Hoa kiều. Hãy dùng mạng lưới, quan hệ của Ủy ban Hoa kiều trước đây để mở ảnh hưởng các nhóm như RCA trong cộng đồng người Hoa quốc tế, tăng ủng hộ chế độ hiện tại."
+
+ KMT_encourage_foreign_investment: "Khuyến khích đầu tư nước ngoài"
+ KMT_encourage_foreign_investment_desc: "Trung Quốc rộng lớn, giàu tài nguyên và vật liệu thiết yếu cho thế giới hiện đại. Để tạo vốn, tăng trưởng kinh tế, hãy khuyến khích doanh nghiệp nước ngoài kinh doanh, đầu tư tại đây, vừa phát triển kinh tế quốc gia vừa xây quan hệ với các nước. Cùng nhau, ta đạt nhiều hơn khi hướng tới hợp tác hòa bình."
+
+ KMT_the_dongfeng_project: "Dự án Đông Phong"
+ KMT_the_dongfeng_project_desc: "Nhiều thế kỷ qua, Trung Quốc tụt xa thế giới về công nghệ; chỉ nhà khoa học, kỹ sư tham vọng nhất mới dám mơ chương trình tên lửa đạn đạo đúng nghĩa. Lấy cảm hứng Dự án Damocles của Quốc tế, ta sẽ tái lập thành công bằng dự án \"Đông Phong\" riêng, chuẩn bị quốc phòng cho tương lai."
+
+#The Asia-Pacific Friendship Association Focus Tree
+ KMT_coordinate_the_afro_asian_conference: "Tổ chức Hội nghị Á-Phi"
+ KMT_coordinate_the_afro_asian_conference_desc: "Nhân dân châu Phi, châu Á từ lâu bị phương Tây áp bức. Cách mạng Trung Quốc thành công thoát đế quốc truyền cảm hứng cho họ; tài nguyên Trung Quốc sẽ giúp họ phát triển, tái thiết sau tổn thương thuộc địa. Ta sẽ triệu tập hội nghị các nước tự do của thế giới đang phát triển để cùng thảo luận tương lai."
+
+ KMT_joint_pan_asian_military_cooperation: "Hợp tác quân sự Liên Á"
+ KMT_joint_pan_asian_military_cooperation_desc: "Các tướng và sĩ quan kỳ cựu Quốc dân Cách mệnh quân có lẽ giỏi nhất châu Á nhờ kinh nghiệm chiến đấu dày dạn vì cách mạng. Hãy tổ chức huấn luyện quân sự chung, gửi cố vấn lục, hải, không quân đến các đồng chí châu Á để họ hiện đại hóa, củng cố quân đội."
+
+ KMT_aid_the_developing_world: "Viện trợ thế giới đang phát triển"
+ KMT_aid_the_developing_world_desc: "Sức mạnh kinh tế hồi sinh và tài nguyên dồi dào của Trung Quốc nên phục vụ đồng chí cách mạng khắp thế giới đang phát triển. Họ đã chịu khổ, đói khát lâu năm dưới gót đế quốc. Trung Quốc phải dẫn đầu giúp họ phát triển, tái thiết, chữa lành nhiều thế kỷ bị làm nhục."
+
+ KMT_five_principles_of_peaceful_coexistence: "Năm nguyên tắc chung sống hòa bình"
+ KMT_five_principles_of_peaceful_coexistence_desc: "Nhiều đồng chí Quốc dân đảng thừa nhận cuộc đấu tranh giải phóng của nhân dân Ấn Độ chống đế quốc Anh. Hợp tác tốt hơn tự đánh nhau, suy yếu trước đế quốc. Ta sẽ gặp chính phủ Ấn Độ giải quyết Aksai Chin và Tawang, cùng chiến đấu với tư cách hai quốc gia cách mạng trẻ."
+
+ KMT_coordinate_the_afro_asian_conference_tt: "§YChúng ta sẽ tổ chức Hội nghị Á-Phi để vận động ủng hộ các dự án đầu tư tại thế giới đang phát triển. Các cường quốc xã hội chủ nghĩa tham gia sẽ mở quyết định đầu tư vào các nước xã hội chủ nghĩa hậu thuộc địa tại Đông Á, tiểu lục địa Ấn Độ, Trung Đông, châu Đại Dương và châu Phi.§!"
+
+ KMT_aid_the_developing_world_trigger_tt: "§YĐể chọn tiêu điểm này, phải đầu tư vào ít nhất 10 quốc gia khác nhau, chứng minh cam kết lãnh đạo sự nghiệp chống thực dân.§!"
+
+ KMT_aid_the_developing_world_effect_tt: "§GĐã chứng minh tận tâm cải thiện đời sống các nước hậu thuộc địa, các khoản đầu tư tiếp theo sẽ tốn ít quyền lực chính trị hơn.§!"
+
+ KMT_five_principles_of_peaceful_coexistence_tt: "§RMọi yêu sách Trung Quốc còn lại tại lãnh thổ tranh chấp [858.GetName] và [897.GetName] sẽ được rút bỏ, giải quyết vấn đề từ phía ta.§!\n§GĐiều này mở đường mời các nước Ấn Độ độc lập, xã hội chủ nghĩa vào phe.§!"
+
+#Asian Peoples' Anti-Imperialism League Focus Tree
+ KMT_never_another_humiliation: "Không bao giờ chịu nhục nữa"
+ KMT_never_another_humiliation_desc: "Đây là thế giới sinh tồn. Cường quốc chỉ muốn phô sức mạnh, mở rộng dân tộc ra toàn cầu; Trung Quốc phải noi mô hình ấy để sống còn. Ta đã thấy đế quốc làm gì với đất nước, biết lòng tham sẽ đưa chúng trở lại chia cắt quốc gia vĩ đại và làm nhục dân tộc. Hãy tăng ngân sách lục, hải quân để lời đe dọa được hậu thuẫn bằng thực lực."
+
+ KMT_summer_border_service_corps: "Đoàn Phục vụ Biên cương Mùa hè"
+ KMT_summer_border_service_corps_desc: "Bồi dưỡng ý thức quốc gia là nghĩa vụ, kể cả ở biên cương nghèo và thường bất trị. Ta sẽ đưa thanh niên tình nguyện xây trường, đường và công trình vệ sinh mùa hè, đồng thời dạy dân kỹ năng lao động, văn hóa hiện đại, huấn luyện nghiêm để chống xâm lược. Như vậy sẽ nâng đời sống, gắn các vùng biên vĩnh viễn với quốc gia Trung Hoa."
+
+ KMT_fanatical_militarism: "Chủ nghĩa quân phiệt cuồng tín"
+ KMT_fanatical_militarism_desc: "Cá nhân chỉ là bánh răng trong cỗ máy đấu tranh quốc gia. Nam nữ Trung Quốc phải thành con người mới, đặt ý chí và phúc lợi cá nhân dưới sự tận tụy quân sự. Chết trận sẽ được coi là hy sinh anh hùng; ta khuyến khích mọi công dân chuẩn bị hiến mạng vì quốc phòng."
+
+ KMT_entrenching_isolation: "Củng cố sự biệt lập"
+ KMT_entrenching_isolation_desc: "Nhiều năm giao thiệp ngoại quốc chỉ mang nhục nhã, rõ ràng tiếp tục cũng chẳng được gì. Từ thời Đại Minh, vai trò Trung Quốc là duy trì hòa bình, thịnh vượng, an ninh châu Á; trở lại vị thế thành trì và ngọn đuốc ưu thế văn hóa trong vùng là chính đáng. Vì vậy, hãy tập trung điều thực sự thuộc công việc Trung Quốc."
+
+ KMT_repudiate_the_catastrophe: "Xóa nỗi nhục thảm họa 1927"
+ KMT_repudiate_the_catastrophe_desc: "Mọi người Trung Quốc sẽ nhớ năm 1927 là năm đế quốc Đức kéo hạm đội tới phá Cách mạng Quốc dân, đưa Hán gian Phổ Nghi lên ngôi lần nữa, đẩy quốc gia sâu hơn vào quân phiệt. Nay sức mạnh hồi phục, quyền lực không ai thách thức, đã đến lúc xóa nỗi nhục 1927. Cuối cùng Đức sẽ biết mất tất cả là thế nào."
+
+ KMT_building_infrastructure_in_northwest_tt: "Các vùng biên cương sẽ được phát triển để hỗ trợ chiến dịch quân sự tương lai!"
+
+ KMT_repudiate_the_catastrophe_tt: "Trong cuộc thánh chiến vẻ vang khôi phục lãnh thổ Trung Quốc rộng lớn nhất, ta có thể §Rđòi chủ quyền§! tại Ngoại Mãn Châu, Sakhalin, quần đảo Kuril, Singapore và Bhutan."
+
+# The People's Internationale
+ KMT_revolutionary_diplomacy: "Ngoại giao cách mạng"
+ KMT_revolutionary_diplomacy_desc: "Chỉ Trung Quốc và nhân dân Trung Quốc thích hợp tiến hành cách mạng Đông Á. Hoàn cảnh đặc biệt, vị thế ngọn đuốc văn hóa chính trị trong vùng và cách mạng thành công là lý do để theo đường ngoại giao mới. Ngoại giao cách mạng sẽ thúc đẩy hợp tác với nhân dân châu Á, hướng tới chủ nghĩa Liên Á xã hội chủ nghĩa lớn mạnh hơn."
+
+ KMT_establish_peoples_livelihood_countries: "Thành lập các quốc gia Dân sinh"
+ KMT_establish_peoples_livelihood_countries_desc: "Trung Quốc là thị trường quan trọng nhất phương Đông, nên tài nguyên bị nhòm ngó thời đế quốc. Vừa giành độc lập quốc gia, Trung Quốc có nghĩa vụ giúp các dân tộc thuộc địa đang đấu tranh cho tự do kinh tế lập các quốc gia \"Dân sinh\", không thành nước công đoàn chủ nghĩa hay tư bản mà hợp tác với Trung Quốc xây Dân sinh tại quê hương."
+
+ KMT_uniting_anticolonial_minds: "Đoàn kết trí thức chống thực dân"
+ KMT_uniting_anticolonial_minds_desc: "Khắp châu Á và Thái Bình Dương, biết bao người kêu gọi tự do, giấc mơ bị đế quốc cùng tay sai đè bẹp. Tác phẩm bị kiểm duyệt, tư tưởng bị giam cầm, họ mòn mỏi lưu vong hay trong lớp học bụi bặm. Nếu tập hợp dưới ánh sáng giải phóng, những trí tuệ ấy có thể soi tương lai mới cho mọi dân tộc thoát xiềng xích các đế quốc suy tàn."
+
+ KMT_the_inevitable_demise_of_capitalism: "Sự diệt vong tất yếu của chủ nghĩa tư bản"
+ KMT_the_inevitable_demise_of_capitalism_desc: "Không nhà nước nào tà ác hơn Đế quốc Đức. Đức từ lâu áp bức các dân tộc Đông Âu, những người khao khát tự do, độc lập khỏi thể chế Mitteleuropa đáng khinh. Ta không quên Đức can thiệp Bắc phạt và áp đặt quân phiệt tư bản ở nước mình. Nay Trung Quốc tái sinh, quyền lực không thể nghi ngờ, đã đến lúc hủy diệt gốc rễ mọi chủ nghĩa tư bản."
+
+# New Asia Alliance
+ KMT_promoting_pan_asian_solidarity: "Thúc đẩy đoàn kết Liên Á"
+ KMT_promoting_pan_asian_solidarity_desc: "Đoàn kết mọi dân tộc châu Á tự do để chấm dứt đế quốc châu Âu là nghĩa vụ của ta. Khác Nhật xây chủ nghĩa Liên Á bằng cướp bóc và \"tàn sát phân biệt chủng tộc đê hèn\" của đế quốc phương Tây, chủ nghĩa Liên Á Trung Quốc dựa trên \"Vương đạo\", chăm sóc nhân từ người yếu thế. Ta sẽ tự xây mạnh trước rồi dùng sức nâng đỡ \"em nhỏ\" châu Á."
+
+ KMT_build_a_first_rate_army: "Xây quân đội hàng đầu"
+ KMT_build_a_first_rate_army_desc: "Nguy cơ Nhật tái vũ trang và bành trướng rất đáng lo. Để ngăn xâm lược từ Nhật hay cường quốc khác, ta phải xây quân đội mạnh vượt trội cả số lượng, chất lượng, huấn luyện, tinh thần. Việc này tiến hành trong năm năm tới; nếu làm đúng, ta sẽ thành cường quốc dù không quân, hải quân có thể không vượt Nhật, Nga hay Đức."
+
+ KMT_post_colonial_cultural_exchange: "Giao lưu văn hóa hậu thuộc địa"
+ KMT_post_colonial_cultural_exchange_desc: "Thực dân cướp cả của cải lẫn bản sắc quốc gia. Khác người Marxist và chủ nghĩa quốc tế, Tân Á Xã cùng người kế thừa bác bỏ chủ nghĩa duy vật ảm đạm của cả xã hội chủ nghĩa lẫn tư bản, thay bằng đoàn kết trí thức châu Á, chia sẻ văn hóa. Nhờ vậy khi giải phóng, các dân tộc có điều để mong chờ ngoài việc bị lạnh lùng hy sinh trong cách mạng toàn cầu của Paris."
+
+ KMT_balance_the_great_powers: "Cân bằng các cường quốc"
+ KMT_balance_the_great_powers_desc: "Thực dụng là thiết yếu trong thế giới mới. Đồng minh hôm qua có thể là kẻ thù ngày mai; kẻ thù cay đắng hôm qua có thể thành đồng minh cơ hội ngay lúc này. Cường quốc từng lần lượt tàn phá lục địa và sẵn sàng hợp tác để làm vậy. Ta cũng phải sẵn sàng liên kết kiềm chế bành trướng ngoại bang cùng mọi đe dọa hòa bình khu vực."
+
+# Events
+ china_events.800.t: "Cứu nước bằng nghệ thuật"
+ china_events.800.d: "Cơ quan tuyên truyền đảng phần lớn do nhà tư tưởng cách mạng, cán bộ hay sĩ quan tình báo lãnh đạo, nhưng trường hợp trí thức, nghệ sĩ tham gia tuyên truyền Quốc dân đảng đáng chú ý nhất là Lương Đỉnh Minh. Sinh tại Thượng Hải năm 1898, ông vào Trường Trắc địa và Bản đồ Nam Dương năm 1915, học phối cảnh cùng hội họa tại Học viện Mỹ thuật Thượng Hải. Khi bán chân dung ở Hạ Môn, ông giành giải nhì cuộc thi tranh lịch của công ty địa phương, rồi vào bộ phận quảng cáo Công ty Thuốc lá Anh-Mỹ Thượng Hải. Anh cả Lương Địch Trung sang Pháp học mỹ thuật, gửi tập tranh về để ba em, gồm Đỉnh Minh, học hỏi.\n\nNghỉ việc năm 1925, Lương đến Quảng Đông bắt đầu sự nghiệp cách mạng, thành tổng biên tập Họa báo Cách mạng năm 1926. Cùng năm, ông mở xưởng mỹ thuật hương Tuệ Thạch tại Đại Thạch Đầu, hoàn thành tranh Sa Cơ đẫm máu và ghi lại đấu tranh người lính bằng tranh chiến tranh khổ lớn. Từ 1926, ông làm trung tá trưởng ban mỹ thuật Chính trị bộ Tổng hành dinh Quốc dân Cách mệnh quân, Bát Lộ quân và Tổng cục Chiến tranh Chính trị.\n\nTheo lệnh Ủy ban Chấp hành Trung ương ở Moskva, Lương đến Nga, Bỉ, Đức, Áo học mỹ thuật, trở về năm 1930 lập Nhà Tưởng niệm Quốc dân Cách mệnh quân ở Quý Châu cùng xưởng tranh lịch sử. Năm 1934 ông làm giáo quan chính trị Ban Huấn luyện Chính trị Quý Châu; năm 1937 thành viện trưởng Học viện Mỹ thuật. Khi Quốc dân đảng cánh hữu thống nhất đất nước, nhiều tác phẩm của Lương được chú ý trở lại vì vai trò nâng tinh thần dân thường và binh sĩ."
+ china_events.800.a: "Một bậc thầy thời hiện đại!"
+
+ china_events.801.t: "Độc Nhãn Long"
+ china_events.801.d: "Cách mạng Quốc dân cuối cùng lại tiến lên sau một thập kỷ bị Trực Lệ phản động đàn áp; Trùng Khánh, trái tim Tứ Xuyên, đã được lực lượng Bạch Nhật giải phóng. Thời loạn sinh nhiều anh hùng Tứ Xuyên: Chu Đức, nhà chiến lược lớn từ Trường Quân sự Côn Minh từng chống quân chủ Bắc Dương Hồng Hiến bạo ngược; và Đặng Tiểu Bình bí ẩn, nhà cách mạng thổi lửa Tây Bắc, đều quê đất Thục.\n\nTứ Xuyên còn có anh hùng Lưu Bá Thừa. Sinh trong gia đình nông dân gần Trùng Khánh, Lưu tham gia đấu tranh chống Viên Thế Khải. Những năm sau, ông đánh bại nhiều đối thủ, gồm cả Chu Đức khi còn là sĩ quan quân phiệt trong một chiến dịch Vân Nam tại Tứ Xuyên.\n\nTrong một cuộc chiến, Lưu mất mắt phải nhưng được biệt danh \"Độc Nhãn Long\", minh chứng tài quân sự và ý chí sắt đá. Ông rất đồng tình với Quốc dân trong Bắc phạt; tiếc thay Trực Lệ không chỉ đẩy lùi cách mạng, Quảng Châu cũng rơi vào hỗn loạn.\n\nBị cắt khỏi cách mạng, Lưu vẫn đấu tranh lâu dài với quân phiệt cơ hội Tứ Xuyên, dẫn nhóm nhỏ chiến sĩ giải phóng nông dân. Nay Tứ Xuyên thuộc Quốc dân đảng, ông ra khỏi nơi ẩn náu, nguyện phục vụ đảng. Dù rõ ràng thuộc cánh tả, Lưu khó tham gia tranh chấp phe phái lớn, nhưng có thể phàn nàn khi Ủy ban Chấp hành Trung ương can thiệp quá sâu quân sự."
+ china_events.801.a: "Cách mạng chào đón anh hùng như ông!"
+ china_events.801.b: "Kẻ gây rối nổi tiếng; không thể dung thứ thái độ phá hoại ấy."
+
+ china_events.802.t: "Ngọn lửa trong Tứ Xuyên mới"
+ china_events.802.d: "Cách mạng Quốc dân được hồi sinh nhờ hành động anh hùng của chính quyền quân sự Quý Châu; lực lượng Quốc dân đảng chiến thắng trên phố Thành Đô, đuổi Trực Lệ đáng ghê tởm sau một thập kỷ bóc lột, cho vay nặng lãi. Tứ Xuyên, trái tim cách mạng từ lâu, cuối cùng sẽ có hòa bình, thịnh vượng dưới sự dẫn dắt của đảng. Lữ Siêu hiểu hơn mọi người con Tứ Xuyên về máu đã đổ để giành một Tứ Xuyên tự do.\n\nLà cựu binh từng làm việc với Trần Kỳ Mỹ, Lý Thạch Tăng và Uông Tinh Vệ thời Tân Hợi, Lữ chống Bắc Dương từ Cách mạng lần hai. Ông cùng Hùng Khắc Vũ anh dũng tham gia chiến tranh Hộ quốc chống mộng xưng đế của Viên Thế Khải. Khi Hùng lộ là kẻ cơ hội địa phương thân liên bang, Lữ tự giành Tứ Xuyên cho Tôn Trung Sơn và cách mạng, nhưng không phá được phản động đất Thục nên chạy về với Tôn.\n\nLữ trở lại Tứ Xuyên thời Bắc phạt để lật Dương Sâm, dũng cảm ở lại ngay khi những kẻ ăn bám trong Ủy ban Chấp hành Trung ương Uông Tinh Vệ chạy sang Pháp. Kiên quyết chống Dương suốt thập kỷ, Lữ bền bỉ làm thành trì chống áp bức quân phiệt. Nay Tứ Xuyên thuộc Quốc dân đảng, ông ra khỏi nơi ẩn náu và nguyện phục vụ. Dù rõ ràng thuộc cánh hữu, thiên hướng phe phái cụ thể vẫn mơ hồ; có tin ông liên lạc với Lý Tông Nhân từ những ngày đầu quân đội lưu vong tại chính quyền quân sự Quý Châu."
+ china_events.802.a: "Lời tán dương của Quốc phụ có thể dời núi!"
+ china_events.802.b: "Lý đã đủ bạn rồi. Cảm ơn, người tiếp theo."
