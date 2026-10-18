@@ -1,0 +1,187 @@
+﻿l_english:
+
+### EE Cooperation Mechanics ###
+ intermarium_events.0.t: "Mối đe dọa từ Nga"
+ intermarium_events.0.d: "Thời kỳ suy thoái kéo dài hàng thập kỷ của Nga đã kết thúc, và giờ đây người Nga đang tái thiết - họ đã đang đưa ra yêu sách đối với các lãnh thổ đế quốc cũ của mình, và các quốc gia Đông Âu chắc chắn sẽ là một trong những mục tiêu của họ.\n\nĐể đảm bảo mối đe dọa từ Nga được kiềm chế và các quốc gia Đông Âu có thể bảo vệ chủ quyền của mình, các nhà lãnh đạo và tướng lĩnh của Oststaaten đã tụ họp tại [MIE_leader.Capital.GetCapitalVictoryPointName] để thảo luận về một chương trình hợp tác lẫn nhau. Một quỹ phòng thủ quân sự chung đã được thành lập và [MIE_leader.GetNameDef] đã được giao phó việc quản lý nó để tài trợ cho các dự án phòng thủ chung của khu vực."
+ intermarium_events.0.a: "Tuyệt!"
+
+ MIE_decisions: "Hợp tác Phòng thủ Đông Âu"
+ MIE_decisions_desc: "[?global.russia.GetNameDefCap] đang hồi sinh, và an ninh của khu vực Đông Âu đang bị đe dọa. Khi Đại Chiến Thế Giới lần thứ hai bắt đầu, chúng ta sẽ phải chuẩn bị đối mặt với cơn bão Nga - và trừ khi chúng ta hợp tác, chúng ta sẽ bị tiêu diệt từng người một.\n\nSau khi [?global.russia.GetNameDef] kích hoạt cây chính sách đối ngoại của mình, tất cả các thành viên phía đông của Reichspakt sẽ mở khóa khả năng §Ygóp chung nguồn lực§! và phân phối chúng giữa các quốc gia thành viên để loại bỏ bất kỳ mắt xích yếu nào. Quốc gia chịu trách nhiệm phân phối nguồn lực chung có thể đầu tư vào các quốc gia thành viên khác để §Yxây dựng công sự§!, §Ytăng sư đoàn§!, và cung cấp các §YTinh thần Quốc gia§! có lợi.\n\nNguồn lực chung hiện tại:\n    £rifle_texticon  $infantry_equipment$: §Y[?global.MIE_infantry_equipment]§!\n    £support_texticon  $support_equipment$: §Y[?global.MIE_support_equipment]§!\n    £unit_artillery_icon_small  $artillery_equipment$: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] hiện đang chịu trách nhiệm phân phối nguồn lực chung."
+ MIE_intermarium_active: "§YHợp tác Phòng thủ Đông Âu§! đang hoạt động."
+ MIE_intermarium_formed: "Chương trình Hợp tác Phòng thủ Đông Âu đã bắt đầu."
+ MIE_member: "Là thành viên của §YHợp tác Phòng thủ Đông Âu§!."
+
+ MIE_decisions_GER: "Ostpolitik"
+ MIE_decisions_GER_desc: "Đế quốc của chúng ta ở phía đông trải dài từ Baltic đến Biển Đen. Oststaaten là một sự pha trộn thực dụng của các quốc gia chư hầu trên thực tế, được giữ vững hàng ngũ nhờ nỗi sợ Nga cũng như sức mạnh của chúng ta. Chúng ta liên tục theo dõi các diễn biến chính trị của họ và phản ứng khi cần thiết.\n\n[POL_in_RP]"
+
+ POL_in_RP_yes: "Ba Lan có thể là một trong những chư hầu trung thành nhất của chúng ta hiện tại, nhưng không có gì đảm bảo rằng điều này sẽ tiếp tục như vậy. Chúng ta phải cân nhắc cẩn thận các khoản đầu tư của mình vào Ba Lan để đảm bảo lòng trung thành và hợp tác kinh tế của họ.\n\n[POL_GER_polish_loyalty]\n"
+
+ POL_early: "Kết quả bầu cử dự đoán cho những người ủng hộ August IV: [POL_circle_chance]"
+ POL_status_stable: "§GBa Lan trung thành và ổn định.§!"
+ POL_status_restless: "§YBa Lan ổn định, dù tình hình có thể thay đổi.§!"
+ POL_status_uprising_ready: "§YBa Lan bất ổn, và những thất bại quân sự có thể kích hoạt một cuộc nổi dậy.§!"
+ POL_status_uprising_imminent: "Một cuộc nổi dậy ở Ba Lan đang đến gần!"
+ POL_status_rebellious: "§RBa Lan đang nổi loạn!§!"
+
+ GER_sponsor_MIE: "Tài trợ EEDC"
+ GER_sponsor_MIE_desc: "Hợp tác Phòng thủ Đông Âu được thành lập để điều phối việc xây dựng quân đội của các đội quân Oststaat. Tổ hợp công nghiệp-quân sự của chúng ta đã tham gia vào nó, dù sự hỗ trợ trực tiếp hơn từ chính phủ có thể củng cố chương trình hơn nữa."
+ GER_fight_forest_brothers: "Thành lập Baltische Feldgendarmerie"
+ GER_fight_forest_brothers_desc: "Việc điều động một lực lượng cảnh sát quân sự tạm thời đến Công quốc Baltic Thống nhất có thể là cần thiết để giúp họ trong cuộc chiến chống lại những người ly khai Baltic."
+ GER_fight_LAF: "Tăng cường Cảnh sát Litva"
+ GER_fight_LAF_desc: "Chính phủ Litva đang bận rộn với cái được cho là Mặt trận Hoạt động Litva do Nga tài trợ, một tổ chức khủng bố chịu trách nhiệm cho nhiều hành vi tàn bạo. Chúng ta có thể điều động cho họ một số lực lượng chuyên biệt từ Phổ để đối phó với phiến quân."
+ GER_BLR_coup: "Loại bỏ Chính phủ BSDP"
+ GER_BLR_coup_desc: "Chúng ta đã khoan dung với những thử nghiệm của White Ruthenia với nền dân chủ cánh tả, nhưng rõ ràng đây là một sai lầm. Các nguồn tin tình báo của chúng ta đã thông báo rằng họ đã thành lập một hiệp ước bí mật với Moscow, cùng với các kế hoạch phản bội chúng ta. Điều này không thể được phép xảy ra."
+
+ POL_GER_buy: "Đầu tư vào Ba Lan"
+ POL_GER_buy_desc: "Tăng cường kiểm soát kinh tế của chúng ta đối với Ba Lan sẽ củng cố sự kìm kẹp của chúng ta đối với họ, và đảm bảo rằng chính sách đối ngoại tương lai của họ sẽ phục vụ tốt lợi ích kinh doanh của chúng ta."
+ POL_GER_sell: "Bán Tài sản tại Ba Lan"
+ POL_GER_sell_desc: "Một số dự án kinh doanh của chúng ta ở Ba Lan không hữu ích như chúng ta hy vọng. May mắn thay, có rất nhiều doanh nhân Áo, Séc và Ba Lan sẵn sàng mua lại chúng từ chúng ta để đổi lấy tiền mặt."
+ POL_GER_lobby: "Chiến dịch Ủng hộ Quân chủ tại Ba Lan"
+ POL_GER_lobby_desc: "[POL.GetLeader] chưa bao giờ là vị vua nổi tiếng nhất, nhưng đó không phải là điều mà một chút công tác PR của Đức không thể khắc phục."
+
+ POL_GER_promises: "Hứa Tự trị cho Ba Lan"
+ POL_promise_tt: "§CLòng trung thành của Ba Lan sẽ tăng đáng kể.§!"
+ POL_GER_agricultural_exports: "Chuyển hướng Nông sản"
+ POL_promises1: "Đã hứa độc lập cho Ba Lan"
+
+ POL_GER_recruit_poland: "Tăng Cường Tuyển mộ tại Ba Lan"
+ POL_GER_recruit_poland_reduce: "Giảm Cường Tuyển mộ tại Ba Lan"
+ POL_GER_recruitment: "Tuyển mộ Công nhân Ba Lan"
+
+ POL_invest_tt: "Bằng cách tài trợ cho những người ủng hộ August IV, chúng ta sẽ đảm bảo lòng trung thành của Ba Lan."
+ POL_exploit_tt: "Các chính sách bóc lột đối với Ba Lan sẽ củng cố tình cảm chống Đức và cách mạng ở Ba Lan."
+
+ MIE_refuse_equipment_shipments: "Từ chối Các lô Hàng Thiết bị"
+ MIE_refuse_equipment_shipments_desc: "Vì lý do của riêng mình, chúng ta phải nói với các đồng minh rằng hiện tại chúng ta không cần bất kỳ lô hàng thiết bị nào, và do đó nguồn lực nên được sử dụng ở nơi khác."
+ MIE_allow_equipment_shipments: "Cho phép Các lô Hàng Thiết bị"
+ MIE_allow_equipment_shipments_desc: "Mặc dù trước đó chúng ta đã nói với các đồng minh không gửi bất kỳ thiết bị nào, chúng ta có thể hủy bỏ quyết định này bất cứ lúc nào."
+
+ MIE_spend_guns: "Gửi 1000 £rifle_texticon  $infantry_equipment$"
+ MIE_spend_support: "Gửi 250 £support_texticon  $support_equipment$"
+ MIE_spend_artillery: "Gửi 250 £unit_artillery_icon_small  $artillery_equipment$"
+
+ MIE_spend_guns_self: "Lấy 1000 £rifle_texticon  $infantry_equipment$"
+ MIE_spend_support_self: "Lấy 250 £support_texticon  $support_equipment$"
+ MIE_spend_artillery_self: "Lấy 250 £unit_artillery_icon_small  $artillery_equipment$"
+
+ MIE_invest_guns: "Đầu tư 500 £rifle_texticon  $infantry_equipment$"
+ MIE_invest_support: "Đầu tư 150 £support_texticon  $support_equipment$"
+ MIE_invest_artillery: "Đầu tư 250 £unit_artillery_icon_small  $artillery_equipment$"
+
+ MIE_250_artilleryeq: "£unit_artillery_icon_small  §H250§!"
+ MIE_250_artilleryeq_blocked: "£unit_artillery_icon_small  §R250§!"
+ MIE_250_artilleryeq_tooltip: "Cần $MIE_250_artilleryeq_blocked$ để thực hiện quyết định"
+
+ MIE_2000_guns_500_sup: "£rifle_texticon  §H2000§! £support_texticon §H500§!"
+ MIE_2000_guns_500_sup_blocked: "£rifle_texticon  §R2000§!  £support_texticon §R500§!"
+ MIE_2000_guns_500_sup_tooltip: "Cần $MIE_2000_guns_500_sup_blocked$ để thực hiện quyết định"
+ MIE_2000_guns_tt: "£rifle_texticon  §H2000§! và £support_texticon §H500§! được thêm vào quỹ chung."
+
+ air_xp_50: "£air_experience §H50§!"
+ air_xp_50_blocked: "£air_experience §R50§!"
+ air_xp_50_tooltip: "Cần $air_xp_50_blocked$ để thực hiện quyết định"
+
+ MIE_build_forts_in_blr: "Mở rộng Ostwall"
+
+ intermarium_events.1.t: "Hợp tác Đông Âu"
+ intermarium_events.1.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách xây dựng công sự trên biên giới Nga của chúng ta. Những công sự này giờ đây đã hoàn thành và sẵn sàng phục vụ lực lượng của chúng ta."
+ intermarium_events.1.a: "Tuyệt!"
+
+ MIE_joint_offensive_exercises: "Các cuộc Tập trận Tấn công Chung"
+
+ intermarium_events.2.t: "Hợp tác Đông Âu"
+ intermarium_events.2.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách tổ chức một cuộc tập trận quân sự chung giữa các quốc gia Đông Âu. Tại đây, các tướng lĩnh thiên về tấn công và thiết giáp đã mô phỏng một cuộc phản công chống lại lực lượng địch, và trao đổi mẹo và lời khuyên với nhau."
+ intermarium_events.2.a: "Tuyệt!"
+ MIE_all_gain_1_attack: "Tất cả các tướng lĩnh của quốc gia thành viên có đặc điểm §HPanzer Leader§! sẽ nhận được §G1§! Tấn công."
+
+ MIE_joint_grand_strategy_planning: "Đại Chiến lược"
+
+ intermarium_events.3.t: "Hợp tác Đông Âu"
+ intermarium_events.3.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách tổ chức các cuộc diễn tập chiến tranh giữa các bộ tham mưu quân đội của các quốc gia Đông Âu. Tại đây, các tướng lĩnh của chúng ta đã thảo luận về một cuộc xâm lược toàn diện vào khu vực, phân chia vai trò giữa các quốc gia, và tham gia vào việc hoạch định đại chiến lược để ngăn chặn cuộc tấn công."
+ intermarium_events.3.a: "Tuyệt!"
+ MIE_all_gain_1_planning: "Tất cả các tướng lĩnh của quốc gia thành viên có đặc điểm §HInfantry Leader§! sẽ nhận được §G1§! Hoạch định."
+
+ MIE_defense_contributions: "Thực hiện Đóng góp Quốc phòng Bắt buộc"
+ MIE_contributions: "Đóng góp Quốc phòng Đông Âu"
+ MIE_contributions_desc: "Quốc gia này đang trả một phần ngân sách của mình vào ngân sách quốc phòng chung của Đông Âu để mua súng và thiết bị quân sự khác."
+ MIE_defense_contributions_tt: "Mỗi quốc gia thành viên đóng góp sẽ thêm £rifle_texticon  §H20§! £support_texticon  §H10§! £unit_artillery_icon_small  §H10§! vào quỹ vũ khí hàng tháng."
+
+ intermarium_events.4.t: "Hợp tác Đông Âu"
+ intermarium_events.4.d: "[MIE_leader.GetNameDefCap] đã đề nghị làm sâu sắc thêm hợp tác giữa các quốc gia Đông Âu bằng cách thực hiện một hệ thống đóng góp quốc phòng. Nếu chúng ta tham gia hệ thống, chúng ta sẽ trả một phần ngân sách của mình vào ngân sách quốc phòng chung của Đông Âu, mà [MIE_leader.GetName] sẽ có thể sử dụng để mua thiết bị cho quỹ vũ khí."
+ intermarium_events.4.a: "Chúng ta sẽ đăng ký."
+ intermarium_events.4.b: "Chúng ta từ chối."
+ MIE_monthly_purchases: "Mua sắm Vũ khí"
+ MIE_defense_contributions_amount: "£rifle_texticon  §H[?global.MIE_infantry_equipment_monthly]§! £support_texticon  §H[?global.MIE_support_equipment_monthly]§! £unit_artillery_icon_small  §H[?global.MIE_artillery_equipment_monthly]§! sẽ được thêm vào quỹ vũ khí."
+
+ intermarium_events.5.t: "Hợp tác Đông Âu"
+ intermarium_events.5.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách gửi trực tiếp cho chúng ta một lô súng trường và đạn dược. Thiết bị này đã được chuyển đến kho dự trữ của chúng ta."
+ intermarium_events.5.a: "Tuyệt!"
+
+ intermarium_events.6.t: "Hợp tác Đông Âu"
+ intermarium_events.6.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách gửi trực tiếp cho chúng ta một lô thiết bị hỗ trợ quân đội. Thiết bị này đã được chuyển đến kho dự trữ của chúng ta."
+ intermarium_events.6.a: "Tuyệt!"
+
+ intermarium_events.7.t: "Hợp tác Đông Âu"
+ intermarium_events.7.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách gửi trực tiếp cho chúng ta một lô pháo. Thiết bị này đã được chuyển đến kho dự trữ của chúng ta."
+ intermarium_events.7.a: "Tuyệt!"
+
+ MIE_air_command_1: "Cơ sở Hạ tầng Phòng không Chung"
+ MIE_all_build_air_infra: "Mỗi quốc gia thành viên sẽ xây dựng thêm một cấp §H$air_base$§! và hai cấp §H$anti_air_building$§! tại thủ đô của mình, và nhận §H50§!  £unit_fighter_icon_small\n\nĐiều này sẽ mở khóa các quyết định mới."
+
+ intermarium_events.8.t: "Hợp tác Đông Âu"
+ intermarium_events.8.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách thiết lập cơ sở hạ tầng cho một bộ chỉ huy phòng không chung giữa các quốc gia Đông Âu. Điều này bao gồm việc xây dựng các căn cứ không quân mới và cung cấp máy bay tiêm kích cho tất cả các bên tham gia hệ thống."
+ intermarium_events.8.a: "Tuyệt!"
+
+ MIE_air_command_2: "Các Phi đội Không quân Tích hợp"
+ MIE_joint_air_command: "Bộ Chỉ huy Không quân Đông Âu Chung"
+
+ intermarium_events.9.t: "Hợp tác Đông Âu"
+ intermarium_events.9.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách thành lập một Bộ Chỉ huy Phòng không Đông Âu Chung chính thức. Điều này sẽ tích hợp các phi đội không quân của tất cả các quốc gia tham gia vào một cấu trúc bao trùm, cho phép hợp tác không quân và kiểm soát bầu trời tốt hơn."
+ intermarium_events.9.a: "Tuyệt!"
+
+ MIE_air_command_3: "Bộ Chỉ huy Không quân Chung Đa ngôn ngữ"
+
+ intermarium_events.10.t: "Hợp tác Đông Âu"
+ intermarium_events.10.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách thiết lập các cải cách quan trọng cho Bộ Chỉ huy Phòng không Đông Âu Chung. Với việc tích hợp thành công các điều phối viên không quân đa ngôn ngữ và hợp tác chặt chẽ hơn nữa của lực lượng không quân, hiệu quả của không quân chúng ta chắc chắn sẽ tăng lên."
+ intermarium_events.10.a: "Tuyệt!"
+
+ MIE_international_tank_division: "Sư đoàn Thiết giáp Quốc tế"
+ MIE_transferable_armored_division_tt: "Sư đoàn thiết giáp này sẽ được chuyển giao giữa các quốc gia Đông Âu bất cứ khi nào quốc gia chịu trách nhiệm phân phối nguồn lực thay đổi."
+
+ intermarium_events.11.t: "Hợp tác Đông Âu"
+ intermarium_events.11.d: "[MIE_leader.GetNameDefCap] đã chọn đầu tư một phần quỹ hợp tác phòng thủ chung của chúng ta bằng cách thành lập một sư đoàn thiết giáp quốc tế gồm các tình nguyện viên từ mọi quốc gia Đông Âu. Mặc dù [MIE_leader.GetNameDef] sẽ tích hợp nó vào cấu trúc quân đội của mình, nó sẽ được chuyển từ quốc gia này sang quốc gia khác khi họ đầu hàng."
+ intermarium_events.11.a: "Tuyệt!"
+
+ intermarium_events.12.t: "Mối đe dọa từ Nga đã được Vô hiệu hóa"
+ intermarium_events.12.d: "Nga đã thất thủ trước sức mạnh của Reichspakt, và không cần tiếp tục dự án Hợp tác nữa - nó đã hoàn thành mục đích chính của mình. Giờ đây chúng ta có thể yên tâm nghỉ ngơi, biết rằng Nga sẽ không đe dọa nền độc lập của chúng ta một lần nữa."
+ intermarium_events.12.a: "Một ngày trọng đại."
+
+ intermarium_events.13.t: "Đức Quyên góp Thiết bị"
+ intermarium_events.13.d: "Bộ Chiến tranh Đức đã có một khoản quyên góp hào phóng các thiết bị quân sự cũ cho chương trình EEDC. Những khẩu Mauser cũ nhưng đáng tin cậy này sẽ được sử dụng tốt trong tay những người yêu nước Baltic và Slav đang bảo vệ nhà cửa chống lại mối đe dọa Nga."
+ intermarium_events.13.a: "Deutschland über alles."
+
+ intermarium_events.14.t: "Baltische Feldgendarmerie Đến"
+ intermarium_events.14.d: "Một đơn vị cảnh sát quân sự chống nổi dậy được huấn luyện đặc biệt đã đến từ Kaiserreich để củng cố lực lượng an ninh của chúng ta. Với kinh nghiệm lâu năm trong việc đối phó với các lực lượng du kích như Forest Brothers, những người này chắc chắn sẽ tỏ ra hữu ích trong việc kiềm chế cuộc nổi loạn ở các vùng đất Baltic."
+ intermarium_events.14.a: "Chỉ đạo họ đến Latvia."
+ intermarium_events.14.b: "Chỉ đạo họ đến Estonia."
+
+ intermarium_events.15.t: "Đức Đề nghị Hỗ trợ Thực thi Pháp luật"
+ intermarium_events.15.d: "Berlin đề xuất với chúng ta một chiến dịch chung chống lại những kẻ khủng bố của Mặt trận Hoạt động. Họ sẵn sàng điều động một số đơn vị cảnh sát quân sự từ Đông Phổ đến phía biên giới Litva, và phối hợp các cuộc đột kích chung chống lại LAF. Với lực lượng kết hợp của chúng ta, chúng ta chắc chắn sẽ gây áp lực mạnh lên LAF."
+ intermarium_events.15.a: "Tốt."
+
+ intermarium_events.17.t: "Đảo chính Thân Đức tại Belarus!"
+ intermarium_events.17.d: "Có vẻ như các cơ quan tình báo Đức đã phát hiện ra âm mưu của chúng ta với chính phủ Belarus và đã hành động quyết đoán. Theo lệnh của Đức, các phần tử phản động trong quân đội Belarus đã nắm quyền kiểm soát Minsk và bắt giữ Chủ tịch Taraškievič với cáo buộc phản quốc. Ngay khi chúng ta nói, những người xã hội chủ nghĩa đang bị bắt giữ ở Belarus khi quân đội tư sản đang dập tắt tự do của người dân Belarus. Giờ đây họ không thể tham gia cuộc đấu tranh của chúng ta khi chiến tranh bắt đầu - nhưng sẽ làm hết sức mình để gây tổn hại cho những nỗ lực của chính phủ quân sự nhằm chống lại chúng ta. Giờ đây là nghĩa vụ anh em của chúng ta để giải phóng người Belarus khỏi áp bức Phổ!"
+ intermarium_events.17.a: "Đến Minsk!"
+ GER_coup_BLR: "Đảo chính Thân Đức tại White Ruthenia"
+
+ intermarium_events.18.t: "Thỏa thuận Cứu trợ của Đức"
+ intermarium_events.18.d: "Bạn bè của chúng ta ở Berlin đã không bỏ mặc chúng ta! Bất chấp tình trạng hỗn loạn kinh tế của chính họ, chính phủ Đức sẵn lòng cấp cho các mặt hàng xuất khẩu ngũ cốc của chúng ta một số miễn trừ bất chấp các chính sách bảo hộ gia tăng của họ để bảo vệ ngành nông nghiệp của chính họ. Ngoài ra, họ sẵn lòng tái cơ cấu một phần nợ quốc gia của chúng ta mà chúng ta nợ các ngân hàng Đức, giảm bớt đáng kể gánh nặng tài chính mà chúng ta đang đối mặt. Những miễn trừ này sẽ phần nào giảm bớt các vấn đề ở vùng nông thôn."
+ intermarium_events.18.a: "Thật là những đồng minh duyên dáng mà chúng ta có."
+
+ intermarium_events.19.t: "Giờ Khắc Đã Đến"
+ intermarium_events.19.d: "Các đơn vị trinh sát của chúng ta đã phát hiện một tập hợp lớn lực lượng Nga ở biên giới. Sau nhiều năm căng thẳng gia tăng, [RUS.GetNameDef] dường như có ý định tái chinh phục phần lớn Đông Âu và phá hủy nền độc lập của chúng ta. Hợp tác Phòng thủ Đông Âu đã từ từ xây dựng năng lực quân sự của chúng ta và các đồng minh, ngoài những nỗ lực của chính chúng ta, vì vậy chúng ta đã chuẩn bị tốt nhất có thể. Đức đã tuyên bố rằng họ muốn chúng ta có thể duy trì phòng thủ chống lại Nga đủ lâu cho đến khi họ có thể loại bỏ Quốc tế Cộng sản ở phía tây, và rằng việc chuyển hướng lực lượng của họ sang phía đông một cách cưỡng bức sẽ chỉ khiến cuộc chiến hai mặt trận trở nên khó khăn hơn."
+ intermarium_events.19.a: "Bạn điên à? Chúng ta không thể đối mặt với Nga một mình."
+ intermarium_events.19.b: "Chúng ta sẵn sàng bảo vệ bản thân và các nước láng giềng!"
+ intermarium_events.19.c: "Chúng ta sẵn sàng bảo vệ bản thân!"
+ intermarium_events.19.b.tt: "Cho đến khi §H[FRA.GetNameDef]§! đầu hàng, §H[GER.GetNameDef]§! và các đồng minh của họ sẽ không gửi bất kỳ sư đoàn nào đến biên giới của chúng ta, và chúng ta sẽ đối mặt với người Nga một mình.\nCác quốc gia trong §HHợp tác Phòng thủ Đông Âu§! vẫn sẽ có thể bảo vệ chúng ta và lẫn nhau.\n\n§RCẢNH BÁO: Điều này sẽ khiến cuộc chiến với Nga khó khăn hơn một chút.§!"
+ intermarium_events.19.c.tt: "Cho đến khi §H[FRA.GetNameDef]§! đầu hàng, §H[GER.GetNameDef]§! và các đồng minh của họ sẽ không gửi bất kỳ sư đoàn nào đến bất kỳ ai trong §HHợp tác Phòng thủ Đông Âu§!.\n\n§RCẢNH BÁO: Điều này sẽ khiến cuộc chiến với Nga khó khăn hơn, và họ sẽ nhận thêm $infantry_equipment$.§!"

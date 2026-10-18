@@ -1,0 +1,472 @@
+l_english:
+
+########################################
+#########- Mục lục - #########
+########################################
+### Phe phái ###
+
+#Mục 01: Tên quốc gia
+#Mục 02: Tên đảng phái
+#Mục 03: Nhân vật
+#Mục 04: Ý tưởng (Ideas)
+#Mục 05: Cây Focus
+#Mục 06: Quyết định
+#Mục 07: Sự kiện
+#Mục 08: Tooltip
+#Mục 09: Scripted Loc
+#Mục 10: Khác
+
+########################################
+#####- Mục 01: Tên quốc gia - #####
+########################################
+
+########################################
+#####- Mục 02: Tên đảng phái - #####
+########################################
+
+########################################
+######- Mục 03: Nhân vật - #######
+########################################
+
+########################################
+#########- Mục 04: Ý tưởng - #########
+########################################
+
+UPC_the_warchest_of_national_unification_idea: "Gây quỹ cho Thống nhất Quốc gia"
+UPC_the_warchest_of_national_unification_idea_desc: "Để bắt đầu một chiến dịch lớn, cần có nguồn cung dồi dào về vũ khí, đạn dược, nhân lực, vật tư và tài chính. Thiếu bất kỳ thứ nào trong số này, chiến dịch chỉ đơn giản là cam chịu thất bại. Suy cho cùng, bạn không thể thắng một cuộc chiến chỉ bằng hy vọng và ước mơ. Tuy nhiên, việc tích lũy một kho dự trữ khổng lồ như vậy là một nỗ lực tốn kém, nhưng cuối cùng lại vô cùng có lợi trong ngắn hạn. Vì tất cả các cái bắt tay, trưng thu, thỏa thuận và giao dịch của chúng ta đã cung cấp cho chính phủ thặng dư về mọi thứ nó có thể cần. Chỉ có thể hy vọng rằng cái giá phải trả trong tương lai sẽ không quá đắt."
+
+UPC_the_third_constitutional_protection_movement_idea: "Phong trào Bảo vệ Hiến pháp lần thứ ba"
+UPC_the_third_constitutional_protection_movement_idea_desc: "Phong trào Bảo vệ Hiến pháp lần thứ nhất nổi lên trong bầu không khí sau cái chết của Viên Thế Khải sau thành công của Chiến tranh Bảo vệ Quốc gia. Với việc các anh hùng Bảo vệ Quốc gia miền Nam đặt nền móng để thành lập Chính phủ Bảo vệ Quốc gia của riêng họ, những nỗ lực của họ cuối cùng sẽ là tiền thân của Chính phủ Bảo vệ Hiến pháp được thành lập năm 1917 bởi Tiến sĩ Tôn Trung Sơn tại Quảng Châu. Mời các thành viên ban đầu của quốc hội (nay đã bị Đoàn Kỳ Thụy giải tán), Tôn, Lục Vinh Đình, Đường Kế Nghiêu, Hồ Hán Dân, Ngũ Đình Phương, Trần Quýnh Minh, Sầm Xuân Huyên, Lý Liệt Quân và nhiều người khác sẽ thành lập Chính phủ Bảo vệ Hiến pháp. Cuối cùng, nó sẽ dẫn đến việc Tôn bị phế truất, và các cuộc đàm phán hòa bình Bắc-Nam do An Huy lãnh đạo thất bại.\n\nPhong trào Bảo vệ Hiến pháp lần thứ hai nổi lên để phản đối các cuộc đàm phán hòa bình Bắc-Nam tiếp theo do Trực Lệ lãnh đạo, và thông qua các cuộc xung đột sau đó ở Vân Nam và Lưỡng Quảng sẽ dẫn đến việc Tôn tái đắc cử làm Đại Nguyên soái, và sau đó là sự chia rẽ giữa Tôn và Trần Quýnh Minh về Thống nhất bằng Chinh phạt hay Đàm phán. Trong khi Tôn khiển trách con đường đàm phán, sự điên rồ của Bắc phạt chứng minh rằng miền Nam phải chờ đợi thời cơ, và một lần nữa tham gia vào các cuộc đàm phán hòa bình Bắc-Nam.\n\n$UPC_the_third_constitutional_protection_movement_idea_tt$"
+
+UPC_directorate_of_rehabliation_negotiation_idea: "Cục Phục hồi"
+UPC_directorate_of_rehabliation_negotiation_idea_desc: "Cục Phục hồi là một cơ quan chính phủ mới được thành lập với ý định xử lý các vấn đề liên quan đến việc điều phối các lãnh thổ vừa bị chiếm đóng. Dưới thẩm quyền của nó là việc duy trì thiết quân luật, hội nhập chính quyền cấp tỉnh và cấp huyện và tái thiết quốc gia. Được biên chế bởi nhiều bộ phận khác nhau dưới quyền một tổng cục trưởng và hai phó cục trưởng, Cục hoạt động tương tự như một bộ trong chính phủ, và cuối cùng được hình dung như một thể chế tạm thời cho đến bao lâu \"việc phục hồi phải kéo dài\"."
+
+UPC_a_modified_tutelage_idea: "Một chế độ Huấn chính được sửa đổi"
+UPC_a_modified_tutelage_idea_desc: "Dưới ấn tượng lâu dài của Tiến sĩ Tôn Trung Sơn, Quốc dân Đảng mãi mãi là một phong trào Cách mạng Quốc gia. Nó phải tuân theo Cách mạng Ba giai đoạn Quốc gia như ông đã quy định: thống nhất quân sự, Huấn chính, và Cai trị Hiến pháp. Và than ôi, có vẻ như phong trào Liên bang đã phá vỡ khoảng cách, thích không thực hiện trạng thái Đảng trị. Trong khi những người chính thống và cứng rắn sẽ lên án điều này là đặt quốc gia vào thế thất bại, hoặc thậm chí là một nền dân chủ tham nhũng được xây dựng trên xiềng xích di sản của Bắc Dương, những người thực dụng và ôn hòa đủ đã thích nghi.\n\nQuốc dân Đảng luôn là Đảng của Cách mạng Quốc gia Trung Quốc, bất kể hình thức nào, và trong khi Huấn chính như được quy định có lẽ sẽ không thấy ánh sáng ban ngày, nhiệm vụ của Quốc dân Đảng vẫn là khai sáng người dân, đào tạo họ về Bốn Quyền Cơ bản, và vun đắp một nền dân chủ Trung Quốc trường tồn với thử thách của thời gian."
+
+UPC_second_party_of_the_republic_idea: "Đảng thứ hai của nền Cộng hòa"
+UPC_second_party_of_the_republic_idea_desc: "Từ lâu, Đồng minh Dân chủ Trung Quốc đã giữ vững di chúc và thực tiễn của nền dân chủ công dân. Không lay chuyển trong niềm tin này, các đảng tiền thân của CDL đã đứng với quốc gia từ những nguyên tắc đầu tiên của thực tiễn dân chủ, và hết lần này đến lần khác, họ đứng như đội tiên phong để bảo vệ các đức tính và giá trị của quốc gia. Để vun đắp cho công dân con đường thực hiện quyền bầu cử của họ. Và với việc kéo cờ của phong trào Liên bang dưới Liên minh Cộng hòa Lớn, CDL đã ở bên họ kể từ khi bắt đầu hành trình.\n\nLiên minh Cộng hòa Lớn có thể đã khởi xướng và thành lập nền cộng hòa mới, nhưng chính dưới sự bảo trợ và che chở tốt đẹp của Đồng minh Dân chủ Trung Quốc, nền dân chủ Trung Quốc được bảo vệ. Không có thực thể nào xứng đáng hơn để trở thành Đảng thứ hai của nền Cộng hòa."
+
+UPC_stabilising_electoral_politics_GXC_idea: "Ổn định chính trị bầu cử"
+UPC_stabilising_electoral_politics_GXC_idea_desc: "Không thể tin được, ít nhất là theo tiền lệ, có vẻ như nền dân chủ Trung Quốc sẽ tồn tại lâu dài. Dưới sự khởi xướng của Liên minh Cộng hòa Lớn, những người Liên bang miền Nam đã xoay xở áp đặt lên quốc gia một nền dân chủ thực sự. Được bao bọc bởi bản chất Liên bang của họ, họ đã giám sát việc xây dựng cơ sở hạ tầng bầu cử, thống nhất quốc gia, và cuối cùng là chuyển giao quyền lực hòa bình cho một đảng khác.\n\nVới việc hoàn thành một loạt chính sách của họ bất chấp việc mất vị trí đương nhiệm, Liên minh Cộng hòa Lớn đã chứng kiến sự ổn định và bình thường hóa thực sự của nền dân chủ nghị viện trong nền Cộng hòa. Trái ngược hoàn toàn với nền Cộng hòa Bắc Dương, không còn là những kẻ mạnh quân sự cai trị chính trị bầu cử của Trung Quốc nữa, mà là các chính trị gia dân sự."
+
+UPC_anti_partisan_ideal_idea: "Lý tưởng chống đảng phái"
+UPC_anti_partisan_ideal_idea_desc: "Những nhân cách độc đoán đã xé nát nền Cộng hòa Bắc Dương, và cả triều đại trước đó. Dưới sự bảo trợ của chủ nghĩa vị kỷ, sự trung thành ý thức hệ, và sự phục tùng mù quáng, nỗ lực đầu tiên của quốc gia về dân chủ đã chứng kiến thêm nhiều cuộc cách mạng và nhiều cuộc nội chiến, kết thúc bằng việc kéo dài Thời đại Quân phiệt. Ý thức hệ có thể cung cấp cho người dân cơ sở để hành động, nhưng cá nhân phải giữ trong mình khả năng suy nghĩ của riêng mình. Cả với tư cách là chính trị gia hàng đầu, hoặc là người tham gia chính trị bầu cử.\n\nTrong khi các đối thủ ở cánh cấp tiến có thể lên án chủ nghĩa duy tâm \"Nhà khoa học\" và \"Nhà đạo đức\" của nhóm Cộng hòa Độc lập trong bối cảnh chính trị Trung Quốc, rõ ràng là cơn giận của họ rơi vào tai điếc. Dưới những người như Hồ Thích và Hoàng Phu, nền Cộng hòa Liên bang sẽ chỉ tuân thủ Lý tưởng Chống đảng phái. Hành động khôn ngoan, không để những giáo điều ý thức hệ mù quáng phá hủy nó."
+
+UPC_the_liangist_dream_GXC_idea: "Giấc mơ Lương Khải Siêu"
+UPC_the_liangist_dream_GXC_idea_desc: "Lương Khải Siêu hiểu khi nào cần kêu gọi cách mạng, và khi nào cần hòa bình. Khi chính phủ nhà Thanh từ chối áp dụng các cải cách của Khang Hữu Vi, Lương buộc phải liên minh cần thiết với lực lượng cách mạng của Tôn Trung Sơn để chiến đấu vì một nước Trung Quốc tốt đẹp hơn. Tuy nhiên, Lương đã đặt lưỡi hái nổi loạn xuống sau năm 1912 để làm việc trong Chính phủ Bắc Kinh vì sự thay đổi thực sự. Không giống như những kẻ sùng bái nhà nước Đảng phái, chúng ta tiếp tục cuộc chiến vì một nước Trung Quốc mạnh mẽ, dân chủ. Chúng ta cố chấp từ chối những lời kêu gọi của bạo chúa và ủng hộ việc bảo vệ tự do!"
+
+UPC_the_liangist_dream_left_idea: "$UPC_the_liangist_dream_GXC_idea$"
+UPC_the_liangist_dream_left_idea_desc: "Lương Khải Siêu đã đi đầu trong chủ nghĩa cải cách trong chính trị Trung Quốc trong nhiều thập kỷ. Những người theo chủ nghĩa Tôn ở Quảng Châu không cho Lương lựa chọn nào và tiếp tục cố gắng đẩy Trung Quốc vào thời kỳ vô chính phủ. Liên tục xem xét lại các ý tưởng của mình, Lương đi đến nhận thức rằng lý tưởng cần hướng tới nằm ở chủ nghĩa xã hội cải cách của lý tưởng Fabian, không phải những lời nhảm nhí đầy rẫy Bolshevik của Quốc dân Đảng. Với hòa bình mong đợi từ lâu cuối cùng đã được bảo đảm, chúng ta có thể biến tầm nhìn của Lương thành hiện thực."
+
+UPC_executive_camarilla_idea: "Bè phái Hành pháp"
+UPC_executive_camarilla_idea_desc: "Không có biện pháp bảo vệ dân chủ nào tốt hơn việc cai trị của giới tinh hoa tài năng, và chính những tinh hoa đó tạo thành vòng tròn nội bộ xung quanh Tổng thống. Cho đến khi quốc gia Trung Quốc tự ổn định chống lại quân phiệt, cách mạng và tất cả những kẻ kêu gọi phá hủy nền dân chủ non trẻ của nó, Tổng thống và Bè phái của ông sẽ vẫn sẵn sàng hành động. Những người bảo vệ dân chủ trong nền Cộng hòa Súng đã nạp đạn, bất cứ khi nào có dấu hiệu nguy hiểm, những người trung thành với Tổng thống sẽ tấn công. Dù là phủ đầu hay không, chính dưới sự khởi xướng của họ, Trung Quốc sẽ được dẫn dắt đến tương lai tươi sáng đúng đắn."
+
+UPC_regionalism_enshrined_idea: "Chủ nghĩa khu vực được tôn vinh"
+UPC_regionalism_enshrined_idea_desc: "Chủ nghĩa Liên bang chỉ được xây dựng trên các tỉnh đóng góp của toàn thể quốc gia, đó là ý nghĩa ở cốt lõi của phong trào. Đó là niềm tin vững chắc của Chương Thái Viêm, cha đẻ của Chủ nghĩa Liên bang Trung Quốc, rằng quốc gia nên có hình thức giống một Liên bang hơn, trong đó các khu vực có thể thực hiện quyền tự trị thực sự. Bản chất của dân chủ và Chủ nghĩa Liên bang là quốc gia trao quyền lực thích đáng cho các tỉnh của mình, và dưới Nhóm Nghị sĩ Khu vực, vai trò của Tỉnh đã được tôn vinh về mặt văn hóa trong nền Cộng hòa. Đó là một vận mệnh độc đáo của Trung Quốc khi từ chối khái niệm quốc gia-dân tộc, thay thế bằng Liên bang Quốc gia."
+
+UPC_a_plebiscitarian_revolution_by_the_ballot_idea: "Cách mạng Toàn dân bằng Lá phiếu"
+UPC_a_plebiscitarian_revolution_by_the_ballot_idea_desc: "Tằng Kỳ có ước mơ kêu gọi một cuộc cách mạng bạo lực chống lại quân phiệt và Quốc dân Đảng để thành lập một nền cộng hòa thống trị quốc gia và đưa nhân dân Trung Quốc đến thời đại đền bù xứng đáng của họ, nhưng ước mơ của chúng ta đã bị gió số phận làm dịu đi. Tương lai của YCP không nằm ở sức mạnh vũ khí, mà ở sức mạnh của chủ nghĩa bầu cử. Mỗi ngày, chúng ta tấn công vào trái tim và khối óc của giới trẻ, và mỗi ngày quần chúng tiếp tục thưởng cho đảng cao quý của chúng ta. Tằng ra đi để rèn một nước Trung Quốc mới bằng máu và sắt, nhưng chính Tả sẽ hoàn thành giấc mơ của ông bằng sức mạnh của ngòi bút!"
+
+UPC_education_for_the_masses_idea: "Giáo dục cho Quần chúng"
+UPC_education_for_the_masses_idea_desc: "Như là bản tuyên ngôn của tôn giáo phương Tây, nền Cộng hòa, họ đều bị ảnh hưởng bởi cùng một lý tưởng gấp ba. Lật đổ các tầng lớp xã hội cổ đại, từ chối chính phủ chuyên chế, bình đẳng phổ quát của mọi người trước pháp luật, bảo đảm bốn quyền tự do lương tâm, tư tưởng, ngôn luận và báo chí, đã hình thành thành trì của cách mạng, thành tựu giáo dục phổ quát, giải phóng phụ nữ, phong trào nữ quyền, thực hiện quyền chính trị cho phụ nữ.\n\nTất cả những thành tựu vĩ đại này chỉ có thể được theo đuổi trên nền tảng giáo dục rộng khắp cho quần chúng quốc gia. Nếu Trung Quốc muốn đứng trên trường quốc tế như một người bình đẳng, hoặc thậm chí vượt trội hơn so với các nước đương thời, nó không thể mòn mỏi trong nạn mù chữ. Khi người nông dân trung bình không thể đọc, làm sao anh ta có thể thực hiện nghĩa vụ công dân của mình trong việc bãi miễn bầu cử? Dù thế nào đi nữa, hãy giáo dục người dân."
+
+UPC_the_anti_opium_campaign_idea: "Chiến dịch Chống Thuốc phiện"
+UPC_the_anti_opium_campaign_idea_desc: "Trong khi các nỗ lực địa phương ở Quảng Đông dưới những người theo Liên minh Cộng hòa Lớn ở đó đã chứng kiến sự cải thiện đáng kể trong tình hình, việc hút và buôn lậu thuốc phiện vẫn là một vấn đề nghiêm trọng trên toàn quốc. Đặc biệt ở các tỉnh có kiểm soát lỏng lẻo hơn nhiều, hoặc đạo đức kém hơn, quốc gia đã phải chấp nhận sự xâm nhập và hiện diện liên tục của chất độc hại trong cuộc sống hàng ngày. Sử dụng Hiệp hội Chống Thuốc phiện Quốc tế, đốt hàng loạt kho dự trữ, và tịch thu cưỡng bức, người ta hy vọng chính phủ sẽ có thể đủ sức đánh bại căn bệnh vào thùng rác của lịch sử."
+
+UPC_union_dissent_idea: "Bất đồng Công đoàn"
+UPC_union_dissent_idea_desc: "Có lẽ là một biện pháp không được ưa chuộng, các tổ chức xã hội chủ nghĩa khác nhau (hợp pháp và không hợp pháp) đã bắt đầu nhiều nỗ lực đình công lẻ tẻ để phản đối việc Chính phủ bắt buộc phi chính trị hóa phong trào công đoàn. Như trước đây, Chính phủ đã thấy phù hợp để đàm phán với các công đoàn, với những lời kêu gọi thỏa hiệp, tương trợ và hiểu biết lẫn nhau để đạt được tiến bộ. Thông qua việc tăng cường điều kiện làm việc, tiền lương và phúc lợi của người lao động, Chính phủ sẽ trao cây gậy bằng củ cà rốt, và tất cả những gì mong đợi để đổi lại là bản chất phi chính trị hữu hình của các công đoàn, dù phe Công đoàn có lên án mạnh mẽ đến đâu."
+
+UPC_primacy_of_the_executive_state_idea: "Tính tối cao của Nhà nước Hành pháp"
+UPC_primacy_of_the_executive_state_idea_desc: "Chuyên chế có thể được hiểu là đối lập với dân chủ, nhưng đó chỉ là sự thật nếu những cá nhân nắm toàn bộ quyền lực không phải là Người Tốt. Độc tài Khai sáng, khi được sử dụng đầy đủ, trên thực tế có thể hoạt động tốt hơn dân chủ sơ cấp trong ngắn hạn. Và chuyển sang cấp nhà nước, chỉ có nhánh hành pháp mới có thể hành động trong những thời điểm khủng hoảng để ngăn chặn sự chia rẽ. Thời đại Quân phiệt không gì khác ngoài thảm họa, với chủ nghĩa khu vực tràn lan và phong phú, và chính quyền các tỉnh không tuân lệnh Thủ đô.\n\nGiữ Chủ nghĩa Liên bang làm hệ tư tưởng chính, những người theo chủ nghĩa Lập hiến tuy nhiên đã gây áp lực buộc Chính phủ Trung ương phải có cách tiếp cận thực tế hơn trong sự cân bằng giữa Tỉnh và Quốc gia. Nhánh hành pháp phải duy trì ảnh hưởng trong đời sống của mọi tỉnh, để ngăn chặn chủ nghĩa quân phiệt tái xuất."
+
+UPC_the_anti_vice_campaign_idea: "Chiến dịch Chống Tệ nạn"
+UPC_the_anti_vice_campaign_idea_desc: "Từ lâu, mong muốn của Liên minh Cộng hòa Lớn kể từ khi còn non trẻ trong tâm trí của Đảng Lợi ích Công cộng của Trần Quýnh Minh, Nhóm Chín người của Hùng Khắc Vũ, Đảng Chính phủ Nhân dân của Đường Kế Nghiêu, hay Hội Đổi mới Nhân dân của Triệu Hằng Dịch, đã là khái niệm xóa bỏ thuốc phiện. Một tệ nạn được cảm nhận mạnh mẽ nhất ở các tỉnh biên giới, nơi thúc đẩy cốt lõi của phong trào Liên bang cũ, Thuốc phiện không gì khác ngoài một bệnh dịch đã cưỡi lên vùng đất Trung Quốc và được sử dụng để lạm dụng người dân!\n\nNhưng Chính phủ phải bước xa hơn, phải tiến tới xóa bỏ hoàn toàn tệ nạn. Các tệ nạn xã hội — thuốc phiện, cướp bóc, cờ bạc và nội chiến — đều phải được xử lý trong thời gian ngắn. Với việc thống nhất quốc gia và các chiến dịch chống cướp đang được tiến hành, tất cả những gì còn lại là xóa bỏ thuốc phiện, cờ bạc, tham nhũng, mại dâm và mọi hình thức bệnh tật khác."
+
+UPC_a_legacy_of_thousands_of_years_idea: "Di sản ngàn năm"
+UPC_a_legacy_of_thousands_of_years_idea_desc: "Kể từ thời Đại Hán, Trung Quốc đã là nơi sinh sống của một tầng lớp tinh hoa Sĩ quan-Công chức mà toàn bộ xã hội Trung Quốc phụ thuộc rất nhiều. Để dẫn dắt quốc gia tiến lên, để thực hiện các nhiệm vụ quan liêu hàng ngày, công trạng của họ được xác minh thông qua việc vượt qua các kỳ thi triều đình, và trong khi ánh đèn sân khấu của họ đã mờ đi với việc bãi bỏ kỳ thi triều đình, sự hiện diện của họ vẫn được cảm nhận mạnh mẽ. Có một truyền thống quan liêu mạnh mẽ trong quốc gia, một truyền thống về hiệu quả và đạo đức lành mạnh, và nhiều người vẫn mang tín điều đó. Không có bộ máy quan liêu hay hành chính nào hiệu quả hơn bộ máy của nền Cộng hòa mới!"
+
+UPC_the_rural_education_campaign: "Chiến dịch Giáo dục Nông thôn"
+UPC_the_rural_education_campaign_desc: "Đặc quyền của Chính phủ là đảm bảo phúc lợi cho công dân, và yet người nông dân Trung Quốc trung bình than thở dưới nạn mù chữ bất công của họ. Nó không chỉ làm tê liệt quốc gia và sinh kế cá nhân của công dân, mà còn đơn giản là xóa bỏ mọi khả năng của một nền dân chủ lành mạnh, hoạt động và ổn định. Trong khi Chính phủ thường sẽ đảm bảo rằng có sự gia tăng dần dần về tỷ lệ biết chữ trong quốc gia, dưới áp lực từ nhóm nghị sĩ khu vực, dân số nông thôn — cơ sở ủng hộ chính của họ — thấy được sự khai sáng quan trọng mà một nền giáo dục hiện đại có thể cung cấp."
+
+UPC_all_representative_governmental_organs_idea: "Cơ quan Chính phủ Đại diện Toàn thể"
+UPC_all_representative_governmental_organs_idea_desc: "Trong một quốc gia rộng lớn như Trung Quốc, các nguyên tắc tổ chức liên bang là cách duy nhất để tạo ra sự kết hợp đúng đắn giữa chủ nghĩa địa phương và quyền lực trung ương. Thiết lập chính quyền địa phương tổng hợp chủ nghĩa nghiệp đoàn và chủ nghĩa liên bang sẽ thúc đẩy sự phục hưng quốc gia của nền Cộng hòa Trung Quốc, và dẫn chúng ta vào một kỷ nguyên tự do và thịnh vượng!"
+
+########################################
+######- Mục 05: Cây Focus - #######
+########################################
+
+#Road to Unification Tree
+UPC_the_road_to_unification: "Con đường Thống nhất"
+UPC_the_road_to_unification_desc: "Tình hình Trung Quốc không thể tiếp tục như vậy được nữa! Nếu Chính phủ Trung ương ngừng hành động thiện chí và dưới các điều khoản đáng tin cậy, ổn định, thì nó phải được đưa trở lại các ghế quyền lực miền Nam để lãnh đạo các nỗ lực thống nhất quốc gia. Thế giới đang lệch lạc, và Trung Quốc không thể tiếp tục chịu đựng hoặc chìm đắm trong bất hạnh của mình. Khi mây đen tụ lại, quốc gia và hiến pháp phải được bảo vệ một lần nữa."
+
+UPC_the_march_to_war: "Cuộc hành quân đến Chiến tranh"
+UPC_the_march_to_war_desc: "Thống nhất bằng Đàm phán đã chứng minh là một nỗ lực lý tưởng hóa bị hoen ố của những kẻ mơ mộng hòa bình, những người thực sự không thể hỗ trợ lời nói của họ bằng bất kỳ sự thể hiện lực lượng hợp lý nào. Đoàn Kỳ Thụy từng cố gắng thống nhất quốc gia bằng vũ lực và ông đã suýt làm được. Phe Trực Lệ cố gắng mô phỏng ông, bị đánh bại, có thể trở lại, và thống nhất quốc gia thành công qua lửa và chiến tranh. Nay đã đến lúc miền Nam kết thúc thỏa thuận."
+
+UPC_balancing_freedom_and_authority: "Cân bằng Tự do và Quyền lực"
+UPC_balancing_freedom_and_authority_desc: "Đảng Dân chủ Xã hội chủ nghĩa luôn coi cả quyền lực và tự do là những thành phần không thể thiếu của quốc gia, và do đó cả hai đều hoạt động trong lĩnh vực riêng của chính phủ. Trong các vấn đề hành chính, chính phủ nên có đủ thẩm quyền để đảm bảo hiệu quả, đồng thời duy trì hành động quyết đoán. [ROOT.GetLeader] có thể không nhất thiết đồng ý với quan điểm như vậy, nhưng sự ủng hộ tiến bộ là hữu ích."
+
+UPC_a_warchest_for_national_unification: "Kho chiến phí cho Thống nhất Quốc gia"
+UPC_a_warchest_for_national_unification_desc: "Chiến tranh là một nỗ lực tốn kém, thường được tài trợ thông qua thuế, trưng thu cưỡng bức, hoặc vay từ các cường quốc nước ngoài. Việc tăng một kho dự trữ đáng kể cả tiền tệ và vật tư cũng có khả năng là một nỗ lực khó khăn. Tuy nhiên, thống nhất phải được hoàn thành bất kể chi phí có thể kéo theo. Các đối tác tương lai mặc kệ, Trung Quốc không thể chờ đợi thêm nữa."
+
+UPC_the_path_of_negotiation: "Con đường Đàm phán"
+UPC_the_path_of_negotiation_desc: "Sẽ là ngu ngốc nếu đẩy chính quyền tỉnh vào một cuộc chiến tranh tốn kém khác, gây ra sấm sét và đổ máu khắp đất nước trong một nỗ lực vô vọng cho sự thống nhất tự cao tự đại. Chính khách thực sự được sinh ra từ thỏa hiệp và thảo luận, không phải từ viên đạn nhanh và thép lạnh. [ROOT.GetLeader] không thể tự nhận là một chính khách Trung Quốc vĩ đại nếu họ không ít nhất thử các lựa chọn khác, trước khi dùng đến gươm."
+
+UPC_leverage_through_solidarity: "Đòn bẩy qua Đoàn kết"
+UPC_leverage_through_solidarity_desc: "Miền Bắc tự nó có thể không phải là một thực thể đặc biệt thống nhất, nhưng trên cơ sở cá nhân, bất kỳ chính thể miền Bắc nào đã chứng minh mình nhanh chóng tập hợp lại để ngăn chặn sự thống trị của miền Nam. Thông qua ngoại giao cẩn thận và vun đắp các mối quan hệ cần thiết, miền Nam sẽ một lần nữa tập hợp thành một liên minh rộng lớn của sự thống nhất, khiến việc chinh phục bằng vũ lực là không thể. Đương nhiên, kết quả là miền Bắc phải đến bàn đàm phán."
+
+UPC_a_model_for_all_to_see: "Một hình mẫu cho tất cả mọi người"
+UPC_a_model_for_all_to_see_desc: "Tỉnh kiểu mẫu là một cụm từ phổ biến trên khắp quốc gia, rõ ràng nhất với việc thực hiện ở Sơn Tây hoặc Hồ Nam. Nếu bất kỳ chính phủ miền Nam nào muốn xây dựng cảm giác chính danh để cạnh tranh với miền Bắc, họ phải chứng minh mình có khả năng điều hành một chính quyền hiệu quả và có trật tự tốt. Thông qua những nỗ lực như vậy, một cảm giác về nghĩa vụ quốc gia và sự phục vụ chắc chắn sẽ được xây dựng."
+
+UPC_a_new_directorate_of_rehabilitation: "Cục Phục hồi mới"
+UPC_a_new_directorate_of_rehabilitation_desc: "Được thành lập ban đầu bởi Trần Quýnh Minh khi ông trở lại Quảng Châu vào đầu những năm 1920, Cục Phục hồi là để xử lý mọi vấn đề liên quan đến thống nhất quốc gia. Dự định mời Đường Thiệu Nghi làm Tổng cục trưởng cùng với một liên minh các tỉnh miền Nam, cuối cùng đó là một nỗ lực thất bại. Dưới lần lặp lại thứ hai, nó sẽ tập trung vào việc điều phối các lãnh thổ bị chiếm đóng."
+
+UPC_fight_for_the_interior: "Chiến đấu vì Nội địa"
+UPC_fight_for_the_interior_desc: "Toàn bộ quốc gia phải được thống nhất, và do đó vùng nội địa Trung Quốc khiêm tốn phải được đưa vào vòng tay. Tự nó là một vùng đất chia rẽ, và phần lớn bị thống trị bởi Tứ Xuyên và các bè phái khác nhau của nó, vùng nội địa có thể chứng minh là nơi tập kết tương lai cho một chính phủ khẩn cấp tiến lên nếu các vùng ven biển rơi vào tay xâm lược nước ngoài. Tương tự, việc sáp nhập nó sẽ ngăn chặn một cuộc đâm sau lưng tiềm tàng trên đường tiến lên miền Bắc."
+
+UPC_topple_beiyang: "Lật đổ Bắc Dương"
+UPC_topple_beiyang_desc: "Chính phủ Bắc Dương đã không làm gì kể từ khi thành lập năm 1912 ngoài việc chứng minh sự điên rồ của chính mình. Nhiều thập kỷ băng chuyền chính trị đã mang lại cho nó rất ít sự ổn định hoặc chính danh trong mắt công chúng. Bị chia rẽ giữa các bè phái quân phiệt miền Bắc đang cố gắng, cuối cùng nó đã mất chính mình trong một đám mây mù của tham lam và chính trị. Cũng như Bắc Dương đã dập tắt mọi hy vọng về một nước Trung Quốc mới, chúng ta phải xóa bỏ mọi bản chất của Bắc Dương cũ."
+
+UPC_smash_the_league: "[UPC_smash_the_league_scripted_loc]"
+UPC_smash_the_league_desc: "Thủ đô miền Nam và con ngươi trong viên ngọc của Tôn Trung Sơn, Nam Kinh nằm vững chắc trong lãnh thổ của Liên minh và đường viền tỉnh ven biển của nó. Nếu bất kỳ chính phủ miền Nam nào muốn ngăn chặn sự thống trị của các chính trị gia và quân phiệt miền Bắc mà Bắc Kinh sẽ sinh ra, điều tuyệt đối cần thiết là phải bảo đảm các tỉnh miền Đông. Là nơi sinh sống của phần lớn sự giàu có của Trung Quốc, [ROOT.GetLeader] sẽ sử dụng nó tốt hơn."
+UPC_smash_the_league_kmt: "Tước đoạt Nhà nước Đảng phái"
+UPC_smash_the_league_nokmt: "Đập tan Liên minh"
+
+UPC_take_on_fengtian: "Đối đầu Phụng Thiên"
+UPC_take_on_fengtian_desc: "Ẩn náu trong Ba tỉnh Đông Bắc của quốc gia, Mãn Châu phần lớn đã xoay xở tránh được phần lớn đổ máu gay gắt của Thời đại Quân phiệt. Tất nhiên, không nhất thiết hoàn toàn không bị tổn hại, người Đông Bắc hiếm khi rời khỏi căn cứ nhà của họ với toàn lực, ngay cả trong các nỗ lực cai trị chính phủ Bắc Dương. Với Chính phủ Trung ương bị đánh bại, chỉ còn Thẩm Dương trên con đường thống nhất."
+
+#Affairs of the Ruling Coalition Tree
+UPC_affairs_of_the_ruling_coalition: "Các vấn đề của Liên minh Cầm quyền"
+UPC_affairs_of_the_ruling_coalition_desc: "Dưới thể chế của nền Cộng hòa Liên bang mới, theo thiết kế, ít nhất là để bảo tồn tính chính trực dân chủ dưới một hội đồng nghị viện, không đảng nào có thể đạt được đa số tuyệt đối thực sự trong Hội đồng mà không có sự ủng hộ đa số thực sự. Do đó, bất kỳ đối tác liên minh dự kiến nào được mua lại để đảm bảo đa số sẽ mong đợi phần thập phân của riêng họ, có thể nói vậy. Hoàn thành các chính sách của họ chắc chắn sẽ mua được sự ủng hộ của họ cho chương trình nghị sự của chúng ta."
+
+UPC_KMT_coalition_focus_pol_1: "KMT: Thích ứng Tam Dân Chủ nghĩa"
+UPC_KMT_coalition_focus_pol_1_desc: "Đúng là Quốc dân Đảng là, và vẫn là, một đảng cách mạng. Sinh ra trong lửa cách mạng, và được tái thiết sau đó khi thất bại của nỗ lực nghị viện của Tống Giáo Nhân lộ ra trong các cuộc trả đũa sau Cách mạng lần thứ hai. Nhưng một cuộc cách mạng thực sự phải biết khi nào cần thích nghi. Và những người cứng rắn từ chối tham gia nền dân chủ mới? Họ phải bị bỏ lại phía sau."
+
+UPC_KMT_coalition_focus_eco_1: "KMT: Trên con đường Dân sinh"
+UPC_KMT_coalition_focus_eco_1_desc: "Một phần quan trọng trong cương lĩnh đảng của Quốc dân Đảng là nguyên tắc cốt lõi của Dân sinh, hay Phúc lợi Nhân dân. Và phúc lợi như vậy không thể được cung cấp cho quần chúng nếu tình hình đất đai hiện tại vẫn như cũ. Nông dân vất vả nhưng họ không thịnh vượng, cũng không nhận được đền bù xứng đáng, và trên thực tế, bị xiềng xích với địa chủ của họ. Trong khi hệ thống nghị viện có thể hạn chế một giải pháp cấp tiến hơn cho vấn đề, người ta vẫn có thể đẩy mọi thứ đi đúng hướng."
+
+UPC_KMT_coalition_focus_soc_1: "KMT: Một Quốc gia Cách mạng"
+UPC_KMT_coalition_focus_soc_1_desc: "Rất hiếm khi con đường cải cách của Lương và Khang mang lại cải thiện thực sự cho quốc gia Trung Quốc. Cải cách Trăm ngày; bị chia cắt bởi bảo hoàng. Cách mạng Tân Hợi; bị phá hủy bởi chuyên chế. Nhà nước Đảng phái của Nghiên cứu Hệ; nhưng chỉ là mặt nạ cho Câu lạc bộ An Phúc của Đoàn Kỳ Thụy. Tuy nhiên, những thành công lớn nhất của nó, Chiến tranh Bảo vệ Quốc gia, Cách mạng Tân Hợi, chúng được đưa ra thông qua sự hy sinh của các liệt sĩ, và lửa cách mạng. Điều bắt buộc là phải củng cố quan điểm như vậy."
+
+UPC_KMT_coalition_focus_flex_1: "KMT: Hợp pháp hóa các Đảng Chị em"
+UPC_KMT_coalition_focus_flex_1_desc: "Thật là bất hạnh khi Quốc dân Đảng có thể được hợp pháp hóa, nhưng các đảng cách mạng chị em của nó bị gạt sang một bên. Đại diện của công nhân và nông dân không thể làm việc hiệu quả vì sự tốt đẹp hơn của quần chúng Trung Quốc khi họ bị chế giễu là \"khủng bố\", \"phản bội\" và \"nguy hiểm\". Là một thành viên của liên minh cầm quyền, Quốc dân Đảng không thể ngồi yên nhìn họ mòn mỏi trong địa vị của họ; điều bắt buộc là họ phải được hợp pháp hóa."
+
+UPC_KMT_coalition_focus_pol_2: "KMT: Di sản của Tiến sĩ Tôn"
+UPC_KMT_coalition_focus_pol_2_desc: "Mối quan hệ của Tiến sĩ Tôn Trung Sơn với phong trào Liên bang đã... rạn nứt, nói giảm nói tránh. Tất nhiên, đã có lúc các phong trào thống nhất, hài hòa trong sứ mệnh chung là phá bỏ cấu trúc thối nát của trật tự quốc gia cũ, và mang lại một tương lai mới. Than ôi, họ đã xa cách. Cả phe Liên bang và Quốc dân Đảng đều có lời giải thích của họ cho điều đó, nhưng có một điều chắc chắn. Tiến sĩ Tôn Trung Sơn Người Cách mạng; quốc gia sẽ không ở đây nếu không có ông."
+
+UPC_KMT_coalition_focus_eco_2: "KMT: Kế hoạch Tái thiết Quốc gia"
+UPC_KMT_coalition_focus_eco_2_desc: "Kế hoạch Chính sách Kinh tế Lớn của đảng là Tái thiết Quốc gia. Được hoàn thành trong Giai đoạn thứ ba của Cách mạng Quốc gia, cùng với việc kết thúc Huấn chính và Ban hành Dân chủ Nhân dân, rõ ràng là trong khi các mục tiêu chính trị có thể không đạt được theo ý định thuần túy mà Quốc phụ mong muốn, các mục tiêu kinh tế vẫn tỏ ra khả thi. Chỉ thông qua tự cung tự cấp nội bộ và một thời kỳ hòa giải, chúng ta mới có thể thịnh vượng trong kỷ nguyên mới."
+
+UPC_KMT_coalition_focus_soc_2: "KMT: Đan xen Ý thức hệ và Giáo dục"
+UPC_KMT_coalition_focus_soc_2_desc: "Học sinh của quốc gia Trung Quốc từ lâu đã thúc đẩy những thay đổi to lớn và quan trọng thông qua sức mạnh tuyệt đối của quán tính trí tuệ và niềm tin kiên định. Không thể có một nước Trung Quốc mới nếu không có sức mạnh của tuổi trẻ, và chính thông qua sức mạnh này, họ cũng gây ra nguy hiểm. Sự quyến rũ của các phong trào cấp tiến tìm cách phá hủy nền dân chủ Trung Quốc non trẻ phải bị dập tắt từ trong trứng nước, và giáo dục ý thức hệ chính là liều thuốc chữa bách bệnh cho vấn đề như vậy."
+
+UPC_KMT_coalition_focus_flex_2: "KMT: Trao quyền cho Công xã Nhân dân"
+UPC_KMT_coalition_focus_flex_2_desc: "Không có nông dân và công nhân Trung Quốc, sẽ không có lực lượng cách mạng lâu dài trong quốc gia. Đảng và nhân dân chỉ có thể mang ơn sự giải phóng và thịnh vượng tiếp tục của họ đối với những chiến binh dũng cảm như vậy của cuộc đấu tranh cách mạng; những người cầm cờ, những người xây dựng công xã. Tự trị và tự cung tự cấp, họ là một tấm gương để chiêm ngưỡng trên khắp quốc gia, và nên phục vụ một mục đích tổ chức trong hệ thống Liên bang."
+
+UPC_KMT_coalition_focus_final: "KMT: Một chế độ Huấn chính được sửa đổi"
+UPC_KMT_coalition_focus_final_desc: "Mặc dù không như Quốc phụ mong muốn như được viết trong Tam Dân Chủ nghĩa, Cách mạng Quốc gia tuy nhiên đã đạt được một số mục tiêu của nó, và nhân dân sẽ mãi mãi vui mừng vì vai trò của Quốc dân Đảng trong nền cộng hòa dân chủ mới. Có lẽ không phải Đảng trị, mà là một hình thức sửa đổi của nó, với Quốc dân Đảng mãi mãi phục vụ như những người bảo vệ và che chở cho quần chúng và lợi ích của họ, chống lại tất cả giai cấp tư sản phản bội tìm cách làm hại họ."
+
+UPC_KMT_no_coalition_focus: "KMT: KHÔNG TRONG LIÊN MINH"
+UPC_KMT_no_coalition_focus_desc: "Quốc dân Đảng không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_CDL_coalition_focus_pol_1: "CDL: Một Liên minh Tiến bộ"
+UPC_CDL_coalition_focus_pol_1_desc: "Trong khi một số đảng đứng cao trong Đồng minh Dân chủ Trung Quốc, liên minh của chúng ta đòi hỏi sự đóng góp của tất cả các đảng Tiến bộ để ban hành cải cách hợp lý và dân chủ trong nền cộng hòa mới. Cùng nhau, chúng ta chiến đấu vì một ngày mai tốt đẹp hơn, sự phục hưng của nền Cộng hòa Trung Quốc!"
+
+UPC_CDL_coalition_focus_eco_1: "CDL: Cứu trợ cho Công nhân và Nông dân"
+UPC_CDL_coalition_focus_eco_1_desc: "Trong Thời đại Quân phiệt, Chiến tranh Kháng chiến và Nội chiến Trung Quốc, những người bị tổn hại nhiều nhất chắc chắn là công nhân và nông dân Trung Quốc. Chính họ là những người cần được hướng tới viện trợ và cứu trợ rất cần thiết, vì một dân chúng hạnh phúc có nghĩa là một chính phủ ổn định."
+
+UPC_CDL_coalition_focus_soc_1: "CDL: Cân bằng Truyền thống và Hiện đại"
+UPC_CDL_coalition_focus_soc_1_desc: "Trong khi phương Tây có nhiều điều để dạy chúng ta về hiện đại, đạo đức và phát triển kinh tế, chúng ta phải cẩn thận cân bằng điều này với các giá trị và nguyên tắc của riêng mình. Chúng ta phải tái đầu tư vào các thực tiễn truyền thống của Trung Quốc trong khi tiếp tục nghiên cứu các thực tiễn của phương Tây. Chúng ta phấn đấu vì một con đường trung dung!"
+
+UPC_CDL_coalition_focus_flex_1: "CDL: Chính trị hóa Công đoàn"
+UPC_CDL_coalition_focus_flex_1_desc: "Để thúc đẩy tiến bộ rất cần thiết trong xã hội và nền kinh tế Trung Quốc, chúng ta phải xem Chủ nghĩa Công đoàn là phương pháp truyền bá tư tưởng cho giai cấp công nhân. Trong khi giai cấp nông dân sẽ mãi mãi là thành trì của chủ nghĩa bảo thủ, người lao động thành thị là khán giả lý tưởng cho các ý tưởng của chủ nghĩa xã hội và dân chủ xã hội."
+
+UPC_CDL_coalition_focus_pol_2: "CDL: Chính phủ do Những người Tốt nhất của Xã hội"
+UPC_CDL_coalition_focus_pol_2_desc: "Trong khi CDL được thành lập trên các nguyên tắc tự do, dân chủ và tự do, chúng ta không được quên rằng quần chúng Trung Quốc vẫn là một đám đông mù chữ không có ý thức chung về đúng sai. Như trong những ngày xưa, chính tầng lớp Sĩ phu-Thân sĩ và quý ông tư sản phải tiếp tục cai trị quốc gia."
+
+UPC_CDL_coalition_focus_eco_2: "CDL: Nền tảng cho một Nhà nước Phúc lợi"
+UPC_CDL_coalition_focus_eco_2_desc: "Trong khi chủ nghĩa quân phiệt đã chứng minh là bệnh dịch lớn nhất đối với nền cộng hòa, chủ nghĩa xã hội nổi dậy là bệnh dịch thứ hai. Để làm tê liệt cuộc cách mạng xã hội, công nhân và nông dân phải được trao các mạng lưới an sinh thích đáng và phẩm giá trong lao động của họ. Không có sự ủng hộ của quần chúng, KMT và CSP chắc chắn sẽ sụp đổ."
+
+UPC_CDL_coalition_focus_soc_2: "CDL: Giáo dục cho Quần chúng"
+UPC_CDL_coalition_focus_soc_2_desc: "Như một người cha đối với con cái, tầng lớp thân sĩ và sĩ phu chỉ mong điều tốt nhất cho người dân Trung Quốc, bao gồm giáo dục của họ. Một khi người dân học về hiện đại cũng như truyền thống của họ, họ sẽ hiểu được cương lĩnh của CDL. Khai sáng quần chúng sẽ khôi phục vị thế của Trung Quốc trên thế giới!"
+
+UPC_CDL_coalition_focus_flex_2: "CDL: Ưu thế Dân sự trên Quân đội"
+UPC_CDL_coalition_focus_flex_2_desc: "Trong thời đại ô nhục của Thời đại Quân phiệt, các quân phiệt nhỏ nhen và tướng lĩnh tham vọng đã chiến đấu với nhau để giành quyền kiểm soát. Sự hỗn loạn như vậy phải được ngăn chặn tái diễn, và quân đội phải được đặt dưới sự giám sát cẩn thận của Chính phủ Liên bang. Một nền cộng hòa hiện đại đòi hỏi sự kiểm soát dân sự đối với quân đội."
+
+UPC_CDL_coalition_focus_final: "CDL: Đảng thứ hai của nền Cộng hòa"
+UPC_CDL_coalition_focus_final_desc: "Khi Liên minh Cộng hòa Lớn bắt đầu phong trào của họ để thống nhất đất nước dưới khuôn mẫu Liên bang, chính các tiền thân của Đồng minh Dân chủ Trung Quốc đã đứng với họ. Thông qua sự đồng thuận của nhân dân và sự chính nghĩa của sự nghiệp của chúng ta, đảng của chúng ta sẽ tiếp tục chiến đấu vì nhân dân và sự đền bù xứng đáng về phẩm giá của họ."
+
+UPC_CDL_no_coalition_focus: "CDL: KHÔNG TRONG LIÊN MINH"
+UPC_CDL_no_coalition_focus_desc: "Đồng minh Dân chủ Trung Quốc không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_GRA_coalition_focus_pol_1: "GRA: Lời kêu gọi Đoàn kết Cộng hòa"
+UPC_GRA_coalition_focus_pol_1_desc: "Dẫn dắt quốc gia hướng tới một tương lai dân chủ, quá trình dân chủ đã diễn ra theo đúng tiến trình. Và bản chất không thể thiếu của tất cả những người tham gia chính trị trong nền Cộng hòa Liên bang Trung Quốc mới là bảo vệ nền dân chủ non trẻ của nó. Những người Cộng hòa không thể tranh cãi giữa họ với nhau, kẻo bạo lực nảy sinh giữa những người anh em, và chính GRA sẽ là người dẫn dắt sự đoàn kết."
+
+UPC_GRA_coalition_focus_eco_1: "GRA: Mua lại các Doanh nghiệp Nước ngoài"
+UPC_GRA_coalition_focus_eco_1_desc: "Luôn là một tội lỗi có thể tranh cãi trong hàng ngũ của chính Trực Lệ và Phụng Thiên, việc mua lại các lợi ích kinh doanh khác nhau, hoặc ít nhất là quyền sở hữu cổ phần, bởi các thực thể thuộc địa đã không mang lại gì ngoài điều kiện tồi tệ cho công nhân của quốc gia. Trong khi đúng là đầu tư và vốn đã tràn vào các nhà máy Trung Quốc, nó đi kèm với một cái giá khủng khiếp, và phải được đảo ngược."
+
+UPC_GRA_coalition_focus_soc_1: "GRA: Tấn công Buôn bán Thuốc phiện"
+UPC_GRA_coalition_focus_soc_1_desc: "Không có tội ác nào lớn hơn trong quốc gia Trung Quốc bằng chất độc hiểm ác tràn vào các kênh rạch và mọc lên trong các cánh đồng của nó. Nó lan tràn khắp đất nước, được canh tác bởi quân phiệt và cướp nhỏ, được bán bởi những kẻ xấu xa, và tất cả lợi nhuận chìm vào túi của những kẻ cặn bã nhất của quốc gia. Tình trạng như vậy không thể đứng vững."
+
+UPC_GRA_coalition_focus_flex_1: "GRA: Thực hiện Giải ngũ"
+UPC_GRA_coalition_focus_flex_1_desc: "Nền Cộng hòa Bắc Dương đã cho thấy sự điên rồ của những kẻ mạnh quân sự thống trị lĩnh vực chính trị của quốc gia. Kết hợp sức mạnh súng với sức mạnh pháp luật, họ gieo rắc không gì ngoài thất bại, tham nhũng và bệnh tật khủng khiếp trong thí nghiệm dân chủ đầu tiên của Trung Quốc. Bằng cách tước đi lực lượng của họ, chúng ta có thể đảm bảo sự ổn định của nền cộng hòa."
+
+UPC_GRA_coalition_focus_pol_2: "GRA: Thỏa hiệp trên khắp Hòn đảo"
+UPC_GRA_coalition_focus_pol_2_desc: "Không một nhân cách nào có thể thống trị nền cộng hòa của chúng ta, chúng ta là công chức của ý chí nhân dân, không phải những nhân cách tự phục vụ và độc đoán có ý định thỏa mãn. Chúng ta phải là một quốc gia của thỏa hiệp, và của sự hiểu biết lẫn nhau, một quốc gia của sự hợp tác tiếp tục của tất cả các đảng chính đáng, từ Thanh niên Trung Quốc đến các thành viên của Đồng minh Dân chủ Trung Quốc."
+lngupc.5.tb_tooltip: "[ROOT.GetLeader] Tuân thủ"
+
+UPC_GRA_coalition_focus_eco_2: "GRA: Loại bỏ nanh vuốt của các Công đoàn Cuồng tín"
+UPC_GRA_coalition_focus_eco_2_desc: "Phong trào Công đoàn là một con thú mạnh mẽ, và nó chắc chắn đã buộc cả hành động tích cực và tiêu cực, nhưng nó đã trở nên quá tham nhũng bởi những ảnh hưởng tả khuynh phản bội, đến mức họ lấy lý tưởng tổ chức công đoàn phi chính trị, và chính trị hóa chúng. Các công đoàn phải làm việc với nhà nước, không chống lại nó."
+
+UPC_GRA_coalition_focus_soc_2: "GRA: Thấm nhuần Tinh thần Dân chủ"
+UPC_GRA_coalition_focus_soc_2_desc: "Nền dân chủ của Trung Quốc là quý giá, và nếu không có sự vun đắp thích đáng cho bốn quyền cơ bản của nhân dân cùng với giáo dục của họ, chính tinh thần đó, cảm giác chân thành về sự tham gia dân chủ, có thể bị mất. Người dân Trung Quốc phải học cách mạnh mẽ với sự tham gia của họ vào hệ thống mới, và bảo vệ nó khỏi quân phiệt và cách mạng."
+
+UPC_GRA_coalition_focus_flex_2: "GRA: Chiến đấu chống lại sự Cố thủ Chính trị"
+UPC_GRA_coalition_focus_flex_2_desc: "Chúng ta không thể cho phép sự tự mãn hoặc thối rữa bén rễ trong hệ thống bầu cử non trẻ của quốc gia, vì điều đó xâm phạm chính các quyền của một nền dân chủ tự do và công bằng. Các bộ máy chính trị và Đảng trị chỉ dẫn đến chủ nghĩa độc đoán tiềm ẩn, và một quốc gia thất bại. Chúng ta phải làm việc để chống tham nhũng bất cứ nơi nào nó có thể bén rễ, và luôn cảnh giác chống lại những bất công do các đảng gây ra."
+
+UPC_GRA_coalition_focus_final: "GRA: Ổn định Chính trị Bầu cử"
+UPC_GRA_coalition_focus_final_desc: "Mặc dù chắc chắn không phải là một sự đảm bảo, Liên minh Cộng hòa Lớn tuy nhiên đã bảo đảm sự ổn định của chiến trường chính trị hỗn loạn của Trung Quốc cho một tương lai trung dung và ôn hòa. Chỉ những đảng sẵn sàng tham gia công bằng, với ý định chân thành, và ý thức nghĩa vụ mới có thể thấy bầu cử, và GRA sẽ là những người bảo vệ vĩnh cửu cho nền dân chủ của Trung Quốc."
+
+UPC_GRA_no_coalition_focus: "GRA: KHÔNG TRONG LIÊN MINH"
+UPC_GRA_no_coalition_focus_desc: "Liên minh Cộng hòa Lớn không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_REP_coalition_focus_pol_1: "REP: Cải cách Bầu cử"
+UPC_REP_coalition_focus_pol_1_desc: "Có lẽ quá vội vàng trong niềm khao khát thiển cận về một tương lai dân chủ, những người khai sinh hệ thống bầu cử mới của Trung Quốc đã để nó chạy lung tung với việc gerrymandering và các khu vực bầu cử không bình đẳng. Điều này đã dẫn đến một tình huống hoàn toàn không thể chấp nhận được, trong đó quốc gia bị thống trị bởi một loạt các đảng, chứ không phải đa số. Bằng cách vẽ lại các khu vực mới, chúng ta hãy giải quyết tai họa này."
+
+UPC_REP_coalition_focus_eco_1: "REP: Bãi bỏ các loại Thuế Áp bức"
+UPC_REP_coalition_focus_eco_1_desc: "Là di sản của các chính quyền đã qua từ lâu, hệ thống thuế của Trung Quốc phần lớn là tùy tiện, và mâu thuẫn với chính nó. Bóp nghẹt doanh nghiệp từ trong trứng nước, nó đã dẫn đến việc tích tụ các tập đoàn kinh doanh lớn dưới các gia tộc khác nhau đã được thiết lập trước, thay vì sự phát triển thực sự của tinh thần khởi nghiệp tự do. Hợp lý hóa và bãi bỏ các loại thuế khác nhau sẽ cho phép sự khéo léo phát triển."
+
+UPC_REP_coalition_focus_soc_1: "REP: Bài học từ Phương Tây"
+UPC_REP_coalition_focus_soc_1_desc: "Nền văn minh phương Tây công nhận tầm quan trọng thực sự của việc hưởng thụ vật chất; nó phấn đấu cho những phát triển và tiến bộ mới — để tăng của cải, sản xuất, chế tạo và khả năng nghiên cứu. Đó là tinh thần cơ bản của phương Tây khi tìm kiếm \"chân lý\". Bản chất vô hạn của tri thức đã khiến phương Đông tự mãn, và chúng ta phải noi gương những người anh em của mình."
+
+UPC_REP_coalition_focus_flex_1: "REP: Bình đẳng Giới"
+UPC_REP_coalition_focus_flex_1_desc: "Văn hóa truyền thống Trung Quốc của chúng ta, được phú cho các đức tính của Khổng Tử, đã thấy trước một xã hội bất bình đẳng lớn — dù có quyền bầu cử hay không, người phụ nữ Trung Quốc hầu như không có cơ hội như nam giới. Dân chủ là một lợi ích lâu dài, và nhà nước Trung Quốc khó có thể đảm bảo nó phát triển mà không có sự bình đẳng thực sự của tất cả các dân tộc của mình."
+
+UPC_REP_coalition_focus_pol_2: "REP: Tái thiết Thực dụng"
+UPC_REP_coalition_focus_pol_2_desc: "Bám vào các truyền thống được cụ thể hóa của quá khứ Khổng giáo đã dẫn đến nhiều thế hệ Sĩ phu-Thân sĩ phục tùng, hoàn toàn không có khả năng thích nghi với thay đổi. Dưới \"tái thiết thực dụng\", Tân Khổng giáo có thể sử dụng lịch sử để thông báo cho giải pháp của các vấn đề hiện tại, tiếp tục sự phát triển của Khổng giáo cùng với sự phát triển của xã hội loài người."
+
+UPC_REP_coalition_focus_eco_2: "REP: Tôn giáo Mới của Khoa học"
+UPC_REP_coalition_focus_eco_2_desc: "Gần đây trong trật tự thế giới đã có sự hình thành của một \"tôn giáo mới\" hoàn toàn dành cho việc thúc đẩy nền văn minh khoa học, một khía cạnh mà bản thân nó không hoàn toàn hiểu, nhưng các đặc điểm rất rõ ràng: chủ nghĩa duy lý, niềm tin vào nhân loại, và đạo đức xã hội mới được xây dựng trên lòng từ bi rộng lớn. Những điều này phải là không thể thiếu trong nước Trung Quốc mới."
+
+UPC_REP_coalition_focus_soc_2: "REP: Cuộc đấu tranh vì Tự do"
+UPC_REP_coalition_focus_soc_2_desc: "Hồ Thích đã cảnh báo rằng một cuộc đấu tranh ý thức hệ quy mô quốc tế đã ngày càng bắt đầu nổi lên, định hình và khắc họa thế giới theo ý thích và mong muốn của nó. Sự khác biệt cơ bản không phải là chủ nghĩa xã hội hay Chủ nghĩa Dân tộc-Narod, mà là giữa chủ nghĩa toàn trị độc tài và các hệ thống dân chủ; dân chủ chống lại chuyên chế. Trung Quốc phải dẫn dắt thế giới hướng tới một tương lai tự do!"
+
+UPC_REP_coalition_focus_flex_2: "REP: Từ chối Chủ nghĩa Quân phiệt"
+UPC_REP_coalition_focus_flex_2_desc: "Một quốc gia bị thống trị bởi quân đội không thể chứng minh mình là một quốc gia thực sự dân chủ; nó không phải là một nền cộng hòa, mà chỉ là mặt nạ cho chế độ quân trị. Nền Cộng hòa Bắc Dương đã chứng minh rằng nếu không có tư duy tiên phong thích đáng chống lại lưỡi kiếm của chủ nghĩa quân phiệt, giấc mơ lý tưởng của cả một quốc gia có thể sụp đổ. Quân đội có chỗ đứng, nhưng chủ nghĩa quân phiệt sẽ không tìm được chỗ đứng trong nước Trung Quốc mới."
+
+UPC_REP_coalition_focus_final: "REP: Một nền Cộng hòa Không Đảng phái"
+UPC_REP_coalition_focus_final_desc: "Các chính trị gia không thể tự phục vụ, tất cả họ phải thể hiện một dạng \"lợi ích vô tư\". Ý thức hệ không nên bao trùm toàn bộ và độc hại, nó chỉ là một khái niệm biểu thị một hệ thống các ý tưởng về cuộc sống, xã hội và chính phủ. Dưới nền cộng hòa dân chủ mới của Trung Quốc, Hội đồng không tự xé mình vì ý thức hệ, mà tiến lên trong sự liên minh chung!"
+
+UPC_REP_no_coalition_focus: "REP: KHÔNG TRONG LIÊN MINH"
+UPC_REP_no_coalition_focus_desc: "Nhóm Cộng hòa Độc lập không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_DCP_coalition_focus_pol_1: "[UPC_GetDCPPartyName_nocolour]: Tính Tối cao của Hiến pháp"
+UPC_DCP_coalition_focus_pol_1_desc: "Hiến pháp Trung Quốc phải là một văn kiện thiêng liêng. Nó phải được tôn kính. Tất cả các chính phủ phải hoàn toàn chịu trách nhiệm trước một văn kiện như vậy, vì nếu họ không tuân thủ các quy tắc đã viết, họ không hơn gì những tên cướp. Quân phiệt và những kẻ sùng bái Nhà nước Đảng phái sẽ tìm cách làm tiêu tan tất cả công sức của những người chiến đấu vì dân chủ, và chúng ta phải tôn vinh hiến pháp để ngăn chặn điều này."
+
+UPC_DCP_coalition_focus_eco_1: "[UPC_GetDCPPartyName_nocolour]: Áp dụng Chủ nghĩa Xã hội Nhà nước"
+UPC_DCP_coalition_focus_eco_1_desc: "Quần chúng rất cần bố thí để xoa dịu những khó khăn của họ, và điều tự nhiên là họ quay về phía những người \"nhiệt thành\" nhắm vào nhu cầu của họ nhất: Quốc dân Đảng, phe Công đoàn Trung Quốc, Tân Dân chủ Xã hội, và Dân chủ Xã hội. Như Lương mong muốn, chúng ta phải thực hiện một nhà nước phúc lợi đủ mạnh để vừa cải thiện đời sống của người dân, vừa cắt đứt sự ủng hộ của tả khuynh từ gốc rễ."
+
+UPC_DCP_coalition_focus_soc_1: "[UPC_GetDCPPartyName_nocolour]: Bảo tồn Đạo đức Khổng giáo"
+UPC_DCP_coalition_focus_soc_1_desc: "Cách mạng và Quân phiệt Bất lương đã chạy lung tung, phá hủy quan niệm truyền thống, Khổng giáo về chính phủ. Đạo đức là trung tâm của bất kỳ chính phủ vững chắc nào, và nền cộng hòa này cũng phải tiếp tục tuân thủ nguyên tắc này. Khổng giáo, hội nhập với các Nguyên tắc Phương Tây, sẽ đảm bảo cả hiện đại và hài hòa trong nền Cộng hòa Trung Quốc."
+
+UPC_DCP_coalition_focus_flex_1: "[UPC_GetDCPPartyName_nocolour]: Vun đắp Mối quan hệ Hải ngoại"
+UPC_DCP_coalition_focus_flex_1_desc: "Trong Thế kỷ Ô nhục, nhiều người Trung Quốc đã rời quê hương tổ tiên đến những vùng đất xa lạ để tìm kiếm cuộc sống tốt đẹp hơn. Tuy nhiên, họ không bao giờ quên quê hương thực sự của mình, và chúng ta cũng vậy. Hoa kiều đã chứng minh là những nhà tài trợ hào phóng cho các đảng đạo đức, và chúng ta phải mở rộng bàn tay với họ."
+
+UPC_DCP_coalition_focus_pol_2: "[UPC_GetDCPPartyName_nocolour]: Cai trị của Hành pháp"
+UPC_DCP_coalition_focus_pol_2_desc: "Từ lâu được nhóm chính trị Lương phái mong muốn là tính tối cao của nhánh hành pháp. Một quyền hành pháp mạnh mẽ, với một chính phủ tập trung hơn, có lẽ là đối lập với mô hình Liên bang, và yet, nó là không thể thiếu cho sự sống còn của nền Dân chủ Trung Quốc. Sự kiêu ngạo và quyền lực của quân phiệt các tỉnh đã làm suy yếu nhà nước một cách nghiêm trọng, và chỉ một nhánh hành pháp mạnh mới có thể khắc phục điều này."
+
+UPC_DCP_coalition_focus_eco_2: "[UPC_GetDCPPartyName_nocolour]: Khởi xướng Tái thiết Nông thôn"
+UPC_DCP_coalition_focus_eco_2_desc: "Một trong những vấn đề gian nan nhất của quốc gia là nghèo đói, nhưng không phải bất bình đẳng. Phe Xã hội chủ nghĩa mong muốn quốc hữu hóa tài sản, nhưng đó không phải là thuốc giải cho những vấn đề rõ ràng của Trung Quốc. Quá lâu rồi, giới cầm quyền và các chính khách hiện tại đã lạm dụng quần chúng nông thôn, và quá lâu rồi họ đã mòn mỏi. Thông qua nỗ lực phối hợp, chúng ta phải giải phóng người nông dân khỏi xiềng xích của họ."
+
+UPC_DCP_coalition_focus_soc_2: "[UPC_GetDCPPartyName_nocolour]: Đảm bảo Chính phủ của Người Tốt"
+UPC_DCP_coalition_focus_soc_2_desc: "Điều bắt buộc là chính phủ phải hợp hiến, công khai và phối hợp. Và chỉ thông qua \"Người Tốt\" những phẩm chất đó của chính phủ mới có thể được đảm bảo. Những thành viên xuất sắc của xã hội, giới tinh hoa có học thức, nên được đưa lên để lãnh đạo quốc gia và hành động. Chỉ thông qua những người này, các cải cách dân chủ mới có thể tồn tại trước những ảnh hưởng xấu."
+
+UPC_DCP_coalition_focus_flex_2: "[UPC_GetDCPPartyName_nocolour]: Thiết lập Nhà nước Can thiệp"
+UPC_DCP_coalition_focus_flex_2_desc: "Cách mạng Tân Hợi lẽ ra chỉ nên là bước đệm tiến tới một \"cách mạng chính trị\" sẽ dẫn đến việc thành lập nhà nước can thiệp Khổng giáo. Cuối cùng mạnh mẽ, nó lý tưởng nên có khả năng chăm lo cho việc xã hội hóa dân số, và khẳng định mình trên trường quốc tế. Trong khi Tân Hợi thất bại, chúng ta đã được trao cơ hội thứ hai."
+
+UPC_DCP_coalition_focus_final: "[UPC_GetDCPPartyName_nocolour]: Hiện thực hóa Giấc mơ của Lương"
+UPC_DCP_coalition_focus_final_desc: "Trong suốt thời gian Lương Khải Siêu tham gia chính trị, ông đã không ngừng đấu tranh cay đắng vì dân chủ lập hiến. Là học trò của Khang Hữu Vi, ông phân biệt mình với việc Tôn Trung Sơn tôn thờ bạo lực thông qua các lý tưởng cải cách chân chính. Ông qua đời trước khi công việc của mình có thể hoàn thành, nhưng nền Cộng hòa Liên bang này chính là điều ông khao khát."
+
+UPC_DCP_no_coalition_focus: "[UPC_GetDCPPartyName_nocolour]: KHÔNG TRONG LIÊN MINH"
+UPC_DCP_no_coalition_focus_desc: "[UPC_GetDCPPartyName_nocolour_long] không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_STA_coalition_focus_pol_1: "STA: Tôn vinh Vai trò của Quân đội"
+UPC_STA_coalition_focus_pol_1_desc: "Nền dân chủ của Trung Quốc mang ơn quân đội rất nhiều, vì nếu không có sự hy sinh dũng cảm của binh lính, nó khó có thể đánh bại quân phiệt và cách mạng đã chống lại hy vọng và ước mơ của họ. Chính trên điều kiện này, quân đội phải thấy một vai trò không thể thiếu trong nền dân chủ Trung Quốc, họ là những người bảo vệ chống lại chuyên chế, và là những người bảo vệ dân chủ."
+
+UPC_STA_coalition_focus_eco_1: "STA: Xóa bỏ Tệ nạn Quốc gia"
+UPC_STA_coalition_focus_eco_1_desc: "Quá nhiều thái quá được tạo ra trong một số theo đuổi phù phiếm của chủ nghĩa cá nhân trong nước. Tự do là quan trọng, tất nhiên, nhưng với cái giá nào? Thuốc phiện, và cờ bạc? Hai trong số những tội lỗi lớn nhất của quốc gia! Tất nhiên, lệnh cấm đã có ở nhiều tỉnh, nhưng điều này là không đủ. Thông qua một chiến dịch chính phủ triệt để, chúng ta có thể trừ tà cho quốc gia khỏi tệ nạn này."
+
+UPC_STA_coalition_focus_soc_1: "STA: Hiện đại hóa Giáo dục Truyền thống"
+UPC_STA_coalition_focus_soc_1_desc: "Trong khi giáo dục trong các cơ sở hiện đại là bình đẳng, hoặc ít nhất, tương tự như các đối tác phương Tây, nhiều vùng của quốc gia vẫn tham gia hệ thống giáo dục truyền thống. Ngừng theo đuổi giáo dục đó sau một cấp độ nhất định, thay vào đó theo đuổi các ngành nghề, nó đã gây ra một trở ngại lớn cho khả năng trí tuệ của Trung Quốc. Ngay cả trong Thanh Hải, phải có một sừng dê trí tuệ."
+
+UPC_STA_coalition_focus_flex_1: "STA: Tăng Ngân sách Quân sự"
+UPC_STA_coalition_focus_flex_1_desc: "Quá lâu rồi, nhiều thành viên của các chính quyền trước, đôi khi thậm chí là đồng minh, đã chứng minh chiến thắng trong cuộc thập tự chinh chống lại \"chủ nghĩa quân phiệt\" được nhận thức. Cắt giảm ngân sách quân sự và phân bổ nó cho công vụ, hoặc giáo dục. Những điều này là quan trọng thực sự, tất nhiên, nhưng điều bắt buộc là quân đội, những người bảo vệ nền cộng hòa, không bị giảm bớt vì sự phục vụ của họ."
+
+UPC_STA_coalition_focus_pol_2: "STA: Mở rộng Quyền lực Liên bang"
+UPC_STA_coalition_focus_pol_2_desc: "Nhiều người theo chủ nghĩa lý tưởng — Chương Thái Viêm, Chương Sĩ Chiêu, Triệu Hằng Dịch — sẽ thấy nền Cộng hòa Liên bang giữ quyền tự trị đáng kể trong các tỉnh, tất nhiên, như là điều kiện cho trạng thái cuối cùng của họ cho dự án Liên bang. Nhưng những nhà tư tưởng vĩ đại, như Lương Khải Siêu, hoặc Đường Kế Nghiêu, đã thấy trước sự điên rồ của các phương pháp này — chủ nghĩa quân phiệt hiện sinh. Chính phủ Trung ương phải có thẩm quyền trong các tỉnh."
+
+UPC_STA_coalition_focus_eco_2: "STA: Điều chỉnh Ký sinh trùng của Xã hội"
+UPC_STA_coalition_focus_eco_2_desc: "Môi giới của những người quen nước ngoài, những người thực hiện một chiến dịch du kích cách mạng vô vọng, và những kẻ lang thang khắp đất nước như những tên cướp, tất cả họ chỉ là những ký sinh trùng ăn bám vào sự phục vụ của Người Tốt. Toàn bộ quốc gia phải đóng góp cho toàn thể lớn hơn, vì nếu bản thân người dân là những kẻ lười biếng tham nhũng, quốc gia chắc chắn sẽ thất bại."
+
+UPC_STA_coalition_focus_soc_2: "STA: Theo đuổi Hài hòa Xã hội"
+UPC_STA_coalition_focus_soc_2_desc: "Quốc gia phải hoạt động như một cỗ máy, nó phải hiệu quả, và dân số phải hoàn toàn tận tụy. Quá lâu rồi, người dân đã đánh mất chính mình, tham gia vào sự quyến rũ khó chịu của chủ nghĩa xã hội, hoặc những lời nói dối ngọt ngào của quân phiệt quá tự phục vụ để có thể thỏa mãn đầy đủ nhu cầu của họ. Tự do và dân chủ chỉ có thể được theo đuổi bởi một trật tự xã hội hài hòa: công dân được giáo dục đạo đức led bởi một giới tinh hoa khai sáng."
+
+UPC_STA_coalition_focus_flex_2: "STA: Sức mạnh của Bộ máy Quan liêu"
+UPC_STA_coalition_focus_flex_2_desc: "Từng nổi tiếng với bộ máy quan liêu và sự bất tài gắn liền với cấu trúc hành chính của nó, ít người đã thấy sức mạnh thực sự được giải phóng của các chuyên gia kỹ thuật và quan chức có năng lực của Trung Quốc. Được quản lý dưới nỗ lực tập trung của chính phủ, và với tham nhũng không có vai trò gì, nhà nước Trung Quốc mới sẽ duy trì kỷ luật chặt chẽ hơn, và hành động tập thể mạnh mẽ."
+
+UPC_STA_coalition_focus_final: "STA: Nền Cộng hòa Súng đã nạp đạn"
+UPC_STA_coalition_focus_final_desc: "Các đối thủ của chúng ta sẽ lên án rằng nền dân chủ Trung Quốc không phải là dân chủ chút nào! Rằng nó chỉ đơn giản là rơi vào cạm bẫy của Bắc Dương, bị thống trị bởi quân nhân và bè phái của họ. Nhưng họ sẽ sai, quân đội không hành động vì lợi ích của riêng mình, chỉ vì lợi ích của nền Dân chủ Liên bang của quốc gia. Chừng nào quân đội còn cảnh giác, dân chủ còn được bảo vệ."
+
+UPC_STA_no_coalition_focus: "STA: KHÔNG TRONG LIÊN MINH"
+UPC_STA_no_coalition_focus_desc: "Nhóm Nghị sĩ Nhà nước không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_REG_coalition_focus_pol_1: "REG: Hạ thấp Ngưỡng Bầu cử"
+UPC_REG_coalition_focus_pol_1_desc: "Các chính trị gia chính thống đã thấy trước một hệ thống bị thống trị bởi các đảng quần chúng của họ, từ chối dung thứ cho một nền dân chủ nghị viện thực sự; những người Độc lập đồng ý với quan điểm này. Dưới sự bảo trợ của GRA và CDL, chỉ những đảng có đủ quyền lực và ảnh hưởng mới có thể đạt được chiến thắng, và yet điều này từ chối các vấn đề của tỉnh những người cầu hôn thực sự của họ. Chúng ta hãy khắc phục tình trạng như vậy."
+
+UPC_REG_coalition_focus_eco_1: "REG: Bình định Nạn cướp Vùng nội địa"
+UPC_REG_coalition_focus_eco_1_desc: "Chính phủ Trung ương không tiếc chi phí trong việc xóa bỏ nạn cướp trong nội địa, xung quanh các đấu trường bầu cử quan trọng và không thể thiếu của họ. Nhưng còn vùng biên giới thì sao? Còn biên giới thì sao? Cướp có thể vượt qua giữa các tỉnh nội địa mà không một vết xước! Sự bất công như vậy không thể đứng vững, và phải thấy hành động ngay lập tức của Chính phủ Trung ương."
+
+UPC_REG_coalition_focus_soc_1: "REG: Ưu tiên Giáo dục Nông thôn"
+UPC_REG_coalition_focus_soc_1_desc: "Theo như những người chính thống quan tâm, các làng và những thứ tương tự thấy ít hoặc không có tài trợ so với các trung tâm đô thị như Thượng Hải, hoặc Bắc Kinh, hoặc Quảng Châu. Họ sẽ thấy người nông dân nông thôn mòn mỏi nếu chỉ để tài trợ thêm cho người thành thị, và yet chính ngôi làng nông thôn tạo thành nền tảng của nền văn minh Trung Quốc, và vì điều này, giáo dục phải là ưu tiên."
+
+UPC_REG_coalition_focus_flex_1: "REG: \"Tinh chỉnh\" Ranh giới Bầu cử"
+UPC_REG_coalition_focus_flex_1_desc: "Được vẽ vội và dựa vào các cấu trúc có sẵn, ranh giới bầu cử của nền Cộng hòa Liên bang phần lớn rơi vào các cạm bẫy của nền Cộng hòa Bắc Dương. Dựa quá nhiều vào các khu vực thối nát và gerrymandering, chúng đã làm trì trệ nền dân chủ thực sự xảy ra, và bỏ qua nhu cầu của các cử tri khu vực. Bằng cách vẽ lại chúng, với một số khoan dung tự nhiên, chúng ta có thể đảm bảo một tương lai Liên bang."
+
+UPC_REG_coalition_focus_pol_2: "REG: Ngăn chặn Tập trung hóa Chính trị"
+UPC_REG_coalition_focus_pol_2_desc: "Trong hoàn cảnh lý tưởng, Chính phủ Trung ương có lẽ sẽ thích sự can thiệp tuyệt đối liên quan đến các vấn đề của tỉnh. Trong khi có lẽ \"thúc đẩy\" hành động của chính phủ, điều này vừa cho thấy sự thiếu tin tưởng trắng trợn vào các đơn vị hành chính địa phương vừa là sự lạm dụng trắng trợn quyền lực chính phủ. Suy cho cùng, đây không phải là một dự án Liên bang sao?"
+
+UPC_REG_coalition_focus_eco_2: "REG: Bình đẳng hóa các Tỉnh"
+UPC_REG_coalition_focus_eco_2_desc: "Như hiện tại, tỉnh càng lớn về công nghiệp và dân số, và tất nhiên, càng \"trung thành\" với thành phần ý thức hệ ưa thích của Chính phủ Trung ương, thì càng giữ nhiều quyền lực thể chế. Quảng Đông, Vân Nam, Hồ Nam, Tứ Xuyên, Hồ Bắc, Trực Lệ, Thượng Hải, tất cả đều thống trị trên các tỉnh \"nhỏ hơn\". Chúng ta phải thúc đẩy Hội đồng khắc phục thất bại như vậy."
+
+UPC_REG_coalition_focus_soc_2: "REG: Bảo vệ Quyền của Người thiểu số"
+UPC_REG_coalition_focus_soc_2_desc: "Trung Quốc không chỉ là một quốc gia của Ngũ tộc, điều này sẽ là không chân thành và là sự đối xử tồi tệ với sự đa dạng sắc tộc đầy màu sắc của nó trong quốc gia. Và quá lâu rồi, các nhóm thiểu số khác nhau đã bị lu mờ bởi quân phiệt và chế độ khác nhau. Chỉ với một vài anh hùng địa phương, đã đến lúc Chính phủ Trung ương bước vào để bảo vệ quyền và văn hóa của họ."
+
+UPC_REG_coalition_focus_flex_2: "REG: Cắt giảm các Phù phiếm Chính trị"
+UPC_REG_coalition_focus_flex_2_desc: "Lương bổng phình to và chi tiêu quá mức vô ích được coi là những bóng ma của quá khứ, để lại với cấu trúc thối nát của nền Cộng hòa Bắc Dương, và yet bây giờ hơn bao giờ hết chúng rõ ràng trong việc biển thủ trắng trợn quỹ chính phủ. Lãng phí xa hoa cho các chiến dịch chính trị tước đi của quốc gia nguồn vốn rất cần thiết ở nơi khác, và điều quan trọng là chúng phải được dừng lại."
+
+UPC_REG_coalition_focus_final: "REG: Nhiều sắc thái của Hoa Hải đường"
+UPC_REG_coalition_focus_final_desc: "Người ta tin rằng Hoa Hải đường mang lại may mắn, tài lộc và thịnh vượng. Cũng đúng là chúng biểu thị hòa bình và hài hòa. Và tất cả những phẩm chất này không thể phủ nhận rõ ràng trong nền Cộng hòa Liên bang Trung Quốc mới. Một quốc gia của nhiều tín ngưỡng, nhiều màu sắc, tất cả đoàn kết dưới đám mây cát tường! Vì có nhiều dân tộc tạo nên nhà nước quốc gia Trung Quốc, và tất cả sẽ được lắng nghe tiếng nói của họ!"
+
+UPC_REG_no_coalition_focus: "REG: KHÔNG TRONG LIÊN MINH"
+UPC_REG_no_coalition_focus_desc: "Nhóm Nghị sĩ Khu vực không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_YCP_coalition_focus_pol_1: "YCP: Một nền Cộng hòa được dẫn dắt bởi Chủ nghĩa Quốc gia Nhà nước"
+UPC_YCP_coalition_focus_pol_1_desc: "Tự do và dân chủ đã được nhiều người ở phương Tây ủng hộ như thành phần cốt lõi của các giá trị quốc gia của họ, nhưng đó không phải là điều dẫn dắt chúng ta. Linh hồn của nền Cộng hòa nằm trong Quốc gia chủ nghĩa của chúng ta, quốc tịch Trung Quốc vĩ đại bao gồm tất cả các sắc tộc trong biên giới của chúng ta, và không có thế lực nào khác sẽ xé nát chúng ta một lần nữa."
+
+UPC_YCP_coalition_focus_eco_1: "YCP: Tẩy chay những con Kền kền Phương Tây"
+UPC_YCP_coalition_focus_eco_1_desc: "Thương mại tự do là con đường được Đế quốc Anh quy định trong thế kỷ tôn vinh của họ, và bị áp đặt lên Quốc gia của chúng ta trong Thế kỷ Ô nhục. Chúng ta biết rõ hơn là rơi vào những thủ đoạn như vậy một lần nữa, vì nền kinh tế bảo hộ của chúng ta sẽ giúp công nghiệp hóa quốc gia, một bước nữa tiến tới hiện đại."
+
+UPC_YCP_coalition_focus_soc_1: "YCP: Sửa chữa Những sai lầm của tháng Mười Một"
+UPC_YCP_coalition_focus_soc_1_desc: "Trong khi Ngày 4 tháng 11 nên được ca ngợi vì đã thúc đẩy chủ nghĩa dân tộc Trung Quốc trong giới trẻ của nền Cộng hòa, khuynh hướng chống Khổng giáo của nó là một sai lầm nghiêm trọng. Để vươn tới các vì sao, chúng ta không được quên linh hồn quốc gia của mình. Từ đây trở đi, chúng ta chỉ kỷ niệm cuộc đấu tranh dân tộc của tháng Mười Một, và quên đi những khía cạnh khó chịu của nó."
+
+UPC_YCP_coalition_focus_flex_1: "YCP: Thiết lập các Cơ quan Đại diện"
+UPC_YCP_coalition_focus_flex_1_desc: "Để thúc đẩy một chính phủ thực sự đại diện, các nguyên tắc của chủ nghĩa liên bang phải tiếp tục hướng dẫn nền Cộng hòa của chúng ta. Chính quyền địa phương dựa trên ý chí nhân dân làm việc cùng với chính quyền trung ương dựa trên ý chí quốc gia chắc chắn sẽ thúc đẩy xây dựng địa phương và cấp tỉnh rất cần thiết."
+
+UPC_YCP_coalition_focus_pol_2: "YCP: Hướng tới Chủ nghĩa Nghiệp đoàn Bầu cử"
+UPC_YCP_coalition_focus_pol_2_desc: "Trong khi phương Tây có nhiều điều để dạy chúng ta về công nghiệp hóa và thịnh vượng, khái niệm chủ nghĩa bầu cử dựa trên khu vực về cơ bản không tương thích với việc xây dựng một nhà nước Trung Quốc mạnh mẽ. Thiết lập các cuộc bầu cử theo chủ nghĩa nghiệp đoàn sẽ giúp khôi phục trật tự cho nền kinh tế đang ốm yếu của chúng ta, giải quyết các vấn đề xã hội và xóa bỏ đấu tranh giai cấp."
+
+UPC_YCP_coalition_focus_eco_2: "YCP: Một nền Kinh tế bị xiềng xích với Nhà nước"
+UPC_YCP_coalition_focus_eco_2_desc: "Trong nội địa Trung Quốc, chủ nghĩa tư bản thị trường tự do không thấy gì ngoài việc hút cạn của cải và tài nguyên từ quốc gia vào túi nước ngoài, và môi giới địa phương. Giai cấp tiểu tư sản, nhà tư bản và thương nhân đã biển thủ sự hy sinh của quốc gia vì lợi ích cá nhân của họ. Chỉ dưới sự chỉ đạo của nhà nước, nền kinh tế mới thực sự phát triển."
+
+UPC_YCP_coalition_focus_soc_2: "YCP: Giáo dục bởi Tầng lớp Sĩ phu-Thân sĩ"
+UPC_YCP_coalition_focus_soc_2_desc: "Trong thời kỳ hoàng kim của quốc gia Trung Quốc, Hoàng đế được hướng dẫn bởi trí tuệ vô giá của các học giả Khổng giáo của ông, những người có kiến thức và đạo đức chính nghĩa đã giúp dẫn dắt quốc gia chúng ta tới thiên đường. Chỉ đúng khi tầng lớp sĩ phu-thân sĩ hiện đại của chúng ta dẫn đầu phong trào tiến tới hiện đại một lần nữa, và tiếp thêm sinh lực cho nền Cộng hòa!"
+
+UPC_YCP_coalition_focus_flex_2: "YCP: Một Quân đội dưới Sự lãnh đạo Yêu nước"
+UPC_YCP_coalition_focus_flex_2_desc: "Chủ nghĩa quân phiệt là căn bệnh của những cảm quan phong kiến cũ, nhưng nhiều người đồng tình với những ý tưởng như vậy vẫn còn ở tuyến đầu của chính trị quân đội. Nếu quân đội muốn trở nên thuần khiết trong sự tận tụy với quốc gia Trung Quốc, thì những người có thiện cảm \"hiện đại\" hơn nên được nâng cao và hỗ trợ."
+
+UPC_YCP_coalition_focus_final: "YCP: Một cuộc Cách mạng Toàn dân bằng Lá phiếu"
+UPC_YCP_coalition_focus_final_desc: "Nền Cộng hòa của chúng ta được sinh ra năm 1911, nhưng Cách mạng đã bị bỏ rơi bởi quân phiệt phong kiến, những người tự do yếu đuối và những người Marxists ô nhục. Không còn như vậy nữa, vì Hiến pháp sẽ được sửa đổi để thanh niên yêu nước có thể dẫn dắt quốc gia chúng ta tới Chủ nghĩa Quốc gia Nhà nước! Ba lần hoan hô người cầm lái Tả Thuấn Sinh của chúng ta!"
+
+UPC_YCP_no_coalition_focus: "YCP: KHÔNG TRONG LIÊN MINH"
+UPC_YCP_no_coalition_focus_desc: "Đảng Thanh niên Trung Quốc không nằm trong liên minh cầm quyền của Hội đồng, và do đó chúng ta không thể theo đuổi các chính sách của họ với ý định hợp lý."
+
+UPC_calls_for_a_constitutional_convention: "Triệu tập Hội nghị Lập hiến"
+UPC_calls_for_a_constitutional_convention_desc: "Với việc thống nhất quốc gia và việc bảo đảm cuối cùng của một số vẻ ngoài hòa bình, đã có nhiều lời kêu gọi vang dội [UPC.GetLeader] tổ chức một hội nghị lập hiến quốc gia. Diễn ra trong bối cảnh nhiều tỉnh chính thức hóa hiến pháp của riêng họ, người ta kỳ vọng rằng nền Cộng hòa Liên bang sẽ soạn hiến pháp của riêng mình trong tương lai gần."
+
+UPC_normalise_political_discourse: "Bình thường hóa Diễn ngôn Chính trị"
+UPC_normalise_political_discourse_desc: "Dưới các biện pháp thời chiến, và trước đó dưới sự áp bức của quân phiệt, tự do ngôn luận của Trung Quốc hầu như không phải là mối quan tâm dưới trật tự thế giới của giới cầm quyền. Bị cô lập với một số ít trí thức dũng cảm sẵn sàng lên tiếng, hoặc các ấn phẩm cách mạng, hòa bình sau đó mang theo nhu cầu ổn định hệ thống dân chủ non trẻ của Trung Quốc."
+
+UPC_eliminate_electoral_fraud: "Xóa bỏ Gian lận Bầu cử"
+UPC_eliminate_electoral_fraud_desc: "Một truyền thống chính trị được tô điểm từ lâu của các chính phủ trước đây, và của các vùng chiếm đóng quân sự gần đây, gian lận bầu cử đi đôi với các quan chức \"hợp pháp\" được bầu của Trung Quốc. Với phiếu phổ thông không đáng giá hơn danh hiệu được nhận thức về sự ủng hộ quần chúng mà nó ban tặng, hệ thống đòi hỏi hành động ngay lập tức từ Tổng thống, kẻo nó đặt câu hỏi về nền dân chủ mới."
+
+UPC_nationalise_the_military: "Quốc hữu hóa Quân đội"
+UPC_nationalise_the_military_desc: "Quân đội cuối cùng nên được tập trung dưới chính quyền quốc gia như được một số nhà tư tưởng Liên bang quan trọng nhất của quốc gia đề xuất. Trong khi những người bảo vệ nhiệt thành của chủ nghĩa tỉnh lẻ sẽ thích mỗi tỉnh giữ lực lượng riêng của mình, điều này sẽ chỉ là thiết lập cho chủ nghĩa quân phiệt tương lai, và không phải như thể những người ủng hộ còn lại sẽ chọn nổi loạn thay vì hội nhập."
+
+UPC_new_national_elections: "Bầu cử Quốc gia Mới"
+UPC_new_national_elections_desc: "Cuối cùng, sứ mệnh monumental của phong trào Liên bang đang đạt đến đỉnh cao. Mặc dù có lẽ không hoàn hảo, có lẽ bị hoen ố bởi những nhược điểm bất lợi và đủ loại bất nhất, Liên tỉnh vẫn tiến xa hơn nền Cộng hòa Bắc Dương. Chắc chắn người dân phải vui mừng, khi quốc gia tổ chức các cuộc bầu cử cạnh tranh phần nào đầu tiên kể từ năm 1912."
+
+#Foreign Policy Tree
+CHN_return_to_the_world_stage_focus: "Trở lại Sân khấu Thế giới"
+CHN_return_to_the_world_stage_focus_desc: "Trung Quốc từng là bá chủ vĩ đại ở phương Đông và các vương quốc khắp đất liền và biển đều cống nạp cho các Hoàng đế của nó. Thế kỷ 19 và hơn thế nữa là tàn khốc đối với quốc gia chúng ta, nhưng cuối cùng chỉ là một vết nhỏ trong thiên niên kỷ thống trị của Trung Quốc. Đã đến lúc chúng ta ghép lại quốc gia của mình và đòi lại vị trí của mình trong số các cường quốc thế giới."
+
+CHN_subjugating_the_frontiers_focus: "Khuất phục các Biên giới"
+CHN_subjugating_the_frontiers_focus_desc: "Trung Quốc luôn có mối quan hệ bất an với các biên giới phía bắc và phía tây của mình, với triều đại nhà Thanh cuối cùng đưa phần lớn phương Tây dưới quyền bá chủ của mình. Cách mạng Tân Hợi đã cho những người ly khai được nước ngoài hậu thuẫn ở Mông Cổ, Tây Tạng và Tân Cương cơ hội nổi dậy và đã đến lúc trật tự được khôi phục ở Tây Bắc."
+
+CHN_end_the_century_of_humiliation_focus: "Chấm dứt Thế kỷ Ô nhục"
+CHN_end_the_century_of_humiliation_focus_desc: "Các cuộc Chiến tranh Nha phiến và hậu quả của chúng đã chứng kiến các cường quốc nước ngoài chia cắt Trung Quốc thành các vùng ảnh hưởng và áp đặt một loạt các Hiệp ước Bất bình đẳng làm tê liệt chủ quyền Trung Quốc trong khi người nước ngoài hưởng lợi. Đường sắt, khu phố, và thậm chí toàn bộ cảng đã được cho thuê hoặc bị các cường quốc nước ngoài chiếm. Đã đến lúc chúng ta chấm dứt sự chiếm đóng của nước ngoài trên đất của chúng ta và giải phóng người dân và nền kinh tế Trung Quốc."
+
+CHN_the_liberation_of_taiwan_focus: "Giải phóng Đài Loan"
+CHN_the_liberation_of_taiwan_focus_desc: "Vài thập kỷ sau khi những người trung thành với nhà Minh dưới quyền Trịnh Thành Công lần đầu chiếm Đài Loan, nhà Thanh xâm lược và chiếm đóng hòn đảo vào năm 1683 và thuộc địa hóa nó. Tuy nhiên, người Nhật đã giật lấy hòn đảo khỏi sự kiểm soát của Trung Quốc sau chiến thắng của họ trong Chiến tranh Trung-Nhật lần thứ nhất và tiếp tục trấn áp các phiến quân Trung Quốc trên đảo. Mối đe dọa Nhật Bản sẽ không bao giờ thực sự bị loại bỏ cho đến khi Đài Loan được giải phóng."
+
+CHN_the_dragon_awakens_focus: "Rồng thức giấc"
+CHN_the_dragon_awakens_focus_desc: "Chúng ta đã khôi phục toàn vẹn lãnh thổ của Trung Quốc, đảo ngược điều tồi tệ nhất của Thế kỷ Ô nhục. Các cường quốc khác nay buộc phải công nhận chúng ta như một người ngang hàng một lần nữa, và chúng ta sẽ làm việc để xây dựng lại quả cầu ảnh hưởng của mình ở Đông Á. Sự hướng dẫn nhân từ của chúng ta sẽ đảm bảo tất cả các dân tộc bị áp bức ở châu Á và Thái Bình Dương sẽ thoát khỏi Chủ nghĩa Đế quốc Phương Tây."
+
+CHN_pursuing_the_1911_borders_focus: "Theo đuổi Biên giới năm 1911"
+CHN_pursuing_the_1911_borders_focus_desc: "Lãnh thổ lớn nhất của Trung Quốc là dưới triều đại nhà Thanh và việc trở lại Biên giới trước năm 1911 đã là ưu tiên của tất cả các nhà lãnh đạo yêu nước trong suốt thời đại Quân phiệt. Mặc dù nhiều người bác bỏ những tuyên bố này là rìa, điều cần thiết là chúng ta phải nhấn mạnh chúng và nắm lấy chúng một cách cơ hội khi chúng phát sinh."
+
+#Asia-Pacific Treaty Organisation Foreign Policy Focuses
+CHN_responsibilities_of_the_eldest_sibling_focus: "Trách nhiệm của Người Anh cả"
+CHN_responsibilities_of_the_eldest_sibling_focus_desc: "Trong gia đình các quốc gia châu Á, phải có một cảm giác bình đẳng chính thức trong lời nói nhưng cũng phải có một trách nhiệm được phân cấp theo khả năng, sức mạnh và vị trí chiến lược. Trung Quốc phải sẵn sàng đảm nhận vai trò lãnh đạo trong khu vực, bảo vệ anh chị em của mình khỏi người ngoài và kỷ luật họ khi cần thiết."
+
+CHN_an_international_peacekeeping_force_focus: "Một Lực lượng Gìn giữ Hòa bình Quốc tế"
+CHN_an_international_peacekeeping_force_focus_desc: "Chỉ riêng giới tinh hoa trí thức không thể xây dựng dân chủ - phải có cả những người ủng hộ quân sự. Mặc dù thận trọng về việc xâm phạm chủ quyền quốc gia, họ cũng tin rằng chuyên chế và độc tài là một \"bệnh chính trị\" phải bị xóa bỏ, và Trung Quốc phải đủ mạnh để can thiệp ra nước ngoài. Hòa bình thế giới chỉ có thể được bảo đảm nếu tất cả các nước trở nên dân chủ, duy lý và đạo đức - cho đến lúc đó, khu vực quốc tế là một \"cuộc đấu tranh sinh tồn\"."
+
+CHN_building_an_asian_superfederation_focus: "Xây dựng một Siêu Liên bang Châu Á"
+CHN_building_an_asian_superfederation_focus_desc: "Những người theo chủ nghĩa lý tưởng Trung Quốc khao khát một chính phủ thế giới, nhưng cho đến lúc đó, các quốc gia của mỗi châu lục cần làm việc cùng nhau để xây dựng các thể chế quốc tế sẽ thúc đẩy công lý và loại bỏ xâm lược. Trong Chiến tranh Trung-Nhật, Trung Quốc buộc phải \"bám trụ cay đắng và chờ đợi cơ hội\". Nay chúng ta đã có cơ hội đó, chúng ta phải xây dựng một liên minh các quốc gia dân chủ để tích cực thực thi hòa bình và tự do."
+
+#The Asian Federation Foreign Policy Focuses
+CHN_cornerstone_of_the_federation_focus: "Nền tảng của một Liên bang"
+CHN_cornerstone_of_the_federation_focus_desc: "Những người theo chủ nghĩa không tưởng Trung Quốc đã ủng hộ việc mở rộng các nguyên tắc liên bang đến việc tái thiết châu Á, và thực sự là cuối cùng là các dân tộc bị chia rẽ của châu Âu và châu Mỹ để xây dựng một liên bang thế giới và cho phép sự tiến hóa của thế giới. Tuy nhiên, hiện tại, chúng ta phải bắt đầu bằng việc xây dựng quốc gia Trung Quốc trên các nguyên tắc bình đẳng về của cải, quyền và hưởng thụ - tái tạo tinh thần con người."
+
+CHN_forging_a_great_commercial_circle_focus: "Một Vòng tròn Thương mại Lớn"
+CHN_forging_a_great_commercial_circle_focus_desc: "Các quốc gia châu Âu trở nên giàu có và mạnh mẽ vì họ xây dựng nhà nước của mình trên nông nghiệp, thương mại và công nghiệp. Nhà nước Trung Quốc Hiện đại cũng nên đi theo con đường đó, xây dựng một vòng tròn thương mại lớn ở phương Đông để cạnh tranh với phương Tây."
+
+CHN_unlock_east_asian_community_decisions_tt: "§YChúng ta sẽ mở khóa quyết định mời các quốc gia đồng minh vào Cộng đồng Đông Á.§!"
+
+CHN_for_the_evolution_of_humanity_focus: "Vì sự Tiến hóa của Nhân loại!"
+CHN_for_the_evolution_of_humanity_focus_desc: "Chủ nghĩa thực dân đã đánh cắp quá nhiều từ các dân tộc bị áp bức trên thế giới và chúng ta phải giúp họ tìm lại bản chất quốc gia của mình. Bằng cách này, chúng ta có thể vứt bỏ chủ nghĩa bi quan đã làm tê liệt sự tiến hóa của thế giới và cho phép sự tiến hóa lành mạnh của nhân loại hướng tới một \"chủ nghĩa xã hội của toàn nhân loại\"."
+
+CHN_a_world_in_harmony_focus: "Một Thế giới Hài hòa"
+CHN_a_world_in_harmony_focus_desc: "Các nhà tư tưởng Trung Quốc từ lâu đã mơ về một thế giới hài hòa (Đại Đồng), nơi con người đã từ bỏ chủ nghĩa dân tộc và giết chóc vô nghĩa để ủng hộ hòa bình và tình yêu huynh đệ. Các quốc gia chỉ là những thể chế tạm thời, đã mang thế giới lại với nhau, chúng ta có thể thực sự tiến hóa như một loài người thống nhất!"
+
+#Asia-Pacific Security Pact
+CHN_enforcing_peace_in_asia_focus: "Thực thi Hòa bình ở châu Á"
+CHN_enforcing_peace_in_asia_focus_desc: "Châu Á đã bị tàn phá bởi chiến tranh nhờ sự sụp đổ của bá chủ Trung Quốc cũ. Những cuộc chinh phục tàn nhẫn của các cường quốc châu Âu và sự phản bội của Nhật Bản đã không mang lại gì ngoài cái chết và bạo lực. Trung Quốc phải trở lại vị trí của mình như người lãnh đạo nhân từ của lục địa, và nó bắt đầu bằng việc đảm nhận trách nhiệm về hòa bình trên khắp Thái Bình Dương."
+
+CHN_building_a_security_zone_focus: "Xây dựng một Vùng An ninh"
+CHN_building_a_security_zone_focus_desc: "Trung Quốc được bao quanh bởi các cường quốc Đế quốc chủ nghĩa chưa bao giờ ngần ngại làm suy yếu và làm nhục nó. Cách duy nhất để thực sự ngăn chặn một Thế kỷ Ô nhục khác là giải phóng, bảo vệ và củng cố các nước láng giềng của chúng ta. Chúng ta phải xây dựng một vòng các quốc gia đệm đồng minh dưới sự bảo vệ của chúng ta có khả năng ngăn chặn xâm lược thêm."
+
+CHN_a_chinese_expeditionary_force_focus: "Một Lực lượng Viễn chinh Trung Quốc"
+CHN_a_chinese_expeditionary_force_focus_desc: "Trung Quốc đã dành vài thập kỷ qua để chiến đấu với nhau bằng vũ khí nhỏ và pháo, không đủ khả năng triển khai quy mô lớn các tiến bộ quân sự hiện đại trong chiến tranh cơ giới và trên không. Có những nghi ngờ đáng kể về khả năng của chúng ta trong việc triển khai lực lượng ra ngoài biên giới - nếu chúng ta muốn trở thành một cường quốc, điều này phải thay đổi."
+
+#GXC Region Specific Foreign Policy Tree
+CHN_rule_the_south_china_sea_focus: "Cai trị Biển Đông"
+CHN_rule_the_south_china_sea_focus_desc: "Biển Đông là nơi có các tuyến thương mại rộng lớn và từ lâu đã nằm dưới sự bảo vệ của Trung Quốc. Nếu chúng ta muốn được coi trọng như một cường quốc, chúng ta phải có khả năng bảo vệ các tuyên bố của mình cho đến tận đường chín đoạn. Để làm được điều đó, chúng ta phải phát triển khả năng hải quân và thủy quân lục chiến của mình."
+
+CHN_leverage_ancient_ties_focus: "Tận dụng các Mối quan hệ Cổ xưa"
+CHN_leverage_ancient_ties_focus_desc: "Trung Quốc có nhiều mối quan hệ lịch sử và tổ tiên trên khắp Đông Nam Á. Cơ sở truyền thống của chính phủ chúng ta ở Lưỡng Quảng đã trao cho các cộng đồng diaspora một tiếng nói quá lớn và chúng ta sẽ tận dụng những quan hệ đối tác này để có lợi cho mình."
+
+CHN_free_the_sinosphere_focus: "Giải phóng Vòng tròn Văn hóa Hán"
+CHN_free_the_sinosphere_focus_desc: "Vòng tròn Văn hóa Hán bao gồm các quốc gia có chung mối quan hệ văn hóa và lịch sử sâu rộng với Trung Quốc. Các chính phủ Quảng Châu khác nhau đã tỏ ra thông cảm với các nhà cách mạng Việt Nam và ở mức độ thấp hơn là cả Hàn Quốc và Nhật Bản. Chúng ta phải sẵn sàng giải phóng anh em của mình và xây dựng họ."
+CHN_free_the_sinosphere_focus_tt: "§YChúng ta sẽ nhận được một nhà máy dân sự cho mỗi quốc gia trong số Hàn Quốc, Nhật Bản và Việt Nam mà chúng ta đồng minh. Nếu không, chúng ta sẽ nhận được war-goal đối với những người kiểm soát Seoul, Tokyo và Hà Nội.§!"
+
+#YUN Region Specific Foreign Policy Tree
+CHN_master_of_the_east_continent_focus: "Bậc thầy của Lục địa Phương Đông"
+CHN_master_of_the_east_continent_focus_desc: "Việc thiếu các ranh giới có ý nghĩa trên biên giới Vân Nam đã dẫn đến nhiều tranh chấp biên giới với tình cảm dân tộc chủ nghĩa và cộng hòa đang lên trong tỉnh sau khi nhà Thanh thất bại trong việc bảo vệ lợi ích khai thác mỏ của Trung Quốc khỏi người Anh ở Miến Điện. Sau khi thống nhất Trung Quốc, chính phủ do Vân Nam thống trị quyết tâm nhấn mạnh các tuyên bố của Trung Quốc và xây dựng một phiên bản hiện đại hóa của hệ thống triều cống cũ."
+
+CHN_cultivating_sino_korean_ties_focus: "Vun đắp Mối quan hệ Trung-Hàn"
+CHN_cultivating_sino_korean_ties_focus_desc: "Chính phủ Vân Nam từ lâu đã là những người ủng hộ nhiệt thành cho nền độc lập của Hàn Quốc, che chở cho các nhà hoạt động của họ ở Côn Minh và tiếp tục tài trợ cho họ sau khi thống nhất. Xây dựng mối quan hệ chặt chẽ giữa hai nước là điều cần thiết để hoàn thành phần của chúng ta trong thỏa thuận và ngăn chặn sự xâm lược của Nhật Bản trong tương lai."
+CHN_cultivating_sino_korean_ties_focus_tt: "§YNếu Hàn Quốc là đồng minh của chúng ta, chúng ta sẽ nhận được một nhà máy dân sự, ổn định và ủng hộ chiến tranh. Nếu không, sẽ nhận được war-goal đối với những người kiểm soát Seoul.§!"
+
+CHN_the_yellow_book_affair_focus: "Vụ Sách Vàng"
+CHN_the_yellow_book_affair_focus_desc: "Trong những năm 1930, khi căng thẳng chống nhượng địa gia tăng, chính phủ Vân Nam đã ủy quyền cho một cuốn \"Nghiên cứu về các Vấn đề Biên giới Vân Nam\" gồm 2 tập, được giới nước ngoài gọi là \"Sách Vàng\". Nó chứa các nghiên cứu dân tộc học, các luận thuyết địa lý và chính trị, và nhiều tài liệu khác nhau tuyên bố chủ quyền đối với gần một phần ba Miến Điện và Việt Nam là các quốc gia phiên thuộc. Nay đã nắm quyền, đã đến lúc chúng ta tạo ra quả cầu ảnh hưởng của mình."

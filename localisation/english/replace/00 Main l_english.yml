@@ -1,0 +1,782 @@
+﻿l_english:
+
+###################
+### Please note ###
+###################
+# The splash screen credits are a list of all current contributors to the mod. It isn't a full list of everyone who helps out, or everyone who has ever helped
+# A more complete list can be found in \interface\credits.txt
+# When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
+# Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
+
+### Main Menu ###
+ play_in_english_tt: ""
+
+### Splash Screen ###
+ kr_intro_screen_tab_1: "Quốc gia"
+ kr_intro_screen_tab_2: "Hướng dẫn đường lối"
+ kr_intro_screen_tab_3: "Cách chơi"
+ kr_intro_screen_tab_4: "Ghi công"
+ mod_options_button_text: "Tiếp tục"
+
+ ## TAB 1 - all needed to avoid starting errors ##
+ kr_intro_screen_tab_1_header: "[ROOT.GetCountryIntroHeader]"
+ kr_intro_screen_tab_1_content: "[ROOT.GetCountryIntroContent]"
+ country_intro_background: "GFX_KR_default_intro"
+ country_intro_header: "$KR_scenario_name$"
+ country_intro_header_1: "$KR_scenario_desc$"
+ country_intro_header_2: "$KR_scenario_desc$"
+ country_intro_header_3: "$KR_scenario_desc$"
+ country_intro_header_4: "$KR_scenario_desc$"
+ country_intro_header_5: "$KR_scenario_desc$"
+
+ country_intro_content: "$KR_scenario_desc$"
+ country_intro_content_1: "$KR_scenario_desc$"
+ country_intro_content_2: "$KR_scenario_desc$"
+ country_intro_content_3: "$KR_scenario_desc$"
+ country_intro_content_4: "$KR_scenario_desc$"
+ country_intro_content_5: "$KR_scenario_desc$"
+
+ country_intro_page_indicator: "[GetCurrPageCountryIntro]/[GetPageCountCountryIntro]"
+
+ guide: ""
+ guide_1: ""
+ guide_2: ""
+ guide_3: ""
+
+ ## TAB 2 ##
+ kr_intro_screen_tab_2_reveal_spoilers_button: "Tiết lộ nội dung tiết lộ?"
+ kr_intro_screen_tab_2_header: "[ROOT.GetNameDefCap]"
+ kr_intro_screen_tab_2_content: "[GetCountryGuide]"
+
+ country_guide_page_indicator: "[GetCurrPageCountryGuide]/[GetPageCountCountryGuide]"
+
+ ## TAB 3 ##
+ kr_intro_screen_tab_3_content: "§YVui lòng lưu ý những điều sau:§!\n£white_dot \n£white_dot \n£white_dot \n\n£white_dot \n\n£white_dot \n\n£white_dot \n\n§YBáo cáo sự cố:§!\nMod này vẫn đang trong quá trình phát triển, vì vậy có thể xảy ra lỗi và sự cố. Nếu bạn gặp bất kỳ vấn đề nào, vui lòng báo cáo cho §Ytrình theo dõi sự cố GitHub§! của chúng tôi để giúp chúng tôi sửa chữa nhanh chóng. Bạn có thể tìm thấy liên kết trong menu tạm dừng."
+ kr_intro_screen_tab_3_content_0: "Kaiserreich đặt ra những hạn chế đối với các hành động ngoại giao như §Rchiến tranh sớm§!, §Rphe phái§! và §Rmức độ tự trị§!.\nKaiserreich cũng bao gồm §CGiới hạn Sư đoàn§! và cơ chế §CGiải ngũ§! để cải thiện khả năng chơi ở giai đoạn cuối.\nTrong các §YHội nghị Hòa bình§!, hãy nhớ sáp nhập tất cả các bang có thể. Bạn sẽ có thể giải phóng các quốc gia khỏi các lãnh thổ đã sáp nhập thông qua các §Cquyết định§! sau này.\nMenu thiết lập §YQuy tắc Trò chơi Tùy chỉnh§! cho phép bạn điều chỉnh nhiều tùy chọn bao gồm §CĐường lối Quốc gia§!, §CƯu tiên Người chơi trong Hội nghị Hòa bình§! và §CCông cụ Chuyển giao Bang và Quốc gia§!.\nMenu §YTùy chọn§! trong tab §YQuốc gia§! cho phép bạn điều chỉnh §Ctần suất sự kiện tin tức§! và bật §Cđổi tên động§! các bang và điểm chiến thắng.\nNhấp vào biểu tượng £kr_intro_screen_icon ở góc trên bên phải để §Ymở lại màn hình giới thiệu này§! bất cứ lúc nào."
+
+ ## TAB 4 ##
+ KR_CURRENT_VERSION: "1.7"
+ KR_CURRENT_VERSION_NAME: "Crossroads of Civilisation"
+ KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
+ kr_intro_screen_tab_4_upper_header: "§YChào mừng đến với $KR_CURRENT_VERSION_COMBINED$§!"
+ kr_intro_screen_tab_4_lower_header: "§YĐược chế tác đầy tâm huyết bởi Đội ngũ Kaiserreich:§!"
+ kr_intro_screen_tab_4_content: "$kr_intro_screen_tab_4_content_1$\n$kr_intro_screen_tab_4_content_2$\n$kr_intro_screen_tab_4_content_3$\n$kr_intro_screen_tab_4_content_4$\n$kr_intro_screen_tab_4_content_5$\n$kr_intro_screen_tab_4_content_6$\n$kr_intro_screen_tab_4_content_7$\n$kr_intro_screen_tab_4_content_8$\n$kr_intro_screen_tab_4_content_9$"
+
+ kr_intro_screen_tab_4_content_0: "Kaiserreich là kết quả của nhiều năm làm việc của các cộng tác viên tình nguyện từ khắp nơi trên thế giới.\nDự án này sẽ không thể thành hiện thực nếu không có sự tận tụy của họ.\n\nChúng tôi hy vọng bạn sẽ thích chơi Kaiserreich nhiều như chúng tôi đã thích làm ra nó!"
+ kr_intro_screen_tab_4_content_1: "Amber  ·  Andrey  ·  Angel  ·  Anthony OliveOil  ·  Arvidus  ·  AwsomeGuy49  ·  Blackfalcon501"
+ kr_intro_screen_tab_4_content_2: "Carmain  ·  Cassrabbit  ·  Cazadorian  ·  Chiang Kai-shrek  ·  Chiron29  ·  ClawedAsh  ·  Cody  ·  D0H-A"
+ kr_intro_screen_tab_4_content_3: "Deliberus  ·  DerEherneRächer  ·  Deutero  ·  DidSomethingOnce  ·  El Daddy  ·  falling_robin  ·  Fedex"
+ kr_intro_screen_tab_4_content_4: "FestivePuppet  ·  Flamefang  ·  Frill Shark  ·  Gaboemi  ·  Georgy  ·  Goose  ·  Gre  ·  Hamfast  ·  Hazel"
+ kr_intro_screen_tab_4_content_5: "Hazo  ·  Hexcron  ·  Ido  ·  Igor050301  ·  JazzyHugh  ·  jerv  ·  Jonny BL  ·  Kano  ·  Kara  ·  katieluka"
+ kr_intro_screen_tab_4_content_6: "kergely  ·  Klyntar King  ·  Krčo  ·  Kwendish  ·  lehmannmo  ·  marimari  ·  Matoro  ·  Mikha  ·  MrMano"
+ kr_intro_screen_tab_4_content_7: "~mw~ // miwaco.  ·  Nightsay  ·  Noot  ·  Pelmen  ·  PPsyrius  ·  Rnk  ·  Sasha  ·  Sheep  ·  Shiroe"
+ kr_intro_screen_tab_4_content_8: "Sonny O'Cad  ·  SuperGreenBeans  ·  tan_mi.ya  ·  The Alpha Dog  ·  The Don Golian  ·  The Irredentista"
+ kr_intro_screen_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  yacchan~  ·  Zimbabwe Salt Co."
+
+### Career Profile ###
+ KAISERREICH_CAREER_PROFILE: "Kaiserreich"
+
+### Diplomacy Tooltips ###
+ REQUEST_EXP_FORCE_BLOCKED_GENERIC_TT: "§RQuốc gia này không cho phép bạn yêu cầu lực lượng của họ.§!"
+
+ REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_HUNGARY_TT: "§RVùng Crownland Hungary không cho phép bạn yêu cầu lực lượng của họ cho đến khi đã thực hiện một trong hai tiêu điểm Still Their King hoặc Ausgleich Renegotiations of 1947.§!"
+
+ REQUEST_EXP_FORCE_BLOCKED_CROWNLAND_OTHER_TT: "§RCác vùng crownland của Áo không cho phép bạn yêu cầu lực lượng của họ cho đến khi đã thực hiện một trong hai tiêu điểm Drastic Measures in Dire Times hoặc Cisleithania Together.§!"
+
+ REQUEST_EXP_FORCE_BLOCKED_CHINA_TT: "§RCác lãnh chúa Trung Quốc là Associated Governorates không cho phép bạn yêu cầu lực lượng của họ cho đến khi họ đã được tích hợp ít nhất một cấp.§!"
+
+ REQUEST_EXP_FORCE_BLOCKED_SHANXI_TT: "§RSơn Tây không cho phép bạn yêu cầu lực lượng của họ cho đến khi cuộc tranh giành quyền lực giữa Diêm Tích Sơn và Phùng Ngọc Tường kết thúc.§!"
+
+ EMBARGO_THREAT_TT: "§RCăng thẳng Thế giới cần phải trên §Y50%§!.§!"
+
+ REVOKE_EMBARGO_SCRIPTED_TT: "§RKhông thể thu hồi lệnh cấm vận này.§!"
+ REVOKE_EMBARGO_SAME_ECONOMIC_SPHERE_TT: "§RCác quốc gia trong cùng một khối kinh tế không thể cấm vận lẫn nhau.§!"
+ REVOKE_MARKET_ACCESS_SAME_ECONOMIC_SPHERE_TT: "§RCác quốc gia trong cùng một khối kinh tế không thể thu hồi quyền tiếp cận thị trường của nhau.§!"
+
+ RECALL_VOLUNTEERS_TITLE: "Triệu hồi Tình nguyện viên"
+ RECALL_VOLUNTEERS_ACTION_DESC: "Triệu hồi tất cả tình nguyện viên đã gửi đến quốc gia này."
+ RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Triệu hồi tất cả tình nguyện viên đã gửi đến §Y[FROM.GetNameDef]§!?"
+
+### Regular Tooltips ###
+ puppet_but_keep_government_tt: "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! trở thành chư hầu của §H[to_be_overlord.GetName]§!, nhưng giữ nguyên chính phủ hiện tại và độ phổ biến của các đảng."
+
+ RULE_GUARANTEES_AFTER_WK2_TT: "§RTrước khi Đại Chiến Thế Giới lần thứ hai bắt đầu, chỉ có thể đưa ra bảo đảm thông qua các tiêu điểm quốc gia, sự kiện và quyết định.§!"
+ RULE_WARGOALS_AFTER_WK2_TT: "§RTrước khi Đại Chiến Thế Giới lần thứ hai bắt đầu, chỉ có thể có được mục tiêu chiến tranh từ các tiêu điểm quốc gia, sự kiện và quyết định.§!"
+ RULE_NO_WARGOALS_ON_ALLIED_PUPPETS_TT: "§R$DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY$§!"
+ RULE_DISABLED_IN_KR_TT: "§RBị vô hiệu hóa trong Kaiserreich§!"
+
+### Plurality Triggers ###
+ totalist_plurality: "§o[?token:totalist.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ syndicalist_plurality: "§r[?token:syndicalist.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ radical_socialist_plurality: "§R[?token:radical_socialist.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ social_democrat_plurality: "§S[?token:social_democrat.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ social_liberal_plurality: "§l[?token:social_liberal.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ market_liberal_plurality: "§m[?token:market_liberal.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ social_conservative_plurality: "§c[?token:social_conservative.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ authoritarian_democrat_plurality: "§a[?token:authoritarian_democrat.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ paternal_autocrat_plurality: "§P[?token:paternal_autocrat.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+ national_populist_plurality: "§n[?token:national_populist.GetTokenLocalizedKey]§! có độ phổ biến cao nhất"
+
+### Diplomacy Triggers ###
+ cannot_call_allies_or_join_wars: "Không thể Triệu tập Đồng minh hoặc Tham gia Chiến tranh"
+ cannot_call_allies_or_join_wars_except_subjects: "Không thể Triệu tập Đồng minh hoặc Tham gia Chiến tranh (Trừ Chư hầu)"
+ cannot_call_allies_or_join_wars_warning: "§Y[ROOT.GetNameWithFlag]§! §Rkhông thể triệu tập đồng minh hoặc tham gia chiến tranh.§!"
+ cannot_call_allies_or_join_wars_warning_FROM: "§Y[FROM.GetNameWithFlag]§! §Rkhông thể triệu tập đồng minh hoặc tham gia chiến tranh.§!"
+
+ cannot_receive_volunteers: "Không thể Nhận Tình nguyện viên"
+ cannot_receive_volunteers_warning: "§Y[FROM.GetNameWithFlag]§! §Rkhông thể nhận tình nguyện viên.§!"
+
+### Regional Triggers ###
+ is_in_asia: "Là quốc gia §YChâu Á§!"
+ is_in_india: "Là quốc gia §YẤn Độ§!"
+ is_in_europe: "Là quốc gia §YChâu Âu§!"
+ is_in_africa: "Là quốc gia §YChâu Phi§!"
+ is_in_north_africa: "Là quốc gia §YBắc Phi§!"
+ is_in_north_america: "Là quốc gia §YBắc Mỹ§!"
+ is_in_central_america: "Là quốc gia §YTrung Mỹ§!"
+ is_in_caribbean: "Là quốc gia §YCaribe§!"
+ is_in_south_america: "Là quốc gia §YNam Mỹ§!"
+ is_in_americas: "Là quốc gia §YChâu Mỹ§!"
+ is_in_middle_east: "Là quốc gia §YTrung Đông§!"
+ is_in_oceania: "Là quốc gia §YChâu Đại Dương§!"
+
+ is_american_tag: "Là quốc gia Mỹ"
+ is_arab_tag: "Là quốc gia nói tiếng Ả Rập"
+ is_arabian_tag: "Là quốc gia Ả Rập"
+ is_libya_tag: "Là quốc gia Libya"
+ is_portuguese_tag: "Là quốc gia nói tiếng Bồ Đào Nha"
+ is_brazilian_tag: "Là quốc gia Brazil"
+ is_chinese_tag: "Là quốc gia Trung Quốc"
+ is_chinese_tag_NOT: "§RKhông phải§! là quốc gia Trung Quốc"
+ is_dutch_tag: "Là quốc gia nói tiếng Hà Lan"
+ is_english_tag: "Là quốc gia nói tiếng Anh"
+ is_commonwealth_tag: "Là quốc gia Khối Thịnh vượng chung"
+ is_british_tag: "Là quốc gia Anh"
+ is_catholic_tag: "Là quốc gia Công giáo"
+ is_french_tag: "Là quốc gia Pháp"
+ is_french_africa_tag: "Là quốc gia Châu Phi thuộc Pháp"
+ is_french_speaking_tag: "Là quốc gia nói tiếng Pháp"
+ is_german_tag: "Là quốc gia nói tiếng Đức"
+ is_germany_or_splinter_tag: "Là quốc gia Đức"
+ is_italian_tag: "Là quốc gia Ý"
+ is_polish_tag: "Là quốc gia Ba Lan"
+ is_russian_tag: "Là quốc gia Nga"
+ is_south_slav_tag: "Là quốc gia Nam Slav"
+ is_central_asian_tag: "Là quốc gia Trung Á"
+ is_spanish_speaking_tag: "Là quốc gia nói tiếng Tây Ban Nha"
+ is_central_american_tag: "Là quốc gia Trung Mỹ"
+ is_spanish_south_american_tag: "Là quốc gia Mỹ Latinh gốc Tây Ban Nha"
+ is_quechua_speaking_tag: "Là quốc gia nói tiếng Quechua"
+ is_indian_tag: "Là quốc gia Ấn Độ"
+ is_farsi_speaking_tag: "Là quốc gia nói tiếng Farsi"
+ is_malay_speaking_tag: "Là quốc gia nói tiếng Mã Lai"
+ is_danubian_tag: "Là quốc gia Danubia"
+ is_federal_austria: "Là nước Áo liên bang"
+ is_balkan_tag: "Là quốc gia Balkan"
+ is_belgian_tag: "Là quốc gia Bỉ"
+ is_uighur_tag: "Là quốc gia Uyghur"
+ is_scandinavian_tag: "Là quốc gia Scandinavia"
+ is_czechoslovak_tag: "Là quốc gia Tiệp Khắc"
+ is_turkish_tag: "Là quốc gia nói tiếng Thổ Nhĩ Kỳ"
+ is_romanian_tag: "Là quốc gia nói tiếng Romania"
+ is_greek_tag: "Là quốc gia nói tiếng Hy Lạp"
+ is_baltic_tag: "Là quốc gia Baltic"
+
+### Actual Major Power Tooltip ###
+ is_actual_major_tooltip_base: " Là một cường quốc thế giới:"
+ is_actual_major_tooltip_major: "\n     [THIS.MajorWorldPower_MajorCheck] $TRIGGER_IS_MAJOR$"
+ is_actual_major_tooltip_OR: "\n     $TRIGGER_OR_STARTS$"
+ is_actual_major_tooltip_seven_largest: "\n          [THIS.MajorWorldPower_AmongSevenLargestIndustries] Có một trong bảy nền kinh tế lớn nhất thế giới"
+ is_actual_major_tooltip_average: "\n          [THIS.MajorWorldPower_MoreThanSeventyPercentAverage] Có hơn §H70%§! năng lực công nghiệp trung bình của bảy nền kinh tế lớn nhất"
+ is_actual_major_tooltip_INT: "\n          [THIS.MajorWorldPower_IsINT] Là lãnh đạo của §YĐệ Tam Quốc tế§!"
+ is_actual_major_tooltip_ENT: "\n          [THIS.MajorWorldPower_IsENT] Là lãnh đạo của §YKhối Entente§!"
+ is_actual_major_tooltip_GEX: "\n          [THIS.MajorWorldPower_IsGEX] Là §Y[GEX.GetNameWithFlag]§!"
+
+ is_actual_major: "$is_actual_major_without_exceptions$$is_actual_major_tooltip_INT$$is_actual_major_tooltip_ENT$$is_actual_major_tooltip_GEX$"
+ is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
+
+### Political Tab UI ###
+ power_balance_button_disabled: "Quốc gia của bạn không có §YCán cân Quyền lực§! nào đang hoạt động."
+
+### Options GUI ###
+ kr_options_title: "—— Tùy chọn ——"
+
+ kr_intro_screen_button_title: "§YMàn hình Giới thiệu§!"
+ kr_intro_screen_button_tooltip: "Nhấp để mở lại §Ymàn hình giới thiệu§!.\n\nMàn hình giới thiệu bao gồm:\n£white_dot §YTùy chọn§! để tùy chỉnh trải nghiệm của bạn\n£white_dot Bối cảnh lịch sử cho quốc gia của bạn\n£white_dot §YHướng dẫn Đường lối§! riêng cho quốc gia của bạn\n£white_dot Thông tin về các tính năng riêng của mod"
+
+ custom_achievements_text: "Thành tựu Tùy chỉnh"
+ custom_achievements_tooltip: "§GNhấp§! vào đây để bật/tắt khả năng mở khóa thành tựu tùy chỉnh."
+
+ rename_text: "Đổi tên Bang/VP"
+ rename_tooltip: "§GNhấp§! vào đây để bật/tắt việc đổi tên động các bang và điểm chiến thắng dựa trên người kiểm soát hiện tại của chúng."
+
+ sound_events_text: "Sự kiện Âm thanh"
+ sound_events_tooltip: "§GNhấp§! vào đây để bật/tắt Sự kiện Âm thanh.\nSự kiện Âm thanh phát nhạc phù hợp với những khoảnh khắc quan trọng trong lượt chơi của bạn đối với một số quốc gia.\n\nTính năng này khả dụng vì bạn đang chơi với mod Kaiserreich Music."
+
+ regional_news_text: "Sự kiện Tin tức Khu vực"
+ regional_news_tooltip: "§GNhấp§! vào đây để bật/tắt cửa sổ bật lên sự kiện tin tức cho các sự kiện toàn cầu ảnh hưởng trực tiếp đến các quốc gia nhận được chúng."
+
+ world_news_text: "Sự kiện Tin tức Thế giới"
+ world_news_tooltip: "§GNhấp§! vào đây để bật/tắt cửa sổ bật lên sự kiện tin tức cho tất cả các sự kiện toàn cầu, bất kể mức độ liên quan đến quốc gia nhận được chúng."
+
+### Economic Spheres GUI ###
+ is_in_economic_sphere: "Là một phần của §Ykhối kinh tế§!"
+ is_in_economic_sphere_NOT: "§RKhông phải§! là một phần của §Ykhối kinh tế§!"
+
+ is_economic_sphere_leader: "Là lãnh đạo của một §Ykhối kinh tế§!"
+ is_economic_sphere_leader_NOT: "§RKhông phải§! là lãnh đạo của một §Ykhối kinh tế§!"
+
+ is_in_same_economic_sphere_as: "Ở cùng §Ykhối kinh tế§! với $COUNTRY|Y$"
+ is_in_same_economic_sphere_as_NOT: "§RKhông phải§! ở cùng §Ykhối kinh tế§! với $COUNTRY|Y$"
+
+ is_in_economic_sphere_led_by: "Là một phần của §Ykhối kinh tế§! do $COUNTRY|Y$ lãnh đạo"
+ is_in_economic_sphere_led_by_NOT: "§RKhông phải§! là một phần của §Ykhối kinh tế§! do $COUNTRY|Y$ lãnh đạo"
+
+ is_leader_of_economic_sphere_of: "Là lãnh đạo của §Ykhối kinh tế§! của $COUNTRY|Y$"
+ is_leader_of_economic_sphere_of_NOT: "§RKhông phải§! là lãnh đạo của §Ykhối kinh tế§! của $COUNTRY|Y$"
+
+ economic_sphere_label_text: "[GetEconomicSphereName]"
+ economic_sphere_label_none: "Không có Khối Kinh tế"
+
+ economic_sphere_label_tooltip: "[PoliticalTabEconomicSphereLabel_GetTooltip]"
+ economic_sphere_label_tooltip_leader: "§Y[ROOT.GetNameWithFlag]§! là lãnh đạo của §Y[GetEconomicSphereName]§!."
+ economic_sphere_label_tooltip_member: "§Y[ROOT.GetNameWithFlag]§! là thành viên của §Y[GetEconomicSphereName]§!, do §Y[?economic_sphere:members^0.GetNameWithFlag]§! lãnh đạo."
+ economic_sphere_label_tooltip_none: "§Y[ROOT.GetNameWithFlag]§! không phải là thành viên của bất kỳ khối kinh tế nào."
+
+ economic_sphere_label_tooltip_delayed: "[PoliticalTabEconomicSphereLabel_GetTooltipDelayed]"
+ economic_sphere_label_tooltip_delayed_text: "§L[GetEconomicSphereDesc]§!"
+
+ economic_sphere_button_tooltip: "§Y[GetEconomicSphereName]§!"
+ economic_sphere_button_tooltip_delayed: "§L[GetEconomicSphereDesc]§!"
+
+ economic_sphere_default_name: "Khối Kinh tế [PREV.GetName]"
+ economic_sphere_default_icon: "GFX_goal_generic_positive_trade_relations_gold"
+ economic_sphere_default_desc: ""
+
+### State of Interest GUI ###
+ state_of_interest_icon: "GFX_empty_paper"
+ KR_state_of_interest_icon_tooltip: "[GetStateOfInterestStateIconTooltip]"
+ state_of_interest_icon_desc: ""
+ KR_state_of_interest_icon_tooltip_delayed: "§L[GetStateOfInterestStateIconTooltipDelayed]§!"
+ state_of_interest_icon_desc_delayed: ""
+ KR_state_of_interest_state_name_text: "[THIS.GetName]"
+ KR_state_of_interest_state_title_text: "[GetStateOfInterestStateTitle]"
+ state_of_interest_state_title: "LỖI - Nếu bạn thấy điều này, vui lòng tạo báo cáo lỗi."
+
+### International Market Triggers ###
+ trade_partners_at_peace: "Các quốc gia Đang Hòa bình"
+ trade_partners_at_war: "Các quốc gia Đang Chiến tranh"
+ trade_partners_majors: "Các quốc gia Lớn"
+ trade_partners_faction_leader: "Lãnh đạo Phe phái"
+ trade_partners_faction_members: "Tất cả Thành viên Phe phái"
+ trade_partners_major_faction_members: "Thành viên Phe phái Lớn"
+ trade_partners_minor_faction_members: "Thành viên Phe phái Nhỏ"
+ trade_partners_reichspakt: "Tất cả Quốc gia [GER.GetFactionName]"
+ trade_partners_internationale: "Tất cả Quốc gia [INT.GetFactionName]"
+ trade_partners_entente: "Tất cả Quốc gia [ENT.GetFactionName]"
+ trade_partners_moscow_accord: "Tất cả Quốc gia [RUS.GetFactionName]"
+ trade_partners_co_prosperity_sphere: "Tất cả Quốc gia [JAP.GetFactionName]"
+ trade_partners_overlord: "Lãnh chúa"
+ trade_partners_puppets_of_same_overlord: "Chư hầu của cùng Lãnh chúa"
+ trade_partners_same_economic_sphere: "Thành viên Khối Kinh tế của chúng ta"
+ trade_partners_mitteleuropa: "Thành viên của $mitteleuropa_title$"
+ trade_partners_phalanstere: "Thành viên của $INT_phalanstere$"
+ trade_partners_iedc: "Thành viên của $CAN_iedc$"
+ trade_partners_geacps: "Thành viên của $JAP_asian_economic_sphere$"
+ trade_partners_non_aggression_pacts: "Các bên ký Hiệp ước Không xâm lược"
+ trade_partners_guarantors: "Các bên bảo đảm"
+ trade_partners_same_government: "Các quốc gia có cùng Chính phủ"
+ trade_partners_different_government: "Các quốc gia có Chính phủ khác"
+ trade_partners_same_government_type: "Các quốc gia có cùng Loại Chính phủ"
+ trade_partners_different_government_type: "Các quốc gia có Loại Chính phủ khác"
+ trade_partners_socialists: "Tất cả Quốc gia Xã hội chủ nghĩa"
+ trade_partners_non_socialists: "Tất cả Quốc gia Không Xã hội chủ nghĩa"
+ trade_partners_totalists: "Quốc gia $totalist$"
+ trade_partners_syndicalists: "Quốc gia $syndicalist$"
+ trade_partners_radical_socialists: "Quốc gia $radical_socialist$"
+ trade_partners_is_elected: "Quốc gia $social_democrat$, $social_liberal$, $market_liberal$ hoặc $social_conservative$"
+ trade_partners_is_democratic: "Quốc gia $social_democrat$, $social_liberal$, $market_liberal$, $social_conservative$ hoặc $authoritarian_democrat$"
+ trade_partners_is_liberal: "Quốc gia $social_democrat$, $social_liberal$ hoặc $market_liberal$"
+ trade_partners_is_conservative: "Quốc gia $social_conservative$ hoặc $authoritarian_democrat$"
+ trade_partners_social_democrats: "Quốc gia $social_democrat$"
+ trade_partners_social_liberals: "Quốc gia $social_liberal$"
+ trade_partners_market_liberals: "Quốc gia $market_liberal$"
+ trade_partners_social_conservatives: "Quốc gia $social_conservative$"
+ trade_partners_is_authoritarian: "Quốc gia $authoritarian_democrat$, $paternal_autocrat$ hoặc $national_populist$"
+ trade_partners_is_dictatorship: "Quốc gia $paternal_autocrat$ hoặc $national_populist$"
+ trade_partners_authoritarian_democrats: "Quốc gia $authoritarian_democrat$"
+ trade_partners_paternal_autocrats: "Quốc gia $paternal_autocrat$"
+ trade_partners_national_populists: "Quốc gia $national_populist$"
+ trade_partners_monarchies: "Tất cả Chế độ Quân chủ"
+ trade_partners_republics: "Tất cả Cộng hòa"
+ trade_partners_north_america: "Các quốc gia Bắc Mỹ"
+ trade_partners_central_america: "Các quốc gia Trung Mỹ"
+ trade_partners_caribbean: "Các quốc gia Caribe"
+ trade_partners_south_america: "Các quốc gia Nam Mỹ"
+ trade_partners_europe: "Các quốc gia Châu Âu"
+ trade_partners_africa: "Các quốc gia Châu Phi"
+ trade_partners_north_africa: "Các quốc gia Bắc Phi"
+ trade_partners_africa_except_north: "Các quốc gia Châu Phi Hạ Sahara"
+ trade_partners_asia: "Các quốc gia Châu Á"
+ trade_partners_india: "Các quốc gia Ấn Độ"
+ trade_partners_asia_except_india: "Các quốc gia Đông Á"
+ trade_partners_middle_east: "Các quốc gia Trung Đông"
+ trade_partners_oceania: "Các quốc gia Châu Đại Dương "
+ trade_partners_neighbours: "Các nước láng giềng"
+ trade_partners_same_continent_neighbours: "Láng giềng cùng Châu lục"
+ trade_partners_home_area_neighbours: "Láng giềng cùng Khu vực"
+
+### Static Modifiers ###
+ volunteer_limit_plus_nine: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_nine_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?9|+=0]"
+ volunteer_limit_plus_six: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_six_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?6|+=0]"
+ volunteer_limit_plus_four: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_four_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?4|+=0]"
+ volunteer_limit_plus_three: "Tăng Giới hạn Tình nguyện viên"
+ volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|0+=]"
+ volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|0+=]"
+ volunteer_limit_plus_one: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_one_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?1|0+=]"
+ volunteer_limit_plus_fifty_percent: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_fifty_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?0.5|+=%]"
+ volunteer_limit_plus_hundred_percent: "$volunteer_limit_plus_three$"
+ volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_FACTOR$: [?1|+=%]"
+
+### Continents ###
+ is_actually_an_island: "là một bang đảo"
+
+### Intelligence Agency Blocker ###
+ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP: "[!intelligence_agency_blocker_button_click_enabled]"
+
+### Autonomy Levels ###
+ integrated_puppet: "Chư hầu Tích hợp"
+ occupied_puppet: "Chư hầu Bị chiếm đóng"
+ default_puppet: "Chư hầu"
+ autonomous_puppet: "Chư hầu Tự trị"
+ colonial_government: "Chính phủ Thuộc địa"
+ french_colonial_government: "Chính phủ Thuộc địa"
+ nominal_puppet: "Chư hầu Danh nghĩa"
+ special_autonomous_dependency: "Lãnh thổ Phụ thuộc Tự trị"
+ federated_colony: "Thuộc địa Liên bang"
+ federated_dominion: "Thống trị Liên bang"
+ ottoman_emirate: "Tiểu vương quốc Ottoman"
+ ottoman_international_zone: "Ủy trị Quốc tế"
+ federated_state: "Quốc gia Liên bang"
+ crownland: "Crownland"
+ oststaat: "Oststaat"
+ oststaat_autonomous: "Oststaat Tự trị"
+ kr_mitteleuropa_integrated_member: "Thành viên Mitteleuropa Tích hợp"
+ autonomous_territory: "Lãnh thổ Tự trị"
+
+### Autonomy Tooltips ###
+ can_lower_autonomy_level: "Có thể hạ mức độ tự trị"
+ can_raise_autonomy_level: "Có thể nâng mức độ tự trị"
+ puppet_can_become_free: "Có thể trở nên độc lập"
+ puppet_can_be_annexed: "Có thể bị lãnh chúa sáp nhập"
+ may_raise_autonomy: "§Y[Root.GetNameDefCap]§! có thể nâng mức độ tự trị khi mức tự trị đã tăng đủ"
+ may_become_free: "§Y[Root.GetNameDefCap]§! giờ có thể hướng tới độc lập"
+ cannot_change_autonomy_manually: "§RKhông thể thay đổi mức độ tự trị thủ công§!"
+ clamour_for_independence: "Đòi độc lập"
+ clamour_for_autonomy: "Đòi tự trị"
+
+### Opinion Modifiers ###
+ KR_friendly: "Thân thiện"
+ KR_hostile: "Thù địch"
+ KR_liberated_us: "Đã Giải phóng Chúng ta"
+ KR_loyal_subject: "Chư hầu Trung thành"
+ KR_diplomatic_mission: "Sứ mệnh Ngoại giao"
+ KR_rival: "Đối thủ"
+
+ KR_close_allies: "Đồng minh Thân cận"
+ KR_returned_land: "Đã Trả lại Đất đai của Chúng ta"
+ KR_approves_of_govt: "Tán thành Chính phủ"
+ KR_pleased: "Hài lòng với Chúng ta"
+ KR_displeased: "Không hài lòng với Hành động của Chúng ta"
+ KR_disapproves_of_govt: "Không tán thành Chính phủ"
+ KR_diplomatic_row: "Căng thẳng Ngoại giao"
+ KR_hates_govt: "Giận dữ với Chính phủ"
+ KR_outraged: "Phẫn nộ"
+ KR_supported_us: "Đã Ủng hộ Chính phủ của Chúng ta"
+ KR_supported_our_enemies: "Đã Ủng hộ Kẻ thù của Chúng ta"
+
+ KR_trade_agreement: "Hiệp định Thương mại"
+ KR_trade_sanctions: "Trừng phạt Thương mại"
+
+ KR_different_ideology_close: "Hệ tư tưởng Khác"
+ KR_different_ideology: "Hệ tư tưởng Khác"
+ KR_similar_ideology_close: "Hệ tư tưởng Tương đồng"
+ KR_similar_ideology: "Hệ tư tưởng Tương đồng"
+ KR_similar_ideology_distant: "Hệ tư tưởng Tương đồng"
+ KR_same_ideology: "Cùng Hệ tư tưởng"
+
+### Focus Filters ###
+ FOCUS_FILTER_PRODUCTION: "Sản xuất"
+ FOCUS_FILTER_ARMY_BONUS: "Lục quân"
+ FOCUS_FILTER_NAVY_BONUS: "Hải quân"
+ FOCUS_FILTER_AIRFORCE_BONUS: "Không quân"
+ FOCUS_FILTER_RESISTANCE: "Kháng chiến"
+ FOCUS_FILTER_LEC_CURRENCY: "Dự trữ Ngoại tệ"
+ FOCUS_FILTER_GER_PREPAREDNESS: "Mức độ Sẵn sàng Chiến tranh"
+ FOCUS_FILTER_RUS_POWER_PROJECTION: "Sức mạnh Phô trương"
+
+### Autonomy Events ###
+ FROM_becomes_puppet: "§H[From.GetNameDefCap]§! không còn là §HChư hầu Bị chiếm đóng§!."
+ FROM_becomes_autonomous_puppet: "§H[From.GetNameDefCap]§! trở thành §HChư hầu Tự trị§!."
+ FROM_becomes_nominal_puppet: "§H[From.GetNameDefCap]§! trở thành §HChư hầu Danh nghĩa§!."
+
+### Compliance ###
+ compliance_integration_50: "Tích hợp"
+ compliance_integration_80: "Tích hợp"
+ territorial_integration: "Tích hợp"
+ territorial_integration_tt: "Cung cấp một lãnh thổ cốt lõi trên bang khi đạt §H50% hoặc 80% tuân thủ§! (giá trị phụ thuộc vào bang)."
+
+### World Tension ##
+ AL_avricourt_shelled: "Làng Avricourt bị §Y[GER.GetNonIdeologyNameDef]§! pháo kích"
+ AL_elfringen_shelled: "Làng Elfringen bị §Y[FRA.GetNonIdeologyNameDef]§! pháo kích"
+ FRA_mobilizes_on_border: "§Y[FRA.GetNonIdeologyNameDefCap]§! động viên lực lượng tại biên giới §Y[GER.GetAdjective]§!"
+ GER_mobilizes_on_border: "§Y[GER.GetNonIdeologyNameDefCap]§! động viên lực lượng tại biên giới §Y[FRA.GetAdjective]§!"
+ AL_avricourt_apology: "§Y[GER.GetNonIdeologyNameDefCap]§! xin lỗi vì đã pháo kích Avricourt"
+ AL_elfringen_apology: "§Y[FRA.GetNonIdeologyNameDefCap]§! xin lỗi vì đã pháo kích Elfringen"
+ AL_avricourt_compensation_sent: "§Y[GER.GetNonIdeologyNameDefCap]§! bồi thường cho §Y[FRA.GetNonIdeologyNameDef]§! về Avricourt"
+ AL_elfringen_compensation_sent: "§Y[FRA.GetNonIdeologyNameDefCap]§! bồi thường cho §Y[GER.GetNonIdeologyNameDef]§! về Elfringen"
+ AL_uneasy_ceasefire: "Lệnh Ngừng bắn §YPháp-Đức§! Bất an"
+ AL_rally_for_war: "§Y[THIS.GetNonIdeologyNameDefCap]§! Tập hợp cho Chiến tranh"
+ country_joins_alliance_threat: "§Y[THIS.GetNonIdeologyNameDefCap]§! Gia nhập §Y[PREV.GetFactionName]§!"
+
+ second_weltkrieg_threat: "Đại Chiến Thế Giới lần thứ hai"
+ second_weltkrieg_has_started: "Đại Chiến Thế Giới lần thứ hai đã bắt đầu"
+ second_weltkrieg_has_started_NOT: "Đại Chiến Thế Giới lần thứ hai §Rchưa§! bắt đầu"
+ second_weltkrieg_has_ended: "Đại Chiến Thế Giới lần thứ hai đã kết thúc"
+
+### Operatives ###
+ operation_infiltrate_armed_forces_army_outcome: "hiệu quả $operation_infiltrate_armed_forces_army$"
+ operation_infiltrate_armed_forces_army_risk: "rủi ro $operation_infiltrate_armed_forces_army$"
+ operation_infiltrate_armed_forces_army_cost: "chi phí $operation_infiltrate_armed_forces_army$"
+
+ operation_infiltrate_armed_forces_navy_outcome: "hiệu quả $operation_infiltrate_armed_forces_navy$"
+ operation_infiltrate_armed_forces_navy_risk: "rủi ro $operation_infiltrate_armed_forces_navy$"
+ operation_infiltrate_armed_forces_navy_cost: "chi phí $operation_infiltrate_armed_forces_navy$"
+
+ operation_infiltrate_armed_forces_airforce_outcome: "hiệu quả $operation_infiltrate_armed_forces_airforce$"
+ operation_infiltrate_armed_forces_airforce_risk: "rủi ro $operation_infiltrate_armed_forces_airforce$"
+ operation_infiltrate_armed_forces_airforce_cost: "chi phí $operation_infiltrate_armed_forces_airforce$"
+
+ operation_infiltrate_civilian_outcome: "hiệu quả $operation_infiltrate_civilian$"
+ operation_infiltrate_civilian_risk: "rủi ro $operation_infiltrate_civilian$"
+ operation_infiltrate_civilian_cost: "chi phí $operation_infiltrate_civilian$"
+
+### Ship Name Lists ###
+ NAME_THEME_ISLANDS: "Quần đảo"
+ NAME_THEME_ROYAL_BARGE: "Sà lan Hoàng gia"
+ NAME_THEME_ROYAL_HOUSES: "Các Triều đại Hoàng gia & Quý tộc"
+ NAME_THEME_MOUNTAINS: "Núi non"
+ NAME_THEME_INSPIRATIONAL: "Truyền cảm hứng"
+ NAME_THEME_GENERALS: "Tướng lĩnh"
+ NAME_THEME_CALIPHS: "Các Caliph"
+ NAME_THEME_MONARCHS: "Các Quân vương"
+ NAME_THEME_FAMOUS_PEOPLE: "Người nổi tiếng"
+
+### Second in Command ###
+ second_in_command_slot: "Chỉ huy Thứ hai"
+ second_in_command: "Chỉ huy Thứ hai"
+ second_in_command_cost_factor: "Chi phí Chỉ huy Thứ hai"
+ second_in_command_cost_factor_tooltip: "$second_in_command_cost_factor$: $RIGHT|-=%0$"
+
+### Character Tooltips ###
+ is_dead: "Đã qua đời"
+ is_dead_NOT: "Chưa qua đời"
+
+ is_second_in_command: "Là Chỉ huy Thứ hai"
+ is_second_in_command_NOT: "Không phải là Chỉ huy Thứ hai"
+
+ character_event_only: "Được thêm bởi sự kiện"
+
+ is_monarch: "Là quân vương"
+ is_monarch_NOT: "Không phải là quân vương"
+
+ is_regent: "Đang làm nhiếp chính"
+ is_regent_NOT: "Không làm nhiếp chính"
+
+ is_monarchy: "§Y[THIS.GetNameWithFlag]§! là một §Ychế độ quân chủ§!"
+ is_monarchy_NOT: "§Y[THIS.GetNameWithFlag]§! §Rkhông phải§! là một §Ychế độ quân chủ§!"
+
+### Mobilisation Effects ###
+ disband_ten_percent_units: "Giải tán §Y10%§! tổng số sư đoàn thường trực, giữ lại trang bị của họ."
+ disband_twenty_percent_units: "Giải tán §Y20%§! tổng số sư đoàn thường trực, giữ lại trang bị của họ."
+ disband_twenty_percent_units_delete_equipment: "Giải tán §Y20%§! tổng số sư đoàn thường trực."
+ disband_fifty_percent_units: "Giải tán §Y50%§! tổng số sư đoàn thường trực, giữ lại trang bị của họ."
+
+### MIO Policies ###
+ mio_policy_general_industrial_self_sufficiency: "Tự cung Tự cấp Công nghiệp"
+
+### Custom Triggers ###
+ is_in_faction_but_not_leader: "Ở trong phe phái nhưng không phải lãnh đạo"
+ is_in_faction_but_not_leader_NOT: "Là lãnh đạo phe phái hoặc không ở trong phe phái"
+
+ imminent_war: "§Y[THIS.GetNameWithFlag]§! có khả năng sắp có chiến tranh"
+ imminent_war_NOT: "§Y[THIS.GetNameWithFlag]§! khó có khả năng sắp có chiến tranh"
+
+ has_guarantor: "Được bảo đảm"
+ has_guarantor_NOT: "Không được bảo đảm"
+
+### Events ###
+ generic_events.100.t: "Trật tự được Khôi phục tại [Root.GetNameDef]"
+ generic_events.100.d: "Trong khi [Root.GetNameDef] vẫn còn chịu sự kiểm soát của [Root.overlord.GetAdjective], quân đội [Root.GetAdjective] đã khẳng định đủ quyền kiểm soát trên biên giới của chúng ta để giờ đây có thể thực thi một vẻ ngoài tự trị lớn hơn. Đây không phải là độc lập - còn xa lắm - nhưng nó có nghĩa là chúng ta không còn phải dựa vào quân đội [Root.overlord.GetAdjective] để bảo vệ biên giới của mình."
+ generic_events.100.a: "Tuyệt vời"
+
+ generic_events.101.t: "Trật tự được Khôi phục tại [From.GetNameDef]"
+ generic_events.101.d: "Trong khi [From.GetNameDef] vẫn còn chịu sự kiểm soát của [Root.GetAdjective], quân đội [From.GetAdjective] đã khẳng định đủ quyền kiểm soát trên biên giới của mình để giờ đây có thể thực thi một vẻ ngoài tự trị. Đây không phải là độc lập - còn xa lắm - nhưng nó có nghĩa là họ không còn phải dựa vào quân đội [Root.GetAdjective] để bảo vệ biên giới của mình, và do đó không còn nằm chặt dưới sự kiểm soát của chúng ta nữa."
+ generic_events.101.a: "Cứ để vậy."
+
+ generic_events.102.t: "Tự trị [Root.GetAdjective] Lớn hơn?"
+ generic_events.102.d: "[Root.GetNameDefCap] vẫn nằm dưới sự kiểm soát của chính phủ [Root.overlord.GetAdjective], nhưng sự kiểm soát đó đang bắt đầu suy yếu một cách chắc chắn khi sức mạnh của chúng ta tái khẳng định. Sức mạnh [Root.GetAdjective] không phải là thứ dễ bị kìm hãm, và các nhà lãnh đạo của chúng ta đã đang đòi hỏi nhiều quyền kiểm soát hơn đối với công việc của chính mình. Chắc chắn lãnh chúa [Root.overlord.GetAdjective] của chúng ta sẽ không thể cưỡng lại chúng ta lâu hơn được nữa."
+ generic_events.102.a: "[Root.GetNameDef] muôn năm!"
+
+ generic_events.103.t: "Tự trị [From.GetAdjective] Lớn hơn"
+ generic_events.103.d: "[From.GetNameDefCap] vẫn nằm dưới sự kiểm soát của chính phủ [Root.GetAdjective], nhưng sự kiểm soát đó đang bắt đầu suy yếu khi sức mạnh của họ tái khẳng định. Sức mạnh [From.GetAdjective] không phải là thứ dễ bị kìm hãm, và tiếng nói đòi hỏi nhiều quyền kiểm soát hơn đối với công việc của chính mình từ các nhà lãnh đạo của họ đang được cảm nhận khắp đất nước."
+ generic_events.103.a: "Chúng ta sẽ cần theo dõi điều này cẩn thận"
+
+ generic_events.106.t: "Cuộc Đấu tranh Giành Độc lập"
+ generic_events.106.d: "Sự kiểm soát của [Root.overlord.GetAdjective] đối với chính phủ [Root.GetAdjective] đã bị tuột dốc từ một thời gian rồi. Chúng ta quá mạnh để họ có thể kìm hãm. Có một tiếng nói chung trong nhân dân [Root.GetAdjective] đòi [Root.GetNameDef] trở nên tự do, và chẳng mấy chốc thời điểm của chúng ta sẽ đến."
+ generic_events.106.a: "Một [Root.GetName] tự do muôn năm!"
+ generic_events.106.b: "Đúng, chúng ta phải đòi độc lập"
+ generic_events.106.c: "Không, tốt nhất là đừng chọc vào tổ ong vò vẽ"
+
+ generic_events.107.t: "[From.GetNameDefCap] Đòi Độc lập"
+ generic_events.107.d: "Sự kiểm soát của [Root.GetAdjective] đối với chính phủ [From.GetAdjective] đã bị tuột dốc từ một thời gian rồi. Họ quá mạnh để chúng ta có thể kìm hãm hoàn toàn. Có một tiếng nói chung trong nhân dân [From.GetAdjective] đòi [From.GetNameDef] được tự do, và giờ chính phủ của họ đã chính thức đệ trình yêu cầu độc lập hoàn toàn."
+ generic_events.107.a: "Hãy để họ đi, trong khi chúng ta vẫn còn là bạn"
+ generic_events.107.b: "Họ đang đùa à? Quên đi"
+
+ generic_events.108.t: "Độc lập bị Từ chối"
+ generic_events.108.d: "Chính phủ [From.GetAdjective] đã bác bỏ yêu cầu độc lập của chúng ta. Trong khi chúng ta vốn chỉ nằm dưới sự kiểm soát danh nghĩa của họ, những hạn chế vẫn khiến chúng ta bức bối."
+ generic_events.108.a: "Chuyện này chưa kết thúc ở đây"
+
+ KR_fight_for_independence: "Tuyên bố Độc lập"
+ KR_fight_for_independence_desc: "[From.GetNameDefCap] có thể đã từ chối yêu cầu độc lập của chúng ta, nhưng đó không phải là dấu chấm hết. Chúng ta sẽ tự do, kể cả khi phải chiến đấu vì nó!"
+
+ generic_events.109.t: "[From.GetNameDefCap] Tuyên bố Độc lập"
+ generic_events.109.d: "Có vẻ như việc chúng ta từ chối trao độc lập cho [From.GetNameDef] là không đủ với họ. Dù sao đi nữa, họ đã tuyên bố tự do khỏi sự kiểm soát của [Root.GetAdjective]."
+ generic_events.109.a: "Chà! Để họ đi"
+ generic_events.109.b: "Ta sẽ xem xét chuyện đó!"
+
+ generic_events.110.t: "Cuộc Chiến Giành Độc lập"
+ generic_events.110.d: "Có vẻ như lãnh chúa cũ của chúng ta không thể có được chỗ đứng vững chắc tại [Root.GetNameDef]... nhưng chúng ta cũng không thể đánh bại họ. Có lẽ đã đến lúc kêu gọi đình chiến và kết thúc chuyện này?"
+ generic_events.110.a: "Đúng, hãy kết thúc chuyện này"
+ generic_events.110.b: "Không! Đây không còn chỉ là chuyện độc lập nữa!"
+
+ generic_events.111.t: "Cuộc Chiến Giành Độc lập của [From.GetAdjective]"
+ generic_events.111.d: "Cuộc chiến với [From.GetNameDef] đã kéo dài một thời gian, không bên nào có thể giành được lợi thế rõ ràng. Có lẽ đã đến lúc chỉ cần công nhận nền độc lập của họ và kết thúc chuyện này."
+ generic_events.111.a: "Đúng, hãy kết thúc chuyện này"
+ generic_events.111.b: "Không! Chúng ta sẽ kết thúc chuyện này!"
+
+ generic_events.250.t: "Biến [marked_country.GetNameDef] thành Chư hầu?"
+ generic_events.250.d: "Điều này sẽ biến [marked_country.GetNameDef] thành chư hầu của [to_be_overlord.GetNameDef], sử dụng trạng thái tự trị Chư hầu Bị chiếm đóng mặc định. Nếu họ ở trong một phe phái khác, họ sẽ rời khỏi đó, nhưng điều này sẽ không kết thúc bất kỳ cuộc chiến nào họ đang tham gia. Nếu bạn muốn làm điều đó, bạn nên làm riêng.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+ generic_events.250.a: "Làm đi"
+ generic_events.250.b: "Làm đi, nhưng để họ giữ chính phủ hiện tại"
+ generic_events.250.c: "Nghĩ lại thì..."
+
+ generic_events.251.t: "Giải phóng [marked_country.GetNameDef]?"
+ generic_events.251.d: "Điều này sẽ khiến [marked_country.GetNameDef] hoàn toàn độc lập. Nó sẽ không thay đổi chính phủ hiện tại của họ (trừ khi mod có nội dung để tự động làm vậy), không loại [marked_country.GetNameDef] khỏi phe phái của họ, nếu họ ở trong một phe, cũng không đưa họ ra khỏi bất kỳ cuộc chiến nào.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+
+ generic_events.252.t: "Gia nhập [to_be_faction_leader.GetFactionName]?"
+ generic_events.252.d: "Điều này sẽ khiến [marked_country.GetNameDef] gia nhập [to_be_faction_leader.GetFactionName], giải thể phe phái của riêng họ nếu họ là lãnh đạo phe phái hoặc chỉ đơn giản là rời khỏi phe phái hiện tại nếu họ ở trong một phe. Điều này sẽ không thay đổi bất kỳ cuộc chiến nào họ đang tham gia.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+
+ generic_events.253.t: "Lãnh đạo [marked_country.GetFactionName]?"
+ generic_events.253.d: "Điều này sẽ khiến [marked_country.GetNameDef] trở thành lãnh đạo phe phái của [marked_country.GetFactionName].\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+
+ generic_events.254.t: "Rời khỏi [marked_country.GetFactionName]?"
+ generic_events.254.d: "Điều này sẽ khiến [marked_country.GetNameDef] rời khỏi [marked_country.GetFactionName], giải thể phe phái nếu họ là lãnh đạo. Nó sẽ không ảnh hưởng đến bất kỳ cuộc chiến nào họ đang tham gia.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+
+ generic_events.255.t: "Hòa bình với [peace_target.GetNameDef]?"
+ generic_events.255.d: "[marked_country.GetNameDefCap], cùng với tất cả đồng minh của mình, sẽ hòa bình trắng với [peace_target.GetNameDef] và tất cả đồng minh của họ.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+ generic_events.255.b: "Tách [marked_country.GetNameDef] khỏi đồng minh của mình, rồi hòa bình"
+
+ generic_events.256.t: "Hòa bình khỏi tất cả các cuộc chiến?"
+ generic_events.256.d: "[marked_country.GetNameDefCap] sẽ thực hiện một nền hòa bình trắng riêng cho tất cả các cuộc chiến hiện tại của mình. Nếu là chư hầu, trước tiên họ sẽ được giải phóng, và nếu ở trong một phe phái, trước tiên họ phải rời khỏi đó.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+
+ generic_events.257.t: "Chiến tranh với [war_target.GetNameDef]?"
+ generic_events.257.d: "[marked_country.GetNameDefCap] sẽ tuyên chiến với [war_target.GetNameDef]. Không có kiểm tra nào để xem đây có phải là một lời tuyên chiến hợp lệ hay không, ngoài việc hai quốc gia không phải là đồng minh và chưa có chiến tranh.\n\n§RLƯU Ý: Điều này rất có thể sẽ phá vỡ nội dung của Kaiserreich! Sử dụng với rủi ro của riêng bạn!!§!"
+
+### Government in Exile Events ###
+ mtg_exile_leader_added.1.t: "Lãnh đạo Lưu vong [exile_nation.GetAdjective] Đề nghị Phục vụ"
+ mtg_exile_leader_added.1.desc: "Sau một hành trình dài và nguy hiểm qua lãnh thổ do địch kiểm soát và một số quốc gia trung lập, một sĩ quan quân đội cấp cao từ một trong những đồng minh đã đầu hàng của chúng ta cuối cùng đã đến thủ đô. Sau một thời gian ngắn hồi phục, ông đã đề nghị phục vụ trong cuộc đấu tranh chung của chúng ta."
+ mtg_exile_leader_added.1.a: "Cuộc chiến của bạn vẫn chưa kết thúc."
+
+ mtg_exile_government.2.title: "Chính phủ Lưu vong [From.GetAdjective]"
+ mtg_exile_government.2.desc: "[From.GetLeader] đã chính thức yêu cầu chính phủ [Root.GetAdjective] cho phép trở về [From.GetNameDef] và tái lập nội các [From.GetRulingParty] lâm thời để chuẩn bị cho hòa bình sau chiến tranh."
+ mtg_exile_government.2.a: "Đã đến lúc họ trở về lãnh thổ của mình."
+ mtg_exile_government.2.b: "Thời cơ chưa chín muồi."
+
+ mtg_exile_government.3.title: "[From.GetName] Yêu cầu Tích hợp Hải quân"
+ mtg_exile_government.3.desc: "Bộ chỉ huy hải quân [From.GetAdjective] đã trình bày cho chúng ta một kế hoạch tích hợp hải quân của chúng ta vào hải quân của họ. Họ lập luận rằng, bằng cách cho phép các nhà hoạch định hải quân [From.GetAdjective] toàn quyền kiểm soát tàu của chúng ta, hiệu quả của chúng sẽ tăng đáng kể so với các hoạt động độc lập hiện tại."
+ mtg_exile_government.3.a: "Chúng tôi đồng ý."
+ mtg_exile_government.3.b: "Chúng tôi sẽ không phục vụ dưới quyền họ."
+
+ mtg_exile_government.4.title: "[From.GetName] Chấp nhận Tích hợp Hải quân"
+ mtg_exile_government.4.desc: "Chính phủ [From.GetAdjective] đã thông báo cho chúng ta rằng họ đồng ý với đề xuất của chúng ta, và từ nay tàu của họ sẽ hoạt động dưới sự chỉ huy của chúng ta."
+ mtg_exile_government.4.a: "Tuyệt vời."
+
+ mtg_exile_government.5.title: "[From.GetName] Từ chối Tích hợp Hải quân"
+ mtg_exile_government.5.desc: "Chính phủ [From.GetAdjective] đã thông báo cho chúng ta rằng hải quân của họ sẽ không bao giờ phục vụ dưới sự chỉ huy của một cường quốc nước ngoài. Họ định giúp chúng ta, nhưng họ sẽ làm điều đó một cách độc lập."
+ mtg_exile_government.5.a: "Họ đặt lòng kiêu hãnh của mình lên trên lợi ích của liên minh."
+
+ mtg_generic.1.title: "[From.GetName] Áp đặt Thay đổi Chính phủ"
+ mtg_generic.1.desc: "Viện dẫn sự thiếu rõ ràng về ủng hộ bầu cử cho chính phủ hiện tại của chúng ta, [From.GetNameDef] đã yêu cầu một sự thay đổi trong chính trị."
+ mtg_generic.1.a: "Chúng ta không có lựa chọn nào khác ngoài chấp nhận."
+
+### Sub-unit Modifiers ###
+ modifier_army_sub_unit_category_mobile_infantry_attack_factor: "Tấn công Kỵ binh/Cơ giới/Thiết giáp"
+ modifier_army_sub_unit_category_mobile_infantry_defence_factor: "Phòng thủ Kỵ binh/Cơ giới/Thiết giáp"
+ modifier_army_sub_unit_category_mobile_infantry_speed_factor: "Tốc độ Kỵ binh/Cơ giới/Thiết giáp"
+
+### Research Bonus Names ###
+ refinery_bonus: "Thưởng Nhà máy lọc dầu"
+
+### Custom Triggers ###
+ had_war: "Đã tham chiến trong một cuộc chiến"
+ not_during_ceasefire: "Không trong khi lệnh ngừng bắn được duy trì"
+
+### Other ###
+ asked_to_join: "Sự tham gia đã được một quốc gia khác yêu cầu."
+ generic_research_advances: "Tiến bộ Nghiên cứu"
+
+ generic_neutral_foreign_policy: "Chính sách Đối ngoại Trung lập"
+ generic_neutral_foreign_policy_desc: "Dù vì chủ nghĩa hòa bình, sự cần thiết, hay chỉ đơn giản là vì lợi ích bản thân, các mục tiêu chính sách đối ngoại của nhà nước này hiện được đặc trưng bởi mong muốn tránh các vướng mắc nước ngoài. Hoạt động quân sự tập trung vào các cân nhắc phòng thủ, và mọi hành động trên trường quốc tế đều được thiết kế để tạo ra càng ít kẻ thù càng tốt."
+ deterrence: "Răn đe"
+
+ increase_state_category_by_one_level_tt: "Điều này cung cấp thêm §G1§! ô xây dựng cơ bản.\n"
+ increase_state_category_by_two_levels_tt: "Điều này cung cấp thêm §G2§! ô xây dựng cơ bản.\n"
+ decrease_state_category_by_one_level_tt: "Điều này §Rxóa bỏ§! một ô xây dựng khỏi bang.\n"
+
+### General ###
+ fighter_techs: "Công nghệ Máy bay Tiêm kích"
+ cat_strategic_destruction: "Công nghệ Phá hủy Chiến lược"
+ maintenance_company_tech: "Đại đội Bảo trì"
+ cat_line_artillery: "Pháo dã chiến"
+ cat_light_spg: "Pháo Tự hành Hạng nhẹ"
+ cat_medium_spg: "Pháo Tự hành Hạng trung"
+ cat_heavy_spg: "Pháo Tự hành Hạng nặng"
+ tank_destroyer_tech: "Pháo Chống Tăng Tự hành"
+ cat_gunnery: "Pháo hạm Hải quân"
+ cr_tech: "Mẫu Tuần dương hạm"
+ acr_tech: "Mẫu Tuần dương chiến hạm"
+ cat_targeting: "Máy tính Điều khiển Hỏa lực"
+ cat_torpedo: "Công nghệ Ngư lôi"
+ carrier_ship_tree: "Hoạt động Hàng không mẫu hạm"
+ capital_ship_tree: "Hoạt động Tàu chủ lực"
+ cat_armored_car: "Xe bọc thép"
+ cat_special_units: "Đơn vị Đặc biệt"
+ cat_air_engine: "Động cơ Máy bay"
+ cat_air_bombs: "Bom Máy bay"
+
+ fighter_techs_research: "Tốc độ Nghiên cứu Máy bay Tiêm kích"
+ marine_tech_research: "Tốc độ Nghiên cứu Lính thủy đánh bộ"
+ cat_light_armor_research: "Tốc độ Nghiên cứu Thiết giáp Hạng nhẹ"
+
+### Hidden Techs ###
+ tech_camel_corps: "Đoàn Lạc đà"
+
+ tech_ski_infantry: "Bộ binh Trượt tuyết"
+ tech_ski_infantry_terrain_effect: "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_marine_bonus: "Lính thủy đánh bộ Cải tiến"
+ tech_marine_bonus_2: "Lính thủy đánh bộ Được huấn luyện"
+ tech_marine_bonus_combined: "Lính thủy đánh bộ Ưu tú"
+
+ tech_jungle_warfare: "Huấn luyện Chiến đấu trong Rừng nhiệt đới"
+ tech_jungle_warfare_terrain_effect: "  §Y$jungle$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
+
+ tech_forest_warfare: "Huấn luyện Chiến đấu trong Rừng"
+ tech_forest_warfare_terrain_effect: "  §Y$forest$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
+
+ tech_improved_field_hospitals: "Bệnh viện Dã chiến Cải tiến"
+
+ tech_expanded_engineer_corps: "Quân đoàn Công binh Mở rộng"
+
+ tech_mountain_warfare: "Huấn luyện Chiến đấu trên Núi"
+ tech_mountain_warfare_terrain_effect: "  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_improved_recon_units: "Đơn vị Trinh sát Cải tiến"
+
+ tech_urban_warfare: "Huấn luyện Chiến đấu trong Đô thị"
+ tech_urban_warfare_terrain_effect: "  §Y$urban$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.03|=+1%]"
+
+ tech_desert_warfare: "Huấn luyện Chiến đấu trong Sa mạc"
+ tech_desert_warfare_terrain_effect: "  §Y$desert$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_marsh_warfare: "Huấn luyện Chiến đấu trong Đầm lầy"
+ tech_marsh_warfare_terrain_effect: "  §Y$marsh$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_anti_fortification_artillery: "Pháo Chống Công sự"
+ tech_anti_fortification_artillery_terrain_effect: "  §Y$fort$§!:\n    $STAT_ADJUSTER_ATTACK$[?0.2|=+1%]"
+
+ tech_integrated_specialists: "Lực lượng Đặc biệt Tích hợp"
+
+ tech_at_cavalry: "Súng Chống Tăng cho Kỵ binh"
+
+ tech_semi_motorised_cav: "Kỵ binh Bán Cơ giới"
+
+ tech_improved_encryption: "Mã hóa Cải tiến"
+
+ tech_mountain_artillery: "Pháo Núi"
+ tech_mountain_artillery_terrain_effect: "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]"
+
+ tech_arctic_commando: "Biệt kích Bắc Cực"
+ tech_arctic_commando_terrain_effect: "  §Y$hills$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]"
+
+ tech_better_paratroopers: "Lính Dù Tinh nhuệ"
+
+ tech_anti_partisan: "Chiến thuật Chống Nổi dậy"
+
+ tech_improved_logistics: "Đại đội Hậu cần Cải tiến"
+
+ modifier_army_sub_unit_long_range_patrol_support_attack_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_attack_factor$: $RIGHT|+=%2$"
+ modifier_army_sub_unit_long_range_patrol_support_defence_factor_tooltip: "$modifier_army_sub_unit_long_range_patrol_support_defence_factor$: $RIGHT|+=%2$"
+
+ tech_extensive_reconnaissance: "Trinh sát Mở rộng"
+ tech_extensive_reconnaissance_terrain_effect: "  §Y$snow$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n  §Y$forest$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$hills$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$mountain$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$marsh$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$plains$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n  §Y$river$§!: $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]"
+
+ tech_strengthened_support_companies: "Đại đội Hỗ trợ Tăng cường"
+
+ tech_anti_armour_tactics: "Chiến thuật Chống Thiết giáp"
+
+ tech_river_boats: "Thuyền Sông"
+ tech_river_boats_terrain_effect: "  §Y$river$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.1|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.1|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_armored_car_spearhead: "Mũi nhọn Xe bọc thép"
+
+ tech_improved_decryption: "Giải mã Cải tiến"
+
+ tech_elephant_sappers: "Công binh Voi"
+ tech_elephant_sappers_terrain_effect: "  §Y$jungle$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]\n  §Y$mountain$§!:\n    $STAT_ADJUSTER_MOVEMENT$[?0.05|=+1%]\n    $STAT_ADJUSTER_ATTACK$[?0.05|=+1%]\n    $STAT_ADJUSTER_DEFENCE$[?0.05|=+1%]"
+
+ tech_improved_assault_battalion: "Tiểu đoàn Xung kích Cải tiến"
+
+ ### Units ###
+ assault_battalion: "$blackshirt_assault_battalion$"
+ assault_battalion_desc: "$blackshirt_assault_battalion_desc$"
+
+ modifier_army_sub_unit_assault_battalion_attack_factor: "Tấn công $assault_battalion$"
+ modifier_army_sub_unit_assault_battalion_defence_factor: "Phòng thủ $assault_battalion$"
+ modifier_army_sub_unit_assault_battalion_speed_factor: "Tốc độ $assault_battalion$"
+ modifier_army_sub_unit_assault_battalion_max_org_factor: "Tổ chức $assault_battalion$"
+
+ ### Modules ###
+ tank_makeshift_armor: "Giáp Tạm bợ"
+ tank_makeshift_armor_desc: "Được làm từ các tấm sắt thay vì thép để tiết kiệm tiền. Tốt hơn là không có giáp... Có lẽ vậy."
+
+ tank_improvised_turret: "Tháp pháo Tự chế"
+ tank_improvised_turret_desc: "Nó chứa súng và có thể xoay. Khi nó muốn."
+
+ ### System Tag ###
+ AAA: "Lãnh thổ Có thể Tích hợp"
+ AAA_ADJ: "Có thể Tích hợp"
+ AAA_DEF: "Lãnh thổ Có thể Tích hợp"
+
+ on_annex_workaround: " "
+ on_annex_workaround_ADJ: " "
+ on_annex_workaround_DEF: " "
+
+ system_placeholder_leader: "Tạm thời"

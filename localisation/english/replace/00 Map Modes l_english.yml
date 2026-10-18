@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Map Modes ###
+ MAPMODE_CORES_CLAIMS_MAP_MODE: "Chế độ bản đồ §Y$MAPMODE_CORES_CLAIMS_MAP_MODE_NAME$§!"
+ MAPMODE_CORES_CLAIMS_MAP_MODE_NAME: "Lãnh thổ cốt lõi/Yêu sách"
+ MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION: "Hiển thị các lãnh thổ cốt lõi và yêu sách hiện tại."
+
+ cores_claims_map_mode_tooltip: "§Y[FROM.GetName]§! ([FROM.Owner.GetFlag] [FROM.Owner.GetName])"
+ cores_claims_map_mode_tooltip_delayed: "[FROM.GetCoreClaimMapModeTooltip]"
+
+ cores_claims_map_mode_tooltip_core: "§Y[FROM.GetName]§! là một §Ybang cốt lõi§! của §Y[ROOT.GetNameWithFlag]§!."
+ cores_claims_map_mode_tooltip_potential_core_50: "§Y[FROM.GetName]§! là một §Ybang cốt lõi tiềm năng§! của §Y[ROOT.GetNameWithFlag]§!. Nếu được sở hữu, nó sẽ trở thành cốt lõi khi đạt §Y50%§! tuân thủ."
+ cores_claims_map_mode_tooltip_potential_core_80: "§Y[FROM.GetName]§! là một §Ybang cốt lõi tiềm năng§! của §Y[ROOT.GetNameWithFlag]§!. Nếu được sở hữu, nó sẽ trở thành cốt lõi khi đạt §Y80%§! tuân thủ."
+ cores_claims_map_mode_tooltip_claim: "§Y[FROM.GetName]§! đang bị §Y[ROOT.GetNameWithFlag]§! §Yyêu sách§!."
+ cores_claims_map_mode_tooltip_owned: "§Y[FROM.GetName]§! đang bị §Y[ROOT.GetNameWithFlag]§! §Ychiếm đóng§!."
+
+ MAPMODE_OPINION_MAP_MODE: "Chế độ bản đồ §Y$MAPMODE_OPINION_MAP_MODE_NAME$§!"
+ MAPMODE_OPINION_MAP_MODE_NAME: "Quan điểm"
+ MAPMODE_OPINION_MAP_MODE_DESCRIPTION: "Hiển thị quan điểm của các quốc gia khác về chúng ta."
+
+ opinion_map_mode_tooltip: "§Y[FROM.controller.GetNameWithFlag]§!"
+ opinion_map_mode_tooltip_delayed: "[FROM.GetOpinionMapModeTooltip]"
+
+ opinion_map_mode_tooltip_delayed2: "ROOT là [ROOT.GetName]\nFROM là [FROM.GetName]\nFROM.FROM là [FROM.FROM.GetName]"
+
+ opinion_map_mode_tooltip_delayed_desc: "Quan điểm của họ về chúng ta: [?FROM.controller:opinion@ROOT|+=0]\nQuan điểm của chúng ta về họ: [?ROOT.opinion@FROM.controller|+=0]"
+
+ MAPMODE_ECONOMIC_SPHERES_MAP_MODE: "Chế độ bản đồ §Y$MAPMODE_ECONOMIC_SPHERES_MAP_MODE_NAME$§!"
+ MAPMODE_ECONOMIC_SPHERES_MAP_MODE_NAME: "Các khối kinh tế"
+ MAPMODE_ECONOMIC_SPHERES_MAP_MODE_DESCRIPTION: "Hiển thị các khối kinh tế hiện có và các thành viên của chúng."
+
+ economic_spheres_map_mode_none: "Không có"
+
+ economic_spheres_map_mode_tooltip: "§Y[FROM.controller.GetNameWithFlag]§! (§Y[GetEconomicSphereMapModeTooltip_SphereName]§!)"
+ economic_spheres_map_mode_tooltip_delayed: "[FROM.controller.GetEconomicSphereMapModeTooltip]"
+
+ economic_spheres_map_mode_tooltip_leader: "§Y[FROM.controller.GetNameWithFlag]§! là lãnh đạo của §Y[GetEconomicSphereMapModeTooltip_SphereName]§!."
+ economic_spheres_map_mode_tooltip_member: "§Y[FROM.controller.GetNameWithFlag]§! là thành viên của §Y[GetEconomicSphereMapModeTooltip_SphereName]§!.\n\n§Y[GetEconomicSphereMapModeTooltip_SphereName]§! được lãnh đạo bởi §Y[GetEconomicSphereMapModeTooltip_SphereLeader]§!."
+ economic_spheres_map_mode_tooltip_none: "§Y[FROM.controller.GetNameWithFlag]§! không phải là thành viên của bất kỳ khối kinh tế nào."

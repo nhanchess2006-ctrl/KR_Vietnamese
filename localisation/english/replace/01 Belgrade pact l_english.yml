@@ -1,0 +1,439 @@
+﻿l_english:
+
+### Ideas ###
+ SER_reparation_payments: "Bồi thường chiến tranh cho Bulgaria"
+ SER_reparation_payments_desc: "Vì Serbia đã thua trong Chiến tranh Balkan lần thứ tư, nước này cần phải trả bồi thường chiến tranh cho Bulgaria."
+ BUL_reparation_payments_from_serbia: "Bồi thường chiến tranh từ Serbia"
+ BUL_reparation_payments_from_serbia_desc: "Serbia trả bồi thường chiến tranh cho Bulgaria."
+ BPL_pact_of_organisation: "Hiệp ước Tổ chức"
+ BPL_pact_of_organisation_desc: "Việc ký kết Hiệp ước Tổ chức đã giúp hội nhập nền kinh tế các quốc gia Balkan và làm sâu sắc thêm quan hệ. Hội đồng Kinh tế của Hiệp ước đã giúp điều phối thương mại và quan hệ kinh tế, và quốc gia của chúng ta đang thấy được những lợi ích.\n\n§RNếu chúng ta rơi vào chiến tranh với lãnh đạo của Hiệp ước Tổ chức, [?global.balkan_economic_union^0.GetNameDef], chúng ta sẽ buộc phải rời khỏi Hội đồng và mất tất cả lợi ích.§!"
+ BP_war_exhaustion: "Kiệt quệ Chiến tranh Balkan"
+ belgrade_part_arms_embargo: "Cấm vận Vũ khí Quốc tế"
+ belgrade_part_arms_embargo_desc: "Theo quyết định của Đế quốc Áo và các đồng minh trên khắp châu Âu, chúng ta hiện đã bị áp đặt lệnh cấm vận vũ khí quốc tế. Biên giới của chúng ta bị phong tỏa khỏi mọi hoạt động nhập khẩu vũ khí và đạn dược, và chúng ta sẽ phải xoay xở với nền sản xuất trong nước ít ỏi. Do đó, chúng ta cần phải kết thúc Bulgaria nhanh chóng."
+
+### Decisions ###
+ Belgrade_Pact_Balkan_War: "Hiệp ước Belgrade"
+
+ Belgrade_Pact_invite_member: "Mời [From.GetNameDef] vào Hiệp ước Belgrade"
+ Belgrade_Pact_invite_member_desc: "Quân đội [From.GetAdjective] sẽ rất cần thiết nếu chúng ta muốn hoàn thành mục tiêu của mình. Đã đến lúc mời họ vào liên minh lớn hơn của chúng ta."
+
+ Belgrade_Pact_Romania_capture_dobrudzha_mission: "Chiếm Dobrogea"
+ Belgrade_Pact_Romania_capture_dobrudzha_mission_desc: "Cuối cùng chúng ta có thể trả thù người Bulgaria. Nhiệm vụ của chúng ta là chiếm lại Dobrogea, vùng đất đã bị các Cường quốc Trung tâm đánh cắp khỏi chúng ta sau Đại Chiến Thế Giới."
+ Belgrade_Pact_Serbia_capture_macedonia_mission: "Chiếm Macedonia"
+ Belgrade_Pact_Serbia_capture_macedonia_mission_desc: "Cuối cùng chúng ta có thể trả thù người Bulgaria. Nhiệm vụ của chúng ta là chiếm lại Macedonia, vùng đất chính đáng thuộc về chúng ta nhưng đã bị Bulgaria đánh cắp sau Đại Chiến Thế Giới."
+ Belgrade_Pact_Greece_capture_southern_macedonia: "Chiếm Nam Macedonia"
+ Belgrade_Pact_Greece_capture_southern_macedonia_desc: "Cuối cùng chúng ta có thể trả thù người Bulgaria. Nhiệm vụ của chúng ta là chiếm lại Macedonia, vùng đất chính đáng thuộc về chúng ta nhưng đã bị Bulgaria đánh cắp sau Đại Chiến Thế Giới."
+ Belgrade_Pact_race_to_sofia: "Cuộc đua đến Sofia"
+ Belgrade_Pact_race_to_sofia_desc: "Phòng tuyến Bulgaria đã bị chọc thủng và con đường đến Sofia giờ đây đã rộng mở. Chỉ còn là vấn đề thời gian trước khi thủ đô Bulgaria thất thủ. Chiếm được thành phố quan trọng này sẽ là một thành công lớn cho quốc gia chúng ta."
+
+### Opinion Modifiers ###
+ Belgrade_Pact_anti_bulgaria: "Chống Bulgaria"
+ Belgrade_Pact_joined_boo: "Đã gia nhập Hiệp ước Chống Bulgaria"
+ Belgrade_Pact_did_not_join_yay: "Từ chối gia nhập Hiệp ước Belgrade"
+ Belgrade_Pact_joined_yay: "Đã gia nhập Hiệp ước Belgrade"
+ Belgrade_Pact_refused: "Từ chối gia nhập Hiệp ước của chúng ta"
+ Belgrade_Pact_joined_against_us: "Gia nhập Hiệp ước Chống lại chúng ta"
+
+### Flags ###
+ BP_working_on_eco_union: "Đang làm việc cho dự án này"
+
+### Events ###
+ belgrade_pact_events.1.t: "Hội nghị Belgrade"
+ belgrade_pact_events.1.d: "Sự hợp tác của các quốc gia Balkan chống lại một kẻ thù chung, bất chấp những bất đồng nội bộ, là một con đường đã được lịch sử in dấu. Liên minh Balkan, được thành lập giữa Serbia, Bulgaria và Hy Lạp để đánh bại Đế quốc Ottoman ở Balkan, là một ví dụ điển hình, dù nó đã tan rã thành Chiến tranh Balkan lần thứ hai chỉ vài tháng sau chiến thắng. Ngày nay, Serbia, Romania và Hy Lạp đối đầu với một bá chủ khác - Sa quốc Bulgaria - và mỗi nước đều có lãnh thổ cần đòi lại.\n\nTrong gần hai thập kỷ, ý nghĩ về một liên minh như vậy là điều không tưởng. Ba quốc gia Balkan đã bị chia cắt, suy yếu, giải giáp, và con mắt của các cường quốc châu Âu luôn dõi theo. Tuy nhiên, đến thập niên 1930, tình hình đã thay đổi hoàn toàn. Sự yếu kém thường trực của Đế quốc Áo-Hung và do đó thiếu ý chí can thiệp vào Balkan đã cho các nước nhỏ Balkan cơ hội tái vũ trang, và giờ đây, đã cho họ cơ hội lập kế hoạch cùng nhau. Các hội nghị song phương và đàm phán ngoại giao đã diễn ra giữa Serbia và Romania từ năm 1932, và giữa Serbia và Hy Lạp từ năm 1934, và tất cả đã đỉnh điểm trong Hội nghị Belgrade.\n\nMột hội nghị kéo dài mười bốn ngày tại thủ đô Serbia, đây là một sự kiện văn hóa cũng như chính trị. Việc hoạch định ngoại giao giữa các bộ trưởng ngoại giao của ba quốc gia diễn ra song song với đối thoại giữa Đại học Belgrade và Bucharest về nghiên cứu và trao đổi sinh viên, chẳng hạn.\n\nDù sao đi nữa, vào cuối Hội nghị, các phái đoàn của ba quốc gia đã công bố một nghị quyết 14 điểm - trong đó đáng báo động nhất là \"công nhận rằng chỉ có quyền tự quyết của các dân tộc, theo sự trung thành dân tộc của họ, mới có thể được coi là con đường chính đáng dẫn đến chủ quyền và yêu sách lãnh thổ\", và lời kêu gọi một \"trật tự mới ở Balkan\" để thực hiện nguyên tắc này, có lẽ là với cái giá của Bulgaria."
+ # Of course, such an event could not take place without controversy. The inclusion of the Romanian delegation, while crucial, has been protested by many representatives in the Skupština, who could not bring themselves to bear [SER.GetLeader] shaking hands with the despised Corneliu Codreanu. - TBA later
+ belgrade_pact_events.1.a: "Khai mạc Hội nghị!"
+
+ belgrade_pact_events.2.t: "Hội nghị Belgrade"
+ belgrade_pact_events.2.d: "[From.GetNameDefCap] đã mời chúng ta cử một nhà ngoại giao đến Belgrade để tham gia Hội nghị Belgrade, để chúng ta có thể thảo luận về tình hình chính trị và quân sự ở Balkan. Kể từ khi Bulgaria chiến thắng trong Đại Chiến Thế Giới, chúng ta đã để mắt đến vùng đất chính đáng thuộc về mình, cũng như Serbia. Họ đề nghị chúng ta thành lập một liên minh chính thức mới gọi là Hiệp ước Belgrade, để bảo vệ lợi ích chung và kiềm chế mối đe dọa Bulgaria. Tuy nhiên, điều này có thể khiến các đồng minh cũ của Bulgaria là Đức, Áo và Đế quốc Ottoman tức giận."
+ belgrade_pact_events.2.a: "Công bố ủng hộ của chúng ta cho Hiệp ước Belgrade."
+ belgrade_pact_events.2.b: "Chúng ta không quan tâm đến liên minh của họ."
+
+ belgrade_pact_events.3.t: "[From.GetName] Gia nhập Hiệp ước Belgrade"
+ belgrade_pact_events.3.d: "Chính phủ [From.GetAdjective] đã thông báo họ sẽ tham dự hội nghị ở Belgrade và chính thức gia nhập Hiệp ước Belgrade."
+ belgrade_pact_events.3.a: "Cùng nhau vì hòa bình!"
+
+ belgrade_pact_events.4.t: "[From.GetName] Từ chối"
+ belgrade_pact_events.4.d: "Chính phủ [From.GetAdjective] đã thông báo rằng, hiện tại, họ sẽ không tham gia bất kỳ liên minh chính thức nào nhắm vào Bulgaria."
+ belgrade_pact_events.4.a: "Chúng ta không cần họ."
+
+ belgrade_pact_events.5.t: "Kết thúc Hiệp ước"
+ belgrade_pact_events.5.d: "Trong khi chúng ta đã cố gắng thành lập một liên minh để thúc đẩy lợi ích Serbia ở Balkan, chúng ta thấy mình đơn độc chống lại thế giới rộng lớn hơn. Đã đến lúc phải thừa nhận rằng Hiệp ước Belgrade đã đến hồi kết."
+ belgrade_pact_events.5.a: "Than ôi..."
+
+ belgrade_pact_events.6.t: "Hội nghị Belgrade Tranh luận về Trật tự Mới ở Balkan"
+ belgrade_pact_events.6.d: "Theo sáng kiến của Serbia, đại diện của một số quốc gia đã tụ họp tại Belgrade để thảo luận về tình hình chính trị và quân sự ở Balkan. Trong sự kiện kéo dài mười bốn ngày này, người Serbia, Romania và Hy Lạp âm mưu tạo ra cái gọi là 'trật tự mới ở Balkan', thậm chí đi xa đến mức tạo ra một nghị quyết 14 điểm tuyên bố rằng \"chỉ có quyền tự quyết của các dân tộc, theo sự trung thành dân tộc của họ, mới có thể được coi là con đường chính đáng dẫn đến chủ quyền và yêu sách lãnh thổ\".\n\nRõ ràng, Balkan đang bất ổn một lần nữa, và các nghị quyết của Hội nghị Belgrade chắc chắn sẽ được sử dụng để biện minh cho một cuộc chiến chung chống lại Bulgaria và cuối cùng là Đế quốc Áo. Phải làm gì về vấn đề này?"
+ belgrade_pact_events.6.a: "Người Serbia và Romania sẽ phải suy nghĩ lại sau một lệnh cấm vận!"
+ belgrade_pact_events.6.b: "Hãy để chúng đến, Balkan không thể đe dọa chúng ta."
+
+ belgrade_pact_events.7.t: "[From.GetName] Công bố Ủng hộ Bulgaria"
+ belgrade_pact_events.7.d: "Chính phủ [From.GetAdjective] đã thông báo hôm nay rằng họ sẽ ủng hộ Bulgaria trong bất kỳ xung đột nào trong tương lai giữa Hiệp ước Belgrade và Sa quốc Bulgaria, và sẽ tham gia một lệnh cấm vận vũ khí quốc tế để làm giảm kho vũ khí của chúng ta để chuẩn bị cho chiến tranh."
+ belgrade_pact_events.7.a: "Điều này không tốt."
+
+ belgrade_pact_events.8.t: "[From.GetName] Công bố Ủng hộ Bulgaria"
+ belgrade_pact_events.8.d: "Theo sáng kiến của Serbia, đại diện của một số quốc gia đã tụ họp tại Belgrade để thảo luận về tình hình chính trị và quân sự ở Balkan. Trong sự kiện kéo dài mười bốn ngày này, người Serbia, Romania và Hy Lạp âm mưu tạo ra cái gọi là 'trật tự mới ở Balkan', thậm chí đi xa đến mức tạo ra một nghị quyết 14 điểm tuyên bố rằng \"chỉ có quyền tự quyết của các dân tộc, theo sự trung thành dân tộc của họ, mới có thể được coi là con đường chính đáng dẫn đến chủ quyền và yêu sách lãnh thổ\".\n\nRõ ràng, Balkan đang bất ổn một lần nữa, và các nghị quyết của Hội nghị Belgrade chắc chắn sẽ được sử dụng để biện minh cho một cuộc chiến chung chống lại Bulgaria và cuối cùng là Đế quốc Áo. Người Áo đã kêu gọi một lệnh cấm vận vũ khí quốc tế đối với các quốc gia Balkan để ủng hộ Bulgaria, chúng ta có nên công bố ủng hộ người Bulgaria không?"
+ belgrade_pact_events.8.a: "Chỉ có Bulgaria mới giữ được sự ổn định của Balkan."
+ belgrade_pact_events.8.b: "Chúng ta không quan tâm đến Balkan."
+
+ belgrade_pact_events.17.t: "Đòn đánh của Serbia!"
+ belgrade_pact_events.17.d: "Sau hai tuần căng thẳng trên sông Morava, chính phủ Serbia cuối cùng đã lên tiếng trở lại - họ yêu cầu chúng ta rời khỏi Macedonia và vùng Niš trong vòng 48 giờ, thực chất là đầu hàng chúng cho Serbia kiểm soát, để bảo vệ người dân Serbia địa phương khỏi khủng bố và đổ máu thêm. Các tối hậu thư tiếp theo đã được các đồng minh của họ trong Hiệp ước Belgrade gửi đi, đề cập đến xung đột sắc tộc và những lo ngại của họ tại lãnh thổ tương ứng.\n\nTrước khi mực trên các tài liệu đó kịp khô, lực lượng của chúng ta ở Nish đã gửi báo cáo về việc quân Serbia vượt sông Morava, những cuộc giao tranh đầu tiên và các cuộc ném bom từ trên không đang diễn ra. Vậy thì chỉ còn một lựa chọn cho chúng ta."
+ belgrade_pact_events.17.a: "Chiến tranh! Bảo vệ danh dự Bulgaria!"
+
+ belgrade_pact_events.21.t: "Vấn đề Thrace"
+ belgrade_pact_events.21.d: "Với việc Bulgaria giờ đây đã lún sâu vào cuộc chiến với Hiệp ước Belgrade, một câu hỏi đã đặt ra trong các hành lang chính phủ về việc liệu chúng ta có nên đòi lại những vùng đất chính đáng thuộc về mình hay không. Kể từ khi Đại Chiến Thế Giới kết thúc, Bulgaria đã chiếm đóng các vùng đất ở Tây Thrace mà phần lớn là người Hồi giáo và người Thổ Nhĩ Kỳ - chắc chắn họ sẽ thấy lý lẽ nếu 'đồng minh' cũ của họ yêu cầu được trao lại?"
+ belgrade_pact_events.21.a: "Đưa ra yêu cầu."
+ belgrade_pact_events.21.b: "Chúng ta không quan tâm đến việc dính líu ngay bây giờ."
+
+ belgrade_pact_events.22.t: "Người Ottoman Yêu cầu Thrace"
+ belgrade_pact_events.22.d: "Có vẻ như các 'đồng minh' cũ của chúng ta trong Đế quốc Ottoman muốn lợi dụng xung đột hiện tại của chúng ta với Hiệp ước Belgrade. Họ đã yêu cầu trả lại Tây Thrace, một khu vực phần lớn là người Hồi giáo và người Thổ Nhĩ Kỳ, nhưng chúng ta đã chiếm đóng một cách chính đáng kể từ khi Đại Chiến Thế Giới kết thúc. Nếu chúng ta từ chối, họ rất có thể sẽ tấn công chúng ta từ phía sau, thêm một mặt trận mà chúng ta khó có thể chịu đựng nổi."
+ belgrade_pact_events.22.a: "Cho họ những gì họ muốn..."
+ belgrade_pact_events.22.b: "Không bao giờ! Chúng ta sẽ đánh bại họ luôn!"
+
+ belgrade_pact_events.23.t: "Bulgaria Đồng ý"
+ belgrade_pact_events.23.d: "Thấy được sự khôn ngoan khi không theo đuổi một cuộc chiến hai mặt trận, Bulgaria đã đồng ý trả lại các vùng đất ở Tây Thrace cho chúng ta."
+ belgrade_pact_events.23.a: "Rất khôn ngoan."
+
+ belgrade_pact_events.24.t: "Bulgaria Từ chối"
+ belgrade_pact_events.24.d: "Cứng đầu đến cùng, chính phủ Bulgaria đã phản hồi yêu cầu của chúng ta chỉ bằng sự phẫn nộ. Họ sẵn sàng chiến đấu với chúng ta luôn, nếu cần."
+ belgrade_pact_events.24.a: "Cứ vậy đi."
+
+ belgrade_pact_events.25.t: "Người Ottoman Hành động"
+ belgrade_pact_events.25.d: "Có lẽ quyết định rằng cuộc chiến của chúng ta với Hiệp ước Belgrade là một cơ hội, quân Ottoman đang tập trung dọc biên giới chung của chúng ta. Khó nói liệu họ sẽ đưa ra yêu cầu hay chỉ đơn giản là xâm lược, nhưng chúng ta nên sẵn sàng cho cả hai khả năng."
+ belgrade_pact_events.25.a: "Sao họ dám!"
+
+ belgrade_pact_events.26.t: "Viện trợ [From.GetAdjective] Đến"
+ belgrade_pact_events.26.d: "Như họ đã hứa, chính phủ [From.GetNameDef] đã gửi viện trợ cho chúng ta trong cuộc xung đột đang diễn ra chống lại Hiệp ước Belgrade. Thật không may, họ không thể can thiệp trực tiếp, nhưng một số sư đoàn tình nguyện và một ít trang thiết bị đã đến."
+ belgrade_pact_events.26.a: "Mọi sự giúp đỡ đều được hoan nghênh."
+ belgrade_pact_events.26.tt: "Quân và trang thiết bị [From.GetAdjective] đến"
+
+ belgrade_pact_events.27.t: "[BPL.GetName] Đàm phán Hòa bình"
+ belgrade_pact_events.27.d: "Bộ ngoại giao [BPL.GetAdjective] đã thông báo cho chúng ta rằng họ đang đàm phán một hiệp ước hòa bình với Bulgaria để chấm dứt chiến tranh, và đáp ứng các yêu sách lãnh thổ hào phóng cho tất cả các thành viên của Hiệp ước. Vì chiến tranh đã kéo dài, một nền hòa bình như vậy sẽ được người dân hoan nghênh. Tuy nhiên, Bulgaria sẽ vẫn là một quốc gia độc lập, điều mà các quan chức trong chính phủ chúng ta lo ngại - điều này có nghĩa là về lý thuyết Bulgaria có thể tái vũ trang và phản công chúng ta giống như họ đã làm trong Đại Chiến Thế Giới. Chúng ta có nên chấp nhận nền hòa bình này không?"
+ belgrade_pact_events.27.a: "Hãy kết thúc chiến tranh ngay bây giờ, trước khi chi phí tăng lên."
+ belgrade_pact_events.27.b: "Bulgaria delenda est!"
+ BP_temporary_breakaway_tt: "Bạn sẽ có thể gia nhập lại Hiệp ước sau chiến tranh."
+
+ belgrade_pact_events.28.t: "Hòa ước Sofia"
+ belgrade_pact_events.28.d: "Một hiệp ước hòa bình đã được ký kết giữa các thành viên của Hiệp ước Belgrade và Bulgaria tại Sofia, chấm dứt Chiến tranh Balkan lần thứ tư."
+ belgrade_pact_events.28.a: "Chiến thắng!"
+
+ belgrade_pact_events.29.t: "Kiệt quệ Chiến tranh"
+ belgrade_pact_events.29.d: "Đất nước chúng ta đã bước vào Chiến tranh Balkan lần thứ tư với lời hứa rằng cuộc chiến sẽ ngắn và mang lại những lợi ích lãnh thổ nhanh chóng, nhưng giờ đây, nó đã bị đình trệ và người dân khao khát hòa bình. Tin đồn lan truyền rằng người Bulgaria đã đề nghị một hiệp ước hòa bình rất hào phóng để đáp ứng tất cả các yêu sách lãnh thổ của chúng ta, nhưng nó đã bị từ chối, và vì vậy thậm chí còn nhiều người hơn sẽ được gửi đến chết trong một cuộc chiến vô nghĩa. Các sĩ quan của chúng ta vật lộn để động viên binh lính tiếp tục chiến đấu và mặt trận quê hương đang trở nên khó kiểm soát."
+ belgrade_pact_events.29.a: "Chết tiệt..."
+
+ belgrade_pact_events.30.t: "Lời mời lại vào Hiệp ước Belgrade"
+ belgrade_pact_events.30.d: "Giờ đây khi chiến tranh với Bulgaria đã kết thúc, các quan chức Serbia đã tiếp cận chúng ta với yêu cầu khôi phục tư cách thành viên của chúng ta trong Hiệp ước Belgrade cho cuộc chiến sắp tới chống lại Áo."
+ belgrade_pact_events.30.a: "Hãy làm đi."
+ belgrade_pact_events.30.b: "Không, chúng ta sẽ tránh xa mọi cuộc phiêu lưu nước ngoài khác."
+
+ belgrade_pact_events.35.t: "Chúng ta Đang Thua trong Chiến tranh Balkan"
+ belgrade_pact_events.35.d: "Lực lượng của Hiệp ước Belgrade đã đánh bại chúng ta một cách thuyết phục trong trận chiến và chiếm đóng một phần lớn đất nước. Chúng ta phải kết thúc cuộc chiến này trước khi họ tràn qua toàn bộ quê hương, hoặc Bulgaria có thể không còn tồn tại."
+ belgrade_pact_events.35.a: "Cầu hòa..."
+ belgrade_pact_events.35.b: "Chúng ta vẫn có thể thắng!"
+ BUL_other_states_may_continue_war_tt: "Nền hòa bình, nếu được chấp nhận, sẽ được xử lý trong bốn ngày. Trong thời gian này, các thành viên của Hiệp ước có thể tiếp tục cuộc chiến một cách độc lập."
+
+ belgrade_pact_events.36.t: "Bulgaria Cầu hòa"
+ belgrade_pact_events.36.d: "Với một phần lớn quê hương bị chiếm đóng và lực lượng hoàn toàn tháo chạy, Bulgaria đã cầu hòa với chúng ta. Họ sẽ trao lại tất cả các lãnh thổ tranh chấp, nhưng chúng ta sẽ phải rút quân về sau biên giới mới. Một quốc gia Bulgaria độc lập sẽ tiếp tục tồn tại, ít nhất là hiện tại."
+ belgrade_pact_events.36.a: "Hiệp ước Belgrade đứng trong chiến thắng!"
+ belgrade_pact_events.36.b: "Không, họ sẽ bị nghiền nát hoàn toàn!"
+ SER_other_states_may_continue_war_tt: "Nền hòa bình sẽ được xử lý trong bảy ngày. Trong thời gian này, các đồng minh của chúng ta có thể rời khỏi Hiệp ước để tiếp tục cuộc chiến một cách độc lập."
+
+ belgrade_pact_events.37.t: "Hòa bình với Hiệp ước Belgrade"
+ belgrade_pact_events.37.d: "Hiệp ước Belgrade đã chấp nhận đề nghị hòa bình của chúng ta. Chúng ta phải nhượng lại tất cả vùng đất tranh chấp, nhưng họ sẽ rút quân về sau biên giới mới."
+ belgrade_pact_events.37.a: "Ít nhất chúng ta vẫn tồn tại!"
+
+ belgrade_pact_events.38.t: "Bulgaria Đầu hàng"
+ belgrade_pact_events.38.d: "Lực lượng vũ trang chung của Hiệp ước Belgrade đã đảo ngược được những bất công áp đặt lên chúng ta sau khi Đại Chiến Thế Giới kết thúc. Bulgaria sẽ nhượng lại tất cả vùng đất tranh chấp cho Hiệp ước Belgrade, nhưng chúng ta phải rút quân về sau biên giới. Một Bulgaria độc lập nhưng bị thu nhỏ đáng kể sẽ tiếp tục tồn tại, ít nhất là hiện tại."
+ belgrade_pact_events.38.a: "Hiệp ước Belgrade đứng trong chiến thắng!"
+ belgrade_pact_events.38.b: "Gửi lời chúc mừng đến Belgrade, chúng ta đã đạt được mục tiêu."
+
+ belgrade_pact_events.39.t: "Bulgaria Lập Hòa bình"
+ belgrade_pact_events.39.d.gained: "Bulgaria đã lập hòa bình với Hiệp ước Belgrade, và do đó chúng ta buộc phải kết thúc cuộc chiến của mình. May mắn thay, chúng ta sẽ rời cuộc chiến với bất kỳ bang nào mà chúng ta tuyên bố chủ quyền và kiểm soát, tước đi cơ hội chia chác chúng với đồng minh của người Serbia."
+ belgrade_pact_events.39.d.nogain: "Bulgaria đã lập hòa bình với Hiệp ước Belgrade. Thật không may, vì chúng ta không kiểm soát được các bang mà chúng ta tuyên bố chủ quyền, chúng bị bỏ lại trong tay người Serbia để chia chác theo ý họ. Có vẻ như chúng ta nên hành động nhanh hơn."
+ belgrade_pact_events.39.a: "Được thôi."
+ belgrade_pact_events.39.b: "Vậy thì chúng ta tiếp tục cuộc chiến!"
+
+ belgrade_pact_events.40.t: "Chúng ta Đã Chiếm đóng Thrace"
+ belgrade_pact_events.40.d: "Chúng ta đã chiếm đóng Tây Thrace bằng quân đội của mình, và vẫn giữ vững phòng tuyến chống lại Bulgaria. Chắc chắn họ sẽ thấy khôn ngoan khi lập hòa bình ngay bây giờ?"
+ belgrade_pact_events.40.a: "Đưa ra đề nghị - hãy kết thúc chuyện này."
+ belgrade_pact_events.40.b: "Không - họ muốn chiến tranh, họ sẽ có chiến tranh!"
+
+ belgrade_pact_events.41.t: "Người Ottoman Đề nghị Hòa bình"
+ belgrade_pact_events.41.d: "Người Ottoman đã chiếm đóng các bang mà họ tuyên bố chủ quyền và vẫn giữ vững phòng tuyến chống lại chúng ta - nếu chúng ta tiếp tục đẩy mạnh cuộc chiến chống lại họ, chúng ta rất có thể sẽ sụp đổ hoàn toàn. Có lẽ chúng ta nên xem xét cho họ những gì họ muốn?"
+ belgrade_pact_events.41.a: "Chà! Cứ vậy đi!"
+ belgrade_pact_events.41.b: "Không, chúng ta tiếp tục cuộc chiến bất kể thế nào!"
+
+ belgrade_pact_events.42.t: "[tur_defeat_title]"
+ belgrade_pact_events.42.t.germany: "Đức Yêu cầu Chấm dứt Chiến tranh vì Thrace"
+ belgrade_pact_events.42.t.austria: "Áo Yêu cầu Chấm dứt Chiến tranh vì Thrace"
+ belgrade_pact_events.42.t.germanyandaustria: "Đức và Áo Yêu cầu Chấm dứt Chiến tranh vì Thrace"
+ belgrade_pact_events.42.t.losing: "Chúng ta Đang Thua trong Chiến tranh"
+ belgrade_pact_events.42.d: "[tur_defeat_desc]"
+ belgrade_pact_events.42.d.germany: "Cuộc chiến chống lại Bulgaria đã kéo dài quá lâu mà không có hồi kết. Sau hai năm, người Đức cuối cùng đã quyết định can thiệp vào Balkan: họ đã yêu cầu chúng ta, cùng với Hiệp ước, rút toàn bộ lực lượng khỏi Bulgaria, về cơ bản là đưa Balkan trở lại hiện trạng trước chiến tranh. Có lẽ chúng ta nên từ bỏ yêu sách đối với Thrace và kết thúc chiến tranh; chọc giận Berlin là điều cuối cùng chúng ta cần khi đã mất quá nhiều người trong một cuộc xung đột vô nghĩa."
+ belgrade_pact_events.42.d.austria: "Cuộc chiến chống lại Bulgaria đã kéo dài quá lâu mà không có hồi kết. Sau hai năm, người Áo cuối cùng đã quyết định can thiệp vào Balkan: họ đã yêu cầu chúng ta, cùng với Hiệp ước, rút toàn bộ lực lượng khỏi Bulgaria, về cơ bản là đưa Balkan trở lại hiện trạng trước chiến tranh. Có lẽ chúng ta nên từ bỏ yêu sách đối với Thrace và kết thúc chiến tranh; chọc giận Vienna là điều cuối cùng chúng ta cần khi đã mất quá nhiều người trong một cuộc xung đột vô nghĩa."
+ belgrade_pact_events.42.d.germanyandaustria: "Cuộc chiến chống lại Bulgaria đã kéo dài quá lâu mà không có hồi kết. Sau hai năm, người Áo và người Đức đã đưa ra một tuyên bố chung yêu cầu chấm dứt chiến tranh ở Balkan, coi đó là mối đe dọa đối với an ninh và hòa bình châu Âu. Có lẽ chúng ta nên từ bỏ yêu sách đối với Thrace và kết thúc chiến tranh; chọc giận Berlin và Vienna là điều cuối cùng chúng ta cần khi đã mất quá nhiều người trong một cuộc xung đột vô nghĩa."
+ belgrade_pact_events.42.d.losing: "Bất chấp những khó khăn chống lại họ, và những gì chúng ta tưởng sẽ là một cuộc chiến nhanh chóng, người Bulgaria đã đẩy lùi chúng ta. Thật vậy, chúng ta không còn kiểm soát được đất đai ở châu Âu, và nếu điều này tiếp diễn, chúng ta sẽ rơi vào tình cảnh rất tồi tệ. Có lẽ chúng ta có thể đề nghị từ bỏ yêu sách đối với Thrace và chấm dứt cuộc chiến này ngay bây giờ?"
+ belgrade_pact_events.42.a: "Đúng, hãy đưa ra đề nghị hòa bình."
+ belgrade_pact_events.42.b: "Không, chúng ta chiến đấu tiếp!"
+
+ belgrade_pact_events.43.t: "Người Ottoman Cầu hòa"
+ belgrade_pact_events.43.d: "Người Ottoman, rõ ràng hối hận về việc can thiệp vào cuộc chiến và đã bị đẩy ra khỏi châu Âu, đã đề nghị lập hòa bình - họ sẽ từ bỏ yêu sách đối với Tây Thrace, và rời đi nơi họ đến."
+ belgrade_pact_events.43.a: "Cứ vậy đi."
+
+ belgrade_pact_events.46.t: "[From.GetNameDefCap] Từ chối Hòa bình"
+ belgrade_pact_events.46.d: "Mặc dù chúng ta đã đề nghị những nhượng bộ lớn cho kẻ thù, chính phủ [From.GetAdjective] đã từ chối đề nghị hòa bình của chúng ta, tuyên bố chúng ta sẽ bị nghiền nát hoàn toàn."
+ belgrade_pact_events.46.a: "Chúng ta cần xoay chuyển tình thế!"
+
+ belgrade_pact_events.47.t: "[pact_defeat_title]"
+ belgrade_pact_events.47.t.germany: "Đức Yêu cầu Chấm dứt Chiến tranh Balkan"
+ belgrade_pact_events.47.t.austria: "Áo Yêu cầu Chấm dứt Chiến tranh Balkan"
+ belgrade_pact_events.47.t.germanyandaustria: "Đức và Áo Yêu cầu Chấm dứt Chiến tranh Balkan"
+ belgrade_pact_events.47.t.losing: "Chúng ta Đang Thua trong Chiến tranh Balkan"
+ belgrade_pact_events.47.d: "[pact_defeat_desc]"
+ belgrade_pact_events.47.d.germany: "Cuộc chiến chống lại Bulgaria đã kéo dài đủ lâu đến mức Berlin cuối cùng đã bắt đầu gây áp lực lên chúng ta. Một công hàm ngoại giao từ Bộ Ngoại giao Đức đã yêu cầu tất cả lực lượng Hiệp ước rút khỏi lãnh thổ Bulgaria, về cơ bản là đưa Balkan trở lại hiện trạng trước chiến tranh. Không tuân thủ yêu cầu này sẽ có nghĩa là Đức tham chiến để 'ổn định tình hình Balkan'.\n\nMặc dù điều này rõ ràng có nghĩa là thất bại của chúng ta, nó chắc chắn có thể tồi tệ hơn. Sau tất cả, nếu chúng ta chấp nhận, chúng ta sẽ giữ được độc lập và tránh bị Sofia trừng phạt."
+ belgrade_pact_events.47.d.austria: "Cuộc chiến chống lại Bulgaria đã kéo dài đủ lâu đến mức Vienna cuối cùng đã bắt đầu gây áp lực lên chúng ta. Trong một lá thư với lời lẽ mạnh mẽ, người Áo yêu cầu Hiệp ước rút toàn bộ lực lượng khỏi Balkan, nếu không Quân đội Đế quốc sẽ can thiệp để 'ổn định tình hình Balkan'. Mặc dù điều này rõ ràng có nghĩa là thất bại của chúng ta, nó chắc chắn có thể tồi tệ hơn. Sau tất cả, nếu chúng ta chấp nhận, chúng ta sẽ giữ được độc lập và tránh bị Sofia trừng phạt."
+ belgrade_pact_events.47.d.germanyandaustria: "Một tuyên bố chung từ Đức và Áo đã làm rõ một điều: cuộc chiến tiếp diễn của Hiệp ước chống lại Bulgaria sẽ không còn được dung thứ, coi đó là 'mối đe dọa đối với sự ổn định Balkan'. Mặc dù điều này rõ ràng có nghĩa là thất bại của chúng ta, nó chắc chắn có thể tồi tệ hơn. Sau tất cả, nếu chúng ta chấp nhận, chúng ta sẽ giữ được độc lập và tránh bị Sofia trừng phạt."
+ belgrade_pact_events.47.d.losing_intro: "Cuộc chiến chống lại Bulgaria đã là một thảm họa hoàn toàn. Bất chấp các đồng minh của chúng ta trong Hiệp ước Belgrade, Bulgaria đã có thể đánh bại chúng ta một lần nữa, và họ đang tiến gần đến chính [ROOT.Capital.GetCapitalVictoryPointName]. Chúng ta có thể đề nghị người Bulgaria giải thể liên minh của chúng ta"
+ belgrade_pact_events.47.d.losing_outro: ", từ bỏ mọi yêu sách đối với lãnh thổ của họ, và phi quân sự hóa các tỉnh biên giới. Hơn nữa, chúng ta cần đề nghị họ thanh toán bồi thường trong vài năm. Đây là những điều khoản khắc nghiệt, nhưng nếu không, chúng ta có thể mất hoàn toàn độc lập."
+ belgrade_pact_events.47.d.losing_greece: "$belgrade_pact_events.47.d.losing_intro$, nhượng lại thành phố [989.GetCapitalVictoryPointName]$belgrade_pact_events.47.d.losing_outro$"
+ belgrade_pact_events.47.d.losing_serbia: "$belgrade_pact_events.47.d.losing_intro$, đầu hàng tỉnh Montenegro, trao quyền tự trị cho người Albania ở Kosovo và Albania$belgrade_pact_events.47.d.losing_outro$"
+ belgrade_pact_events.47.d.losing_fallback: "$belgrade_pact_events.47.d.losing_intro$$belgrade_pact_events.47.d.losing_outro$"
+ belgrade_pact_events.47.a: "Cầu hòa..."
+ belgrade_pact_events.47.b: "Chúng ta vẫn có thể thắng!"
+
+ belgrade_pact_events.48.t: "[pact_victory_title]"
+ belgrade_pact_events.48.t.germany: "Tối hậu thư của Đức gửi Belgrade"
+ belgrade_pact_events.48.t.austria: "Tối hậu thư của Áo gửi Belgrade"
+ belgrade_pact_events.48.t.germanyandaustria: "Tối hậu thư của các Cường quốc Trung tâm gửi Belgrade"
+ belgrade_pact_events.48.t.victory: "Serbia Cầu hòa"
+ belgrade_pact_events.48.d: "[pact_victory_desc]"
+ belgrade_pact_events.48.d.germany: "Bộ Ngoại giao Đức đã theo dõi Chiến tranh Balkan lần thứ tư với sự lo ngại kể từ khi nó bùng nổ gần hai năm trước. Mặc dù Bulgaria đã rời khỏi liên minh quân sự Đức sau Đại Chiến Thế Giới, chính phủ của Kaiser vẫn coi chế độ của Sa hoàng là một lựa chọn tốt hơn nhiều so với một Bulgaria bị đánh bại, cấp tiến hóa và một Hiệp ước Belgrade phục thù đắc thắng. Với cả hai bên giờ đây đã kiệt quệ, đại sứ của Kaiserreich tại [GER.Capital.GetCapitalVictoryPointName] đã thông báo cho chúng ta rằng chính phủ của ông đã đưa ra tối hậu thư cho người Serbia, Hy Lạp và Romania: mười bốn ngày để đạt được lệnh ngừng bắn và đưa biên giới Balkan trở lại hiện trạng trước chiến tranh, nếu không sẽ đối mặt với sự can thiệp của Đức. Hiệp ước Belgrade, sợ hãi sức mạnh của Đức, đã nhượng bộ, và giờ quyết định là của chúng ta.\n\nNhiều người trong chính phủ của Sa hoàng, và đặc biệt là Đảng Tự do, hoan nghênh triển vọng hòa bình, ngay cả khi không có lợi ích lãnh thổ nào. Tuy nhiên, tinh thần trong quân đội vẫn cao, và các tướng lĩnh của chúng ta tin rằng chiến thắng hoàn toàn, ngay cả khi không có triển vọng về một nền hòa bình đàm phán, đang ở trong tầm tay. Đại sứ Đức tuyên bố đã cứu chúng ta bằng tối hậu thư của Đế quốc ông, nhưng đó là kiểu cứu rỗi gì khi hòa bình với hàng ngàn người chết và không có gì để chứng minh? Đã đến lúc cho một cuộc tấn công cuối cùng? Hay chúng ta nên hoan nghênh nền hòa bình này, như một đòn giáng vào Belgrade sẽ bảo toàn quyền bá chủ của chúng ta ở Balkan?"
+ belgrade_pact_events.48.d.austria: "Bộ Ngoại giao k. u. k. đã theo dõi Chiến tranh Balkan lần thứ tư với sự lo ngại kể từ khi nó bùng nổ gần hai năm trước. Mặc dù Bulgaria đã tách khỏi liên minh quân sự Áo-Đức sau Đại Chiến Thế Giới, chính phủ Đế quốc vẫn coi quyền bá chủ của Bulgaria đối với Serbia và Hy Lạp là một lựa chọn tốt hơn nhiều so với một Bulgaria bị đánh bại, cấp tiến hóa và một Hiệp ước Belgrade phục thù đắc thắng, một hiệp ước có thể cố gắng kích động các dân tộc thiểu số trong Đế quốc. Với cả hai bên giờ đây đã kiệt quệ, đại sứ của Đế quốc Áo-Hung tại [AUS.Capital.GetCapitalVictoryPointName] đã thông báo cho chúng ta rằng chính phủ của ông đã đưa ra tối hậu thư cho người Serbia, Hy Lạp và Romania: mười bốn ngày để đạt được lệnh ngừng bắn và đưa biên giới Balkan trở lại hiện trạng trước chiến tranh, nếu không sẽ đối mặt với sự can thiệp của Áo-Hung. Hiệp ước Belgrade, sợ hãi sức mạnh của Áo, đã nhượng bộ, và giờ quyết định là của chúng ta.\n\nNhiều người trong chính phủ của Sa hoàng, và đặc biệt là Đảng Tự do, hoan nghênh triển vọng hòa bình, ngay cả khi không có lợi ích lãnh thổ nào. Tuy nhiên, tinh thần trong quân đội vẫn cao, và các tướng lĩnh của chúng ta tin rằng chiến thắng hoàn toàn, ngay cả khi không có triển vọng về một nền hòa bình đàm phán, đang ở trong tầm tay. Đại sứ Áo kiêu ngạo tuyên bố đã cứu chúng ta bằng tối hậu thư của Đế quốc ông, nhưng đó là kiểu cứu rỗi gì khi hòa bình với hàng ngàn người chết và không có gì để chứng minh? Đã đến lúc cho một cuộc tấn công cuối cùng? Hay chúng ta nên hoan nghênh nền hòa bình này, như một đòn giáng vào Belgrade sẽ bảo toàn quyền bá chủ của chúng ta ở Balkan?"
+ belgrade_pact_events.48.d.germanyandaustria: "Các đồng minh cũ của chúng ta ở Vienna và Berlin đã theo dõi Chiến tranh Balkan lần thứ tư với sự lo ngại kể từ khi nó bùng nổ gần hai năm trước. Mặc dù Bulgaria đã tách khỏi liên minh quân sự Áo-Đức sau Đại Chiến Thế Giới, cả chính phủ Đức và Áo vẫn coi quyền bá chủ của Bulgaria đối với Serbia và Hy Lạp là một lựa chọn tốt hơn nhiều so với một Bulgaria bị đánh bại, cấp tiến hóa và một Hiệp ước Belgrade phục thù đắc thắng, một hiệp ước có thể cố gắng kích động các dân tộc thiểu số trong Đế quốc Áo-Hung. Với cả hai bên giờ đây đã kiệt quệ, đại sứ của Kaiserreich tại [GER.Capital.GetCapitalVictoryPointName] đã thông báo cho chúng ta rằng chính phủ của ông và chính phủ Áo đã đưa ra tối hậu thư cho người Serbia, Hy Lạp và Romania: mười bốn ngày để đạt được lệnh ngừng bắn và đưa biên giới Balkan trở lại hiện trạng trước chiến tranh, nếu không sẽ đối mặt với sự can thiệp chung. Hiệp ước Belgrade, sợ hãi sức mạnh Teuton, đã nhượng bộ, và giờ quyết định là của chúng ta.\n\nNhiều người trong chính phủ của Sa hoàng, và đặc biệt là Đảng Tự do, hoan nghênh triển vọng hòa bình, ngay cả khi không có lợi ích lãnh thổ nào. Tuy nhiên, tinh thần trong quân đội vẫn cao, và các tướng lĩnh của chúng ta tin rằng chiến thắng hoàn toàn, ngay cả khi không có triển vọng về một nền hòa bình đàm phán, đang ở trong tầm tay. Đại sứ Đức kiêu ngạo tuyên bố đã cứu chúng ta bằng tối hậu thư của Kaiserreich, nhưng đó là kiểu cứu rỗi gì khi hòa bình với hàng ngàn người chết và không có gì để chứng minh? Đã đến lúc cho một cuộc tấn công cuối cùng? Hay chúng ta nên hoan nghênh nền hòa bình này, như một đòn giáng vào Belgrade sẽ bảo toàn quyền bá chủ của chúng ta ở Balkan?"
+ belgrade_pact_events.48.d.victory: "Với thành công của chúng ta trong Chiến tranh Balkan, Hiệp ước Belgrade đang trên bờ vực sụp đổ. Serbia đã tiếp cận chúng ta với một đề nghị hòa bình: họ sẽ nhượng lại lãnh thổ Montenegro, một số tỉnh biên giới sẽ được phi quân sự hóa, Hiệp ước Belgrade sẽ bị giải thể, và Serbia sẽ trả cho chúng ta bồi thường chiến tranh. Đổi lại, chúng ta cho phép họ giữ độc lập."
+ belgrade_pact_events.48.d.croyug: "Với cả những thành công của Bulgaria và Illyria trong Chiến tranh Balkan, Hiệp ước Belgrade đang trên bờ vực sụp đổ. Khi lá cờ Illyria bay trên Belgrade, người Illyria đã tiếp cận chúng ta với một đề nghị ít nhất phải nói là thú vị. Thay vì một Nam Tư do Serbia lãnh đạo, họ đề xuất một Nam Tư do Illyria lãnh đạo, có lẽ có thể giữ người Serbia dưới gót giày và đảm bảo họ không bao giờ đe dọa Bulgaria một lần nữa! Ngoài ra, một số tỉnh biên giới sẽ được phi quân sự hóa và Hiệp ước Belgrade sẽ bị giải thể. Đổi lại, chúng ta cho phép Hy Lạp và Romania giữ độc lập."
+ belgrade_pact_events.48.a: "[pact_victory_option]"
+ belgrade_pact_events.48.a.germany: "Nếu chủ nhân của châu Âu nói bạn đã thắng, thì bạn đã thắng."
+ belgrade_pact_events.48.a.austria: "Người Áo đã cho thấy ai mới là bá chủ thực sự của Balkan."
+ belgrade_pact_events.48.a.germanyandaustria: "Thật tốt khi có bạn bè ở những vị trí cao, khi họ thắng cuộc chiến của bạn thay bạn."
+ belgrade_pact_events.48.a.victory: "Chúng ta lại một lần nữa đắc thắng."
+ belgrade_pact_events.48.b: "Không, họ sẽ bị nghiền nát!"
+
+ belgrade_pact_events.49.t: "Bulgaria Chấp nhận Đề nghị Hòa bình"
+ belgrade_pact_events.49.d: "Chiến tranh Balkan lần thứ tư không hẳn đã có những thành công như chúng ta mong đợi. Bulgaria đã có thể phát động một cuộc tấn công thành công và đang trên bờ vực chiếm Belgrade. Họ đã chấp nhận đề nghị hòa bình của chúng ta để chúng ta có thể giữ độc lập. Tuy nhiên, chúng ta cần trao trả độc lập cho Montenegro, trao Kosovo cho Albania, và trả bồi thường chiến tranh trong những năm tới."
+ belgrade_pact_events.49.a: "Ít nhất chúng ta vẫn tồn tại."
+
+ belgrade_pact_events.50.t: "Người Bulgaria Đắc thắng"
+ belgrade_pact_events.50.d: "Chiến tranh Balkan lần thứ tư không hẳn là thành công như chúng ta mong đợi. Bulgaria đã có thể phát động một cuộc tấn công thành công và đang trên bờ vực chiếm Belgrade. Các cuộc đàm phán giữa Serbia và Bulgaria đã dẫn đến một thỏa thuận hòa bình. Chúng ta buộc phải phi quân sự hóa Oltenia và từ bỏ yêu sách đối với lãnh thổ Bulgaria, và Hiệp ước Belgrade sẽ bị giải thể."
+ belgrade_pact_events.50.a: "Họ có bất khả chiến bại không?"
+
+ belgrade_pact_events.51.t: "Người Bulgaria Đắc thắng"
+ belgrade_pact_events.51.d: "Chiến tranh Balkan lần thứ tư không hẳn là thành công như chúng ta mong đợi. Bulgaria đã có thể phát động một cuộc tấn công thành công và đang trên bờ vực chiếm Belgrade. Các cuộc đàm phán giữa Serbia và Bulgaria đã dẫn đến một thỏa thuận hòa bình. Chúng ta buộc phải phi quân sự hóa Thessalia, nhượng lại Thessaloniki và từ bỏ yêu sách đối với lãnh thổ Bulgaria, và Hiệp ước Belgrade sẽ bị giải thể."
+ belgrade_pact_events.51.a: "Họ có bất khả chiến bại không?"
+
+ belgrade_pact_events.52.t: "Chiến tranh Kết thúc"
+ belgrade_pact_events.52.d: "Với việc Chiến tranh Balkan lần thứ tư đã kết thúc, những người lính [Root.GetAdjective] cuối cùng đã trở về nhà từ vùng nông thôn, và mọi thứ đang trở lại bình thường."
+ belgrade_pact_events.52.a: "Cuối cùng."
+
+ belgrade_pact_events.53.t: "Chiến tranh Kết thúc"
+ belgrade_pact_events.53.d: "Cuộc chiến với người Bulgaria đã kết thúc, và cuối cùng biên giới phía bắc của chúng ta đang trở lại một cái gì đó giống như bình thường."
+ belgrade_pact_events.53.a: "Cuối cùng."
+
+ belgrade_pact_events.54.t: "Yêu cầu Chấm dứt Chiến tranh Balkan?"
+ belgrade_pact_events.54.d: "[pact_end_balkan_war_desc]"
+ belgrade_pact_events.54.d.germany: "Hai năm đã trôi qua kể từ khi Hiệp ước Belgrade cố gắng giải thể đồng minh của chúng ta ở Balkan, [BUL.GetNameDef]. Khi chiến tranh bùng nổ, chúng ta không thể làm gì nhiều để ngăn cản tham vọng của Belgrade, vì lúc đó chúng ta đang tập trung vào nội bộ. Kể từ đó, sức mạnh kinh tế và quân sự của chúng ta đã được xây dựng lại, và một kết thúc cho chiến tranh Balkan dường như không ở trong tầm nhìn. Cuối cùng chúng ta có thể sử dụng đòn bẩy của mình để đưa ra một yêu cầu rất đơn giản cho Serbia: chấm dứt cuộc chiến gây bất ổn này, hoặc đối mặt với sự can thiệp của Đức. Bộ Ngoại giao tin tưởng rằng điều này sẽ không dẫn đến một cuộc đại chiến khác: những người theo chủ nghĩa công đoàn phương Tây phần lớn không quan tâm đến các vấn đề Balkan gần đây, và mặc dù Nga chắc chắn sẽ phản đối, họ không thể tuyên bố rằng chúng ta đang yêu cầu khuất phục đồng minh của họ trong khu vực."
+ belgrade_pact_events.54.d.austria: "Khi Chiến tranh Balkan lần thứ tư đã kéo dài bất phân thắng bại, chúng ta có thể cuối cùng có cơ hội chấm dứt chủ nghĩa bành trướng của Belgrade. Với sức mạnh kinh tế và quân sự của chúng ta đã được xây dựng lại và lực lượng của Serbia đã cạn kiệt sau cuộc xung đột dài, sẽ không quá khó để buộc Hiệp ước Belgrade kết thúc chiến tranh với Bulgaria. Mặc dù những hành động như vậy có thể gợi lại những gì đã gây ra Chiến tranh Thế giới lần thứ nhất, chúng ta không yêu cầu gì nhiều ngoài hòa bình, và Nga không có khả năng can thiệp về phía Hiệp ước."
+ belgrade_pact_events.54.a: "Đã đến lúc! Gọi Belgrade."
+ belgrade_pact_events.54.b: "Cứ để nó diễn ra - không cần phải dính líu."
+
+ belgrade_pact_events.64.t: "Kêu gọi Chiếm đóng Chung Bulgaria"
+ belgrade_pact_events.64.d: "Người Bulgaria đã bị đánh bại và chúng ta đã chuộc lại danh dự trong mắt thế giới! Tuy nhiên, ban đầu chúng ta đã không nghĩ ra phải làm gì với những vùng đất còn lại của Bulgaria ngoài bồi thường công nghiệp. Phần lớn các sĩ quan quân đội của chúng ta đang kêu gọi ít nhất là chiếm đóng quân sự tạm thời toàn bộ Bulgaria, trong khi một số người cho rằng việc chiếm đóng có thể quá tốn kém cho quốc gia mệt mỏi của chúng ta."
+ belgrade_pact_events.64.a: "Chia Bulgaria thành các vùng chiếm đóng!"
+ belgrade_pact_events.64.b: "Để họ có độc lập."
+
+ belgrade_pact_events.65.t: "[From.GetName] Kêu gọi Chiếm đóng Chung Bulgaria"
+ belgrade_pact_events.65.d: "Chính phủ [From.GetAdjective] đã kêu gọi chiếm đóng chung các vùng đất còn lại của Bulgaria. Trong tương lai, một quốc gia Bulgaria nhỏ hơn nhiều có thể được tạo ra từ các lãnh thổ này. Hiện tại, chúng ta có quyền cai trị vùng chiếm đóng của mình theo ý muốn, thậm chí cướp bóc bất cứ thứ gì có giá trị."
+ belgrade_pact_events.65.a: "Được thôi."
+ belgrade_pact_events.65.b: "Không, chúng ta giữ vùng đất mới của mình!"
+
+ belgrade_pact_events.66.t: "[From.GetName] Từ chối Thiết lập Vùng Chiếm đóng"
+ belgrade_pact_events.66.d: "Chính phủ [From.GetAdjective] đã từ chối yêu cầu của chúng ta về việc thiết lập các vùng chiếm đóng trong các lãnh thổ Bulgaria cũ. Họ tuyên bố rằng tất cả đất đai họ có giờ đây chính đáng thuộc về họ. Quan hệ với [From.GetName] bị tổn hại nghiêm trọng, và điều duy nhất còn lại cho chúng ta là hủy bỏ liên minh quân sự."
+ belgrade_pact_events.66.a: "Thật là quá đáng!"
+
+ belgrade_pact_events.70.t: "Giúp Bulgaria?"
+ belgrade_pact_events.70.d: "Người Serbia đã tấn công Bulgaria cùng với các đồng minh trong Hiệp ước Belgrade. Trong Đại Chiến Thế Giới, Bulgaria đã giúp chúng ta bằng cách chiến đấu cùng người của chúng ta đồng thời gửi viện trợ dưới hình thức vũ khí. Một số người lập luận rằng chúng ta nên can thiệp trực tiếp ủng hộ Bulgaria, nhưng những người khác nói rằng điều này sẽ làm đảo lộn cán cân mong manh ở Balkan và có thể dẫn đến việc một số nước láng giềng tuyên chiến với chúng ta. Tất nhiên chúng ta cũng có thể phớt lờ cuộc xung đột hoàn toàn, nhưng điều đó có nghĩa là chúng ta không giúp đồng minh cũ của mình."
+ belgrade_pact_events.70.a: "Gửi viện trợ."
+ belgrade_pact_events.70.b: "Đề nghị liên minh với người Bulgaria!"
+ belgrade_pact_events.70.c: "Chúng ta không thể làm gì."
+
+ belgrade_pact_events.71.t: "Albania Đề nghị Liên minh với Chúng ta"
+ belgrade_pact_events.71.d: "Thật ngạc nhiên, người Albania đã đề nghị liên minh với chúng ta, viện dẫn sự giúp đỡ mà chúng ta đã dành cho họ trong Đại Chiến Thế Giới khi chống lại người Serbia. Mặc dù điều này có thể chứng minh là có lợi, họ cũng có thể là trở ngại cho nỗ lực chiến tranh. Chúng ta nói gì?"
+ belgrade_pact_events.71.a: "Tuyệt!"
+ belgrade_pact_events.71.b: "Chúng ta không cần họ."
+
+ belgrade_pact_events.72.t: "Bulgaria Đã Chấp nhận Đề nghị Liên minh của Chúng ta"
+ belgrade_pact_events.72.d: "Chính phủ Bulgaria đã vui vẻ chấp nhận đề nghị liên minh của chúng ta và quân đội của chúng ta đã đang tiến vào lãnh thổ của họ. Cùng nhau, chúng ta sẽ kiềm chế sự xâm lược của Hiệp ước Belgrade và bảo vệ toàn vẹn lãnh thổ của Bulgaria."
+ belgrade_pact_events.72.a: "Chúng ta sẽ đánh bại mối đe dọa Serbia."
+
+ belgrade_pact_events.73.t: "Bulgaria Đã Từ chối Đề nghị Liên minh của Chúng ta"
+ belgrade_pact_events.73.d: "Chính phủ Bulgaria đã từ chối đề nghị liên minh của chúng ta và tuyên bố rằng họ không cần sự giúp đỡ của chúng ta chống lại Hiệp ước Belgrade."
+ belgrade_pact_events.73.a: "Cứ vậy đi."
+
+ belgrade_pact_events.74.t: "Chúng ta Đang Thua trong Chiến tranh Balkan"
+ belgrade_pact_events.74.d: "Sự can thiệp của chúng ta vào Chiến tranh Balkan lần thứ tư đã là một thảm họa hoàn toàn. Bulgaria không còn tồn tại, và một phần đất đai của chúng ta giờ đây bị Hiệp ước Belgrade chiếm đóng. Chúng ta phải cầu hòa trong khi vẫn còn có thể!"
+ belgrade_pact_events.74.a: "Cầu hòa."
+ belgrade_pact_events.74.b: "Chúng ta vẫn có thể thắng!"
+
+ belgrade_pact_events.75.t: "Người Albania Cầu hòa"
+ belgrade_pact_events.75.d: "Với một phần đất đai bị chiếm đóng và lực lượng hoàn toàn tháo chạy, Albania đã cầu hòa với chúng ta."
+ belgrade_pact_events.75.a: "Hiệp ước Belgrade đứng trong chiến thắng."
+ belgrade_pact_events.75.b: "Không, họ sẽ bị nghiền nát!"
+
+ belgrade_pact_events.76.t: "Hòa bình với Hiệp ước Belgrade"
+ belgrade_pact_events.76.d: "Hiệp ước Belgrade đã chấp nhận đề nghị hòa bình của chúng ta. Chúng ta phải nhượng lại một số vùng đất tranh chấp cho họ nhưng họ sẽ rút quân."
+ belgrade_pact_events.76.a: "Ít nhất chúng ta vẫn là một quốc gia có chủ quyền!"
+
+ belgrade_pact_events.77.t: "Albania Đã Đầu hàng"
+ belgrade_pact_events.77.d: "Lực lượng vũ trang chung của Hiệp ước Belgrade đã đánh bại người Albania. Họ đã đầu hàng và nhượng lại một số vùng đất tranh chấp cho Hiệp ước, nhưng chúng ta phải trả lại thủ đô của họ. Một kẻ thù khác của chúng ta đã bị đánh bại."
+ belgrade_pact_events.77.a: "Hiệp ước Belgrade đứng trong chiến thắng!"
+
+ belgrade_pact_events.78.t: "Chúng ta Đang Thua trong Chiến tranh Balkan"
+ belgrade_pact_events.78.d: "Dù đau lòng khi thừa nhận, sự can thiệp của Albania đã xoay chuyển tình thế. Chúng ta nên đề nghị trả lại tất cả các vùng đất mà họ tuyên bố chủ quyền, nếu không chúng ta sẽ mất độc lập."
+ belgrade_pact_events.78.a: "Cầu hòa"
+ belgrade_pact_events.78.b: "Chúng ta vẫn có thể thắng!"
+
+ belgrade_pact_events.79.t: "Serbia Cầu hòa"
+ belgrade_pact_events.79.d: "Hiệp ước Belgrade đang tháo chạy. Giờ đây, Serbia đã tiếp cận chúng ta với một đề nghị hòa bình. Hiệp ước Belgrade sẽ từ bỏ tất cả các vùng đất mà chúng ta tuyên bố chủ quyền, trở về trạng thái trước chiến tranh. Đổi lại, chúng ta cho phép họ giữ độc lập."
+ belgrade_pact_events.79.a: "Đủ đổ máu rồi. Kết thúc cuộc chiến này."
+ belgrade_pact_events.79.b: "Không, họ sẽ bị nghiền nát!"
+
+ belgrade_pact_events.80.t: "Hòa bình Được Ký kết, Chiến tranh Kết thúc"
+ belgrade_pact_events.80.d: "Dù đau lòng khi thừa nhận, người Albania đã có thể đánh bại chúng ta trên chiến trường. Các cuộc đàm phán giữa Serbia và người Albania đã dẫn đến một thỏa thuận hòa bình. Chúng ta cần từ bỏ tất cả các vùng đất mà họ tuyên bố chủ quyền."
+ belgrade_pact_events.80.a: "Chúng ta sẽ không quên điều này!"
+
+ belgrade_pact_events.81.t: "Hiệp ước Chống Belgrade"
+ belgrade_pact_events.81.d: "Với việc cả chúng ta và [CRO.GetName] giờ đây đều đang có chiến tranh với người Serbia xảo quyệt và đồng bọn của họ, người [CRO.GetAdjective] đã đề nghị hợp tác quân sự trực tiếp hơn giữa chúng ta cho đến khi chiến tranh kết thúc, nếu chúng ta chọn chấp nhận lời đề nghị như vậy."
+ belgrade_pact_events.81.a: "Cùng nhau Chống Belgrade!"
+ belgrade_pact_events.81.b: "Chúng ta không cần họ"
+
+ belgrade_pact_events.200.t: "Chiến thắng trong Chiến tranh Balkan"
+ belgrade_pact_events.200.d: "Sau nhiều năm lập kế hoạch và chuẩn bị, lực lượng kết hợp của Hiệp ước Belgrade giờ đây đứng trong chiến thắng trước mối đe dọa Bulgar! Người Bulgaria không còn có thể ép buộc chúng ta làm theo ý họ, bởi vì chúng ta giờ đây là những bậc thầy của Balkan. Chiến thắng của chúng ta tất nhiên phải trả giá, nhiều người đàn ông dũng cảm đã hy sinh mạng sống để đạt được giấc mơ ấp ủ từ lâu của chúng ta, và chính mạng sống của họ là điều chúng ta sẽ tôn vinh trong chiến thắng rực rỡ này.\n\nTuy nhiên, ngay cả sau khi đòi lại các lãnh thổ chính đáng từ nanh vuốt của người Bulgaria, sứ mệnh của chúng ta vẫn chưa kết thúc. Áo đứng vững ở phía bắc, áp bức người dân Nam Slav của họ để làm theo ý của Habsburg. Điều này không thể chấp nhận. Chúng ta phải sửa chữa những sai lầm của Đại Chiến Thế Giới và cuối cùng trả thù Vienna, mặc dù để đảm bảo sự thống nhất trong Hiệp ước Belgrade, một Hội nghị Belgrade lần thứ hai sẽ được tổ chức trong những tuần tới."
+ belgrade_pact_events.200.a: "Gửi lời mời!"
+
+ belgrade_pact_events.201.t: "Lời mời từ Serbia"
+ belgrade_pact_events.201.d: "Hôm nay chúng ta nhận được một tin nhắn từ đại sứ quán Serbia, mời chúng ta tham dự Hội nghị Belgrade lần thứ hai trong vài tuần tới. Các đồng minh của chúng ta muốn giải phóng những người Nam Slav vẫn còn dưới gót giày Áo, và chắc chắn muốn chúng ta hỗ trợ trong nỗ lực này. Ngoài ra, có thể có chiến lợi phẩm từ một thất bại của Áo, vì vậy điều bắt buộc là chúng ta ít nhất phải tham dự Hội nghị lần thứ hai để xây dựng kế hoạch hành động."
+ belgrade_pact_events.201.a: "Được thôi, chúng ta sẽ tham dự."
+
+ belgrade_pact_events.202.t: "Đồng minh Mới Tiềm năng"
+ belgrade_pact_events.202.d.ITA: "Các quốc gia Balkan không phải là những nước duy nhất có bất bình lãnh thổ với Đế quốc Habsburg. Ngay cả khi bạn không tính đến các sắc tộc cạnh tranh tạo nên nó, các quốc gia xung quanh đều có đồng bào cần giải phóng khỏi 'nhà tù của các quốc gia' này. Vì Áo mạnh hơn nhiều so với các quốc gia Balkan cộng lại, chúng ta cần xem xét những đồng minh mới tiềm năng này.\n\nTrong cuộc nội chiến Ý, người Áo đã xé một phần của Ý và thành lập một nước cộng hòa chư hầu ở Milan. Tuy nhiên, họ không thể đàn áp nó lâu, và giờ đây một chính phủ phục thù cực đoan đang kiểm soát [ITA.Capital.GetCapitalVictoryPointName], do [ITA.GetLeader] lãnh đạo, tìm cách đòi lại tất cả các vùng đất của Ý - bao gồm cả những vùng do Áo nắm giữ.\n\nCó lẽ họ có thể được thuyết phục tham gia chính nghĩa của chúng ta?"
+ belgrade_pact_events.202.a: "Mọi sự giúp đỡ đều được hoan nghênh."
+ belgrade_pact_events.202.b: "Đừng bận tâm."
+
+ belgrade_pact_events.203.t: "Lời mời đến Belgrade"
+ belgrade_pact_events.203.d: "Các quốc gia Balkan, sau khi cùng nhau đánh bại Bulgaria và giờ do Serbia lãnh đạo, giờ đây hướng tầm nhìn về phía bắc, về phía Đế quốc Áo-Hung - và vì lợi ích của họ phù hợp với chúng ta, chính phủ Serbia đã tiếp cận chúng ta với một đề nghị - lời mời đến Belgrade tham dự Hội nghị lần thứ hai, nơi các đại biểu sẽ quyết định hành động chung chống lại Áo. Phản hồi của chúng ta nên là gì?"
+ belgrade_pact_events.203.a: "Được thôi, chúng ta sẽ tham dự."
+ belgrade_pact_events.203.b: "Đây là một sự lãng phí thời gian."
+
+ belgrade_pact_events.204.t: "[FROM.GetNameDefCap] Đồng ý Tham dự"
+ belgrade_pact_events.204.d: "Bộ ngoại giao của [FROM.GetNameDef] đã viết lại cho chúng ta, thông báo rằng họ đồng ý tham gia chính nghĩa chung của chúng ta chống lại Áo."
+ belgrade_pact_events.204.a: "Tuyệt vời."
+
+ belgrade_pact_events.205.t: "Các Đại biểu Đến"
+ belgrade_pact_events.205.d: "Hôm nay, một đám đông đa quốc gia gồm các nhà ngoại giao, quan sát viên và quan chức quân sự từ [GetCongressMembers] đã đổ xuống Belgrade để tham dự lễ khai mạc Hội nghị Belgrade lần thứ hai. Trong một bài phát biểu ngắn, Thủ tướng đã cảm ơn tất cả các đại biểu đã tham dự, và sau đó nâng cốc chúc mừng chiến thắng chắc chắn của chúng ta trước kẻ thù chung ở Vienna. Ngày mai, các cuộc thảo luận nghiêm túc sẽ bắt đầu, liên quan đến yêu sách của mọi người đối với lãnh thổ Habsburg và cách tiếp cận của chúng ta để đối phó với họ. Nhưng hôm nay là một ngày để trân trọng lễ kỷ niệm hiếm hoi này về sự thống nhất liên quốc gia!"
+ belgrade_pact_events.205.a: "Hãy để Hội nghị bắt đầu!"
+
+ CongressMembers_Pact_1: "[?SER_attending_congress^0.GetNameDef]"
+ CongressMembers_Pact_2: "[?SER_attending_congress^0.GetNameDef] và [?SER_attending_congress^1.GetNameDef]"
+ CongressMembers_Pact_3: "[?SER_attending_congress^0.GetNameDef], [?SER_attending_congress^1.GetNameDef] và [?SER_attending_congress^2.GetNameDef]"
+ CongressMembers_Pact_4: "[?SER_attending_congress^0.GetNameDef], [?SER_attending_congress^1.GetNameDef], [?SER_attending_congress^2.GetNameDef] và [?SER_attending_congress^3.GetNameDef]"
+
+ belgrade_pact_events.206.t: "Quyết định Mục tiêu"
+ belgrade_pact_events.206.d: "Mục tiêu tổng thể của chúng ta có thể là thống nhất, nhưng có nhiều cách chúng ta có thể tiếp cận để đối phó với Vienna. Các đại biểu cấp tiến hơn tại Hội nghị đang kêu gọi một cuộc chiến để rút cạn máu người Áo, để trả thù cho hành động của họ trong Đại Chiến Thế Giới. Mặt khác, các nhà ngoại giao ôn hòa đang ủng hộ một cách tiếp cận ngoại giao hơn, hy vọng đàm phán với Vienna thay vì hoàn toàn hiếu chiến với họ. Một cách tiếp cận hòa bình có lẽ sẽ thích hợp hơn, nhưng ít ai lạc quan về khả năng Áo thực sự ngồi vào bàn đàm phán. Cuối cùng, các đại biểu Serbia hàng đầu có lựa chọn cuối cùng về cách tiếp cận mà chúng ta nên thực hiện, và sau vài giờ họp kín, họ quay trở lại Hội nghị với hướng hành động của mình."
+ belgrade_pact_events.206.a: "Chiến tranh với Áo!"
+ belgrade_pact_events.206.b: "Buộc họ bằng ngoại giao!"
+
+ belgrade_pact_events.207.t: "Hội nghị Chọn Tấn công Áo"
+ belgrade_pact_events.207.d: "Các đại biểu ở Belgrade đã quyết định rằng, với quyền bá chủ của Bulgaria đã bị lật đổ, giờ đây đã đến lúc lật đổ quyền bá chủ của Habsburg trên Trung Âu. Vì hầu hết các thành viên của Hiệp ước đều có yêu sách rộng lớn đối với Đế quốc Áo-Hung, các đại biểu của họ háo hức cuối cùng hoàn thành các mục tiêu quốc gia tương ứng, nhưng không phải tất cả các thành viên đều háo hức lao mình vào Đế quốc mục nát. Dù sao đi nữa, đã đến lúc chính thức công bố ủng hộ của chúng ta cho kế hoạch hành động này hoặc rời khỏi Hội nghị."
+ belgrade_pact_events.207.a: "Chúng ta ủng hộ sáng kiến này."
+ belgrade_pact_events.207.b: "Chúng ta sẽ gia nhập Hiệp ước!"
+ belgrade_pact_events.207.c: "Cái gì? Không!"
+ belgrade_pact_events.207.e: "Chúng ta chưa bao giờ quan tâm đến Transylvania dù sao."
+
+ belgrade_pact_events.208.t: "[FROM.GetNameDefCap] Rời khỏi Hội nghị"
+ belgrade_pact_events.208.d.war: "Phái đoàn từ [FROM.GetNameDef] đã rời khỏi Hội nghị, hoặc để phản đối kế hoạch hành động đã thống nhất của chúng ta hoặc vì họ không thấy lợi ích nào cho mình."
+ belgrade_pact_events.208.d.diplomacy: "Phái đoàn từ [FROM.GetNameDef] đã rời khỏi Hội nghị, có vẻ như không quan tâm đến vấn đề Áo."
+ belgrade_pact_events.208.a: "Tổn thất của họ."
+
+ belgrade_pact_events.209.t: "Vấn đề Yêu sách"
+ belgrade_pact_events.209.d: "Với kế hoạch hành động đã được quyết định, các phái đoàn đã quyết định chính thức hóa yêu sách của họ đối với Đế quốc Áo-Hung. Đương nhiên, chúng ta đã đảm bảo thông báo cho họ rằng mục tiêu tối thượng của chính phủ chúng ta là thống nhất người Nam Slav của Áo-Hung dưới lá cờ của chúng ta, giải phóng họ khỏi nhiều thế kỷ áp bức."
+ belgrade_pact_events.209.a: "Chúng ta sẽ giải phóng người Slav!"
+
+ belgrade_pact_events.210.t: "Vấn đề Yêu sách"
+ belgrade_pact_events.210.d: "Với kế hoạch hành động đã được quyết định, các phái đoàn đã quyết định chính thức hóa yêu sách của họ đối với Đế quốc Áo-Hung. Đương nhiên, chúng ta đã đảm bảo thông báo cho họ rằng mục tiêu tối thượng của chính phủ chúng ta là giải phóng các vùng đất có người dân tộc Romania sinh sống, hiện đang bị sỉ nhục bởi nhiều thế kỷ áp bức."
+ belgrade_pact_events.210.a: "Chúng ta sẽ đoàn tụ với Transylvania!"
+
+ belgrade_pact_events.211.t: "Vấn đề Yêu sách"
+ belgrade_pact_events.211.d: "Với kế hoạch hành động đã được quyết định, các phái đoàn đã quyết định chính thức hóa yêu sách của họ đối với Đế quốc Áo-Hung. Tuy nhiên, Hy Lạp có ít lợi ích về lãnh thổ trực tiếp từ Habsburg, nhưng chúng ta tin rằng đây là một phần của việc cải thiện hợp tác khu vực và củng cố quan hệ."
+ belgrade_pact_events.211.a: "Chúng ta không có yêu sách."
+ belgrade_pact_events.211.b: "Bắc Epirus thuộc về chúng ta!"
+
+ belgrade_pact_events.213.t: "Vấn đề Yêu sách"
+ belgrade_pact_events.213.d: "Với kế hoạch hành động đã được quyết định, các phái đoàn đã quyết định chính thức hóa yêu sách của họ đối với Đế quốc Áo-Hung. Đương nhiên, chúng ta đã đảm bảo thông báo cho họ rằng mục tiêu tối thượng của chính phủ chúng ta là cuối cùng chấm dứt Risorgimento, giải phóng người Ý của Áo khỏi ách thống trị của Habsburg và trả thù vết nhơ năm 1919!"
+ belgrade_pact_events.213.a: "Chúng ta sẽ đòi lại Istria và Trento!"
+
+ belgrade_pact_events.214.t: "Hội nghị Đã Kết thúc"
+ belgrade_pact_events.214.d: "Với kế hoạch và ý định của chúng ta đã rõ ràng, Hội nghị đi đến kết thúc. Giờ đây chúng ta tiến tới trận chiến cuối cùng trong việc thiết lập một trật tự mới ở Balkan, nơi các quốc gia được tự do khỏi các đế quốc nước ngoài và áp bức."
+ belgrade_pact_events.214.a: "Tiến lên!"
+
+ belgrade_pact_events.215.t: "Hội nghị Chọn Đàm phán với Áo"
+ belgrade_pact_events.215.d: "Các đại biểu ở Belgrade đã quyết định rằng sẽ là không khôn ngoan nếu lao mình một cách vô nghĩa vào Quân đội Áo-Hung. Để nói rõ ràng những bất bình của chúng ta và giành được sự đồng cảm của cộng đồng quốc tế, chúng ta sẽ mở các cuộc đàm phán với Vienna để đạt được mục tiêu đã tuyên bố của Hội nghị là sửa chữa những sai lầm lịch sử và chấm dứt sự đau khổ của nhiều đồng bào của chúng ta hiện đang sống ở Áo-Hung. Nếu họ từ chối, chúng ta sẽ có mọi lý do để tìm kiếm công lý bằng vũ lực."
+ belgrade_pact_events.215.a: "Chúng ta ủng hộ sáng kiến này."
+ belgrade_pact_events.215.b: "Cái gì? Không!"
+
+ belgrade_pact_events.216.t: "Lời mời đến Belgrade?"
+ belgrade_pact_events.216.d: "Hội nghị Belgrade đã gửi lời mời đến chúng ta. Mặc dù họ đã tuyên bố rõ ràng mục tiêu của họ là giải thể chế độ Quân chủ cổ xưa của chúng ta, họ có vẻ sẵn sàng thử và đi đến thỏa thuận tại bàn đàm phán trước. Tất nhiên, chúng ta biết các điều khoản của họ và chúng hoàn toàn không thể chấp nhận; sẽ là một sự lãng phí thời gian hoàn toàn khi tham dự và thay vào đó chúng ta nên chuẩn bị động viên chống lại họ."
+ belgrade_pact_events.216.a: "Một cơ hội cho hòa bình, có lẽ?"
+ belgrade_pact_events.216.b: "Chúng ta từ chối đề nghị lố bịch của họ!"
+
+ belgrade_pact_events.217.t: "Áo Bác bỏ Nỗ lực của Chúng ta"
+ belgrade_pact_events.217.d: "Có thể đoán trước, Vienna đã từ chối đàm phán. Vì họ rõ ràng muốn cuộc chiến cuối cùng sẽ mang lại sự kết thúc cho Đế quốc mục nát của họ, đã đến lúc chúng ta tiến tới trận chiến cuối cùng để lật đổ ách thống trị Habsburg."
+ belgrade_pact_events.217.a: "Vậy thì sẽ là chiến tranh."
+
+ belgrade_pact_events.300.t: "Hiệp ước Tổ chức"
+ belgrade_pact_events.300.d: "[FROM.GetNameDefCap] đang đề xuất làm sâu sắc thêm quan hệ giữa các quốc gia Balkan thông qua một liên minh kinh tế. Nếu chúng ta ký hiệp ước của họ, một Hội đồng Kinh tế sẽ được thành lập để điều phối thương mại và lợi ích kinh tế của các quốc gia thành viên. Chúng ta chắc chắn sẽ hưởng lợi từ liên minh kinh tế chặt chẽ này."
+ belgrade_pact_events.300.a: "Tất nhiên, tất cả chúng ta đều có thể hưởng lợi từ điều này."
+ belgrade_pact_events.300.b: "Điều này sẽ dẫn đến mất độc lập!"
+
+ BP_economic_integration_tt: "§GChúng ta sẽ trở thành thành viên của Hiệp ước Tổ chức và nhận được các lợi ích kinh tế của nó§!."
+
+ belgrade_pact_events.301.t: "[FROM.GetNameDefCap] Từ chối"
+ belgrade_pact_events.301.d: "Chính phủ [FROM.GetAdjective] đã từ chối ký Hiệp ước Tổ chức, không quan tâm đến quan hệ kinh tế chặt chẽ hơn trong khu vực Balkan."
+ belgrade_pact_events.301.a: "Thật tệ cho họ."
+
+ belgrade_pact_events.302.t: "Thành lập Hội đồng Kinh tế"
+ belgrade_pact_events.302.d: "Với việc phê chuẩn Hiệp ước Tổ chức, Hội đồng Kinh tế sẽ bắt đầu công việc điều phối thương mại và quan hệ kinh tế giữa các thành viên."
+ belgrade_pact_events.302.a: "Một Balkan gần gũi và thịnh vượng hơn."
+
+ belgrade_pact_events.303.t: "Thành lập Hội đồng Kinh tế"
+ belgrade_pact_events.303.d: "Với việc phê chuẩn Hiệp ước Tổ chức, Hội đồng Kinh tế sẽ bắt đầu công việc điều phối thương mại và quan hệ kinh tế giữa các thành viên."
+ belgrade_pact_events.303.a: "Một Balkan gần gũi và thịnh vượng hơn."
+
+ belgrade_pact_events.304.t: "Báo cáo từ Hội đồng Kinh tế"
+ belgrade_pact_events.304.d: "Thông qua nỗ lực của Hội đồng Kinh tế và các đồng minh của chúng ta, những lợi ích chúng ta thu được từ việc hội nhập khu vực sâu hơn đã được cải thiện đáng kể."
+ belgrade_pact_events.304.a: "Tuyệt vời!"
+
+ belgrade_pact_events.305.t: "Rời khỏi Hội đồng Kinh tế"
+ belgrade_pact_events.305.d.war: "Do các hành vi xâm lược chống lại các thành viên khác của Hội đồng Kinh tế Balkan, chúng ta đã bị trục xuất khỏi Hội đồng với hiệu lực ngay lập tức. Do đó, chúng ta sẽ không còn nhận được lợi ích của nó."
+ belgrade_pact_events.305.d.revolution: "Chế độ xã hội chủ nghĩa mới của chúng ta đã tuyên bố tất cả các hiệp ước với Hội đồng Kinh tế Balkan vô hiệu, có hiệu lực ngay lập tức. Do đó, chúng ta sẽ không còn nhận được lợi ích của nó."
+ belgrade_pact_events.305.a: "Được thôi."
+
+ belgrade_pact_events.306.t: "[FROM.GetNameDefCap] Gia nhập Hội đồng Kinh tế"
+ belgrade_pact_events.306.d: "Chính phủ [FROM.GetAdjective] đã ký Hiệp ước Tổ chức, sau khi đã bỏ lỡ việc thành lập Hội đồng trước đó, và tất cả các thành viên của tổ chức giờ đây được hưởng lợi ích gia tăng từ hợp tác kinh tế lẫn nhau."
+ belgrade_pact_events.306.a: "Một Balkan gần gũi và thịnh vượng hơn."
+
+ belgrade_pact_events.307.t: "Tương lai của Hiệp ước Belgrade"
+ belgrade_pact_events.307.d: "Với mục tiêu chính là đánh bại Áo đã đạt được, nhiều người đang đặt câu hỏi: bây giờ thì sao? Mặc dù các liên minh ở Balkan thường ngắn ngủi, một số tiếng nói lý tưởng hơn đã thúc đẩy ý tưởng biến Hiệp ước Belgrade thành một liên minh dài hạn, không chỉ để bảo vệ Balkan khỏi các mối đe dọa nước ngoài, mà còn để hợp tác kinh tế và mang lại thịnh vượng cho cả người Serbia và Romania. Những tiếng nói bi quan hơn chỉ ra tất cả các vấn đề được nhận thức: khác biệt hệ tư tưởng, Tây Banat, sự hoài nghi về việc liệu các quốc gia Balkan có thực sự có thể đứng vững chống lại những gã khổng lồ như Đức và Nga một mình hay không. Dù sao đi nữa, nếu chính phủ chúng ta tán thành ý tưởng hợp tác dài hạn, nó sẽ làm tăng đáng kể khả năng liên minh của chúng ta duy trì cùng nhau."
+ belgrade_pact_events.307.a: "Chúng ta đã cùng nhau đổ máu, chúng ta sẽ ở cùng nhau."
+ belgrade_pact_events.307.b: "Xin lỗi, đó chỉ là chuyện của một cuộc chiến."
+
+ belgrade_pact_events.308.t: "Hỗ trợ từ [SER.GetName]"
+ belgrade_pact_events.308.d: "Khá nhiều người đã nghi ngờ [BUL.GetLeader] khi ông hướng đất nước chúng ta trên con đường hòa bình với [SER.GetName], ngay sau khi họ đánh bại chúng ta trong Chiến tranh Balkan lần thứ tư. Người Serbia đã bất ngờ cởi mở với ý tưởng hòa giải với chúng ta, cho phép chúng ta gia nhập Hiệp ước Belgrade. Giờ đây với giấc mơ thống nhất người Nam Slav của họ đã thành hiện thực, họ đã chìa tay giúp đỡ chúng ta, ghi nhận sự hỗ trợ và hy sinh của chúng ta trong cuộc đấu tranh chung."
+ belgrade_pact_events.308.a: "Một tình anh em thực sự."

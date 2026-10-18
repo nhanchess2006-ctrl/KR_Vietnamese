@@ -1,0 +1,95 @@
+﻿l_english:
+
+### Country Collections ###
+ collection_guarantors: "Các Quốc gia Bảo hộ"
+
+ collection_socialist_countries: "Các Quốc gia Xã hội Chủ nghĩa"
+ collection_non_socialist_countries: "Các Quốc gia Không Xã hội Chủ nghĩa"
+
+ collection_democratic_countries: "Các Quốc gia Dân chủ"
+ collection_non_democratic_countries: "Các Quốc gia Không Dân chủ"
+
+ collection_reactionary_countries: "Các Quốc gia Phản động"
+ collection_non_reactionary_countries: "Các Quốc gia Không Phản động"
+
+ collection_european_countries: "Các Quốc gia Châu Âu"
+ collection_allied_european_countries: "Các Quốc gia Châu Âu Đồng minh"
+
+ collection_american_countries: "Các Quốc gia Châu Mỹ"
+ collection_socialist_american_countries: "Các Quốc gia Châu Mỹ Xã hội Chủ nghĩa"
+ collection_democratic_american_countries: "Các Quốc gia Châu Mỹ Dân chủ"
+ collection_allied_american_countries: "Các Quốc gia Châu Mỹ Đồng minh"
+
+ collection_non_american_countries: "Các Quốc gia Ngoài Châu Mỹ"
+ collection_allied_non_american_countries: "Các Quốc gia Ngoài Châu Mỹ Đồng minh"
+
+ collection_asian_and_pacific_countries: "Các Quốc gia Châu Á và Thái Bình Dương"
+ collection_allied_asian_and_pacific_countries: "Các Quốc gia Châu Á và Thái Bình Dương Đồng minh"
+ collection_subject_asian_and_pacific_countries: "Các Quốc gia Chư hầu Châu Á và Thái Bình Dương"
+ collection_allied_democratic_asian_and_pacific_countries: "Các Quốc gia Châu Á và Thái Bình Dương Dân chủ Đồng minh"
+
+ collection_italian_countries: "Các Quốc gia Ý"
+ collection_italian_unifiers: "Các Quốc gia Thống nhất Ý"
+
+ collection_potential_intermarium_countries: "Các Quốc gia Tiềm năng Thuộc Liên minh Intermarium"
+
+### State Collections ###
+ every_state_in_europe: "Mọi bang/tỉnh ở Châu Âu"
+ every_state_in_north_america: "Mọi bang/tỉnh ở Bắc Mỹ"
+ every_state_in_south_america: "Mọi bang/tỉnh ở Nam Mỹ"
+ every_state_in_australia: "Mọi bang/tỉnh ở Châu Úc"
+ every_state_in_africa: "Mọi bang/tỉnh ở Châu Phi"
+ every_state_in_asia: "Mọi bang/tỉnh ở Châu Á"
+ every_state_in_middle_east: "Mọi bang/tỉnh ở Trung Đông"
+ every_state_in_india: "Mọi bang/tỉnh ở Ấn Độ"
+ every_state_in_central_america: "Mọi bang/tỉnh ở Trung Mỹ"
+
+ collection_faction_owned_states: "Tất cả bang/tỉnh Thuộc sở hữu của Phe liên minh"
+ collection_faction_controlled_states: "Tất cả bang/tỉnh do Phe liên minh Kiểm soát"
+
+ collection_all_entente_cores_and_claims: "Tất cả Lãnh thổ Cốt lõi và Yêu sách của Khối Hiệp ước (Entente)"
+ collection_all_owned_entente_cores_and_claims: "Tất cả Lãnh thổ Cốt lõi và Yêu sách Thuộc sở hữu của Khối Hiệp ước (Entente)"
+
+ collection_all_austrian_ambitions: "Tất cả Tham vọng Lãnh thổ của Áo"
+ collection_all_owned_austrian_ambitions: "Tất cả Tham vọng Lãnh thổ Thuộc sở hữu của Áo"
+
+ collection_all_balkan_states: "Tất cả bang/tỉnh Vùng Balkan và sông Danube"
+ collection_all_owned_balkan_states: "Tất cả bang/tỉnh Thuộc sở hữu Vùng Balkan và sông Danube"
+
+ collection_all_russian_ambitions: "Tất cả Tham vọng Lãnh thổ của Nga"
+ collection_all_owned_russian_ambitions: "Tất cả Tham vọng Lãnh thổ Thuộc sở hữu của Nga"
+
+ collection_all_argentinian_states: "Tất cả bang/tỉnh của Argentina"
+ collection_all_controlled_argentinian_states: "Tất cả bang/tỉnh do Argentina Kiểm soát"
+
+ collection_all_indian_states: "Tất cả bang/tỉnh của Ấn Độ"
+ collection_all_controlled_indian_states: "Tất cả bang/tỉnh do Ấn Độ Kiểm soát"
+
+ collection_all_baltic_states: "Tất cả bang/tỉnh Vùng Baltic"
+ collection_all_controlled_baltic_states: "Tất cả bang/tỉnh do Vùng Baltic Kiểm soát"
+
+ collection_all_chinese_states: "Tất cả bang/tỉnh của Trung Quốc"
+ collection_all_controlled_chinese_states: "Tất cả bang/tỉnh do Trung Quốc Kiểm soát"
+
+ collection_all_middle_east_states: "Tất cả bang/tỉnh Vùng Trung Đông"
+ collection_all_owned_middle_east_states: "Tất cả bang/tỉnh Thuộc sở hữu Vùng Trung Đông"
+
+ collection_all_central_american_states: "Tất cả bang/tỉnh Vùng Trung Mỹ"
+ collection_all_controlled_central_american_states: "Tất cả bang/tỉnh do Vùng Trung Mỹ Kiểm soát"
+
+ collection_all_mainland_american_states: "Tất cả bang/tỉnh Thuộc Lục địa Mỹ"
+ collection_all_controlled_mainland_american_states: "Tất cả bang/tỉnh do Lục địa Mỹ Kiểm soát"
+
+ collection_all_central_asian_states: "Tất cả bang/tỉnh Vùng Trung Á"
+ collection_all_controlled_central_asian_states: "Tất cả bang/tỉnh do Vùng Trung Á Kiểm soát"
+
+ collection_all_central_asian_and_east_turkestani_states: "Tất cả bang/tỉnh Vùng Trung Á và Đông Turkestan"
+ collection_all_owned_central_asian_and_east_turkestani_states: "Tất cả bang/tỉnh Thuộc sở hữu Vùng Trung Á và Đông Turkestan"
+
+ collection_all_asian_and_pacific_states: "Tất cả bang/tỉnh Vùng Châu Á và Thái Bình Dương"
+ collection_all_owned_asian_and_pacific_states: "Tất cả bang/tỉnh Thuộc sở hữu Vùng Châu Á và Thái Bình Dương"
+
+ collection_all_sinosphere_states: "Tất cả bang/tỉnh Thuộc Vùng Văn hóa Đông Á (Sinosphere)"
+ collection_all_owned_sinosphere_states: "Tất cả bang/tỉnh Thuộc sở hữu Vùng Văn hóa Đông Á (Sinosphere)"
+
+ collection_russia_starting_states: "Các bang/tỉnh Ban đầu của Nga"

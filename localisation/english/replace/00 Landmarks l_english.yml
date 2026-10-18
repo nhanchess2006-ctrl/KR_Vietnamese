@@ -1,0 +1,117 @@
+﻿l_english:
+## Europe
+ # Denmark
+ landmark_christiansborg_palace: "Cung điện Christiansborg"
+ landmark_christiansborg_palace_plural: "$landmark_christiansborg_palace$"
+ landmark_christiansborg_palace_desc: "§LCung điện Christiansborg là một cung điện tân baroque hùng vĩ nằm trên đảo nhỏ Slotsholmen ở trung tâm Copenhagen. Được xây dựng lại sau trận hỏa hoạn lớn năm 1884 và chỉ mới hoàn thành gần đây, cung điện hiện là trụ sở của nhà nước Đan Mạch, bao gồm Folketing, Tòa án Tối cao và văn phòng Thủ tướng. Từ lâu đã là biểu tượng của quyền lực hoàng gia và chính quyền Đan Mạch, Christiansborg thể hiện sự tiếp nối của chế độ quân chủ và truyền thống hiến pháp Đan Mạch.§!"
+
+ # France
+ landmark_arc_de_triomphe: "Khải Hoàn Môn"
+ landmark_arc_de_triomphe_plural: "$landmark_arc_de_triomphe$"
+ landmark_arc_de_triomphe_desc: "§LKhải Hoàn Môn là một đài kỷ niệm chiến thắng hùng vĩ nằm ở cuối phía tây của đại lộ Champs-Élysées ở Paris. Được Napoleon cho xây dựng để tôn vinh những chiến thắng và binh lính của nước Pháp, công trình này là minh chứng cho vinh quang quân sự và sự hy sinh của quốc gia. Bên dưới vòm của nó là Mộ Chiến sĩ Vô danh, một lời nhắc nhở trang nghiêm về Đại Chiến Thế Giới và dấu ấn lâu dài của nó đối với nền Cộng hòa Pháp. Khải Hoàn Môn mãi là biểu tượng mạnh mẽ của sự thống nhất và lòng tự hào dân tộc Pháp.§!"
+
+ landmark_notre_dame: "Nhà thờ Đức Bà Paris"
+ landmark_notre_dame_plural: "$landmark_notre_dame$"
+ landmark_notre_dame_desc: "§LNhà thờ Đức Bà Paris là một thánh đường Gothic vươn cao từ đảo Île de la Cité ở trung tâm lịch sử của Paris. Được xây dựng qua nhiều thế kỷ, nhà thờ đã chứng kiến các lễ đăng quang, các cuộc cách mạng và đời sống tâm linh của nước Pháp. Nổi tiếng với những ngọn tháp cao vút, cửa sổ hoa hồng rộng lớn và những quả chuông vang vọng, nhà thờ vẫn trường tồn qua những biến động của nhiều thập kỷ qua như một nhân chứng cho đức tin và lịch sử của nước Pháp.§!"
+
+ # Germany
+ landmark_brandenburg_gate: "Cổng Brandenburg"
+ landmark_brandenburg_gate_plural: "$landmark_brandenburg_gate$"
+ landmark_brandenburg_gate_desc: "§LCổng Brandenburg là một đài kỷ niệm tân cổ điển hùng vĩ nằm ở trung tâm Berlin. Được dựng vào cuối thế kỷ XVIII như một biểu tượng của hòa bình, kể từ đó nó đã trở thành biểu tượng hàng đầu của nhà nước Phổ và Đức. Dưới triều đại của Kaiser, Cổng nhìn ra các cuộc diễu hành, nghi lễ và đời sống công dân ở thủ đô của một nước Đức hiện đại, thể hiện cả truyền thống đế quốc lẫn sự thống nhất của dân tộc Đức.§!"
+
+ landmark_cologne_cathedral: "Nhà thờ Cologne"
+ landmark_cologne_cathedral_plural: "$landmark_cologne_cathedral$"
+ landmark_cologne_cathedral_desc: "§LNhà thờ Cologne là một kiệt tác Gothic cao vút thống trị đường chân trời của thành phố Cologne bên sông Rhine. Được khởi công từ thời Trung Cổ và hoàn thành vào thế kỷ XIX, hai ngọn tháp và nội thất rộng lớn của nó phản ánh nhiều thế kỷ tay nghề và lòng sùng đạo của người Đức. Từ lâu đã là nơi hành hương và niềm tự hào dân tộc, nhà thờ là biểu tượng của đức tin, sự kiên trì và di sản văn hóa trường tồn của nước Đức.§!"
+
+ # Italy
+ landmark_leaning_tower_of_pisa: "Tháp Nghiêng Pisa"
+ landmark_leaning_tower_of_pisa_plural: "$landmark_leaning_tower_of_pisa$"
+ landmark_leaning_tower_of_pisa_desc: "§LTháp Nghiêng Pisa là một tháp chuông Romanesque đặc biệt vươn cao trên Quảng trường Piazza dei Miracoli. Được xây dựng vào thời Trung Cổ, độ nghiêng ngoài ý muốn của nó đã khiến nó trở thành một trong những địa danh dễ nhận biết nhất của nước Ý. Đứng bên cạnh nhà thờ mà nó được xây để phục vụ, tháp là minh chứng cho sự khéo léo, lòng kiên trì của người Ý và di sản trường tồn của các thành bang lịch sử trên bán đảo.§!"
+
+ # Russia
+ landmark_saint_basils_cathedral: "Nhà thờ Thánh Basil"
+ landmark_saint_basils_cathedral_plural: "$landmark_saint_basils_cathedral$"
+ landmark_saint_basils_cathedral_desc: "§LNhà thờ Thánh Basil vươn cao trên Quảng trường Đỏ ở Moscow, những mái vòm hành sống động và gạch hoa văn của nó tạo nên một sự hiện diện uy nghi bên cạnh Điện Kremlin. Từng được Ivan IV cho xây dựng để đánh dấu cuộc chinh phục Kazan, giờ đây nó tồn tại dưới quyền lực giám sát của nhà nước Nga, một di tích của quyền lực Sa hoàng tiếp tục chứng kiến cuộc sống của người dân thành phố. Bên trong các nhà nguyện của nó, tiếng vọng của nhiều thế kỷ thờ phượng vẫn còn, đánh dấu công trình này như một minh chứng cho lịch sử và truyền thống tâm linh của nước Nga.§!"
+
+ landmark_winter_palace: "Cung điện Mùa Đông"
+ landmark_winter_palace_plural: "$landmark_winter_palace$"
+ landmark_winter_palace_desc: "§LCung điện Mùa Đông là một cung điện rococo tráng lệ từng là nơi ở chính thức của Nhà Romanov cho đến năm 1917. Tọa lạc tại trung tâm Petrograd, cung điện đã chứng kiến nhiều sự kiện quan trọng của các cuộc cách mạng Nga. Một phần của cung điện hiện là Bảo tàng Hermitage trong khi phần còn lại là một khu phức hợp hành chính rộng lớn. Cung điện Mùa Đông vẫn là biểu tượng của niềm tự hào cho toàn nước Nga.§!"
+
+ landmark_vozhd_liberator: "Vozhd Người Giải Phóng"
+ landmark_vozhd_liberator_plural: "$landmark_vozhd_liberator$"
+ landmark_vozhd_liberator_desc: "§LVozhd Người Giải Phóng đứng trên bờ sông Kharkov, là một bức tượng đồng cao 22 mét mô tả Boris Savinkov, ngồi trên bệ đá tân cổ điển cao 29 mét. Vozhd, mặc áo khoác dài và nhìn nghiêm khắc về phía Tây, đứng như một nhân vật anh hùng trên thành phố quê hương của ông. Bên trong bệ đá, một ngọn lửa vĩnh cửu cháy cho những người lính vô danh đã hy sinh trong cuộc Chiến tranh Vệ quốc Vĩ đại.§!"
+
+## Americas
+ # United States
+ landmark_white_house: "Nhà Trắng"
+ landmark_white_house_plural: "$landmark_white_house$"
+ landmark_white_house_desc: "§LNhà Trắng là một dinh thự tân cổ điển nằm ở trung tâm Washington, D.C., phục vụ như nơi ở và văn phòng của Tổng thống Hoa Kỳ. Được xây dựng vào cuối thế kỷ XVIII, nó đã chứng kiến sự hình thành của quốc gia, các cuộc khủng hoảng chính trị và các chính quyền của các tổng thống kế tiếp. Nổi tiếng với các hàng cột, phòng khánh tiết và mặt tiền trường tồn, Nhà Trắng vẫn là trụ sở hàng đầu của quyền hành pháp Hoa Kỳ và là dấu mốc của sự tiếp nối quốc gia.§!"
+
+ landmark_capitol: "Điện Capitol"
+ landmark_capitol_plural: "$landmark_capitol$"
+ landmark_capitol_desc: "§LĐiện Capitol Hoa Kỳ vươn cao nổi bật trên Đồi Capitol ở Washington, D.C., là trụ sở của Quốc hội quốc gia. Được khởi công vào cuối thế kỷ XVIII và hoàn thành qua các lần mở rộng kế tiếp, nó đã là sân khấu cho các cuộc tranh luận lập pháp và thay đổi chính trị. Mái vòm, các phòng họp và cầu thang lớn của nó đánh dấu đây là trung tâm của đời sống chính trị và trật tự hiến pháp của Hoa Kỳ.§!"
+
+ landmark_washington_monument: "Đài Tưởng niệm Washington"
+ landmark_washington_monument_plural: "$landmark_washington_monument$"
+ landmark_washington_monument_desc: "§LĐài Tưởng niệm Washington là một tháp bút cao vút trên National Mall ở Washington, D.C., được dựng để tôn vinh George Washington, tổng thống đầu tiên của quốc gia. Hoàn thành năm 1888 sau nhiều thập kỷ xây dựng bị gián đoạn, nó đã chứng kiến sự phát triển của thủ đô và đời sống công dân của nền cộng hòa. Chiều cao thuần khiết và sự hiện diện uy nghi của nó đánh dấu đây là một đài tưởng niệm lâu dài cho sự lãnh đạo và ký ức quốc gia của Hoa Kỳ.§!"
+
+ landmark_pentagon: "Lầu Năm Góc"
+ landmark_pentagon_plural: "$landmark_pentagon$"
+ landmark_pentagon_desc: "§LLầu Năm Góc là một trụ sở năm cạnh rộng lớn của Bộ Chiến tranh Hoa Kỳ ở ngoại ô Washington, D.C. Được thiết kế để tập trung hóa quản lý quân sự và hợp nhất các hoạt động quốc phòng của quốc gia, công trình này thể hiện kỹ thuật hiện đại và sức mạnh tổ chức của lực lượng vũ trang Hoa Kỳ. Nó là minh chứng cho sự chuẩn bị và quyết tâm quốc gia của đất nước.§!"
+
+ landmark_empire_state_building: "Tòa nhà Empire State"
+ landmark_empire_state_building_plural: "$landmark_empire_state_building$"
+ landmark_empire_state_building_desc: "§LTòa nhà Empire State vươn cao trên Manhattan như một biểu tượng hùng vĩ cho tham vọng của thành phố New York. Hoàn thành năm 1931, nó là công trình nhân tạo cao nhất thế giới. Mặt tiền Art Deco và ngọn tháp của nó giờ đây định hình đường chân trời của thành phố, đứng như một đài tưởng niệm cho ngành công nghiệp, tinh thần doanh nghiệp và sự phát triển nhanh chóng của đô thị hiện đại Hoa Kỳ.§!"
+
+ landmark_boulder_dam: "Đập Boulder"
+ landmark_boulder_dam_plural: "$landmark_boulder_dam$"
+ landmark_boulder_dam_desc: "§LĐập Boulder bắc qua sông Colorado trên biên giới Arizona và Nevada, một công trình bê tông khổng lồ hoàn thành vào đầu thập niên 1930. Được xây dựng để kiểm soát lũ lụt, cung cấp nước tưới tiêu và phát điện, nó đã biến đổi vùng đất xung quanh. Quy mô và kỹ thuật của nó đã định hình lại khu vực xung quanh, thể hiện năng lực công nghiệp của quốc gia và khả năng chế ngự môi trường tự nhiên.§!"
+
+ landmark_golden_gate_bridge: "Cầu Cổng Vàng"
+ landmark_golden_gate_bridge_plural: "$landmark_golden_gate_bridge$"
+ landmark_golden_gate_bridge_desc: "§LCầu Cổng Vàng bắc qua lối vào Vịnh San Francisco, một cây cầu treo táo bạo nối thành phố với Quận Marin. Các tháp và dây cáp uốn lượn của nó tạo nên một trong những cây cầu dài và ấn tượng nhất thế giới. Cây cầu là minh chứng cho kỹ thuật, tham vọng của Hoa Kỳ và sự làm chủ cơ sở hạ tầng hiện đại.§!"
+
+ landmark_hollywood_sign: "Biển hiệu Hollywoodland"
+ landmark_hollywood_sign_plural: "$landmark_hollywood_sign$"
+ landmark_hollywood_sign_desc: "§LBiển hiệu Hollywoodland vươn cao trên những ngọn đồi phía trên Los Angeles, những chữ cái trắng lớn quảng cáo một khu dân cư và đánh dấu quận đang phát triển. Được dựng năm 1923, nó đã trở thành một đặc điểm nổi bật của cảnh quan thành phố. Có thể nhìn thấy khắp khu vực xung quanh, biển hiệu đã gắn liền với ngành công nghiệp điện ảnh và sự mở rộng nhanh chóng của Los Angeles.§!"
+
+ # Mexico
+ landmark_chichen_itza: "Chichen Itza"
+ landmark_chichen_itza_plural: "$landmark_chichen_itza$"
+ landmark_chichen_itza_desc: "§LChichen Itza vươn cao trên Bán đảo Yucatán như tàn tích của một thành phố Maya vĩ đại, với các kim tự tháp, đền thờ và sân bóng phản ánh nhiều thế kỷ văn minh tiền Columbus. Trong những năm gần đây, các nhà khảo cổ và học giả Hoa Kỳ đã tiến hành các nghiên cứu và nỗ lực bảo tồn sâu rộng, đưa di tích này đến sự chú ý rộng rãi hơn. Những tàn tích chứng minh cả sự khéo léo của nền văn minh Maya lẫn vai trò ngày càng mở rộng của Hoa Kỳ trong việc nghiên cứu và bảo tồn châu Mỹ cổ đại.§!"
+
+ # Chile
+ landmark_moai: "Mo'ai"
+ landmark_moai_plural: "$landmark_moai$"
+ landmark_moai_desc: "§LNhững bức tượng mo'ai trên Đảo Phục Sinh vươn cao dọc theo bờ biển và các rặng núi của hòn đảo, những khối đá khổng lồ của chúng được người Rapa Nui tạo tác từ nhiều thế kỷ trước. Dưới sự quản lý của Chile từ cuối thế kỷ XIX, các bức tượng đã thu hút sự chú ý của cả học giả lẫn du khách. Chúng vẫn là những nhân chứng im lặng cho sự khéo léo và văn hóa của những cư dân nguyên thủy trên đảo, đánh dấu một góc xa xôi của Thái Bình Dương đã được bàn tay con người định hình từ lâu.§!"
+
+## Asia
+ # Burma
+ landmark_shwedagon_pagoda: "Chùa Shwedagon"
+ landmark_shwedagon_pagoda_plural: "$landmark_shwedagon_pagoda$"
+ landmark_shwedagon_pagoda_desc: "§LChùa Shwedagon vươn cao trên sườn Đồi Shwedagon ở Yangon, Burma, và là một trong những thánh địa Phật giáo linh thiêng nhất của đất nước. Ngọn tháp vàng và kiến trúc cổ kính của nó phản ánh nhiều thế kỷ sùng đạo và di sản văn hóa. Ngôi chùa tiếp tục thu hút khách hành hương và du khách từ khắp châu Á, tượng trưng cho ý nghĩa tâm linh trường tồn của truyền thống Phật giáo Burma.§!"
+
+ # Japan
+ landmark_himeji_castle: "Thành Himeji"
+ landmark_himeji_castle_plural: "$landmark_himeji_castle$"
+ landmark_himeji_castle_desc: "§LThành Himeji nhìn ra thành phố Himeji và là một trong những pháo đài phong kiến được bảo tồn tốt nhất Nhật Bản. Hoàn thành vào đầu thế kỷ XVII, những bức tường trát trắng, các lớp phòng thủ và tháp chính cao vút của nó là ví dụ điển hình cho thiết kế quân sự thời Tokugawa. Trải qua nội chiến, trùng tu và hiện đại hóa, thành vẫn phản ánh truyền thống võ sĩ và quá khứ đế quốc của Nhật Bản.§!"
+
+ landmark_okayama_castle: "Thành Okayama"
+ landmark_okayama_castle_plural: "$landmark_okayama_castle$"
+ landmark_okayama_castle_desc: "§LThành Okayama đứng bên sông Asahi, với ngoại thất tối màu và tháp chính uy nghi phân biệt nó với các thành trì khác của Nhật Bản. Được xây dựng vào cuối thế kỷ XVI, nó từng là trung tâm quyền lực khu vực trong thời Sengoku và đầu thời Tokugawa. Ngày nay, công trình gợi nhớ quyền lực của các lãnh địa địa phương và di sản của tầng lớp samurai.§!"
+
+ # Siam
+ landmark_wat_arun: "Chùa Wat Arun"
+ landmark_wat_arun_plural: "$landmark_wat_arun$"
+ landmark_wat_arun_desc: "§LChùa Wat Arun nằm trên bờ phía tây sông Chao Phraya ở Bangkok và là một trong những thánh địa tôn giáo dễ nhận biết nhất của Siam. Lấy ngọn prang cao vút làm trung tâm, quần thể chùa thể hiện ảnh hưởng mạnh mẽ của Khmer và truyền thống Phật giáo lâu đời. Gắn bó chặt chẽ với triều đại Chakri và thủ đô, Wat Arun tiếp tục biểu trưng cho mối liên hệ mật thiết giữa đức tin, vương quyền và nhà nước Siam.§!"
+
+## Middle East
+ # Arabia
+ landmark_kaaba: "Kaaba"
+ landmark_kaaba_plural: "$landmark_kaaba$"
+ landmark_kaaba_desc: "§LỞ trung tâm Đại Thánh đường tại Mecca vươn cao Kaaba, thánh địa linh thiêng nhất trong Hồi giáo. Cấu trúc phủ vải đen của nó đã định hướng cho lời cầu nguyện và cuộc hành hương của người Hồi giáo trong nhiều thế kỷ. Được xây dựng lại và bảo trì qua các thế hệ kế tiếp, Kaaba tiếp tục định hình đời sống tâm linh của thế giới Hồi giáo và khẳng định vị thế tối thượng của Mecca như một thành phố thiêng liêng.§!"
+
+ # Egypt
+ landmark_pyramids_of_giza: "Các Kim tự tháp Giza"
+ landmark_pyramids_of_giza_plural: "$landmark_pyramids_of_giza$"
+ landmark_pyramids_of_giza_desc: "§LTrên cao nguyên sa mạc phía tây Cairo, các kim tự tháp Giza thống trị cảnh quan như những lăng mộ hoành tráng của các pharaoh Ai Cập cổ đại. Được xây dựng vào thời Cổ Vương quốc, quy mô rộng lớn và tay nghề chính xác của chúng chứng minh cho tổ chức và quyền lực của nền văn minh Ai Cập sơ khai. Có trước nhà nước hiện đại hàng thiên niên kỷ, các kim tự tháp là những đài kỷ niệm trường tồn cho tham vọng và sự khéo léo của con người.§!"

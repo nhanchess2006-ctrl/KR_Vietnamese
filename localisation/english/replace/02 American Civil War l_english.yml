@@ -1,0 +1,1040 @@
+﻿l_english:
+
+### Opinion Modifiers ###
+ ACW_occupied_new_england: "Chiếm đóng New England"
+ ACW_entente_helping: "Hỗ trợ họ trong Nội chiến"
+
+### Ideas ###
+ ACW_federal_front_idea: "Tiến công chống [USA.GetNameDef]"
+ ACW_syndicalist_front_idea: "Tiến công chống [WCA.GetNameDef]"
+ ACW_longist_front_idea: "Tiến công chống [APG.GetNameDef]"
+ ACW_pacific_front_idea: "Tiến công chống [ACC.GetNameDef]"
+
+ ACW_support_USA: "Ủng hộ phe Liên bang"
+ ACW_support_USA_tt: "(§Y[USA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
+ ACW_support_ACC: "Ủng hộ phe Hiến pháp"
+ ACW_support_ACC_tt: "(§Y[ACC.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
+ ACW_support_APG: "Ủng hộ phe Longist"
+ ACW_support_APG_tt: "(§Y[APG.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
+ ACW_support_faction_generic_tt: "Đã ủng hộ một phe trong Nội chiến Mỹ"
+
+ ACW_fired_up: "Hừng hực khí thế"
+ ACW_fired_up_desc: "Lực lượng của chúng ta đang hừng hực khí thế và sẵn sàng giao chiến với kẻ thù!"
+
+### World Tension ###
+ american_civil_war_threat: "Nội chiến Mỹ lần thứ hai"
+
+### Tooltips ###
+ ACC_rockies_ceasefire: "Một lệnh ngừng bắn đã được thỏa thuận tại dãy Rockies"
+ USA_new_england_units: "Bốn đơn vị dân quân sẽ được thành lập ở New England"
+
+ ACW_miss_ceasefire: "Ngừng bắn Mississippi"
+ ACW_plains_ceasefire: "Ngừng bắn Đồng bằng Lớn"
+ ACW_rocky_ceasefire: "Ngừng bắn Dãy núi Rocky"
+ ACW_is_recruiting: "Đang tuyển mộ dân quân ở nơi khác"
+ ACW_recruit_units: "[?units_to_spawn|G0] đơn vị dân quân sẽ được thành lập."
+ ACW_once_the_war_begins: "Khi nội chiến bắt đầu:"
+ ACW_has_supported_side: "Đã ủng hộ một phe trong §YNội chiến Mỹ§!"
+
+ CP_25_PP_25: "£pol_power §Y25§! £command_power §Y25§!"
+ CP_25_PP_25_blocked: "£pol_power §R25§! £command_power §R25§!"
+ CP_25_PP_25_tooltip: "Cần $CP_25_PP_25_blocked$ để thực hiện quyết định"
+
+### State Modifiers ###
+ USA_state_control_low: "§GThấp§!"
+ USA_state_control_medium: "§LTrung bình§!"
+ USA_state_control_high: "§OCao§!"
+ USA_state_control_total: "§RToàn phần§!"
+
+ USA_socialist_state: "$USA_socialist_state_base$: [USA_GetStateControlLevelLabel]"
+ USA_socialist_state_base: "Kiểm soát của SPA"
+ USA_socialist_state_desc: "[USA_GetSocialistStateControlDesc]"
+ USA_socialist_state_desc_partial: "Bang này có sự ủng hộ cho §RĐảng Xã hội Chủ nghĩa Mỹ§!. Lòng trung thành của nó trong trường hợp xung đột nội bộ nổ ra là không chắc chắn."
+ USA_socialist_state_desc_total: "Bang này hoàn toàn bị §RĐảng Xã hội Chủ nghĩa Mỹ§! kiểm soát. Lòng trung thành của nó với chính phủ Liên bang là không tồn tại."
+
+ USA_longist_state: "$USA_longist_state_base$: [USA_GetStateControlLevelLabel]"
+ USA_longist_state_base: "Kiểm soát của Longist"
+ USA_longist_state_desc: "[USA_GetLongistStateControlDesc]"
+ USA_longist_state_desc_partial: "Bang này có sự ủng hộ cho §LHuey Long§!. Lòng trung thành của nó trong trường hợp xung đột nội bộ nổ ra là không chắc chắn."
+ USA_longist_state_desc_total: "Bang này hoàn toàn bị phong trào xung quanh §LHuey Long§! kiểm soát. Lòng trung thành của nó với chính phủ Liên bang là không tồn tại."
+
+### Decisions ####
+ ACW_foreign_volunteer_decisions: "Tình nguyện viên Nước ngoài"
+ ACW_foreign_volunteer_decisions_desc: "Với cuộc nội chiến đang hoành hành ở Mỹ, có thể tốt nếu gửi tiếp tế và vũ khí đến phe mà chúng ta muốn giúp giành chiến thắng trong cuộc xung đột đẫm máu đó."
+
+ ACW_support_socialists: "Ủng hộ [FROM.GetNameDef]"
+ ACW_support_socialists_desc: "Chúng ta nên ủng hộ các đồng chí của mình ở Mỹ đang chiến đấu vì sự giải phóng của tất cả người lao động."
+
+ ACW_support_non_socialists: "Ủng hộ [FROM.GetNameDef]"
+ ACW_support_non_socialists_desc: "Chúng ta nên ủng hộ [FROM.GetNameDef] trong cuộc chiến chống lại cả những người công đoàn chủ nghĩa và những kẻ phản bội."
+
+ ACW_civil_war_decisions: "Nội chiến"
+ ACW_civil_war_decisions_desc: "Nội chiến Mỹ lần thứ hai đã đến và chúng ta phải mang lại chiến thắng của mình trong đó vì nước Mỹ."
+
+ ACW_federal_deadline_looms: "Hạn chót của Liên bang đang đến gần"
+ ACW_federal_deadline_looms_desc: "Yêu cầu của Tổng thống rất rõ ràng: những kẻ nổi loạn phải hạ vũ khí và giải giáp trong vòng một tháng, nếu không lực lượng Liên bang sẽ buộc họ phải làm vậy - bất kể hậu quả. Nước Mỹ chờ đợi trong im lặng khi ngày tháng trôi qua mà không bên nào có vẻ sẵn sàng nhượng bộ. Rõ ràng những ngày của ngoại giao đã qua từ lâu..."
+
+ ACW_rocky_mountain_ceasefire_decisions: "[ACW_ceasefire_name]"
+ ACW_break_ceasefire: "Phá vỡ Lệnh Ngừng bắn"
+ ACW_break_ceasefire_desc: "Chúng ta đã chờ đợi đủ lâu. Đã đến lúc tấn công [From.GetNameDef] và kết thúc nội chiến một lần và mãi mãi."
+
+ ACC_deal_with_devil: "Giao kèo với Ác quỷ"
+ ACC_deal_with_devil_desc: "Chúng ta đang thua trong nội chiến... một cách tồi tệ. Hy vọng duy nhất của chúng ta là thiết lập một thỏa thuận ngừng bắn tạm thời với [From.GetNameDef], để chúng ta có thể hợp lực chống lại kẻ thù thực sự của mình. Đề xuất của chúng ta là thỏa thuận ngừng bắn sẽ kéo dài 90 ngày, nhưng hy vọng lâu hơn nếu cả hai bên sẵn lòng."
+
+ APG_deal_with_devil: "Giao kèo với Ác quỷ"
+ APG_deal_with_devil_desc: "Chúng ta đang thua trong nội chiến... một cách tồi tệ. Hy vọng duy nhất của chúng ta là thiết lập một thỏa thuận ngừng bắn tạm thời với [From.GetNameDef], để chúng ta có thể hợp lực chống lại kẻ thù thực sự của mình. Đề xuất của chúng ta là thỏa thuận ngừng bắn sẽ kéo dài 90 ngày, nhưng hy vọng lâu hơn nếu cả hai bên sẵn lòng."
+
+ ACW_break_deal_with_devil: "Phá vỡ Giao kèo"
+ ACW_break_deal_with_devil_desc: "Đã đến lúc thỏa thuận ngừng bắn tạm thời của chúng ta với [From.GetNameDef] phải kết thúc."
+
+ USA_relocate_capital_civil_war: "Di dời Thủ đô"
+
+ ACW_federal_front: "Tiến công Mặt trận Liên bang"
+ ACW_syndicalist_front: "Tiến công Mặt trận [WCA.GetAdjective]"
+ ACW_longist_front: "Tiến công Mặt trận [APG.GetAdjective]"
+ ACW_pacific_front: "Tiến công Mặt trận [ACC.GetAdjective]"
+
+ ACW_recruitment_tooltip: "Các bang có thể tuyển mộ"
+ ACW_recruit_in_state: "Tuyển mộ [From.GetACWDivisionCount] Dân quân ở [From.GetName]"
+
+### Set Up Events ###
+ american_civil_war_events.1.t: "Đại hội Công nhân Họp tại Chicago"
+
+ american_civil_war_events.1.d.body.intro: "Với lời kêu gọi Tổng đình công được IWW, CIO và thậm chí cả các phần tử của AFL hưởng ứng, nhiệt huyết cách mạng đang lớn dần trong vành đai thép đã đạt đến đỉnh điểm. Những người xã hội chủ nghĩa đã nắm quyền kiểm soát cơ sở hạ tầng quan trọng và chính quyền các bang khắp nơi, tuyên bố thành lập các công xã địa phương và tự phát trưng thu công nghiệp tư nhân, đồng thời dựng rào chắn ở các khu vực trọng yếu của các thành phố công nghiệp lớn. Các lực lượng cánh hữu trong khu vực đã hoàn toàn bị đánh bại, khi Hồng vệ binh bảo vệ vùng nông thôn và các tuyến đường sắt nối các trung tâm ủng hộ Đỏ lại với nhau."
+ american_civil_war_events.1.d.body.coup: "Mặc dù cuộc nổi loạn này là tình trạng bất ổn nghiêm trọng nhất kể từ Nội chiến, nó sẽ tương đối đơn giản (dù bạo lực và đẫm máu) để dập tắt nếu không vì một yếu tố then chốt: lòng trung thành của quân đội. Mặc dù quân đội thông thường là một lực lượng phi chính trị kiên định, việc Tướng MacArthur đơn phương ban hành Kế hoạch Chiến tranh White và cướp chính quyền ở Washington đã phá vỡ truyền thống không can thiệp vào công việc dân sự, và đã làm rạn nứt lòng trung thành của chính quân đội. Sau cuộc đảo chính của MacArthur, nỗ lực phản đảo chính của Tướng Smedley Butler, và các cuộc thanh trừng thất bại sau đó nhằm loại bỏ các sĩ quan \"bất trung\" khỏi hàng ngũ, Butler và Tướng James K. Parsons, cùng với các sĩ quan tiến bộ và Trung Tây nổi bật khác, đã gặp John Reed và cam kết ủng hộ cuộc nổi dậy của công nhân đang lớn mạnh."
+ american_civil_war_events.1.d.body.republican: "Mặc dù cuộc nổi loạn này là tình trạng bất ổn nghiêm trọng nhất kể từ Nội chiến, nó sẽ tương đối đơn giản (dù bạo lực và đẫm máu) để dập tắt nếu không vì một yếu tố then chốt: lòng trung thành của quân đội. Mặc dù quân đội thông thường là một lực lượng phi chính trị kiên định, việc Tướng MacArthur đơn phương ban hành Kế hoạch Chiến tranh White đã phá vỡ truyền thống không can thiệp vào công việc dân sự, và đã làm rạn nứt lòng trung thành của chính quân đội. Sau cuộc cướp chính quyền ngắn ngủi của MacArthur ở Washington, nỗ lực phản đảo chính của Tướng Smedley Butler, và các cuộc thanh trừng thất bại sau đó nhằm loại bỏ các sĩ quan \"bất trung\" khỏi hàng ngũ, Butler và Tướng James K. Parsons, cùng với các sĩ quan tiến bộ và Trung Tây nổi bật khác, đã gặp John Reed và cam kết ủng hộ cuộc nổi dậy của công nhân đang lớn mạnh."
+ american_civil_war_events.1.d.body.hull: "Mặc dù cuộc nổi loạn này là tình trạng bất ổn nghiêm trọng nhất kể từ Nội chiến, nó sẽ tương đối đơn giản (dù bạo lực và đẫm máu) để dập tắt nếu không vì một yếu tố then chốt: lòng trung thành của quân đội. Mặc dù quân đội thông thường là một lực lượng phi chính trị kiên định, việc Tướng MacArthur đơn phương ban hành Kế hoạch Chiến tranh White và nắm quyền hành pháp đã phá vỡ truyền thống không can thiệp vào công việc dân sự, và đã làm rạn nứt lòng trung thành của chính quân đội. Sau cuộc cướp chính quyền của MacArthur ở Washington, nỗ lực phản đảo chính của Tướng Smedley Butler, và các cuộc thanh trừng thất bại sau đó nhằm loại bỏ các sĩ quan \"bất trung\" khỏi hàng ngũ, Butler và Tướng James K. Parsons, cùng với các sĩ quan tiến bộ và Trung Tây nổi bật khác, đã gặp John Reed và cam kết ủng hộ cuộc nổi dậy của công nhân đang lớn mạnh."
+ american_civil_war_events.1.d.body.outro: "Với lực lượng quân sự liên bang không còn là trở ngại cho cách mạng, SPA đã mời tất cả các lực lượng chính trị cách mạng họp tại Chicago. Các nghị sĩ xã hội chủ nghĩa, đại diện công đoàn IWW và CIO, và các chính trị gia tiến bộ cách mạng khác đã tụ họp và ký một tuyên bố tự xưng là \"Đại hội Công nhân Lâm thời Mỹ\", về cơ bản là tuyên bố một chính phủ Đỏ đối thủ. Như một phần của tuyên bố, họ tố cáo tính chính danh của bất kỳ chính phủ \"phản động\" nào ở Hoa Kỳ, và bầu John Reed làm Tổng thống lâm thời của họ.\n\nKhi các chính quyền bang khác nhau tuyên bố trung thành với chính phủ cách mạng mới, có vẻ như con xúc xắc đã được gieo. Cách mạng đã bắt đầu."
+
+ american_civil_war_events.1.d.coup: "$american_civil_war_events.1.d.body.intro$\n\n$american_civil_war_events.1.d.body.coup$\n\n$american_civil_war_events.1.d.body.outro$"
+ american_civil_war_events.1.d.republican: "$american_civil_war_events.1.d.body.intro$\n\n$american_civil_war_events.1.d.body.republican$\n\n$american_civil_war_events.1.d.body.outro$"
+ american_civil_war_events.1.d.hull: "$american_civil_war_events.1.d.body.intro$\n\n$american_civil_war_events.1.d.body.hull$\n\n$american_civil_war_events.1.d.body.outro$"
+
+ american_civil_war_events.1.d.default: "$american_civil_war_events.1.d.body.intro$\n\n$american_civil_war_events.1.d.body.outro$"
+
+ american_civil_war_events.1.a: "Thảm họa đã bắt đầu. Đứng về phía Cộng hòa"
+ american_civil_war_events.1.b: "Cách mạng đã bắt đầu. Đứng về phía công nhân (Chơi với WCA)"
+
+ american_civil_war_events.2.t.president: "Tổng thống Long Tuyên bố Chính phủ Đối thủ tại Baton Rouge"
+ american_civil_war_events.2.t.revolt: "Huey Long Tuyên bố Chính phủ Đối thủ tại Baton Rouge"
+
+ american_civil_war_events.2.d.body.intro: "Các sự kiện ở Trung Tây trong tuần qua đã đẩy miền Nam phản động vào cơn điên cuồng. Lo sợ cuộc nổi dậy Đỏ trong tầng lớp người Mỹ gốc Phi, và đã mất hoàn toàn niềm tin vào khả năng của Chính phủ Liên bang trong việc xử lý khủng hoảng, nhiều bang miền Nam đã bắt đầu vũ trang dân quân và động viên lực lượng vệ binh quốc gia, để bảo vệ tài sản và thể chế chính trị của họ khỏi các mối đe dọa Đỏ cả trong lẫn ngoài miền Nam."
+ american_civil_war_events.2.d.body.revolt.generic: "Tìm kiếm một nhà lãnh đạo mạnh mẽ và có sức lôi cuốn để bảo vệ họ khỏi chủ nghĩa công đoàn, các thống đốc miền Nam đã tập hợp dưới ngọn cờ của Huey Long. Long, người đã trong một liên minh chính trị với các lực lượng miền Nam khác nhau trong hai năm nay, đã kêu gọi sự hội tụ của \"những người Mỹ yêu nước\" và \"các thành viên trung thành của Quốc hội\" tại Baton Rouge, tố cáo cả \"Đại hội Công nhân\" tự xưng và chính phủ liên bang là \"kẻ thù của Nhân dân Mỹ\"."
+ american_civil_war_events.2.d.body.revolt.macarthur: "Tìm kiếm một nhà lãnh đạo mạnh mẽ và có sức lôi cuốn để bảo vệ họ khỏi chủ nghĩa công đoàn, các thống đốc miền Nam đã tập hợp dưới ngọn cờ của Huey Long. Long, người đã trong một liên minh chính trị với các lực lượng miền Nam khác nhau trong hai năm nay, đã kêu gọi sự hội tụ của \"những người Mỹ yêu nước\" và \"các thành viên trung thành của Quốc hội\" tại Baton Rouge, tố cáo cả \"Đại hội Công nhân\" tự xưng và chính phủ quân sự liên bang của Douglas MacArthur là \"kẻ thù của Nhân dân Mỹ\"."
+ american_civil_war_events.2.d.body.revolt.landon: "Tìm kiếm một nhà lãnh đạo mạnh mẽ và có sức lôi cuốn để bảo vệ họ khỏi chủ nghĩa công đoàn, các thống đốc miền Nam đã tập hợp dưới ngọn cờ của Huey Long. Long, người đã trong một liên minh chính trị với các lực lượng miền Nam khác nhau trong hai năm nay, đã kêu gọi sự hội tụ của \"những người Mỹ yêu nước\" và \"các thành viên trung thành của Quốc hội\" tại Baton Rouge, tố cáo cả \"Đại hội Công nhân\" tự xưng và chính phủ liên bang kém hiệu quả của Alf Landon là \"kẻ thù của Nhân dân Mỹ\"."
+ american_civil_war_events.2.d.body.president: "Tìm kiếm một nhà lãnh đạo mạnh mẽ và có sức lôi cuốn để bảo vệ họ khỏi chủ nghĩa công đoàn, các thống đốc miền Nam đã tập hợp dưới ngọn cờ của Tổng thống Huey Long. Long, người đã trốn thoát khỏi sự bắt giữ của lực lượng MacArthur sau cuộc đảo chính ở Washington và thành công chạy trốn đến Louisiana, đã kêu gọi sự hội tụ của \"những người Mỹ yêu nước\" và \"các thành viên trung thành của Quốc hội\" tại Baton Rouge, tố cáo cả \"Đại hội Công nhân\" tự xưng và chính phủ liên bang kém hiệu quả của Alf Landon là \"kẻ thù của Nhân dân Mỹ\"."
+ american_civil_war_events.2.d.body.outro.rebel: "Một phần đáng kể của quân đội Mỹ đã đồng ý với đánh giá của Long. Các Tướng Fox Conner và George Van Horn Moseley, cả hai đều đóng tại miền Nam, đã cam kết ủng hộ Long, làm sâu sắc thêm sự sụp đổ kỷ luật đang diễn ra trong quân đội bị chia rẽ. Với các lực lượng này, phần lớn miền Nam trên thực tế đã ly khai khỏi liên bang, giờ đây được cai trị bởi Long và các đồng minh địa phương của ông.\n\nLong đã chính thức hóa thỏa thuận này bằng cách mở một Quốc hội đối thủ tại Baton Rouge, mà đến lượt nó, đã tuyên bố ông là Tổng thống được bầu một cách chính đáng. \"Chính phủ Nhân dân\" của Long giờ đây cai trị từ Texas đến Nam Carolina, và chuẩn bị đòi lại đất nước từ những người công đoàn chủ nghĩa và giới tinh hoa đã đẩy nó đến bờ vực."
+ american_civil_war_events.2.d.body.outro.president: "Một phần đáng kể của quân đội Mỹ đã hưởng ứng lời kêu gọi của Tổng thống hợp hiến. Các Tướng Fox Conner và George Van Horn Moseley, cả hai đều đóng tại miền Nam, đã cam kết ủng hộ Long, làm sâu sắc thêm sự sụp đổ kỷ luật đang diễn ra trong quân đội bị chia rẽ. Với các lực lượng này, phần lớn miền Nam trên thực tế đã ly khai khỏi liên bang, giờ đây được cai trị bởi Long và các đồng minh địa phương của ông.\n\nLong đã chính thức hóa thỏa thuận này bằng cách mở một Quốc hội đối thủ tại Baton Rouge, mà đến lượt nó, đã tái khẳng định vị trí Tổng thống của ông. \"Chính phủ Nhân dân\" của Long giờ đây cai trị từ Texas đến Nam Carolina, và chuẩn bị đòi lại đất nước từ những người công đoàn chủ nghĩa và giới tinh hoa đã đẩy nó đến bờ vực."
+
+ american_civil_war_events.2.d.macarthur: "$american_civil_war_events.2.d.body.intro$\n\n$american_civil_war_events.2.d.body.revolt.macarthur$\n\n$american_civil_war_events.2.d.body.outro.rebel$"
+ american_civil_war_events.2.d.republican: "$american_civil_war_events.2.d.body.intro$\n\n$american_civil_war_events.2.d.body.revolt.landon$\n\n$american_civil_war_events.2.d.body.outro.rebel$"
+ american_civil_war_events.2.d.president: "$american_civil_war_events.2.d.body.intro$\n\n$american_civil_war_events.2.d.body.president$\n\n$american_civil_war_events.2.d.body.outro.president$"
+
+ american_civil_war_events.2.d.default: "$american_civil_war_events.2.d.body.intro$\n\n$american_civil_war_events.2.d.body.revolt.generic$\n\n$american_civil_war_events.2.d.body.outro.rebel$"
+
+ american_civil_war_events.2.a: "Đứng về phía Cộng hòa"
+ american_civil_war_events.2.b: "Đứng về phía Đất nước (Chơi với APG)"
+
+ american_civil_war_events.3.t.president: "Các Thống đốc Thái Bình Dương Ủng hộ Roosevelt"
+ american_civil_war_events.3.t.revolt: "Quentin Roosevelt Nhận Chức Tổng thống Lâm thời tại Sacramento"
+
+ american_civil_war_events.3.d.body.intro.nolong: "Việc Tướng MacArthur cướp chính quyền ở phía đông đã để lại một khoảng trống quyền lực rộng lớn trên khắp đất nước. Các lực lượng chính trị trung thành với dân chủ và hiến pháp đã kinh hoàng chứng kiến phía đông rơi vào hỗn loạn cách mạng và phi hiến pháp. Cuộc đảo chính của MacArthur chỉ là sự xúc phạm đầu tiên: tuyên bố của Reed ở Chicago và việc Long cướp chính quyền ở miền Nam đã càng củng cố ý niệm rằng trật tự pháp lý và hiến pháp ở Hoa Kỳ đang có nguy cơ bị dập tắt bởi những kẻ cấp tiến và bạo chúa."
+ american_civil_war_events.3.d.body.intro.long: "Việc Tướng MacArthur cướp chính quyền ở phía đông đã để lại một khoảng trống quyền lực rộng lớn trên khắp đất nước. Các lực lượng chính trị trung thành với dân chủ và hiến pháp đã kinh hoàng chứng kiến phía đông rơi vào hỗn loạn cách mạng và phi hiến pháp. Cuộc đảo chính của MacArthur chỉ là sự xúc phạm đầu tiên: tuyên bố của Reed ở Chicago và việc Long cướp chính quyền ở miền Nam (mà không tham khảo ý kiến Quốc hội hợp hiến) đã càng củng cố ý niệm rằng trật tự pháp lý và hiến pháp ở Hoa Kỳ đang có nguy cơ bị dập tắt bởi những kẻ cấp tiến và bạo chúa."
+
+ american_civil_war_events.3.d.body.middle1.normal: "Bờ biển phía tây, may mắn thay, cho đến nay đã được tha khỏi phần lớn sự hỗn loạn. Ngoại trừ một cuộc nổi dậy Đỏ thất bại ở Seattle, chính phủ hiến pháp nói chung đã được duy trì ở California, Oregon và Washington. Do đó, nhiều chính trị gia theo chủ nghĩa hiến pháp từ cả hai đảng lớn và Farmer-Labor đã chọn chạy trốn đến thành trì dân chủ mới. Trong số đó có Phó Tổng thống Quentin Roosevelt, người đã ở bờ biển phía tây trước cuộc đảo chính của MacArthur."
+ american_civil_war_events.3.d.body.middle1.olson: "Bờ biển phía tây, may mắn thay, cho đến nay đã được tha khỏi phần lớn sự hỗn loạn. Ngoại trừ một cuộc nổi dậy Đỏ thất bại ở Seattle, chính phủ hiến pháp nói chung đã được duy trì ở California, Oregon và Washington. Do đó, nhiều chính trị gia theo chủ nghĩa hiến pháp từ cả hai đảng lớn và Farmer-Labor đã chọn chạy trốn đến thành trì dân chủ mới. Trong số đó có Tổng thống lâm thời Quentin Roosevelt, người đã thoát khỏi sự bắt giữ của lực lượng MacArthur và thành công chạy trốn đến Sacramento."
+ american_civil_war_events.3.d.body.middle1.hull: "Bờ biển phía tây, may mắn thay, cho đến nay đã được tha khỏi phần lớn sự hỗn loạn. Ngoại trừ một cuộc nổi dậy Đỏ thất bại ở Seattle, chính phủ hiến pháp nói chung đã được duy trì ở California, Oregon và Washington. Do đó, nhiều chính trị gia theo chủ nghĩa hiến pháp từ cả hai đảng lớn và Farmer-Labor đã chọn chạy trốn đến thành trì dân chủ mới. Trong số đó có Cựu Thống đốc New York và ứng viên Phó Tổng thống của GOP Quentin Roosevelt, người đã ở bờ biển phía tây trước cuộc đảo chính của MacArthur."
+
+ american_civil_war_events.3.d.body.middle2.normal: "Với sự ủng hộ của các thống đốc bờ biển phía tây và Phó Tổng thống Roosevelt, nhiều nghị sĩ đã tụ họp tại Sacramento. Tuyên bố những thành viên Quốc hội đã theo các chính phủ đối thủ đã mất ghế của họ, họ tuyên bố mình có đủ túc số với tư cách là Quốc hội hợp hiến của Hoa Kỳ. Với tư cách đó, họ tuyên bố Tổng thống, dưới sự giam giữ của lực lượng MacArthur, không thể phục vụ, và tuyên bố Roosevelt là Tổng thống lâm thời, tạo ra một chính phủ đối thủ khác."
+ american_civil_war_events.3.d.body.middle2.long: "Với sự ủng hộ của các thống đốc bờ biển phía tây và Phó Tổng thống Roosevelt, nhiều nghị sĩ đã tụ họp tại Sacramento. Tuyên bố những thành viên Quốc hội đã theo các chính phủ đối thủ đã mất ghế của họ, họ tuyên bố mình có đủ túc số với tư cách là Quốc hội hợp hiến của Hoa Kỳ. Với tư cách đó, họ tuyên bố Tổng thống Long, đã phạm tội phản quốc bằng cách tuyên bố chính phủ của riêng mình, không thể phục vụ, và tuyên bố Roosevelt là Tổng thống lâm thời, tạo ra một chính phủ đối thủ khác."
+ american_civil_war_events.3.d.body.middle2.olson: "Với sự ủng hộ của các thống đốc bờ biển phía tây và Tổng thống lâm thời Roosevelt, nhiều nghị sĩ đã tụ họp tại Sacramento. Tuyên bố những thành viên Quốc hội đã theo các chính phủ đối thủ đã mất ghế của họ, họ tuyên bố mình có đủ túc số với tư cách là Quốc hội hợp hiến của Hoa Kỳ. Với tư cách đó, họ tuyên bố rằng Tổng thống, vẫn đang hôn mê và được coi là khó có thể hồi phục, không thể phục vụ, và tái khẳng định Roosevelt là Tổng thống lâm thời, tạo ra một chính phủ đối thủ khác."
+ american_civil_war_events.3.d.body.middle2.hull: "Với sự ủng hộ của các thống đốc bờ biển phía tây và Quentin Roosevelt, nhiều nghị sĩ đã tụ họp tại Sacramento. Tuyên bố những thành viên Quốc hội đã theo các chính phủ đối thủ đã mất ghế của họ, họ tuyên bố mình có đủ túc số với tư cách là Quốc hội hợp hiến của Hoa Kỳ. Với tư cách đó, họ cuối cùng đã bầu danh sách ứng cử viên của Đảng Cộng hòa trong một cuộc bầu cử tổng thống dự phòng. Vì ứng viên Tổng thống của Đảng Cộng hòa đã bị lực lượng MacArthur bắt giữ, họ tuyên bố Roosevelt là Tổng thống lâm thời, tạo ra một chính phủ đối thủ khác."
+
+ american_civil_war_events.3.d.body.outro: "\"Liên minh hiến pháp\" này đã giành được sự ủng hộ của nhiều sĩ quan quân đội không muốn theo MacArthur, Reed hay Long. Tướng George Marshall đã đề nghị phục vụ chính phủ Sacramento, nơi giờ đây chuẩn bị cho một cuộc hành quân dài về phía đông để khôi phục chính quyền hiến pháp cho Hoa Kỳ."
+
+ american_civil_war_events.3.d.olson: "$american_civil_war_events.3.d.body.intro.nolong$\n\n$american_civil_war_events.3.d.body.middle1.olson$\n\n$american_civil_war_events.3.d.body.middle2.olson$\n\n$american_civil_war_events.3.d.body.outro$"
+ american_civil_war_events.3.d.long: "$american_civil_war_events.3.d.body.intro.long$\n\n$american_civil_war_events.3.d.body.middle1.normal$\n\n$american_civil_war_events.3.d.body.middle2.long$\n\n$american_civil_war_events.3.d.body.outro$"
+ american_civil_war_events.3.d.hull: "$american_civil_war_events.3.d.body.intro.nolong$\n\n$american_civil_war_events.3.d.body.middle1.hull$\n\n$american_civil_war_events.3.d.body.middle2.hull$\n\n$american_civil_war_events.3.d.body.outro$"
+ american_civil_war_events.3.d.default: "$american_civil_war_events.3.d.body.intro.nolong$\n\n$american_civil_war_events.3.d.body.middle1.normal$\n\n$american_civil_war_events.3.d.body.middle2.normal$\n\n$american_civil_war_events.3.d.body.outro$"
+
+ american_civil_war_events.3.a: "Đứng về phía Chính phủ"
+ american_civil_war_events.3.b: "Đứng về phía Cộng hòa (Chơi với ACC)"
+
+ american_civil_war_events.4.t: "Bế tắc ở Mỹ"
+ american_civil_war_events.4.d: "[ACW_news_event_desc]"
+ american_civil_war_events.4.d.long: "Một sự bế tắc căng thẳng đã bùng nổ ở Hoa Kỳ, khi Tổng thống được bầu Huey Long chạy trốn đến thành phố Baton Rouge sau khi bị Tướng Douglas MacArthur buộc phải rời khỏi vị trí của mình.\n\nTừ Baton Rouge, những người ủng hộ Long đã tuyên bố chính phủ của MacArthur là bất hợp pháp - cũng như những người ủng hộ miền bắc của John Reed theo chủ nghĩa công đoàn, có trụ sở tại Chicago, và cuộc nổi dậy của phe Hiến pháp dưới sự lãnh đạo của Phó Tổng thống bị phế truất Quentin Roosevelt. Tất cả đều được Tướng MacArthur đưa ra thời hạn ba mươi ngày để hạ vũ khí hoặc đối mặt với bắt giữ và hành quyết.\n\nXét thấy tất cả các bên đang nhanh chóng xây dựng lực lượng, ý tưởng rằng nước Mỹ dường như đang hướng tới một cuộc nội chiến lần thứ hai gần như chắc chắn."
+ american_civil_war_events.4.d.landon: "Tổng thống Alf Landon đã trải qua một đòn giáng lớn hôm nay khi một loạt các lực lượng chính trị cấp tiến tuyên bố chính phủ của ông là bất hợp pháp, đặt sự ủng hộ của họ đằng sau hoặc nhà dân túy Huey Long hoặc những người công đoàn chủ nghĩa dưới quyền John Reed.\n\nỞ cả Baton Rouge và Chicago, các chính phủ đối thủ tuyên bố chủ quyền đối với Hoa Kỳ đã được tuyên bố, yêu cầu loại bỏ ngay lập tức Tổng thống Landon khỏi chức vụ.\n\nĐáp lại, Tổng thống Landon đã cho các thống đốc ba mươi ngày để hạ vũ khí - khiến cho gần như chắc chắn rằng Hoa Kỳ sẽ rơi vào nội chiến lần thứ hai trong chưa đầy một thế kỷ."
+ american_civil_war_events.4.d.borah: "Trong khi Tổng thống [USA.GetLeader] ăn mừng chiến thắng gần đây bằng cách thiết lập liên minh với đối thủ cũ của mình, Huey Long, thỏa thuận này càng khích lệ phe cực tả dưới ô che của Đảng Xã hội Chủ nghĩa Mỹ.\n\nHôm nay, một đại hội cách mạng đã họp tại Chicago, tuyên bố chấm dứt trật tự cũ và thành lập chính phủ lâm thời dưới quyền John Reed.\n\nĐáp lại, Tổng thống [USA.GetLeader] đã cho phiến quân ba mươi ngày để hạ vũ khí - một mệnh lệnh mà dường như không ai trong số họ quan tâm tuân thủ, khiến cho gần như chắc chắn rằng Hoa Kỳ sẽ rơi vào nội chiến lần thứ hai trong chưa đầy một thế kỷ."
+ american_civil_war_events.4.d.default: "Một sự bế tắc căng thẳng đã bùng nổ ở Hoa Kỳ khi Tướng Douglas MacArthur và quân đội Mỹ đã nắm quyền kiểm soát chính phủ từ tổng thống được bầu - để, như ông tuyên bố trong một buổi phát thanh toàn quốc, \"ngăn chặn sự không hành động dẫn Hoa Kỳ vào tay những kẻ cấp tiến\".\nTừ Chicago, những người ủng hộ John Reed đã tuyên bố chính phủ của MacArthur là bất hợp pháp - cũng như những người ủng hộ miền nam của Huey Long, có trụ sở tại Baton Rouge, và cuộc nổi dậy của phe Hiến pháp dưới sự lãnh đạo của Phó Tổng thống bị phế truất Quentin Roosevelt.\nTất cả đều được Tướng MacArthur đưa ra thời hạn ba mươi ngày để hạ vũ khí hoặc đối mặt với bắt giữ và hành quyết. Xét thấy tất cả các bên đang nhanh chóng xây dựng lực lượng, ý tưởng rằng nước Mỹ dường như đang hướng tới một cuộc nội chiến lần thứ hai gần như chắc chắn."
+ american_civil_war_events.4.a: "Ta hiểu."
+
+ american_civil_war_events.5.t: "Nội chiến lần thứ hai"
+ american_civil_war_events.5.d.macarthur: "Thời hạn của MacArthur đã đến và đi, và với lực lượng dân quân lớn đã được xây dựng ở mọi phía, rõ ràng câu trả lời thực sự của họ là gì. Nội chiến Mỹ lần thứ hai đã bắt đầu."
+ american_civil_war_events.5.d.president: "Thời hạn của Tổng thống đã đến và đi, và với lực lượng dân quân lớn đã được xây dựng ở mọi phía, rõ ràng câu trả lời thực sự của họ là gì. Nội chiến Mỹ lần thứ hai đã bắt đầu."
+ american_civil_war_events.5.a: "Lại không phải nữa..."
+
+### End of Civil War ###
+ american_civil_war_events.24.t: "Kết thúc Nội chiến Mỹ lần thứ hai"
+ american_civil_war_events.24.d.WCA: "Điều có thể là kẻ áp bức tư bản vĩ đại nhất của thế kỷ 20 giờ đây đã nằm vững chắc dưới sự kiểm soát của giai cấp công nhân. Trên khắp đất nước, giai cấp công nhân ăn mừng sự giải phóng của mình khỏi sự cướp bóc của những ông chủ tư sản. Mặc dù còn nhiều việc phải làm, hôm nay chúng ta có thể ăn mừng chiến thắng này và tận hưởng bầu không khí của một nước Mỹ nơi, lần đầu tiên, mỗi người đàn ông thực sự bình đẳng."
+ american_civil_war_events.24.d.APG: "Huey Long và các đồng minh của ông đã chiến thắng tất cả kẻ thù của họ. Với chiến thắng này, giờ đây chúng ta có thể ăn mừng một kỷ nguyên hòa bình mới. Mặc dù còn nhiều việc tái thiết phải làm, chúng ta sẽ dành thời gian này để ăn mừng chiến thắng của mình."
+ american_civil_war_events.24.d.USA: "Kẻ thù của nước Mỹ đã bị đánh bại. Một lần nữa, miền Nam đã được bình định và mối đe dọa công đoàn chủ nghĩa đã bị nghiền nát. Hệ thống vĩ đại được các Bậc cha sáng lập thiết kế một cách khôn ngoan đã trải qua một thử thách khác. Trên khắp đất nước, người dân có thể vui mừng và ăn mừng một kỷ nguyên hòa bình mới."
+ american_civil_war_events.24.d.ACC: "Kẻ thù của nước Mỹ đã bị đánh bại. Một lần nữa, miền Nam đã được bình định, mối đe dọa công đoàn chủ nghĩa đã bị nghiền nát và Caesar của nước Mỹ đã bị lật đổ. Hệ thống vĩ đại được các Bậc cha sáng lập thiết kế một cách khôn ngoan đã trải qua một thử thách khác. Trên khắp đất nước, người dân có thể vui mừng và ăn mừng một kỷ nguyên hòa bình mới."
+ american_civil_war_events.24.d.NEE: "Khi đất nước rơi vào hỗn loạn vào mùa xuân năm 1937, ít ai ở New England có thể ngờ rằng trật tự cũ sẽ trở lại. Sự sụp đổ của quốc gia Mỹ vào nội chiến một lần nữa và vị trí bấp bênh của New England đã khiến nhiều người từ bỏ mọi ý niệm về việc gặp lại gia đình và bạn bè. Tuy nhiên, điều đó không còn đúng nữa! Bằng sức mạnh và ý chí, những người đàn ông và phụ nữ dũng cảm của Lực lượng Vũ trang Chính phủ Lâm thời đã chiến đấu qua bao gian khó để thống nhất lại đất nước yêu dấu của họ. Tại Tòa thị chính Boston, lá cờ của Chính phủ Lâm thời cuối cùng đã được hạ xuống và thay thế bằng Lá cờ Sao và Sọc giữa tiếng reo hò của đám đông đẫm lệ đang theo dõi. Trên khắp New England, các cuộc diễu hành hoa giấy được tổ chức ở mọi thành phố lớn khi binh lính trở về nhà với những người thân yêu, bạn bè lâu ngày xa cách cuối cùng đã đoàn tụ, và những người con trai trở về vòng tay dịu dàng của mẹ. Mặc dù còn nhiều việc phải làm về tái thiết, New England ăn mừng - vì một lần nữa, trái tim của cuộc cách mạng nguyên thủy nước Mỹ đứng trong chiến thắng trước bạo quyền!"
+ american_civil_war_events.24.d.other: "Cuối cùng bụi đã lắng xuống, và có vẻ như cuộc nội chiến Mỹ đã kết thúc với... không còn ai đứng vững cả. Nước Mỹ không còn nữa, ít nhất là hiện tại."
+ #WCA:
+ american_civil_war_events.24.a: "Đoàn kết muôn năm!"
+ #APG:
+ american_civil_war_events.24.b: "Nước Mỹ Thực sự vẫn Đứng vững!"
+ #USA:
+ american_civil_war_events.24.c: "Đả đảo bọn phản bội, ủng hộ những ngôi sao!"
+ #ACC:
+ american_civil_war_events.24.d: "Ánh sáng Tự do này chưa bị dập tắt!"
+ #NEE:
+ american_civil_war_events.24.f: "Quê hương của cuộc cách mạng nguyên thủy đứng trong chiến thắng!"
+ #other:
+ american_civil_war_events.24.e: "Cuối cùng cũng kết thúc rồi..."
+
+### NEE and another contender are left ###
+ american_civil_war_events.25.t: "Mảnh ghép cuối cùng"
+ american_civil_war_events.25.d.WCA: "Sau một cuộc đấu tranh lâu dài và gian khổ, chúng ta đã đạt được điều mà nhiều người cho là không thể tưởng tượng chỉ vài năm trước. Từ biển này đến biển kia, lá cờ đỏ tung bay, và ngọn đuốc cách mạng chiếu sáng rực rỡ. Tuy nhiên, thật không may, chính phủ cách mạng của chúng ta chưa kiểm soát toàn bộ cựu Hoa Kỳ. Ở New England, một chính quyền ly khai phản động được Canada hậu thuẫn vẫn tồn tại, đã tuyên bố \"trung lập\" trong chiến tranh.\n\nVới giai đoạn chính của nội chiến giờ đây đã kết thúc, rõ ràng chúng ta phải giải quyết vấn đề của Chính phủ Boston sớm. Nếu chúng ta để nó tồn tại, nó có thể thành công tập hợp những người trung thành với trật tự cũ về phía mình, một lần nữa đe dọa cách mạng. Mặc dù nó có thể dẫn đến chiến tranh tiếp diễn, chúng ta phải dập tắt mối đe dọa phản động này từ trong trứng nước sớm, và mang ngọn đuốc của cuộc cách mạng mới đến quê hương của cái cũ."
+ american_civil_war_events.25.d.APG: "Sau một cuộc đấu tranh lâu dài và gian khổ, chúng ta đã thành công giành chiến thắng trong nội chiến và khôi phục Liên bang dưới sự cai trị của dân thường. Tuy nhiên, chính phủ nhân dân chưa kiểm soát toàn bộ Hoa Kỳ. Ở New England, một chính quyền bán ly khai được Canada hậu thuẫn vẫn tồn tại, đã tuyên bố \"trung lập\" trong chiến tranh.\n\nMặc dù chính phủ này đã phục vụ một mục đích hữu ích trong chiến tranh bằng cách từ chối cơ sở công nghiệp đáng kể của New England cho kẻ thù của chúng ta, sự tồn tại tiếp tục của nó không còn có thể chấp nhận được. Nếu chúng ta để nó tiếp tục, các phần tử đối lập có thể tập hợp về phía nó như một chế độ thay thế cho chế độ của chúng ta. Hiện tại, chúng ta sẵn lòng bỏ qua tội phản quốc kỹ thuật của họ vì lợi ích hòa giải dân tộc, tuy nhiên chúng ta sẽ yêu cầu họ thống nhất với chính quyền quốc gia của chúng ta."
+ american_civil_war_events.25.d.USA: "Sau một cuộc đấu tranh lâu dài và gian khổ, chúng ta đã thành công giành chiến thắng trong nội chiến và khôi phục sự cai trị của chính phủ hợp pháp trên phần lớn Hoa Kỳ. Tuy nhiên, chính phủ liên bang chưa kiểm soát toàn bộ Hoa Kỳ. Ở New England, một chính quyền bán ly khai được Canada hậu thuẫn vẫn tồn tại, đã tuyên bố \"trung lập\" trong chiến tranh.\n\nĐã từ chối cơ sở công nghiệp đáng kể của New England cho cả chúng ta và phe Đỏ, sự can thiệp của Canada đã gây tranh cãi trong những người trung thành với liên bang. Nếu chúng ta để nó tiếp tục, các phần tử đối lập có thể tập hợp về phía nó như một chế độ thay thế cho chế độ của chúng ta. Hiện tại, chúng ta sẵn lòng bỏ qua tội phản quốc kỹ thuật của họ vì lợi ích hòa giải dân tộc, đặc biệt là do sự tương đồng trong quan điểm bảo thủ nói chung của cả hai bên, tuy nhiên chúng ta sẽ yêu cầu họ thống nhất với chính quyền quốc gia của chúng ta."
+ american_civil_war_events.25.d.ACC: "Sau một cuộc đấu tranh lâu dài và gian khổ, chúng ta đã thành công giành chiến thắng trong nội chiến và khôi phục sự cai trị của hiến pháp trên phần lớn Hoa Kỳ. Tuy nhiên, chính phủ hiến pháp chưa kiểm soát toàn bộ Hoa Kỳ. Ở New England, một chính quyền bán ly khai được Canada hậu thuẫn vẫn tồn tại, đã tuyên bố \"trung lập\" trong chiến tranh.\n\nMặc dù chính phủ này đã phục vụ một mục đích hữu ích trong chiến tranh bằng cách từ chối cơ sở công nghiệp đáng kể của New England cho kẻ thù của chúng ta, sự tồn tại tiếp tục của nó không còn cần thiết nữa. Với lợi ích chung của chúng ta trong việc khôi phục nền dân chủ hiến pháp, không có lý do gì để Chính phủ Boston tiếp tục theo đuổi một sự tồn tại riêng biệt. Do đó, chúng ta nên ngay lập tức gửi một đề xuất thống nhất giữa hai chính phủ của chúng ta, đẩy nhanh quá trình hòa giải giữa đông và tây."
+ american_civil_war_events.25.a: "Gửi tối hậu thư cho New England."
+
+### WCA Flavour Events ###
+ american_civil_war_events.30.t: "Củng cố Giai cấp"
+ american_civil_war_events.30.a: "Đề nghị của Fraina về trả lương bình đẳng được thông qua."
+ american_civil_war_events.30.b: "Đề nghị của Thomas về phân bậc lương được thông qua."
+ american_civil_war_events.30.d: "Với Cách mạng đang trong giai đoạn toàn thắng và xã hội hoàn toàn phân cực thành hai phe lớn, nhiệm vụ đặt lên vai SPA là dẫn dắt giai cấp vô sản trên con đường tiến tới một xã hội cộng sản: tất nhiên, với tư cách là những người theo chủ nghĩa Marx, SPA hiểu rằng sự tiến hóa của xã hội về cơ bản dựa trên mối quan hệ của các giai cấp kinh tế với tư liệu sản xuất của họ. Suy cho cùng, Cách mạng của chúng ta không chỉ là chính trị hay thậm chí kinh tế: nó là xã hội, nghịch lý thay là sự bác bỏ-và-hoàn thành lý tưởng Dân chủ Xã hội. Nhà lý luận đảng hàng đầu và Công đoàn Công nghiệp nổi bật Louis Fraina đã lên diễn đàn đại hội để lập luận rằng trong thời điểm hiện tại WCA có cơ hội thực hiện một thay đổi quyết định: bình đẳng hóa hoàn toàn mọi mức lương - cụ thể là bằng cách cho phép các công xã địa phương cùng nhau ấn định mức lương. Mặc dù cho đến nay các công xã địa phương đã ấn định giá cả và xử lý việc phân phối tiền lương, việc thiết lập một mức lương phổ quát duy nhất cho tất cả công nhân sẽ là một bước tiến lớn trong việc phi hàng hóa hóa sản xuất - và do đó là chấm dứt chủ nghĩa tư bản.\n\nLãnh đạo Nhóm Tiến bộ Norman Thomas đã lên tiếng cảnh báo chống lại việc thông qua vội vàng đề nghị của Fraina, cảnh báo rằng một động thái như vậy có thể xua đuổi nhiều người ôn hòa mới được cấp tiến hóa trong cái gọi là lao động có tay nghề và các lực lượng tiểu tư sản khác đã tham gia chính nghĩa của chúng ta, cụ thể là nhiều chi hội AFL địa phương, các chi nhánh Farmer-Labor, và thậm chí cả những người theo chủ nghĩa vô chính phủ có tư tưởng Proudhon. Bám sát các thỏa thuận cấp tiến nhất trước chiến tranh, dù chúng có vẻ hời hợt như thế nào bây giờ, ít nhất là trong suốt thời gian Nội chiến, có thể phục vụ như một phương tiện quan trọng để khuyến khích sản lượng quân sự cần thiết cho chiến thắng. Cuộc bỏ phiếu cuối cùng rất sát nút, nhưng cuối cùng..."
+ american_civil_war_events.31.t: "Giai cấp Tư sản Chạy trốn sang Canada"
+ american_civil_war_events.31.d: "Giai cấp tư sản đã quyết định rằng họ sẽ chạy trốn khỏi [WCA.GetNameDef]. Hàng ngàn người đã tìm nơi ẩn náu trong lãnh thổ kẻ thù, đặc biệt là dưới chính phủ Canada bất hợp pháp. Bọn cặn bã trộm cắp đã mang theo bất kỳ tài sản bị đánh cắp nào chúng có thể mang theo khi chạy trốn khỏi cách mạng."
+ american_civil_war_events.31.a: "Cách mạng sẽ đến với họ, đúng lúc"
+
+ american_civil_war_events.32.t: "Cuộc đời của William Crawley được Công chiếu tại Rạp"
+ american_civil_war_events.32.d: "Các nhà tuyên truyền cách mạng vừa phát hành câu chuyện về cuộc đời của William Crawley, một người con khiêm tốn của Florida. Được quay trên một sân khấu âm thanh hiện đại, cuộc giải cứu táo bạo được thể hiện bởi cựu diễn viên Hollywood Paul Robeson. Mặc dù William Crowley ngoài đời thực thích ca đoàn nhà thờ hơn, các tiết mục âm nhạc của Paul Robeson lại có những giai điệu phổ biến vui tươi. Bộ phim đã chứng tỏ là một thành công vang dội tại phòng vé, đánh bại một bản chuyển thể của The Iron Heel của Jack London trong tuần đầu công chiếu. Báo chí đã bắt gặp William Crawley, người đã bình luận rằng bộ phim là 'Một cảnh tượng tuyệt vời về cuộc giải phóng vĩ đại của chúng ta'."
+ american_civil_war_events.32.a: "Tuyệt vời"
+
+ american_civil_war_events.33.t: "Chỉ thị 213: Chủ nghĩa Công đoàn Chiến tranh"
+ american_civil_war_events.33.d: "Khi chiến tranh bế tắc, và thậm chí có thể quay lưng lại với chúng ta, Ủy ban Trung ương đang tranh luận về một đề xuất cải cách kinh tế toàn diện được gọi là 'Chủ nghĩa Công đoàn Chiến tranh.' Một số đề xuất của nó, như kiểm soát nhà nước đối với tất cả ngoại thương, quốc hữu hóa tất cả các nhà máy, và kỷ luật lao động nghiêm ngặt không đặc biệt gây tranh cãi. Nó cũng bao gồm các biện pháp có khả năng gây vấn đề như cấm đình công tự phát, nghĩa vụ lao động bắt buộc đối với những người không làm việc hoặc không trong quân đội, khẩu phần lương thực nghiêm ngặt và kiểm soát quân sự đối với đường sắt. Điều này được coi là chuyên chế trong SPA với một số người nói rằng một số biện pháp sau này, đặc biệt là việc cấm đình công tự phát sẽ phản bội các giá trị của cách mạng, và khiến chính phủ hiện tại không tốt hơn kẻ thù tư bản của nó. Những người ủng hộ đề xuất trong TUEL phản bác rằng các biện pháp như vậy là cần thiết để đạt được chiến thắng trong cách mạng, và rằng những luật đầu tiên được thông qua sau chiến tranh sẽ bãi bỏ Chủ nghĩa Công đoàn Chiến tranh."
+ american_civil_war_events.33.a: "Ban hành Chủ nghĩa Công đoàn Chiến tranh"
+ american_civil_war_events.33.b: "Đó không phải là Chủ nghĩa Xã hội!"
+
+ american_civil_war_events.34.t: "Phi đội Bay Betsy Ross"
+ american_civil_war_events.34.d: "Bình đẳng giới từ lâu đã là một thành phần hệ tư tưởng chính của tư tưởng xã hội chủ nghĩa, và chúng ta có thêm bằng chứng rằng nó hiệu quả! Một phi đội phi công nữ đã giành được danh tiếng khắp WCA nhờ các cuộc đột kích táo bạo vào lãnh thổ kẻ thù, đội hình tấn công phối hợp và đồng bộ của họ cho phép họ hạ gục các lực lượng không quân lớn hơn của kẻ thù một cách dễ dàng. Được đặt tên theo người tạo ra lá cờ Mỹ bởi người sáng lập Opal Kunz, phi đội đã nhận biệt danh mới của mình với lòng tự hào lớn lao."
+ american_civil_war_events.34.a: "Cái chết đang ở trong không trung."
+
+ american_civil_war_events.35.t: "Nữ Binh sĩ"
+ american_civil_war_events.35.d: "Khi cuộc đấu tranh cách mạng tiếp tục, một số phụ nữ đã tham gia cuộc đấu tranh vũ trang theo lý tưởng xã hội chủ nghĩa về bình đẳng giới. Mặc dù không phải tất cả đều được các đồng chí nam của họ chấp nhận, điều đó đã không ngăn cản nhiều người chiến đấu và hy sinh vì cách mạng. Các sách hướng dẫn đã được phân phát cho những người tuyển mộ về cách tổ chức hiệu quả các Đội Nữ, từ đó dân quân có thể dạy quân đội một hai điều."
+ american_civil_war_events.35.a: "Cô gái Nổi loạn, em là nữ hoàng trong thế giới của anh!"
+
+ american_civil_war_events.36.t: "Xung đột Nội bộ"
+ american_civil_war_events.36.d: "Khi cách mạng bắt đầu, John Reed nhấn mạnh sự cần thiết của hợp tác giữa CIO và IWW. IWW, vốn đã bị cô lập bởi những thành công của CIO trong Farmer-Labor, đã được hồi sinh bởi sự ủng hộ của Reed, và giờ đây đóng một vai trò quan trọng trong chính phủ cách mạng. Giờ đây IWW, với tư cách là một phần của liên minh chiến đấu cho cách mạng xã hội chủ nghĩa, đã nhấn mạnh quyền tự trị hệ tư tưởng của họ. Họ đã chọn chiếm lĩnh không gian bên trái vị trí chính thức của chính phủ, và bắt đầu lôi kéo đồng minh. Các cuộc tranh luận của họ với CIO đôi khi có thể tràn ra đường phố, và, trong hai trường hợp, là hỏa lực nhầm. TUEL, chỉ trung thành với cách mạng, đã cố gắng thúc đẩy hợp tác. Giờ đây Reed phải quyết định liệu có nguy hiểm hơn khi tiếp tục ủng hộ IWW, khi thỏa hiệp đang ở trong tầm tay."
+ american_civil_war_events.36.a: "Đứng về phía IWW"
+ american_civil_war_events.36.b: "Để TUEL thỏa hiệp"
+ american_civil_war_events.36.c: "Đứng về phía CIO"
+
+ american_civil_war_events.38.t: "Chỉ thị 764: Đạo luật Giáo dục Cách mạng"
+ american_civil_war_events.38.d: "Đối với những người được giáo dục tốt, dù chính thức hay qua kinh nghiệm cay đắng, tư tưởng cách mạng đến dễ dàng như hơi thở. Tuy nhiên, nhiều đồng chí của chúng ta, dù ở Vành đai Thép hay nơi khác ở Mỹ, đã bị bọn tư bản lừa dối suốt cuộc đời, và không hiểu cách mạng giải phóng họ như thế nào. Nhiều người không dâng hiến trái tim và linh hồn cho cách mạng, và một số thậm chí cố gắng phá hoại nỗ lực của chúng ta, không biết rằng chúng ta là lực lượng duy nhất thực sự quan tâm đến họ. Điều này phải được khắc phục, và các đồng chí của chúng ta phải được tẩy não. Chúng ta nên tập trung vào việc tiếp cận những người trong lãnh thổ của chúng ta và giữ tinh thần cao, hay truyền bá thông điệp của chúng ta khắp vùng đất kẻ thù để làm suy yếu ý chí chống lại sự giải phóng của họ?"
+ american_civil_war_events.38.a: "Tập trung vào gia đình xã hội chủ nghĩa"
+ american_civil_war_events.38.b: "Tập trung vào kẻ thù phản động"
+
+ american_civil_war_events.39.t: "Chỉ thị 984: Kết án các Chính trị gia Tư bản Trước Chiến tranh"
+ american_civil_war_events.39.d: "Khi cách mạng gần thành công, người dân yêu cầu chúng ta xử lý những chính trị gia tư bản tham nhũng tại chức trước cách mạng, những người giờ đây đang mục nát trong các phòng giam của chúng ta. Một số người tin rằng bằng cách cho các chính trị gia này lao động khổ sai trong vài năm, họ sẽ đồng cảm với người lao động và được cải hóa theo chính nghĩa của chúng ta. Những người khác tin rằng không có lượng giáo dục nào có thể cải tạo họ, và họ phải ở sau song sắt suốt quãng đời còn lại. Một thiểu số nhỏ nhưng lớn tiếng khẳng định rằng họ phải bị xử tử vì tội ác của mình, giống như nhà Romanov hay các triều đại Bourbon ngày xưa."
+ american_civil_war_events.39.a: "Họ sẽ được cứu chuộc bằng mồ hôi trên trán và sự đau nhức trên lưng"
+ american_civil_war_events.39.b: "Họ sẽ nhìn thế giới bỏ họ lại phía sau và biến họ thành vô nghĩa"
+ american_civil_war_events.39.c: "Giờ là lượt của chúng ta, và chúng ta sẽ không tìm lý do biện hộ cho nỗi kinh hoàng!"
+
+ american_civil_war_events.40.t: "Chỉ thị 1231: Thành lập CIA"
+ american_civil_war_events.40.d: "Một thực tế đáng buồn là có những điệp viên và kẻ phá hoại trong lãnh thổ của chúng ta đang làm việc để ngăn chặn cuộc giải phóng vinh quang của chúng ta đối với quần chúng vô sản. Trong số nhiều đề xuất được đệ trình lên Ủy ban Trung ương, một đề xuất nổi bật. Đề xuất của Earl Browder là thành lập một ủy ban để thực thi trật tự cách mạng và ngăn chặn sự phá hoại phản cách mạng. Tuy nhiên, những người khác trong Ủy ban Trung ương, bao gồm Chủ tịch Reed, tự hỏi liệu đây có phải là một bước cần thiết và liệu nó có phản bội lý tưởng của chúng ta không. Dù sao đi nữa, một cuộc bỏ phiếu đã được thực hiện. Điều gì đã được quyết định?"
+ american_civil_war_events.40.a: "CIA sẽ được thành lập!"
+ american_civil_war_events.40.b: "Hiện tại không cần thiết"
+
+ american_civil_war_events.41.t: "Khủng bố Đỏ"
+ american_civil_war_events.41.d: "Chiến tranh là địa ngục. Nội chiến, càng tệ hơn. Căng thẳng tâm lý do phải giết liên tục, ngay cả khi kẻ thù là tư bản, đã khiến một số binh lính và chỉ huy của chúng ta trở nên tàn bạo vượt quá mức mà một số người coi là có thể chấp nhận. Mặc dù không phổ biến, các báo cáo về các vụ hành quyết hàng loạt có hệ thống và tra tấn đã xuất hiện từ cả tiền tuyến và các vùng lãnh thổ cốt lõi để đàn áp các nhóm dân cư bị nghi ủng hộ các phe tư bản. Reed đã đưa ra một quyết định hành pháp để ngăn chặn các báo cáo này khỏi truyền thông tự do. 'Nếu cách mạng thất bại vì một vài quả táo thối,' Reed nói, 'thì nhân loại sẽ phải chịu đựng tập thể trong nhiều thế kỷ nữa.'"
+ american_civil_war_events.41.a: "Dù sao thì đây cũng là cuộc xung đột cuối cùng"
+
+ american_civil_war_events.42.t: "Cuộc Đấu tranh Cuối cùng"
+ american_civil_war_events.42.d: "Không ai ngạc nhiên, bọn phản động cực đoan ở Canada cuối cùng đã quyết định can thiệp để cố gắng nghiền nát cách mạng ở Mỹ, trong một nỗ lực tuyệt vọng để ngăn chúng ta phá hủy chế độ quân chủ đang mục nát của họ. Cuộc đấu tranh cuối cùng do đó đã bắt đầu, và chỉ có một người chiến thắng có thể xuất hiện ở Bắc Mỹ: cách mạng, hay phản động?"
+ american_civil_war_events.42.a: "Chúng ta không được nao núng!"
+
+### APG Flavour Events ###
+ american_civil_war_events.46.t: "Lindbergh kêu gọi Long"
+ american_civil_war_events.46.d: "Charles Lindbergh đã sắp xếp một cuộc gặp giữa Huey Long và một số nhà công nghiệp hàng đầu, bao gồm Henry Ford, Fred Koch và H.L. Hunt. Những người đàn ông này có xu hướng đóng cửa nhà máy và nhà máy lọc dầu của họ ở miền Nam để tuân thủ lệnh của Chính phủ Liên bang. Tuy nhiên, Lindbergh thuyết phục họ thay vào đó đứng về phía Huey Long và di dời đế chế kinh doanh của họ đến [APG.GetNameDef], với một vài điều kiện. Họ yêu cầu Huey Long đảm bảo cho họ một số miễn trừ chính trị nhất định trong thời kỳ kinh tế khó khăn này, cũng như lời hứa về chức vụ chính trị một khi chiến tranh thắng lợi. Nếu Long đồng ý với yêu cầu của họ, nó sẽ trao cho họ ảnh hưởng lớn hơn và nhiều người ủng hộ ông sẽ tự hỏi liệu ông có kế hoạch phản bội lý tưởng của mình không - tuy nhiên từ chối có thể chứng minh là tốn kém..."
+ american_civil_war_events.46.a: "Đồng ý với lý lẽ của họ"
+ american_civil_war_events.46.b: "Ta sẽ không phản bội lý tưởng của mình!"
+
+ american_civil_war_events.47.t: "Ủy ban Quyền hạn Chiến tranh"
+ american_civil_war_events.47.d: "Các nhà lãnh đạo doanh nghiệp trong lãnh thổ của chúng ta đã thành lập một ủy ban bề ngoài là để ủng hộ Huey Long và điều phối nỗ lực chiến tranh thay mặt ông, được gọi là Ủy ban Quyền hạn Chiến tranh. Giống như Long đã tạo ra các văn phòng để quản lý nhiệm vụ to lớn là chiến đấu vì nước Mỹ, các nhà công nghiệp đã thành lập thể chế thời chiến của riêng họ. Mặc dù họ thiếu toàn quyền lực mà họ được hứa, họ đã tuyên bố mình là kho vũ khí của APG — do Tướng George Van Horn Moseley, người gây tranh cãi vì bài Do Thái nhưng được kính trọng, lãnh đạo."
+ american_civil_war_events.47.a: "Một đồng minh đáng gờm... hiện tại"
+
+### USA Flavour Events ###
+ american_civil_war_events.61.t: "Nghĩa vụ Quân sự"
+ american_civil_war_events.61.d: "Với chiến tranh đang diễn ra, câu hỏi đặt ra: chúng ta có nên thực hiện nghĩa vụ quân sự không? Làm vậy sẽ cung cấp nhân lực cần thiết để khôi phục trật tự cho đất nước, mặc dù nó vẫn rất không được ưa chuộng. Một số người thay vào đó đề nghị tập trung vào tuyên truyền."
+ american_civil_war_events.61.a: "Thực hiện nghĩa vụ quân sự"
+ american_civil_war_events.61.b: "Thay vào đó tập trung vào tuyên truyền"
+
+ american_civil_war_events.62.t: "Triệu hồi Lính thủy đánh bộ Trung Quốc?"
+ american_civil_war_events.62.d: "Với sự bùng nổ của nội chiến, đơn vị đồn trú của chúng ta ở Các Thành phố Công sứ đã bị bỏ mặc ở Trung Quốc. Mặc dù việc triệu hồi sư đoàn sẽ khiến các nhượng địa Trung Quốc của chúng ta tương đối không được bảo vệ, và ảnh hưởng của chúng ta ở các Thành phố nhỏ hơn, nhiều người khuyên chúng ta rằng phải làm vậy để giành chiến tranh. Chúng ta có nên triệu hồi họ không?"
+ american_civil_war_events.62.a: "Đưa các chàng trai của chúng ta về nhà!"
+ american_civil_war_events.62.b: "Chúng ta không nên mạo hiểm."
+
+ american_civil_war_events.63.t: "Kho Dự trữ Khẩn cấp"
+ american_civil_war_events.63.d: "Trong khi phiến quân chật vật vũ trang cho dân quân của họ, chúng ta đã mở các kho dự trữ chiến lược mà vị trí của chúng chỉ được một số ít người biết. Mặc dù các kho ngầm này thiếu thiết bị mới nhất, chúng vẫn chứa hàng ngàn và hàng ngàn bộ dụng cụ cho bộ binh Mỹ, dành cho ngày tồi tệ nhất - và ngày đó có thể nói là đã đến."
+ american_civil_war_events.63.a: "Đi thôi!"
+
+ american_civil_war_events.64.t: "Khó khăn của Nội chiến"
+ american_civil_war_events.64.d: "Nội chiến đang mang lại khó khăn cho quê hương của chúng ta. Nhiều công dân trung thành trong một số thành phố đang trên bờ vực chết đói. Chúng ta có thể tập trung vào việc giảm bớt đau khổ của họ, nhưng làm vậy sẽ chuyển hướng nguồn cung cấp cần thiết khẩn cấp ở tiền tuyến để chiến đấu. Quốc hội và quân đội chia rẽ về vấn đề này. Chúng ta nên làm gì?"
+ american_civil_war_events.64.a: "Giảm bớt đau khổ của dân thường."
+ american_civil_war_events.64.b: "Hỗ trợ Quân đội của chúng ta."
+
+ american_civil_war_events.65.t: "Thiết quân luật?"
+ american_civil_war_events.65.d: "Với nội chiến đang hoành hành, một câu hỏi đã đặt ra về việc đình chỉ quyền habeas corpus và thực thi thiết quân luật trong các lãnh thổ bị chiếm đóng. Ngay cả Bộ Tổng tham mưu của chúng ta cũng chia rẽ, vì nó có thể tạo ra nhiều phiến quân hơn là đánh bại trước. Nó sẽ giúp duy trì trật tự trong cuộc xung đột - nhưng một động thái như vậy chắc chắn sẽ xa lánh dân chúng địa phương."
+ american_civil_war_events.65.a: "Thực thi thiết quân luật"
+ american_civil_war_events.65.b: "Trật tự dân sự tốt hơn"
+
+ american_civil_war_events.66.t: "Khủng bố của Phe Trung thành"
+ american_civil_war_events.66.d: "Trong cuộc nội chiến đang diễn ra, một số chỉ huy của chúng ta đã bắt đầu sử dụng các phương pháp đáng ngờ để đàn áp dân thường bị nghi ủng hộ kẻ thù của chúng ta. Khi bị chất vấn, Tổng thống đã bảo vệ hành động của họ, tuyên bố, 'Chỉ sử dụng bạo lực tùy nghi; bất kỳ chỉ huy nào có khả năng tàn bạo thực sự đều đã trở thành phiến quân'."
+ american_civil_war_events.66.a: "Chúng ta chỉ có thể hy vọng."
+
+ american_civil_war_events.67.t: "Người da đỏ Mỹ làm Điện báo viên"
+ american_civil_war_events.67.d: "Một số bộ lạc người da đỏ Mỹ đã quyết định ủng hộ chúng ta và đề nghị phục vụ. Đáng chú ý, điều này sẽ giúp che giấu thông tin liên lạc của chúng ta vì có rất ít người ngoài lãnh thổ Mỹ có thể nói các ngôn ngữ khác nhau của người da đỏ Mỹ."
+ american_civil_war_events.67.a: "Điều này sẽ giúp ích"
+
+ american_civil_war_events.68.t: "Người Phản đối Vì Lương tâm"
+ american_civil_war_events.68.d: "Một số người đàn ông và phụ nữ - đặc biệt là trong các nhóm tôn giáo như Nhân chứng Giê-hô-va và Mormon - đã từ chối tham gia chiến tranh, phản đối việc tham gia vào cuộc xung đột. Chúng ta có thể cố gắng bịt miệng họ hoặc giao cho họ công việc phi quân sự để giúp nỗ lực chiến tranh. Dư luận có vẻ chia rẽ, khi những người siêu yêu nước đã bắt đầu tấn công những người phản đối trong các cuộc biểu tình của họ."
+ american_civil_war_events.68.a: "Công chúng sẽ xử lý họ"
+ american_civil_war_events.68.b: "Bắt họ làm việc"
+
+ american_civil_war_events.69.t: "Chiến dịch Double V"
+ american_civil_war_events.69.d: "Khi chúng ta chiến đấu chống lại những kẻ phản bội khác nhau, các nhà lãnh đạo của NAACP đã bắt đầu thúc đẩy cái được gọi là Chiến dịch Double V — Chiến thắng cho nước Mỹ và Chiến thắng chống Phân biệt chủng tộc. Không phải tất cả người Mỹ gốc Phi đều muốn chiến đấu cho các phe cấp tiến và do đó một chiến dịch đã bắt đầu để chiến đấu vì nước Mỹ, để giúp giành chiến thắng trong nội chiến, cũng như để chống lại phân biệt chủng tộc trong quốc gia của chúng ta."
+ american_civil_war_events.69.a: "Chiến thắng cho nước Mỹ và Chiến thắng chống Phân biệt chủng tộc!"
+
+ american_civil_war_events.70.t: "Quân sự hóa WASP?"
+ american_civil_war_events.70.d: "Quốc hội đang tranh luận một dự luật để quân sự hóa Các Phi công Dịch vụ Không quân Nữ (WASP), theo cách tương tự như WAC và WAVES. Điều này sẽ yêu cầu chính phủ trang trải chi phí của WASP — như với hai tổ chức kia — thay vì buộc các phi công nữ phải tự trả chi phí. Họ sẽ không bay trong chiến đấu, vì đó vẫn là công việc của các phi công nam. Mặc dù vậy, đề xuất phải đối mặt với sự phản đối đáng kể từ Quốc hội, vì nhiều người coi WASP là ít kinh nghiệm hơn và không phù hợp với công việc. Câu hỏi là, Quốc hội sẽ quyết định gì?"
+ american_civil_war_events.70.a: "Quốc hội bỏ phiếu Quân sự hóa WASP"
+ american_civil_war_events.70.b: "Quốc hội bỏ phiếu Không Quân sự hóa WASP"
+
+ american_civil_war_events.76.t: "Washington Bị Đe dọa"
+ american_civil_war_events.76.d: "Washington có nguy cơ rơi vào tay phiến quân và phiến loạn, và do đó, chúng ta phải sơ tán thành phố. Các nhà lãnh đạo quân sự đã soạn thảo một số địa điểm di dời có thể - câu hỏi là, chúng ta nên chọn cái nào?"
+ american_civil_war_events.76.a: "Denver"
+ american_civil_war_events.76.b: "San Francisco"
+ american_civil_war_events.76.c: "Helena"
+ american_civil_war_events.76.e: "Phoenix"
+
+ american_civil_war_events.90.t.WCA: "Hỗ trợ từ Phe Công đoàn"
+ american_civil_war_events.90.t.USA: "Hỗ trợ từ Phe Trung thành"
+ american_civil_war_events.90.t.APG: "Hỗ trợ từ Phe Longist"
+ american_civil_war_events.90.t.ACC: "Hỗ trợ từ Phe Kháng chiến"
+ american_civil_war_events.90.d: "Phiến quân chiến đấu vì chính nghĩa [Root.GetAdjective] ở nơi khác trên Hoa Kỳ đã liên lạc với chính phủ của chúng ta, đề nghị một loạt nguồn cung cấp nhặt nhạnh được."
+ american_civil_war_events.90.a: "Đó sẽ là một sự giúp đỡ lớn"
+
+ american_civil_war_events.95.t: "Nổi dậy Công đoàn ở Miền Tây"
+ american_civil_war_events.95.d: "Giao tranh dọc theo Bờ biển Phía Tây giữa những người đồng tình công đoàn chủ nghĩa và lực lượng an ninh đã nghiêm trọng trong những tuần gần đây nhưng đã giảm xuống trong vài tuần qua, dẫn đến hy vọng rằng các công đoàn ở phía tây cuối cùng đã từ bỏ cuộc đấu tranh. Những hy vọng này đã bị dập tắt khi một cuộc nổi dậy mới được tiết lộ, khi dân quân được tổ chức bởi các công đoàn Teamster và Longshoremen hùng mạnh ở Washington và Oregon được vũ trang thông qua các mạng lưới ngầm. Điều này mở ra một mặt trận mới trong nội chiến - nếu phiến quân tìm được cách phá vỡ khỏi vùng núi."
+ american_civil_war_events.95.a: "Hoan hô!"
+ american_civil_war_events.95.b: "Thêm bọn cặn bã công đoàn nữa?!"
+
+ american_civil_war_events.97.t: "Phiến quân Longist Nổi dậy ở Kentucky"
+ american_civil_war_events.97.d: "Huey Long luôn có sự ủng hộ mạnh mẽ ở vùng trung tâm, với các bang như Kentucky và Indiana chỉ vừa mới chuyển hướng sang nơi khác trong cuộc bầu cử năm 1936. Giờ đây, những người ủng hộ Long đã nổi dậy ở Kentucky và vùng lân cận, cầm vũ khí lấy được qua các kênh ngầm để thống nhất và mở ra một mặt trận mới trong nội chiến."
+ american_civil_war_events.97.a: "Hoan hô!"
+ american_civil_war_events.97.b: "Điều này sẽ không giúp họ về lâu dài"
+
+ american_civil_war_events.99.t: "Phe Trung thành Nổi dậy ở Pennsylvania"
+ american_civil_war_events.99.d: "Sự ủng hộ cho chính phủ liên bang vẫn mạnh mẽ ngay cả ở trung tâm công đoàn chủ nghĩa Pennsylvania, và điều này đã được chứng minh khi các nhóm dân quân trung thành - được báo cáo là được tổ chức tại thành phố Philadelphia - đã nổi dậy ở vùng đồi núi ở phần trung tâm của bang, đòi lại khu vực cho quyền kiểm soát của liên bang. Liệu họ có đạt được mục tiêu và mở ra một mặt trận mới trong nội chiến hay không vẫn còn phải xem."
+ american_civil_war_events.99.a: "Hoan hô!"
+ american_civil_war_events.99.b: "Một nỗ lực vô ích"
+
+ american_civil_war_events.101.t: "Phe Kháng chiến Nổi dậy ở Trung Tây"
+ american_civil_war_events.101.d: "Sự ủng hộ cho những người ủng hộ dân chủ trong chính phủ Hiến pháp đã mạnh mẽ ở vùng Trung Tây nước Mỹ, với các cuộc biểu tình đường phố thường xuyên - nhiều người đổ lỗi cho cuộc nội chiến hoàn toàn lên vai Tướng MacArthur. Những cuộc biểu tình này gần đây đã trở nên có tổ chức hơn và đã đỉnh điểm trong một cuộc nổi dậy lan rộng khắp Colorado, được tài trợ và trang bị một cách lặng lẽ thông qua các kênh ngầm. Liệu những phiến quân này có thành công trong việc mở ra một mặt trận mới cho nội chiến hay không vẫn còn phải xem."
+ american_civil_war_events.101.a: "Hoan hô!"
+ american_civil_war_events.101.b: "Cùng lắm là một mối phiền toái"
+
+ american_civil_war_events.103.t: "Nổi dậy Công đoàn ở Georgia"
+ american_civil_war_events.103.d: "Có vẻ như không ít những người ủng hộ Huey Long bất mãn đã trở nên tức giận đủ để đào tẩu sang quyền kiểm soát của [WCA.GetNameDef]. Trong vài tuần qua, họ đã tổ chức ở vùng đồi núi phía nam Georgia, và giờ đây họ cuối cùng đã hành động. Điều này mở ra một mặt trận mới trong nội chiến."
+ american_civil_war_events.103.a: "Hoan hô!"
+ american_civil_war_events.103.b: "Họ nên quyết định dứt khoát đi"
+
+ american_civil_war_events.105.t: "Nổi dậy Longist ở California"
+ american_civil_war_events.105.d: "Có vẻ như không ít những thành viên dân quân SPA bất mãn đã trở nên tức giận đủ để đào tẩu sang quyền kiểm soát của [APG.GetNameDef]. Trong vài tuần qua, họ đã tổ chức ở vùng đồi núi phía nam California, và giờ đây họ cuối cùng đã hành động. Điều này mở ra một mặt trận mới trong nội chiến."
+ american_civil_war_events.105.a: "Hoan hô!"
+ american_civil_war_events.105.b: "Không có gì khác biệt"
+
+### Foreign Interventions ###
+ american_civil_war_events.150.t: "Nước Mỹ trong Hỗn loạn"
+ american_civil_war_events.150.d: "Hỗn loạn đã tràn qua những người hàng xóm phía nam của chúng ta, và—thậm chí tệ hơn—Đảng Xã hội Chủ nghĩa Mỹ đã tuyên bố một thành trì ngay sát biên giới phía nam của chúng ta. Một số thống đốc vùng đông bắc ở New England, các bang của họ bị dân quân công đoàn chủ nghĩa quấy rối, đã chính thức yêu cầu chính phủ Canada can thiệp. Rõ ràng họ cảm thấy chính phủ Liên bang không có khả năng thực hiện nhiệm vụ, mặc dù một số bộ trưởng của chúng ta tin rằng điều này có thể bị một số phe phái coi là ít can thiệp hơn và nhiều xâm lược hơn. Họ khẳng định vấn đề nên được tranh luận tại Quốc hội trước khi có bất kỳ hành động nào. Đối với New England, ít nhất, điều đó có thể không đủ nhanh để cứu họ."
+ american_civil_war_events.150.d.nowca: "Hỗn loạn đã tràn qua những người hàng xóm phía nam của chúng ta, mặc dù có vẻ như chúng ta đã được tha khỏi khả năng một cuộc nổi dậy công đoàn chủ nghĩa ở Mỹ. Dù vậy, bạo lực đã rất nghiêm trọng, và một số thống đốc từ các bang đông bắc của New England đã yêu cầu chúng ta can thiệp và khôi phục trật tự. Rõ ràng họ cảm thấy chính phủ Liên bang không có khả năng thực hiện nhiệm vụ, mặc dù một số bộ trưởng của chúng ta cảm thấy điều này có thể bị chính phủ Liên bang coi là ít can thiệp hơn và nhiều xâm lược hơn. Họ nói vấn đề nên được tranh luận tại Quốc hội trước khi có bất kỳ hành động nào."
+ american_civil_war_events.150.a: "Hoãn mọi can thiệp"
+ american_civil_war_events.150.b: "Tiến vào New England, theo yêu cầu"
+
+ american_civil_war_events.151.t: "Alaska Yêu cầu Can thiệp"
+ american_civil_war_events.151.d: "Lãnh thổ Alaska của Mỹ đã trải qua tình trạng thiếu hụt nghiêm trọng các nguồn cung cấp cần thiết sau khi nội chiến bùng nổ. Sau một vụ đánh bom gần đây ở thành phố Juneau, thống đốc Alaska lo ngại sự sụp đổ trật tự - điều mà chính phủ Liên bang xa xôi sẽ quá bận rộn để ứng phó. Do đó, ông, giống như các thống đốc New England, đã yêu cầu chính phủ Canada can thiệp tạm thời để giữ hòa bình."
+ american_civil_war_events.151.a: "Alaska tự lo liệu"
+ american_civil_war_events.151.b: "Chúng ta nên tiến vào"
+
+ american_civil_war_events.152.t: "[CAN.GetNameDefCap] Chiếm Alaska"
+ american_civil_war_events.152.d: "Lãnh thổ Alaska đã trải qua tình trạng thiếu hụt nghiêm trọng các nguồn cung cấp cần thiết sau khi nội chiến bùng nổ. Sau một vụ đánh bom gần đây ở thành phố Juneau, thống đốc Alaska lo ngại sự sụp đổ trật tự - điều mà chính phủ Liên bang xa xôi sẽ quá bận rộn để giải quyết - và do đó đã đưa ra yêu cầu chính thức với [CAN.GetNameDef] để can thiệp. Quân đội Canada và xe tải tiếp tế đã tiến vào khu vực."
+ american_civil_war_events.152.a: "Chúng ta sẽ giải quyết việc này sau"
+
+ american_civil_war_events.156.t: "Số phận của Nước Mỹ"
+ american_civil_war_events.156.d: "Với nội chiến đã kết thúc, chúng ta phải quyết định phải làm gì với lãnh thổ Mỹ hiện đang dưới quyền kiểm soát của chúng ta."
+ american_civil_war_events.156.a: "Trả lại cho [USA.GetNameDef]"
+ american_civil_war_events.156.b: "Trả lại cho [ACC.GetNameDef]"
+ american_civil_war_events.156.c: "Trả lại cho [APG.GetNameDef]"
+ american_civil_war_events.156.e: "Trả lại cho [NEE.GetNameDef]"
+ american_civil_war_events.156.f: "Thiết lập một chính phủ Mỹ mới"
+ american_civil_war_events.156.g: "Tiếp tục chiếm đóng quân sự"
+
+ american_civil_war_events.157.t: "Lãnh thổ Mỹ được trao trả"
+american_civil_war_events.157.d.supported: "[From.GetNameDefCap], đúng như lời cam kết ủng hộ chúng ta trong cuộc nội chiến, đã trao trả phần lớn lãnh thổ Mỹ mà họ chiếm đóng cho chúng ta."
+american_civil_war_events.157.d.notsupported: "[From.GetNameDefCap] đã chiếm đóng một phần đáng kể lãnh thổ Mỹ trong cuộc nội chiến. Nay chính phủ của họ đã tiếp cận chúng ta, trao trả phần lớn lãnh thổ ấy cho 'chủ nhân chính đáng', không đòi hỏi gì."
+american_civil_war_events.157.a: "Chúng tôi trân trọng điều đó."
+
+# uses american_civil_war_events.157.t / .a
+american_civil_war_events.158.d: "Các đồng minh Canada của chúng ta, đúng như lời hứa, đã bàn giao gần như toàn bộ lãnh thổ Mỹ mà họ chiếm đóng cho chúng ta."
+
+american_civil_war_events.159.t: "Một chính phủ Mỹ mới"
+american_civil_war_events.159.d: "Khi các chính phủ cũ đã tan rã, chúng ta sẽ cần dựng nên một chính phủ mới từ những gì còn lại. Chính phủ mới sẽ mang hình thức nào?"
+american_civil_war_events.159.a: "Chính phủ Liên bang cũ, như lẽ phải"
+american_civil_war_events.159.b: "[ACC.GetNameDefCap]"
+american_civil_war_events.159.c: "[APG.GetNameDefCap]"
+american_civil_war_events.159.e: "[NEE.GetNameDefCap]"
+
+american_civil_war_events.160.t: "Số phận của New England"
+american_civil_war_events.160.d: "Hiện chúng ta đang chiếm đóng New England. Ta nên trao trả nó cho [america_country.GetNameDef] hay tiếp tục chiếm đóng?"
+american_civil_war_events.160.a: "Trao trả cho họ"
+american_civil_war_events.160.b: "Chúng ta xứng đáng có nó, sau tất cả những gì đã làm"
+
+american_civil_war_events.161.t: "Số phận của Alaska"
+american_civil_war_events.161.d: "Hiện chúng ta đang chiếm đóng Alaska. Ta nên trao trả nó cho [america_country.GetNameDef] hay tiếp tục chiếm đóng?"
+
+american_civil_war_events.162.t: "Bầu cử cho [america_country.GetNameDef]?"
+american_civil_war_events.162.d: "Đã hơn một năm kể từ khi chính phủ mới được thành lập tại [america_country.GetNameDef], và các đồng minh của chúng ta ở đó nói rằng họ đã sẵn sàng tự đứng vững trở lại. Ta có nên cho phép họ tổ chức bầu cử và tiếp tục là đồng minh tự do không?"
+american_civil_war_events.162.a: "Dĩ nhiên rồi"
+american_civil_war_events.162.b: "Họ chưa sẵn sàng"
+
+american_civil_war_events.163.t: "Hòa bình với Canada?"
+american_civil_war_events.163.d: "Chúng ta đã chiếm đóng phần lớn Canada, và hiện đang khiến người Canada phải tháo chạy. Có lẽ đã đến lúc lập hòa bình, kẻo sa lầy trong vùng lãnh thổ mênh mông của họ."
+american_civil_war_events.163.a: "Chúng ta định dạy cho họ một bài học"
+american_civil_war_events.163.b: "Được thôi, hãy kết thúc chuyện này"
+american_civil_war_events.163.c: "Chỉ khi họ nhượng đất cho chúng ta"
+
+american_civil_war_events.164.t: "[From.GetNameDefCap] cầu hòa"
+american_civil_war_events.164.d: "Chúng ta đã tiếp nhận một sứ giả từ chính phủ [From.GetAdjective], nói rằng họ đã chiếm đủ phần Canada và hy vọng chúng ta đã học được một bài học nghiêm khắc. Họ sẵn sàng cân nhắc hòa bình, nhưng cảnh báo nghiêm khắc rằng lần sau họ sẽ không rộng lượng như vậy."
+american_civil_war_events.164.a: "Được, hãy kết thúc chuyện này"
+american_civil_war_events.164.b: "Không, chúng ta vẫn có thể thắng!"
+
+american_civil_war_events.165.t: "[From.GetNameDefCap] cầu hòa"
+american_civil_war_events.165.d: "Chính phủ Canada, sau khi bị [From.From.GetNameDef] đánh bại thảm hại, muốn hoàn toàn rút khỏi cuộc nội chiến và vì thế đã cầu hòa với [Root.GetNameDef]."
+american_civil_war_events.165.a: "Được, hãy kết thúc chuyện này"
+american_civil_war_events.165.b: "Chúng ta định dạy cho họ một bài học"
+
+american_civil_war_events.166.t: "Đề nghị của [From.GetNameDefCap]"
+american_civil_war_events.166.d: "Hiện chúng ta đang có lệnh ngừng bắn với [WCA.GetNameDef], nhưng không ai trong chúng ta ảo tưởng rằng đây chỉ là khoảng nghỉ trước khi giao tranh tiếp diễn. Chính phủ [From.GetAdjective] đã tiếp cận chúng ta với một đề nghị: nếu ta gia nhập Entente, họ sẽ chiến đấu bên phe ta khi trận chiến tiếp diễn. Điều này hợp lý, vì người Canada cũng sợ [WCA.GetNameDef] như chúng ta, nhưng một số người trong chính phủ phản đối việc tự trói mình vào sự nghiệp của Entente. Suy cho cùng, ngay cả khi thắng nội chiến, ta vẫn sẽ bị lôi vào các cuộc chiến của họ ở châu Âu."
+american_civil_war_events.166.a: "Chúng ta cần họ giúp để thắng cuộc chiến"
+american_civil_war_events.166.b: "Không, chúng ta sẽ làm điều này mà không cần họ"
+
+american_civil_war_events.167.t: "[From.GetNameDefCap] gia nhập Entente"
+american_civil_war_events.167.d: "Biết ơn sự hỗ trợ của chúng ta, chính phủ [From.GetAdjective] đã chấp nhận lời đề nghị và chính thức gia nhập Entente."
+american_civil_war_events.167.a: "Ba lần hoan hô nước Mỹ!"
+
+american_civil_war_events.168.t: "[From.GetNameDefCap] từ chối đề nghị của chúng ta"
+american_civil_war_events.168.d: "Chính phủ [From.GetAdjective] đã từ chối lời đề nghị liên minh của chúng ta, có lẽ vì tin rằng họ có thể tự thắng cuộc nội chiến."
+american_civil_war_events.168.a: "Thật đáng thất vọng!"
+
+american_civil_war_events.169.t: "[ACC.GetNameDefCap] gia nhập Entente"
+american_civil_war_events.169.d: "Rõ ràng vì sợ thất bại cuối cùng của chúng ta, chính phủ [ACC.GetAdjective] đã thân thiết với người Canada và người Anh. Chúng ta sẽ phải đánh bại tất cả bọn họ, một khi lệnh ngừng bắn kết thúc."
+american_civil_war_events.169.a: "Cứ như vậy đi!"
+
+### Rocky Mountain Ceasefire ###
+american_civil_war_events.200.t: "Một lệnh ngừng bắn khả thi"
+american_civil_war_events.200.d: "Cuộc nội chiến đã tàn phá nước Mỹ, và trong chính phủ đang dấy lên thảo luận về việc tiếp cận [ACC.GetNameDef] để bàn ngừng bắn. Không rõ phiến quân Lập hiến có xem xét đề nghị như vậy hay không, nhưng nếu thành, ta sẽ có thời gian củng cố vùng kiểm soát ở phía đông và để binh lính hồi sức. Dĩ nhiên, cuối cùng vẫn sẽ phải thanh toán, nhưng nếu không thử bây giờ, cuộc chiến có thể còn kéo dài hơn nữa."
+american_civil_war_events.200.a: "Hãy gặp họ ở Denver"
+american_civil_war_events.200.b: "Không, chẳng ích gì"
+
+american_civil_war_events.201.t: "Đàm phán ngừng bắn tại Denver"
+american_civil_war_events.201.d: "Khi cuộc chiến giữa [survivor.GetNameDef] và [ACC.GetNameDef] kéo dài, các quan chức cấp cao hai bên đã có cuộc đàm phán về khả năng ngừng bắn. Việc này diễn ra theo thúc giục của chính phủ [survivor.GetAdjective], dù chưa rõ các cuộc đàm phán đang tiến triển đến đâu. Vài ngày nữa sẽ biết có kết quả gì."
+american_civil_war_events.201.a: "Một ý tưởng thú vị?"
+american_civil_war_events.201.b: "Chúng ta sẽ không đàm phán với kẻ muốn phá hủy nước Mỹ!"
+
+american_civil_war_events.202.t: "Đề xuất"
+american_civil_war_events.202.d: "Sau hai ngày đàm phán, các sĩ quan quân đội đã đưa ra một đề xuất: bất kỳ bang nào ở phía tây sông Mississippi hiện đang bị lực lượng [ACC.GetAdjective] chiếm đóng sẽ được nhượng cho [ACC.GetNameDef], với một số khoảng trống được lấp đầy trên bản đồ—không gì họ không thể tiếp ứng đàng hoàng. Phần còn lại sẽ được nhượng cho [survivor.GetNameDef]. Ngoài ra không có bảo đảm nào và không bàn đến hòa bình thật sự—một ngày nào đó sẽ phải thanh toán. Cả hai bên chỉ kêu gọi ngừng thù địch lúc này, để đánh giá thiệt hại và để người sống có một hơi thở cần thiết."
+american_civil_war_events.202.a: "Thế là được."
+american_civil_war_events.202.b: "Họ đòi quá nhiều!"
+ACW_agree_proposal: "Đồng ý với đề xuất như hiện trạng"
+ACW_we_will_try_again: "Chúng ta sẽ quay lại bàn đàm phán và thử lại..."
+
+american_civil_war_events.203.t: "Sẽ không có ngừng bắn"
+american_civil_war_events.203.d: "Có lẽ đã quá kỳ vọng. Các cuộc đàm phán ở Denver giữa hai bên đổ vỡ mà không có thỏa thuận thực sự, và hy vọng ngừng bắn tan biến. Cuộc chiến tiếp diễn."
+american_civil_war_events.203.a: "Thế là hết"
+
+american_civil_war_events.204.t: "[ACW_ceasefire_name]"
+american_civil_war_events.204.d: "Đàm phán với [ACC.GetNameDef] đã kết thúc, và lệnh ngừng bắn được tiến hành. Quân ta đang rút về phía đông biên giới mới. Không rõ sẽ kéo dài bao lâu."
+american_civil_war_events.204.a: "Tạm thời là hòa bình"
+
+american_civil_war_events.205.t: "[ACW_ceasefire_name]"
+american_civil_war_events.205.d: "Đàm phán với [From.GetNameDef] đã kết thúc, và lệnh ngừng bắn được tiến hành. Quân ta đang rút về phía tây biên giới mới. Không rõ sẽ kéo dài bao lâu."
+american_civil_war_events.205.a: "Tạm thời là hòa bình"
+
+american_civil_war_events.206.t: "[ACW_ceasefire_name]"
+american_civil_war_events.206.d: "Nội chiến đã tàn phá nước Mỹ nhiều tháng, nhưng hôm nay một lệnh ngừng bắn đã được tuyên bố sau cuộc gặp ở Denver giữa các quan chức [ACC.GetNameDef] và [survivor.GetNameDef], những người đã thống nhất các điều khoản. Lực lượng Thái Bình Dương sẽ rút về biên giới mới ở phía tây đường biên đã thỏa thuận, trong khi lực lượng [survivor.GetAdjective] sẽ rút về phía đông. Tuy nhiên đây không phải hòa bình chính thức, và nhiều người cảm thấy một cuộc thanh toán trong tương lai giữa hai quốc gia—một trận quyết chiến, có thể nói vậy, cho tương lai nước Mỹ—gần như không thể tránh khỏi.\n\nDù vậy, đây là khoảnh khắc nghỉ ngơi để mỗi bên tập hợp sức mạnh và đếm người chết, và người Mỹ ở cả hai phía đang ăn mừng một nền hòa bình ngắn ngủi thoát ra từ hàm răng của hỗn loạn."
+american_civil_war_events.206.a: "Xem được bao lâu"
+
+### Liberia and Philippines in Chaos ###
+american_civil_war_events.212.t: "Nước Mỹ trong hỗn loạn"
+american_civil_war_events.212.d: "Liberia đã nằm dưới sự thống trị kinh tế và chính trị của Hoa Kỳ kể từ khi được thành lập như thuộc địa cho nô lệ được giải phóng năm 1822. Sự thống trị này cũng giúp bảo vệ nó khỏi các cường quốc thực dân châu Âu. Tuy nhiên, Hoa Kỳ nay đang hỗn loạn, khi các phe phái chính trị đối địch tranh giành chức tổng thống. Xung đột đã sâu đến mức không thể cứu vãn. Họ không còn có thể được trông cậy để bảo vệ. Nay chúng ta phải quyết định làm sao tồn tại từ đây."
+american_civil_war_events.212.a: "Không còn là tay sai - chúng ta có thể tự bảo vệ mình!"
+american_civil_war_events.212.b: "Chúng ta không phải kẻ phản bội - hãy trung thành với người Mỹ"
+
+#Philippine Related Events moved/adapted in PHI event files
+
+### Pre-War Events ###
+american_civil_war_events.300.t: "Bạo loạn ở New England và New York"
+american_civil_war_events.300.d: "Những ngày gần đây, các dân quân công đoàn đang vật lộn (và thất bại) trong việc giành quyền kiểm soát các bang đông bắc từ New York và New Jersey đến tận bờ biển Maine. Đến nay, các thống đốc trong vùng đã đàn áp mạnh tay, dù kết quả là một loạt bạo loạn dữ dội ở Boston và Buffalo—chưa kể một làn sóng nổi dậy vẫn đang diễn ra trong chính thành phố New York. Người dân lo lắng, và các thống đốc đã từ chối cho chính phủ liên bang thành lập dân quân địa phương trong vùng, vì sợ làm căng thẳng thêm. Một vài thống đốc New England được cho là đang kín đáo yêu cầu chính phủ Canada can thiệp, nếu mọi thứ trở nên tồi tệ nhất."
+american_civil_war_events.300.a: "Thật là một mớ hỗn độn"
+american_civil_war_events.300.b: "Thú vị"
+
+american_civil_war_events.310.t: "Nevada theo phe [ACC.GetNameDef]"
+american_civil_war_events.310.d: "Hôm nay Maurice J. Sullivan tuyên bố Nevada trung thành với [ACC.GetNameDef], những người từ chối công nhận tính chính danh của chính phủ Tướng MacArthur. Thống đốc đã tham vấn với [ACC.GetNameDef] từ khi nó thành lập, và trong một bài phát thanh, nói rằng ông không thể đứng nhìn nền dân chủ thất bại ở Mỹ mà không hành động. Đến nay, lực lượng liên bang đã rút khỏi các căn cứ quân đội trong vùng mà không có nguy cơ bạo lực thêm."
+american_civil_war_events.310.a: "Một quyết định đáng hoan nghênh"
+american_civil_war_events.310.b: "Một quyết định ngu xuẩn"
+
+american_civil_war_events.311.t: "Thời hạn 30 ngày"
+american_civil_war_events.311.d: "Thời hạn 30 ngày do chính phủ liên bang đặt ra cho các bang nổi loạn đến nay đã qua mà không thống đốc bang nào thay đổi ý định. Chính phủ liên bang đang củng cố vị thế, nhưng đã cảnh báo MacArthur phải dự kiến thêm bạo lực và việc các bang ly khai trước khi thời hạn kết thúc. Hầu hết ở Washington tỏ ra bi quan rằng có thể tránh được chiến tranh toàn diện."
+american_civil_war_events.311.a: "Ta sẽ thấy"
+
+american_civil_war_events.312.t: "Thời hạn đang đến gần"
+american_civil_war_events.312.d: "Thời hạn 30 ngày do chính phủ liên bang ban hành sắp kết thúc, không bên nào chịu xuống thang. Thật vậy, rõ ràng các bang nổi loạn đã dùng thời gian này để thành lập dân quân khắp vùng kiểm soát, nghĩa là nội chiến sẽ là một cuộc chiến khó khăn thật sự."
+american_civil_war_events.312.a: "Điều gì đến sẽ đến"
+
+american_civil_war_events.313.t: "Liên lạc với lực lượng kháng chiến New York"
+american_civil_war_events.313.d: "Dù cả New York và New Jersey được cho là đã hoàn toàn mất vào tay lực lượng Liên bang, hóa ra vài nhóm chiến binh lớn đã thoát khỏi khu đô thị và tập hợp lại ở vùng đồi phía đông Pennsylvania. Tuy tả tơi, họ háo hức tiếp tục chiến đấu với sự hỗ trợ của chúng ta."
+american_civil_war_events.313.a: "Mừng có các anh, các chàng trai"
+WCA_four_units_newyork: "Bốn đơn vị dân quân đến Philadelphia"
+
+#Naval battle, 1 is USA (ACC doesn't exist), 2 is USA (ACC exists), 3 is ACC, 4 is APG (WCA doesn't exist), 5 is APG (WCA exists), 6 is WCA (APG doesn't exist), 7 is WCA (APG exists)
+american_civil_war_events.315.t: "Sự tan rã của Hải quân Hoa Kỳ"
+american_civil_war_events.315.d1: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh dùng thuật ngữ chính trị để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường.\n\nĐiểm bùng phát của cuộc khủng hoảng trong Hải quân xảy ra vài ngày trước, khi một cuộc binh biến nổ ra ở Bờ Tây và một số tàu đào ngũ chạy về Bờ Đông, nhằm hỗ trợ đồng đội ở đó. Các cuộc chạm trán và đôi khi cả những trận chiến thực sự đã nổ ra, tất cả đều hỗn loạn, không phân biệt bạn thù. Điều này dẫn đến sự tan rã thực sự của Hải quân—hàng chục tàu đã bỏ đi hoặc đào ngũ, nhiều thủy thủ, sĩ quan hải quân và cả đô đốc đã đổi phe. Các hạm đội dự bị và tàu đóng ở những vùng không còn dưới quyền quản lý của Liên bang cũng đã mất."
+american_civil_war_events.315.d2: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh nhắc đến bất kỳ thuật ngữ chính trị nào để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường. Tuy nhiên, cuộc hành quân của MacArthur vào Washington đã gây chia rẽ hơn cả phe Công đoàn hay phe Longist, vì Hạm đội Thái Bình Dương, theo quyết định của các thống đốc nơi đặt căn cứ, đã từ chối công nhận chính phủ ở Washington.\n\nĐiểm bùng phát của cuộc khủng hoảng trong Hải quân xảy ra vài ngày trước, khi các tàu và sĩ quan hải quân của Hạm đội Thái Bình Dương trung thành với MacArthur cùng nhau binh biến và rời về Bờ Đông—khiến phần còn lại của Hạm đội Thái Bình Dương phản ứng và truy đuổi. Các cuộc chạm trán và đôi khi cả những trận chiến thực sự đã nổ ra, tất cả đều hỗn loạn, không phân biệt bạn thù. Điều này dẫn đến sự tan rã thực sự của Hải quân—hàng chục tàu đã bỏ đi hoặc đào ngũ, nhiều thủy thủ, sĩ quan hải quân và cả đô đốc đã đổi phe. Các hạm đội dự bị và tàu đóng ở những vùng không còn dưới quyền quản lý của Liên bang cũng đã mất."
+
+american_civil_war_events.315.d3: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh nhắc đến bất kỳ thuật ngữ chính trị nào để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường.\n\nKhi Douglas MacArthur hành quân vào Washington và lật đổ chính phủ được bầu cử dân chủ để dựng nên một chính quyền quân sự, Hạm đội Thái Bình Dương, theo các thống đốc bang Bờ Tây, tuyên bố trung thành với Bộ Tư lệnh Thái Bình Dương. Tuy nhiên không phải tất cả đều đồng ý. Một nhóm thủy thủ và sĩ quan hải quân trung thành với MacArthur đã cùng nhau binh biến và đưa tàu về Bờ Đông, châm ngòi trận chiến giữa lực lượng của họ và phần còn lại của hạm đội Thái Bình Dương. Các cuộc chạm trán hỗn loạn, không phân biệt bạn thù, nhưng thật không may, bọn phản bội đã trốn thoát cùng tàu và thiết bị. Điều này đã gây ra sự tan rã của hạm đội Hoa Kỳ, tuy nhiên chúng ta đã có biện pháp phòng ngừa cần thiết để ngăn thêm đào ngũ."
+
+american_civil_war_events.315.d4: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh nhắc đến bất kỳ thuật ngữ chính trị nào để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường.\n\nBan đầu, Bộ Tư lệnh Hải quân xoay xở ngăn được sự sụp đổ của hạm đội, giam giữ các thủy thủ và sĩ quan trung thành với sự nghiệp của Long, nhưng họ không duy trì được lâu. Các sự kiện ở Bờ Tây khiến Hải quân Hoa Kỳ tan rã—các trận chiến giữa lực lượng trung thành với Liên bang và tàu binh biến đã phá vỡ Hạm đội Thái Bình Dương và cho thủy thủ khắp Liên bang cơ hội tuyên bố trung thành với Huey Long. Thậm chí một vài đô đốc đã đổi phe theo chúng ta. Chúng ta cũng đã chiếm các hạm đội dự bị và tàu đóng ở miền Nam—từ đó và từ những người trung thành đến, chúng ta đã tập hợp được một lực lượng hải quân khiêm tốn."
+american_civil_war_events.315.d5: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh nhắc đến bất kỳ thuật ngữ chính trị nào để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường.\n\nBan đầu, Bộ Tư lệnh Hải quân xoay xở ngăn được sự sụp đổ của hạm đội, giam giữ các thủy thủ và sĩ quan trung thành với sự nghiệp của Long, nhưng họ không duy trì được lâu. Các sự kiện ở Bờ Tây khiến Hải quân Hoa Kỳ tan rã—các trận chiến giữa lực lượng trung thành với Liên bang và tàu binh biến đã phá vỡ Hạm đội Thái Bình Dương và cho thủy thủ khắp Liên bang cơ hội đoạn tuyệt với chế độ ở Washington. Dù một số tuyên bố theo phe Công đoàn, những người khác lại công bố ủng hộ cuộc nổi dậy của Huey Long ở Louisiana. Thậm chí một vài đô đốc đã đổi phe theo chúng ta. Chúng ta cũng đã chiếm các hạm đội dự bị và tàu đóng ở miền Nam—từ đó và từ những người trung thành đến, chúng ta đã tập hợp được một lực lượng hải quân khiêm tốn."
+
+american_civil_war_events.315.d6: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh nhắc đến bất kỳ thuật ngữ chính trị nào để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường.\n\nBan đầu, Bộ Tư lệnh Hải quân xoay xở ngăn được sự sụp đổ của hạm đội, giam giữ các thủy thủ và sĩ quan trung thành với sự nghiệp công đoàn, nhưng họ không duy trì được lâu. Các sự kiện ở Bờ Tây khiến Hải quân Hoa Kỳ tan rã—các trận chiến giữa lực lượng trung thành với Liên bang và tàu binh biến đã phá vỡ Hạm đội Thái Bình Dương và cho thủy thủ khắp Liên bang cơ hội tuyên bố trung thành với John Reed. Thậm chí một vài thuyền trưởng cấp cao đã đổi phe theo chúng ta. Chúng ta cũng đã chiếm các hạm đội dự bị và tàu đóng ở vùng Đông Bắc—từ đó và từ những thủy thủ cách mạng đến, chúng ta đã tập hợp được một lực lượng hải quân khiêm tốn."
+american_civil_war_events.315.d7: "Sự suy đồi trật tự tại Hoa Kỳ đã ảnh hưởng đến Hải quân Hoa Kỳ cũng như mọi mặt khác của xã hội Mỹ. Nhiều thủy thủ và cả một số sĩ quan đồng tình với cái mà Bộ Tư lệnh Hải quân gọi là 'các lực lượng chống lại Cộng hòa và trật tự công cộng', tránh nhắc đến bất kỳ thuật ngữ chính trị nào để giữ vẻ công bằng nhất có thể. Tuy vậy, đào ngũ đã trở thành chuyện thường.\n\nBan đầu, Bộ Tư lệnh Hải quân xoay xở ngăn được sự sụp đổ của hạm đội, giam giữ các thủy thủ và sĩ quan trung thành với sự nghiệp công đoàn, nhưng họ không duy trì được lâu. Các sự kiện ở Bờ Tây khiến Hải quân Hoa Kỳ tan rã—các trận chiến giữa lực lượng trung thành với Liên bang và tàu binh biến đã phá vỡ Hạm đội Thái Bình Dương và cho thủy thủ khắp Liên bang cơ hội đoạn tuyệt với chế độ ở Washington. Dù một số tuyên bố theo phe Longist, những người khác lại công bố ủng hộ Cách mạng ở Chicago. Thậm chí một vài thuyền trưởng cấp cao đã đổi phe theo chúng ta. Chúng ta cũng đã chiếm các hạm đội dự bị và tàu đóng ở vùng Đông Bắc—từ đó và từ những thủy thủ cách mạng đến, chúng ta đã tập hợp được một lực lượng hải quân khiêm tốn."
+
+american_civil_war_events.315.a1: "Những kẻ phản bội trong Hải quân!"
+american_civil_war_events.315.a2: "Ta không ngờ Hạm đội Thái Bình Dương lại đầy kẻ phản bội!"
+american_civil_war_events.315.a3: "Chúng ta chào đón Hạm đội Thái Bình Dương, những người bảo vệ dân chủ!"
+american_civil_war_events.315.a4: "Chúng ta chào đón những thủy thủ trung thành!"
+american_civil_war_events.315.a5: "Hải quân là xương sống của mọi cuộc cách mạng!"
+
+USA_naval_desertion: "Bắt đầu đào ngũ hàng loạt trong hải quân.\n§YTàu từ Bờ Tây sẽ đến Căn cứ Hải quân Kênh đào Panama§!."
+ACC_naval_desertion: "Bắt đầu đào ngũ hàng loạt trong hải quân."
+APG_naval_desertion: "Các thủy thủ và đô đốc trung thành với nhân dân gia nhập hải quân ta\n§YTàu từ Bờ Tây sẽ đến Biển Caribe§!"
+WCA_naval_desertion: "Các thủy thủ và thuyền trưởng cách mạng gia nhập hải quân ta\n§YTàu từ Bờ Tây sẽ đến Biển Caribe§!"
+
+american_civil_war_events.314.t: "Trật tự được khôi phục ở [restored_core.GetName]"
+american_civil_war_events.314.d: "Trong những tuần qua, lực lượng chính phủ [Root.GetAdjective] đã bận rộn ở [restored_core.GetName], bắt giữ những kẻ mà chúng ta cho là sẽ cản trở quyền kiểm soát, và giúp những người ủng hộ địa phương truyền bá thông điệp tốt đẹp đến người dân. Chúng ta muốn trấn an họ rằng, là công dân Mỹ, họ không có lý do gì phải sợ sự hiện diện của chúng ta. Những nỗ lực của chúng ta đã dần đơm hoa kết trái, ngay giữa hỗn loạn này."
+american_civil_war_events.314.a: "Tin tuyệt vời!"
+
+american_civil_war_events.320.t: "Phe Công đoàn kiểm soát Minnesota"
+american_civil_war_events.320.d: "Bạo lực của các nhóm dân quân công đoàn lan sang thành phố Minneapolis và vùng phụ cận, với các rào chắn trên đường và sân bay Minneapolis được cho là bị vài nhóm vũ trang chiếm giữ. Trước khi bạo lực lan rộng, thống đốc Minnesota tuyên bố bang trung thành với sự nghiệp của John Reed và lệnh cho các sư đoàn Vệ binh Quốc gia của bang hạ vũ khí. Sau khi chiếm được thành trì cũ của Đảng Nông dân-Lao động Minnesota, nhiều thành viên và lãnh đạo Nông dân-Lao động nay đã tuyên thệ trung thành với sự nghiệp Xã hội chủ nghĩa. Số ít chống đối, cùng những người đồng tình Liên bang khác, đang chạy về phía nam, dân quân WCA bám sát, đến Iowa, nơi trận chiến tiếp theo ở Trung Tây được dự kiến diễn ra."
+american_civil_war_events.320.a: "Chúng ta chào đón họ"
+american_civil_war_events.320.b: "Lũ phản bội!"
+
+american_civil_war_events.321.t: "Liên bang duy trì kiểm soát Minnesota"
+american_civil_war_events.321.d: "Bạo lực của các nhóm dân quân công đoàn lan sang thành phố Minneapolis và vùng phụ cận, với các rào chắn trên đường và sân bay Minneapolis được cho là bị vài nhóm vũ trang xâm nhập. Tuy nhiên, trước khi bạo lực lan rộng hơn, thống đốc Minnesota tái khẳng định bang trung thành với chính phủ hợp hiến và tái cam kết đưa Vệ binh Quốc gia trung thành của bang vào việc chống lại quân nổi dậy. Dù cuộc đấu tranh còn tiếp diễn, hiện bang vẫn nằm trong tay Liên bang. Một cuộc nổi dậy tương tự ở Iowa cũng thất bại—với thành trì cũ của Đảng Nông dân-Lao động bị phe Liên bang chế ngự, phe xã hội chủ nghĩa ở Iowa khó có thể tiến xa."
+american_civil_war_events.321.a: "Tốt."
+american_civil_war_events.321.b: "Ta hiểu."
+
+american_civil_war_events.322.t: "Bắc Carolina tuyên bố ủng hộ Huey Long"
+american_civil_war_events.322.d: "Đáp lại áp lực gia tăng từ các nhóm dân quân ở Charlotte, hôm nay thống đốc Bắc Carolina tuyên bố bang sẽ gia nhập phe của Huey Long. Dù có báo cáo bạo loạn ở vài thành phố, phần lớn bang có vẻ ủng hộ quyết định của thống đốc và lực lượng liên bang đang rút khỏi vùng trước khi bị áp đảo."
+american_civil_war_events.322.a: "Chúng ta chào đón họ"
+american_civil_war_events.322.b: "Lũ phản bội!"
+
+american_civil_war_events.323.t: "Bắc Carolina xác nhận trung thành với Hoa Kỳ"
+american_civil_war_events.323.d: "Đáp lại áp lực gia tăng từ các nhóm dân quân ở Charlotte, hôm nay thống đốc Bắc Carolina tuyên bố bang sẽ trung thành với nước Mỹ và chính phủ liên bang hợp hiến. Dù có báo cáo bạo loạn ở vài thành phố, phần lớn bang có vẻ ủng hộ quyết định của thống đốc và lực lượng Minutemen đang rút khỏi vùng trước khi bị áp đảo."
+american_civil_war_events.323.a: "Xuất sắc"
+american_civil_war_events.323.b: "Lũ phản bội!"
+
+american_civil_war_events.324.t: "Dân quân Longist kiểm soát Tennessee"
+american_civil_war_events.324.d: "Các báo cáo trái chiều về giao tranh giữa dân quân công đoàn và Longist khắp Tennessee đã được giải đáp hôm nay khi dân quân Longist xông vào Cơ quan Lập pháp Bang ở Nashville. Thống đốc Gordon Browning bị bắt, và dù lực lượng liên bang chiến đấu giành quyền kiểm soát thành phố, nhanh chóng rõ ràng dân quân chiếm ưu thế. Lực lượng liên bang đã rút khỏi bang, nhượng quyền kiểm soát cho những người ủng hộ Huey Long."
+american_civil_war_events.324.a: "Chúng ta chào đón họ"
+american_civil_war_events.324.b: "Lũ phản bội!"
+
+american_civil_war_events.325.t: "Dân quân Longist thua trận ở Tennessee"
+american_civil_war_events.325.d: "Các báo cáo trái chiều về giao tranh giữa dân quân công đoàn và Longist khắp Tennessee đã được giải đáp hôm nay khi dân quân Longist bị lực lượng Liên bang đánh bại bên ngoài cơ quan lập pháp bang ở Nashville. Dù lực lượng liên bang vẫn đang chiến đấu giành quyền kiểm soát thành phố, ngày càng rõ họ chiếm ưu thế, và Thống đốc Gordon Browning có bài phát biểu trên truyền hình tuyên bố Tennessee sẽ không rơi vào tay các lực lượng cấp tiến. Minutemen đã rút khỏi bang, nhượng quyền kiểm soát cho chính phủ."
+american_civil_war_events.325.a: "Thật nhẹ nhõm"
+american_civil_war_events.325.b: "Lũ phản bội!"
+
+american_civil_war_events.326.t: "Phe Công đoàn thắng ở New Jersey"
+american_civil_war_events.326.d: "Trận chiến giữa dân quân công đoàn khắp New Jersey, từ Newark đến tận phía nam gần Philadelphia, đã kết thúc với việc lực lượng công đoàn tuyên bố thắng lợi. Dù họ chưa mở rộng kiểm soát sang phần còn lại của Bang New York, nơi thống đốc đã tuyên bố tình trạng khẩn cấp và phong tỏa các cây cầu dẫn vào thành phố, những khu vực đông dân nhất của cả hai bang nay nằm chắc trong tay phe Công đoàn với các chướng ngại đã dựng dọc biên giới phía nam New Jersey."
+american_civil_war_events.326.a: "Một thắng lợi đáng hoan nghênh"
+american_civil_war_events.326.b: "Một tổn thất đáng tiếc"
+
+american_civil_war_events.327.t: "Phe Liên bang thắng ở New Jersey"
+american_civil_war_events.327.d: "Trận chiến giữa dân quân công đoàn khắp New Jersey, từ Newark đến tận phía nam gần Philadelphia, đã kết thúc với việc lực lượng liên bang tuyên bố thắng lợi. Các lãnh đạo dân quân công đoàn đang bị bắt giữ và tống giam, dù nhiều kẻ đã biến mất vào khu đô thị với các báo cáo bạo lực còn dai dẳng. Có thể mất nhiều tháng để chính phủ liên bang tái lập kiểm soát vững chắc vùng đô thị. Hiện tại, lực lượng trung thành với chính phủ đang tập trung bảo đảm bờ biển phía đông và tăng cường biên giới với Pennsylvania láng giềng và thành phố New York đang bị vây hãm."
+american_civil_war_events.327.a: "Một thắng lợi đáng hoan nghênh"
+american_civil_war_events.327.b: "Một tổn thất đáng tiếc"
+american_civil_war_events.327.c: "Thú vị"
+
+american_civil_war_events.328.t: "Phe Liên bang chiếm Nam Texas"
+american_civil_war_events.328.d: "Dù bang Texas đã dứt khoát tuyên bố trung thành với Huey Long, lực lượng trung thành với chính phủ liên bang đã kịch liệt tranh giành quyền kiểm soát và đến nay giành thắng lợi khắp các vùng phía nam của bang. Thống đốc James Allred bị các thị trưởng miền nam tuyên bố là kẻ phản bội, những người có vẻ quyết tâm chiến đấu chống lại đồng bào ở phần còn lại của bang nếu nội chiến thực sự nổ ra."
+american_civil_war_events.328.a: "Một thắng lợi đáng hoan nghênh"
+american_civil_war_events.328.b: "Một tổn thất đáng tiếc"
+american_civil_war_events.328.c: "Thú vị"
+
+american_civil_war_events.329.t: "Nổi dậy của Liên bang thất bại ở Texas"
+american_civil_war_events.329.d: "Dù bang Texas đã dứt khoát tuyên bố trung thành với Huey Long, lực lượng trung thành với chính phủ liên bang đã tranh giành quyết liệt quyền kiểm soát và giao tranh với Minutemen đã diễn ra khắp phần phía nam của bang. Thống đốc James Allred gần đây đã họp với vài thị trưởng miền nam, và hôm nay tuyên bố đạt được thỏa thuận đoàn kết ủng hộ Long và chính phủ Mỹ chính đáng."
+american_civil_war_events.329.a: "Một thắng lợi đáng hoan nghênh"
+american_civil_war_events.329.b: "Một tổn thất đáng tiếc"
+american_civil_war_events.329.c: "Thú vị"
+
+american_civil_war_events.330.t: "Iowa tuyên bố ủng hộ Reed"
+american_civil_war_events.330.d: "Sau khi cả Cedar Rapids và Iowa City bị dân quân công đoàn chiếm, hôm nay thống đốc Iowa tuyên bố ủng hộ John Reed và yêu cầu lực lượng liên bang rút khỏi bang. Dù hầu hết nghi ngờ Thống đốc Kraschel có cảm tình với công đoàn hay không, rõ ràng ông đã thấy trước sự sụp đổ nhanh chóng của bang một khi chiến tranh bắt đầu và chọn đổi phe trước khi mọi thứ đi quá xa. Vài báo cáo bạo loạn ở Des Moines diễn ra trước khi lực lượng trung thành rút khỏi vùng."
+american_civil_war_events.330.a: "Một thắng lợi đáng hoan nghênh"
+american_civil_war_events.330.b: "Một tổn thất đáng tiếc"
+
+american_civil_war_events.331.t: "Iowa tuyên bố ủng hộ Liên bang"
+american_civil_war_events.331.d: "Sau khi cả Cedar Rapids và Iowa City được lực lượng liên bang giải phóng khỏi kiểm soát công đoàn, hôm nay thống đốc Iowa tái khẳng định ủng hộ chính phủ liên bang và yêu cầu John Reed rút dân quân công đoàn khỏi bang. Rõ ràng Thống đốc Kraschel đã thấy trước xu hướng trận chiến ở bang mình và quyết định mời quân Liên bang vào trước khi mọi thứ vượt tầm kiểm soát. Vài báo cáo bạo loạn ở Des Moines diễn ra trước khi dân quân SPA rút khỏi vùng."
+american_civil_war_events.331.a: "Một thắng lợi đáng hoan nghênh"
+american_civil_war_events.331.b: "Một tổn thất đáng tiếc"
+
+american_civil_war_events.332.t: "Missouri bị dân quân chiếm"
+american_civil_war_events.332.d: "Tiếp bước thắng lợi ở Iowa, dân quân SPA tràn vào Missouri và nhận được ủng hộ sẵn có từ những người đình công ở St. Louis. Thành phố bị chiếm gần như ngay lập tức, Thống đốc Lloyd C. Stark bị bắt làm con tin. Dù thống đốc cầm cự vài ngày, hy vọng lực lượng liên bang sẽ giải phóng ông tại cơ quan lập pháp, nhanh chóng rõ ràng dân quân Missouri đã bám rễ quá vững. Để tránh đổ máu thêm, Thống đốc Stark lệnh cho Vệ binh Quốc gia bang hạ vũ khí. Nghe nói giao tranh vẫn tiếp diễn, và kiểm soát của SPA chưa hoàn toàn."
+american_civil_war_events.332.a: "Một diễn biến đáng hoan nghênh"
+american_civil_war_events.332.b: "Rất đáng lo ngại"
+
+american_civil_war_events.333.t: "SPA chiếm Kentucky"
+american_civil_war_events.333.d: "Bất ổn ở các vùng phía đông Kentucky cuối cùng đã đến điểm sôi. Với việc Missouri thất thủ làm tăng áp lực lên bang, chỉ còn là vấn đề thời gian trước khi Frankfort và Louisville bị lực lượng SPA tấn công từ mọi phía tràn ngập. Thống đốc Happy Chandler sơ tán khỏi bang ngay trước khi Frankfort thất thủ, khiến những người phòng thủ còn lại không có lãnh đạo và dễ dàng bị áp đảo. Dù SPA nay kiểm soát phần lớn bang, quyền kiểm soát của họ còn xa mới vững chắc, với các cuộc đụng độ thường xuyên giữa dân quân và lực lượng Liên bang gần biên giới Tennessee."
+american_civil_war_events.333.a: "Một diễn biến đáng hoan nghênh"
+american_civil_war_events.333.b: "Rất đáng lo ngại"
+
+american_civil_war_events.334.t: "Kentucky tuyên bố ủng hộ Long"
+american_civil_war_events.334.d: "Khi quốc gia bên bờ nội chiến, nhiều bang biên giới buộc phải chọn phe. Ở Kentucky, cơ quan lập pháp ở Frankfort một lần nữa chia rẽ gay gắt khi bang vật lộn với nỗi sợ chủ nghĩa công đoàn và sức hút từ lời tuyên bố của Huey Long. Trong một lời kêu gọi đầy nhiệt huyết, Thống đốc Happy Chandler dứt khoát đặt vận mệnh mình vào sự nghiệp Liên bang, dù bản thân là thành viên vững chắc của cánh Bảo thủ Đảng Dân chủ. Dù bài phát biểu thu hút chú ý đáng kể ở vùng đang tự xé mình, cuối cùng lực lượng của Thống đốc Chandler buộc phải tháo chạy khỏi thủ phủ về phía chiến tuyến trung thành—nhượng phần lớn bang cho chính phủ thân Long. Tuy nhiên Chandler thề sẽ tập hợp lực lượng thân chính phủ và trở lại giải phóng bang khỏi phản quốc."
+american_civil_war_events.334.a: "Một diễn biến đáng hoan nghênh"
+american_civil_war_events.334.b: "Rất đáng lo ngại"
+
+american_civil_war_events.335.t: "Minutemen chiếm Virginia"
+american_civil_war_events.335.d: "Tiếp bước thắng lợi ở Bắc Carolina, Minutemen của Long tràn vào Virginia và nhận được ủng hộ sẵn có từ những người biểu tình chống công đoàn ở các vùng phía tây bang. Richmond bị chiếm ngay sau đó, Thống đốc George C. Peery bị bắt làm con tin. Dù thống đốc cầm cự vài ngày, hy vọng lực lượng liên bang sẽ giải phóng ông tại cơ quan lập pháp, nhanh chóng rõ ràng lực lượng Minutemen của Virginia đã bám rễ quá vững. Để tránh đổ máu thêm, Thống đốc Peery lệnh cho Vệ binh Quốc gia bang hạ vũ khí và lực lượng hải quân rút khỏi căn cứ ở Norfolk. Nghe nói giao tranh vẫn tiếp diễn, và kiểm soát của Long trên bang còn xa mới hoàn toàn."
+american_civil_war_events.335.a: "Một diễn biến đáng hoan nghênh"
+american_civil_war_events.335.b: "Như thế quá gần Washington"
+
+### Deal with the Devil ###
+ACW_deal_with_devil_effect: "Tất cả các bang bị chiếm đóng trong lãnh thổ của họ sẽ được chuyển giao cho chúng ta, và của chúng ta cho họ. Lệnh ngừng bắn sẽ kéo dài 90 ngày, sau đó mỗi bên sẽ có quyền gia hạn thêm 90 ngày.\n"
+
+american_civil_war_events.520.t: "Giao kèo với quỷ dữ?"
+american_civil_war_events.520.d: "Chính phủ [From.GetAdjective] đã tiếp cận chúng ta với một đề nghị: một lệnh ngừng bắn ít nhất 90 ngày giữa [Root.GetNameDef] và [From.GetNameDef], để cả hai có thể dồn sức chống lại lực lượng [enemy_country.GetAdjective], những kẻ hiện đang đánh bại cả hai chúng ta. Sau 90 ngày, chúng ta có thể đánh giá lại... và, nếu [enemy_country.GetNameDef] bị đánh bại, lệnh ngừng bắn sẽ chấm dứt."
+american_civil_war_events.520.a: "Chúng ta đồng ý thỏa thuận này... tạm thời"
+american_civil_war_events.520.b: "Không, chúng ta từ chối thỏa hiệp nguyên tắc"
+
+american_civil_war_events.521.t: "Giao kèo bị từ chối"
+american_civil_war_events.521.d: "Thật không may, có vẻ chính phủ [From.GetAdjective] cứng đầu hơn họ tưởng. Họ sẽ không hợp tác với chúng ta, ngay cả khi điều đó đồng nghĩa với thất bại của họ."
+american_civil_war_events.521.a: "Đáng tiếc"
+
+american_civil_war_events.522.t: "Giao kèo được chấp nhận"
+american_civil_war_events.522.d: "Đúng như dự đoán, lực lượng [From.GetAdjective] đã chấp nhận giao kèo của chúng ta. Chúng ta sẽ ngừng giao chiến, tạm thời, và dồn sự chú ý vào [enemy_country.GetNameDef]. Sau 90 ngày, chúng ta có thể đánh giá lại, và nếu lực lượng [enemy_country.GetAdjective] bị đánh bại, lệnh ngừng bắn sẽ chấm dứt."
+american_civil_war_events.522.a: "Xuất sắc"
+
+american_civil_war_events.523.t: "Tiếp tục lệnh ngừng bắn?"
+american_civil_war_events.523.d: "90 ngày đã hết, và nay đến lượt chúng ta cân nhắc có nên tiếp tục chiến đấu chống lại [truce_country.GetNameDef] không."
+american_civil_war_events.523.a: "Hãy hoãn thêm 90 ngày nữa..."
+american_civil_war_events.523.b: "Lệnh ngừng bắn này kết thúc"
+
+american_civil_war_events.524.t: "Giao kèo với quỷ dữ"
+american_civil_war_events.524.d: "Khi lực lượng của họ bị [enemy_country.GetNameDef] ép mạnh, đại diện của cả [From.GetNameDef] và [From.From.GetNameDef] đã đồng ý một lệnh ngừng bắn tạm thời, kẻo [enemy_country.GetAdjective] càn quét cả hai và thắng Nội chiến Mỹ.\n\nKhông rõ thỏa thuận của họ có quá muộn hay có thể kéo dài hơn vài tháng trước khi hai bên quay lại đánh nhau hay không. Hầu hết người quan sát đồng ý rằng thỏa thuận chưa từng có tiền lệ này cho thấy hiện [enemy_country.GetNameDef] nắm thế thượng phong rõ rệt."
+american_civil_war_events.524.a: "Thú vị"
+american_civil_war_events.524.b: "Không khác biệt gì - cả hai sẽ thua"
+
+american_civil_war_events.525.t: "Giao kèo với quỷ dữ"
+american_civil_war_events.525.d: "Khi lực lượng của họ bị [enemy_country.GetNameDef] ép mạnh, cả [truce_support.GetNameDef] và [truce_enemy.GetNameDef] đã đồng ý một lệnh ngừng bắn tạm thời. Vì chúng ta đã tuyên bố ủng hộ phe [truce_support.GetAdjective], nên chúng ta buộc phải tuân theo thỏa thuận của họ... ít nhất là lúc này."
+american_civil_war_events.525.a: "Cứ như vậy đi."
+
+american_civil_war_events.526.t: "Lệnh ngừng bắn đã kết thúc"
+american_civil_war_events.526.d: "Lệnh ngừng bắn tạm thời giữa [can_ally.GetNameDef] và [can_enemy.GetNameDef] rõ ràng đã kết thúc, và nay [can_ally.GetAdjective] đang kêu gọi Entente tham chiến trở lại như trước."
+american_civil_war_events.526.a: "Chúng ta đang đến!"
+american_civil_war_events.526.b: "Tôi e họ phải tự lo liệu"
+amcivwar526_tt: "§Y[Root.GetNameDefCap]§! sẽ tham chiến trở lại cùng §Y[can_ally.GetNameDef]§! trong cuộc chiến chống §Y[can_enemy.GetNameDef]§!\n"
+
+american_civil_war_events.527.t: "Nước Mỹ được thống nhất"
+american_civil_war_events.527.d.USA: "Cuối cùng nước Mỹ đã được thống nhất. Chúng ta lại trải dài từ biển này sang biển kia. Những kẻ phản bội đất nước đã bị tiêu diệt và lá cờ sao sọc nay tung bay kiêu hãnh từ bờ biển này sang bờ biển kia, biết rằng tự do đã được bảo đảm cho mọi người Mỹ."
+american_civil_war_events.527.d.WCA: "Cuối cùng toàn bộ nước Mỹ nay là một phần của [Root.GetNameDef]. Cuộc cách mạng đã đạt được thắng lợi lớn và nhân dân đã được thoát khỏi xiềng xích của chủ nghĩa tư bản. Từ California đến Đảo New York, tất cả đều vẫy lá cờ đỏ của chủ nghĩa xã hội. Dù những vết sẹo của cách mạng còn khắp nơi, chúng ta có thể hướng tới việc mang cách mạng đến với mọi người."
+american_civil_war_events.527.d.APG: "Cuối cùng nước Mỹ đã được thống nhất dưới ngọn cờ của [Root.GetNameDef]. Những kẻ phản bội và những kẻ muốn làm bạo chúa đã cố phá hủy và làm hoen ố quốc gia vĩ đại này, nhưng chúng ta đã đứng vững và giành quyền kiểm soát. Tuy nhiên, một câu hỏi đã nảy sinh ở những vùng lãnh thổ vốn không nổi dậy cùng Huey Long trong nội chiến: đây là Hợp chúng quốc Hoa Kỳ, hay thực sự là [Root.GetNameDef]? Nhiều người khao khát trở về với sự ổn định của lá cờ sao sọc, dù mọi thứ đã thay đổi không thể cứu vãn. Ta có nên xoa dịu họ và cho thấy nước Mỹ mà Huey vốn hình dung vẫn còn tồn tại?"
+american_civil_war_events.527.d.ACC: "Cuối cùng Hợp chúng quốc Hoa Kỳ đã được thống nhất. Bạo chúa MacArthur đã bị lật đổ, mọi kẻ phản bội khác của đất nước muốn biến nước Mỹ thành thứ không phải của nó đều đã bị đánh bại. Lá cờ sao sọc nay tung bay kiêu hãnh từ bờ biển này sang bờ biển kia, biết rằng tự do đã được bảo đảm cho mọi người Mỹ."
+#Everyone but WCA:
+american_civil_war_events.527.a: "Một liên bang hoàn hảo hơn."
+#WCA:
+american_civil_war_events.527.b: "Vùng đất này là đất của bạn."
+
+### Map Colour Change Event ###
+
+american_civil_war_events.600.t.USA: "Thắng lợi của nền Cộng hòa"
+american_civil_war_events.600.d.USA: "Với thất bại cuối cùng của phe nổi loạn cuối cùng, chính phủ của chúng ta - chính phủ chính nghĩa - lại đứng cao trên lục địa Mỹ. Giống như Abraham Lincoln bảy mươi lăm năm trước, Tổng thống [USA.GetLeader] đã cứu nền cộng hòa. Nay chiến tranh đã kết thúc, những bài học từ Khủng hoảng năm '37 và cuộc chiến phải được nghiên cứu và áp dụng. Dù trong chính phủ thực sự có nhiều thiện chí cải cách hệ thống, vẫn chưa có đồng thuận về cách tiến hành.\n\nMột số người đặt câu hỏi về di sản hành động của Tổng thống MacArthur, liệu chúng có cần thiết để bảo vệ liên bang khỏi phe cấp tiến tả hữu hay đã mở đường cho sự kết thúc của nền dân chủ. Bất chấp dàn xếp hậu chiến hiện tại, nhiều người vẫn lặng lẽ và công khai tranh cãi về di sản của các sự kiện năm 1937.\n\nĐiều rõ ràng là quân đội sẽ vẫn là lực lượng nổi bật trong xã hội, dù tốt hay xấu. Bất kể tương lai của chính MacArthur, tiền lệ ông ta đặt ra sẽ còn vang vọng nhiều năm tới, dù chúng ta có thoải mái với điều đó hay không, và chúng ta sẽ phải làm việc trong những năm tới để giải quyết điều đó. Tất cả những câu hỏi này và những câu hỏi khác nay phải được trả lời, nhưng nhờ ơn Chúa Toàn năng, nước Mỹ nay có một chính phủ sẵn sàng thử."
+american_civil_war_events.600.a.USA: "Cuộc thử nghiệm Mỹ chưa chết.\n§L(Giữ màu bản đồ)§!"
+american_civil_war_events.600.b.USA: "Cuộc thử nghiệm Mỹ chưa chết.\n§L(Đổi màu bản đồ)§!"
+
+american_civil_war_events.600.t.APG: "Thắng lợi của Nhân dân"
+american_civil_war_events.600.d.APG: "Với thắng lợi cuối cùng trước kẻ thù của nhân dân, chính phủ của chúng ta - Chính phủ Nhân dân - đã đòi lại đất nước cho nhân dân. Giống như Abraham Lincoln bảy mươi lăm năm trước, Tổng thống [APG.GetLeader] đã cứu nền dân chủ và Liên bang. Nay chiến tranh đã kết thúc, những bài học từ Khủng hoảng năm '37 và cuộc chiến phải được nghiên cứu và áp dụng. Dù chính phủ của chúng ta đã thống nhất trong chiến tranh, những chia rẽ từ lâu đã hiển hiện trong phong trào Chia sẻ Tài sản rộng lớn hơn chắc chắn sẽ nổi lên trong thời hậu chiến.\n\nDù Tổng thống Long có vẻ có uy tín mạnh mẽ để cai trị, nhiều đồng minh của ông trở nên bồn chồn với hành vi của ông. Đảng Liên minh, vốn chủ yếu tồn tại trên giấy tờ hơn là thực tế, sẽ sớm nhường chỗ cho cả các tổ chức chính trị mới và cũ, với bản thân Long được đồn là hy vọng hòa giải với các đồng nghiệp Dân chủ cũ. Trong khi đó, cánh hữu trong phong trào của ông rất ít kiên nhẫn với những lời hứa phân phối của cải, những lời hứa ông tìm cách thực hiện nay khi chiến tranh đã kết thúc.\n\nĐiều rõ ràng là nước Mỹ sẽ mở một con đường mới, không bị ràng buộc bởi những giáo điều ý thức hệ thông thường của chủ nghĩa tự do hay chủ nghĩa xã hội. Bất kể cánh nào của phong trào Long thắng thế, kết quả sẽ là một hệ thống độc đáo của Mỹ, dù tốt hay xấu."
+american_civil_war_events.600.a.APG: "Do nhân dân, vì nhân dân.\n§L(Giữ màu bản đồ)§!"
+american_civil_war_events.600.b.APG: "Do nhân dân, vì nhân dân.\n§L(Đổi màu bản đồ)§!"
+
+american_civil_war_events.600.t.NEE: "Thắng lợi của Dân chủ"
+american_civil_war_events.600.d.NEE: "Với việc đòi lại cuối cùng 48 bang, chính phủ của chúng ta - nay được đại đa số người Mỹ công nhận là hợp hiến - đứng cao trên lục địa Mỹ. Giống như Abraham Lincoln bảy mươi lăm năm trước, Tổng thống [NEE.GetLeader] đã cứu nền dân chủ và Liên bang. Dù cuộc thử nghiệm Mỹ đã bị thu hẹp, trong giờ phút đen tối nhất, vào giới hạn của New England, nơi khai sinh Cách mạng Mỹ đã vượt qua để cứu nó. Nay chiến tranh đã kết thúc, những bài học từ Khủng hoảng năm '37 và cuộc chiến phải được nghiên cứu và áp dụng. Dù trong chính phủ thực sự có nhiều thiện chí cải cách hệ thống, vẫn chưa có đồng thuận về cách tiến hành.\n\nMột số người đặt câu hỏi về mức độ phục hồi và tái hòa nhập vào Liên bang được khôi phục của các lực lượng lập hiến không trực thuộc Chính phủ Boston. Dù sự nghiệp họ chiến đấu chắc chắn giống của chúng ta, nhiều người gạt chúng ta sang một bên như bù nhìn của Canada, và những chia rẽ cùng oán hận của cuộc chiến khó có thể dễ dàng tan biến.\n\nĐiều rõ ràng là những lợi ích cũ đã thống trị Hoa Kỳ trong nhiều thập kỷ sẽ trở lại vị thế nổi bật. Trật tự và sự tỉnh táo sẽ trở lại với chính phủ, khi dự án chính trị của phe cấp tiến đủ loại bị đánh bại dứt khoát. Dù chúng ta phải cảnh giác với sự hồi sinh của bất mãn trong nước, trật tự cũ đã được trao một sức sống mới, ít nhất là hiện tại."
+american_civil_war_events.600.a.NEE: "Nền dân chủ ở Mỹ chưa chết.\n§L(Giữ màu bản đồ)§!"
+american_civil_war_events.600.b.NEE: "Nền dân chủ ở Mỹ chưa chết.\n§L(Đổi màu bản đồ)§!"
+
+### Sanity Checks ###
+
+american_civil_war_events.607.t: "Sụp đổ của Liên bang"
+american_civil_war_events.607.d: "Có vẻ chính phủ Liên bang đã cạn hơi trong Nội chiến Mỹ.\n\nPhần lớn lãnh thổ của nó đã bị các phe phái Mỹ khác nuốt chửng, và những gì còn lại chỉ là tàn dư cuối cùng của quân đội - nay mất tinh thần và chịu đào ngũ hàng loạt, nhưng vẫn cầm cự với hy vọng mong manh rằng một phép màu có thể cứu họ.\n\nMột số lãnh đạo Liên bang đã gặp các tướng lĩnh phe địch để đàm phán điều khoản đầu hàng hoàn toàn không thể tránh khỏi."
+american_civil_war_events.607.a: "Một bước cần thiết cho cách mạng."
+american_civil_war_events.607.b: "Sic Semper Tyrannis!"
+american_civil_war_events.607.c: "Họ nhận được những gì họ xứng đáng"
+american_civil_war_events.607.e: "Sốc!"
+
+american_civil_war_events.608.t: "Sụp đổ của [WCA.GetNameDef]"
+american_civil_war_events.608.d: "Có vẻ [WCA.GetNameDef] đã cạn hơi trong Nội chiến Mỹ.\n\nPhần lớn lãnh thổ của nó đã bị các phe phái Mỹ khác nuốt chửng, và những gì còn lại chỉ là tàn dư cuối cùng của quân đội - nay mất tinh thần và chịu đào ngũ hàng loạt, nhưng vẫn cầm cự với hy vọng mong manh rằng một phép màu có thể cứu họ.\n\nMột số lãnh đạo [WCA.GetAdjective] đã gặp các tướng lĩnh phe địch để đàm phán điều khoản đầu hàng hoàn toàn không thể tránh khỏi."
+american_civil_war_events.608.a: "Đã đến lúc rồi"
+american_civil_war_events.608.b: "Ít nhất đó là tin tốt"
+american_civil_war_events.608.c: "Để cách mạng của họ cháy trong địa ngục"
+american_civil_war_events.608.e: "Thú vị."
+
+american_civil_war_events.609.t: "Sụp đổ của [APG.GetNameDef]"
+american_civil_war_events.609.d: "Có vẻ [APG.GetNameDef] đã cạn hơi trong Nội chiến Mỹ.\n\nPhần lớn lãnh thổ của nó đã bị các phe phái Mỹ khác nuốt chửng, và những gì còn lại chỉ là tàn dư cuối cùng của quân đội - nay mất tinh thần và chịu đào ngũ hàng loạt, nhưng vẫn cầm cự với hy vọng mong manh rằng một phép màu có thể cứu họ.\n\nMột số lãnh đạo [APG.GetAdjective] đã gặp các tướng lĩnh phe địch để đàm phán điều khoản đầu hàng hoàn toàn không thể tránh khỏi."
+american_civil_war_events.609.a: "Đúng như lẽ phải"
+american_civil_war_events.609.b: "Ít nhất đó là tin tốt"
+american_civil_war_events.609.c: "Họ xứng đáng với mọi thứ họ nhận"
+american_civil_war_events.609.e: "Thú vị"
+
+american_civil_war_events.610.t: "Sụp đổ của [ACC.GetNameDef]"
+american_civil_war_events.610.d: "Có vẻ [ACC.GetNameDef] đã cạn hơi trong Nội chiến Mỹ.\n\nPhần lớn lãnh thổ của nó đã bị các phe phái Mỹ khác nuốt chửng, và những gì còn lại chỉ là tàn dư cuối cùng của quân đội - nay mất tinh thần và chịu đào ngũ hàng loạt, nhưng vẫn cầm cự với hy vọng mong manh rằng một phép màu có thể cứu họ.\n\nMột số lãnh đạo đã gặp các tướng lĩnh phe địch để đàm phán điều khoản đầu hàng hoàn toàn không thể tránh khỏi."
+american_civil_war_events.610.a: "Đúng như lẽ phải"
+american_civil_war_events.610.b: "Ít nhất đó là tin tốt"
+american_civil_war_events.610.c: "Họ xứng đáng với mọi thứ họ nhận"
+american_civil_war_events.610.e: "Thú vị"
+
+american_civil_war_events.611.t: "Thiết bị từ [From.GetAdjective] đến"
+american_civil_war_events.611.d: "Bạn bè của chúng ta ở [From.GetNameDef] đã gửi cho chúng ta một lô thiết bị bộ binh để hỗ trợ cuộc đấu tranh."
+american_civil_war_events.611.a: "Rất cần thiết!"
+
+american_civil_war_events.615.t: "Triệu tập lực lượng dự bị khẩn cấp"
+american_civil_war_events.615.d: "Với việc [From.GetNameDef] tuyên chiến với [Root.GetNameDef], các cựu binh nội chiến đã nhanh chóng nhập ngũ vào lực lượng dự bị quốc gia - thôi thúc bởi cảm giác rằng chính phủ [From.GetAdjective] đang săn đuổi chúng ta vào lúc yếu nhất. Dù các quân đoàn mới được triển khai khắp đất nước, họ sẵn sàng và háo hức chiến đấu chống kẻ thù!"
+american_civil_war_events.615.a: "Chúng ta sẽ bảo vệ đất nước!"
+american_civil_war_events.615.b: "Điều này không cần thiết."
+
+american_civil_war_events.616.t: "Giải ngũ lực lượng dự bị"
+american_civil_war_events.616.d: "Dù lực lượng dự bị khẩn cấp được triệu tập cho chiến tranh, nay khi nó kết thúc, họ đã được giải ngũ và trở về nhà - kiệt sức sau quá nhiều trận chiến."
+american_civil_war_events.616.a: "Đến lúc nghỉ ngơi, các cựu binh thân yêu"
+
+### MacArthur's War ###
+american_civil_war_events.700.t: "Kế hoạch chiến tranh của MacArthur"
+american_civil_war_events.700.d: "Tướng MacArthur từ lâu đã chuẩn bị kế hoạch chống bất ổn dân sự. Kế hoạch Chiến tranh Trắng ban đầu từ đầu thập niên '20 khăng khăng tôn trọng các quy định của Hiến pháp về quyền các bang. Nó nói rằng chỉ thống đốc mới có thể yêu cầu quân liên bang trấn áp nổi loạn. Tình hình quốc gia hiện nay, thật không may, đòi hỏi hành động mạnh mẽ hơn. Với thời hạn ân xá 30 ngày của Tổng thống MacArthur mang lại ít kết quả, có vẻ Hoa Kỳ cần chuẩn bị cho chiến tranh.\n\nCó ba kế hoạch được đề xuất lên nội các và các tham mưu trưởng quân đội:\n\n1. Kế hoạch Chiến tranh Trắng: Yorktown đề nghị từ bỏ nhiều căn cứ quân sự ở Bờ Tây, dãy Rockies, Đồng bằng Lớn và Trung Tây. Với việc rút quân Liên bang về phía đông sông Mississippi, kế hoạch hy vọng việc tập trung quân Liên bang ở bờ biển phía đông sẽ có thể nghiền nát các cuộc nổi loạn ở Pennsylvania, Carolinas, New England và Georgia.\n\n2. Kế hoạch Chiến tranh Trắng: San Jacinto kêu gọi di dời chính phủ đến Đồng bằng Lớn, cùng phần lớn quân đội, để nghiền nát kháng cự ở các bang Bờ Tây. Nếu thực hiện đúng, điều này sẽ cho phép chúng ta chiếm lại Hạm đội Thái Bình Dương đang binh biến.\n\n3. Cuối cùng, Kế hoạch Chiến tranh Trắng ban đầu của MacArthur, soạn cuối năm ngoái, kêu gọi giữ một hành lang từ Virginia đến bất kỳ bang nào còn trung thành ở Trung Tây. Chúng ta hy vọng tổ chức và khả năng cơ động vượt trội có thể nhanh chóng nghiền nát các cuộc nổi loạn trước khi chúng liên kết hoặc bắt đầu sản xuất chiến tranh. Ta nên chọn gì?"
+american_civil_war_events.700.a: "Từ bỏ Đồng bằng."
+american_civil_war_events.700.b: "Washington quá dễ tổn thương, rút về Denver."
+american_civil_war_events.700.c: "Chúng ta sẽ không nhượng thêm một tấc nào cho lũ phản bội!"
+
+american_civil_war_events.701.t: "Sơ tán dãy Rocky Mountains"
+american_civil_war_events.701.d: "Các bang Arizona, New Mexico, Idaho và Utah từ lâu được coi là vùng trung tâm thực sự của nước Mỹ, nơi kẻ xâm lược hiếm khi chạm tới. Vì vậy, có ít căn cứ hoặc bộ chỉ huy quân sự trong vùng, và ít kho hoặc căn cứ để sơ tán. Ở Nevada, thật không may, Kho quân đội Hawthorne đã từ chối lệnh chuyển vật tư về phía đông. Tuy nhiên, các bang New Mexico và Arizona thì khác. Ở đây, Pháo đài Yuma và Huachuca, được xây từ thế kỷ trước để bảo vệ chống các cuộc tập kích của người da đỏ và cướp Mexico, vẫn vững mạnh. May mắn thay, họ cũng vẫn trung thành, và binh lính ở đó đang chở hàng về phía bắc và đông nhanh nhất có thể. Công dân các bang này đang thận trọng tuân theo chỉ dẫn của thống đốc để ở nguyên tại chỗ cho đến khi có quyết định cấp vùng."
+american_civil_war_events.701.a: "Có lẽ người Navajo sẽ lại xuất hiện, giờ khi quân Liên bang đã đi."
+
+american_civil_war_events.702.t: "Sơ tán Đồng bằng Lớn phía Bắc"
+american_civil_war_events.702.d: "Giống như phần còn lại của miền Tây cũ, các căn cứ quân sự duy nhất ở phía bắc Đồng bằng Lớn được thành lập trong các cuộc Chiến tranh Da đỏ cuối cùng để bình định vùng này. Pháo đài Russel ở Wyoming, Pháo đài Missoula ở Montana và Trại Grafton ở Bắc Dakota nay là những căn cứ được trang bị khá kém, chưa từng đánh trận hay chạm trán nào từ thập niên 1880. Việc thiếu hoạt động dân sự thù địch khiến cuộc sơ tán tương đối suôn sẻ, và quân đội đã rút về phía nam đến Colorado và Missouri."
+american_civil_war_events.702.a: "Để người Canada canh biên giới, chúng ta đi về phía đông."
+
+american_civil_war_events.703.t: "Rút khỏi Denver"
+american_civil_war_events.703.d: "Đồng bằng trung tâm, đặc biệt là Denver, đã trở thành điểm tập hợp cho quân đội và dân quân ở Đồng bằng và miền Tây, cùng nhau tổ chức, huấn luyện và chiến đấu chống nổi loạn. Vì Tổng thống đã quyết định từ bỏ Đồng bằng cho đến khi có thể chiếm Chicago và Baton Rouge, những quân này đã được gửi khỏi Denver về phía đông đến Missouri, để gặp dân quân trung thành đang tập trung ở St. Louis. Thống đốc Colorado đã cầu xin quân ta ở lại bảo vệ bang khỏi quân nổi loạn cấp tiến, nhưng họ đã có lệnh. Miền Tây đã bị bỏ mặc cho chết."
+american_civil_war_events.703.a: "Thổi kèn rút lui."
+
+american_civil_war_events.704.t: "Vượt sông Mississippi"
+american_civil_war_events.704.d: "Khi quân ta đến Missouri, rắc rối cuối cùng bắt đầu ập đến với binh lính. Thống đốc Stark của Missouri, một chính trị gia thuộc bộ máy Pendergast, là người ngưỡng mộ Thống đốc Long và là đồng minh của ông. Ông từ chối cho quân ta vượt Mississippi mà không kiểm tra giấy tờ từng đơn vị qua Washington bằng điện tín. Quân ta có vẻ đã hơi chán ngấy điều này, và xông qua cầu ở Cairo vào Kentucky. Thật không may, cầu chỉ chịu được bấy nhiêu người, và cầu sớm sụp, khiến hàng ngàn người bị mắc kẹt ở bờ bên kia. Phà sớm được tổ chức để đưa họ qua, nhưng những phát súng đầu tiên chống quân đội đã xuất hiện khi những người cuối cùng của ta rời St. Louis, dân quân của Long bắn vào quân ta đang rút."
+american_civil_war_events.704.a: "Chạy đi, chạy vì mạng sống!"
+
+american_civil_war_events.705.t: "Các thống đốc miền Tây đào ngũ sang ACC"
+american_civil_war_events.705.d: "Khi quân Liên bang rút khỏi vùng dãy Rocky Mountains, ban đầu có phản ứng chia rẽ. Thống đốc Nevada, Richard Kirman Sr., từ chối cho quân Liên bang sơ tán hoặc bỏ thiết bị, nhưng thống đốc Arizona, Idaho và Utah sẵn lòng hỗ trợ Tổng thống hơn. Tuy nhiên, một hội nghị cấp vùng gần đây của bốn thống đốc ở Salt Lake City đã dẫn đến quyết định cùng dựa vào chính phủ lâm thời ở California để được bảo vệ và hỗ trợ. Có vẻ hầu hết trong số họ bị dẫn đến điều này bởi việc bị chính phủ Washington bỏ rơi rõ ràng. Họ đã lên án việc MacArthur tiếp quản về hình thức và chính phủ Sacramento đã cử binh lính và phi công của mình đến chiếm các căn cứ bị bỏ hoang ở miền Tây."
+american_civil_war_events.705.a: "Nước Mỹ chân chính ngày càng mạnh!"
+american_civil_war_events.705.b: "Kẻ phản bội thực dụng vẫn là kẻ phản bội."
+
+american_civil_war_events.706.t: "New Mexico rơi vào tay chính phủ Huey Long"
+american_civil_war_events.706.d: "Khi binh lính và lính thủy đánh bộ Liên bang rời Arizona và New Mexico, họ mang theo hầu hết dân quân và Vệ binh Quốc gia, hứa sẽ đưa họ về nhà qua Baton Rouge trước cuối năm. Thật không may cho chính phủ MacArthur, việc tước hết lực lượng phòng thủ của New Mexico khiến nó dễ bị chiếm từ các vùng lân cận. Tiến lên sông Pecos và phóng theo các con đường đến Albuquerque và Santa Fe, Minutemen và Vệ binh Quốc gia trung thành với Huey Long đã chiếm phần lớn New Mexico trước khi cảnh sát biết chuyện gì đang xảy ra. Chẳng bao lâu, thống đốc cấp tiến Tingley đầu hàng bang qua radio trước khi chạy về phía tây sang ACC, mang theo phần lớn bộ máy hành chính của bang."
+american_civil_war_events.706.a: "Cảm ơn, người Texas!"
+american_civil_war_events.706.b: "Quốc gia càng lún sâu vào hỗn loạn."
+
+american_civil_war_events.707.t: "Lực lượng Xã hội chủ nghĩa chiếm Minnesota"
+american_civil_war_events.707.d: "Khi quân Liên bang rời Minnesota, người bạn cũ của Floyd Olson là Thống đốc Peterson nhận ra bang của mình sẽ bị xé nát trừ khi ông đầu hàng chế độ Chicago của John Reed. Dù có một số phản đối, việc bang đã bỏ phiếu cho Nông dân-Lao động trong bầu cử '36 giúp thuyết phục người dân Minnesota theo thống đốc vào vòng tay phe xã hội chủ nghĩa."
+american_civil_war_events.707.a: "Điều đó không thể tránh khỏi."
+american_civil_war_events.707.b: "Chết tiệt bọn chúng!"
+
+american_civil_war_events.708.t: "Iowa đầu hàng"
+american_civil_war_events.708.d: "Công nhân đình công ở Des Moines và Cedar Rapids hôm nay được dân quân mới đến của WCA do Reed nay công khai tuyên bố tham gia. Cảnh sát cố bảo vệ Điện Capitol Bang Iowa bị đám đông thảm sát khi trụ sở cơ quan lập pháp bị công nhân xâm chiếm. Thống đốc Kraschel, có lẽ thấy được xu hướng thủy triều, đã quyết định đầu hàng bang cho chính phủ Chicago như một bang mới của WCA."
+american_civil_war_events.708.a: "Đôi khi cách mạng phải được mang đến bằng vũ lực."
+american_civil_war_events.708.b: "Kinh khủng!"
+
+american_civil_war_events.709.t: "Chiếm đóng dãy Rocky Mountains phía Bắc"
+american_civil_war_events.709.d: "Binh lính và dân quân của Chính phủ Lâm thời Miền Tây cuối cùng đã vượt dãy Rocky Mountains qua một số kháng cự nhỏ, và hôm nay cả Cheyenne và Helena đều rơi vào tay chính phủ Sacramento. Quan điểm về việc chiếm đóng ở Wyoming và Montana rất chia rẽ, và nhiều người từ các thành phố đã chạy đến bạn bè hoặc người thân ở vùng nông thôn. Tuy vậy, có đủ tân binh từ vùng Rockies phía bắc để bổ sung cho các sư đoàn California, nay đang phóng về Dakota để cố chiếm Bismarck trước WCA."
+american_civil_war_events.709.a: "Chúng ta sẽ sớm ở Bismarck!"
+american_civil_war_events.709.b: "Để họ có những tảng đá, nếu họ muốn."
+
+american_civil_war_events.710.t.WCA: "Chiếm Bắc và Nam Dakota"
+american_civil_war_events.710.t.ACC: "Trận Bismarck"
+american_civil_war_events.710.d.WCA: "Dù dân quân miền Tây hy vọng tiếp tục cuộc đua về Trung Tây và Ngũ Đại Hồ, có vẻ dân quân và binh lính của [WCA.GetNameDef] cuối cùng đã tự tổ chức đủ để bao vây có phương pháp cả Pierre và Bismarck và buộc cả hai thành phố đầu hàng. Lực lượng California đã bị đẩy lui khỏi Quốc lộ 5 trên biên giới Nam Dakota và Wyoming, và có vẻ cuộc đua chiếm miền Tây đã kết thúc. Nay sẽ có những cuộc đấu tranh khó khăn hơn giữa phe xã hội chủ nghĩa và chính phủ lâm thời."
+american_civil_war_events.710.d.ACC: "Dù Tướng Butler nay đã nắm đủ quyền kiểm soát trong [WCA.GetNameDef] để tổ chức một chiến dịch thực sự vào Bắc và Nam Dakota, quân miền Tây đã đến Bismarck đủ nhanh để ngăn bao vây hoàn toàn. Thống đốc độc lập Bắc Dakota William Langer, trước đây liên kết với Thống đốc Long, đã hỗ trợ quân miền Tây trong cuộc chiến đẩy lính xã hội chủ nghĩa khỏi bang. Liên minh này đủ mạnh để tạm thời chặn cuộc tấn công phía tây của Tướng Butler."
+american_civil_war_events.710.a: "Làm tốt lắm, các chàng trai!"
+american_civil_war_events.710.b: "Chúng ta sẽ sớm trở lại!"
+american_civil_war_events.710.c: "Một trận chiến đáng để đánh."
+american_civil_war_events.710.d: "Chúng ta sẽ trở lại!"
+american_civil_war_events.710.e: "Tin đáng lo ngại."
+
+american_civil_war_events.711.t.ACC: "Nghị quyết Denver vì Dân chủ"
+american_civil_war_events.711.t.APG: "Hội nghị Denver quyết định theo Long"
+american_civil_war_events.711.d.ACC: "Sau khi quân Liên bang rút khỏi vùng Đồng bằng hạ, Thống đốc Đảng Cộng hòa Carr của Colorado đã triệu tập cuộc họp các thống đốc Kansas, Colorado và Nebraska tại Denver. Dù thống đốc Colorado và Nebraska là những nhân vật thuộc cơ sở, Thống đốc Ketchum của Kansas là một Dân chủ thân Long. Điều này cho phép linh hoạt hơn trong việc chọn phe trong cuộc xung đột quốc gia đang nhanh chóng chìm vào chiến tranh. Cuối cùng, sau vài ngày căng thẳng, các thống đốc quyết định rằng phe duy nhất thực sự quan tâm bảo vệ Hiến pháp là chính phủ lâm thời ở Sacramento, và ba bang của họ đã mời quân nổi dậy vào giữ hòa bình."
+american_civil_war_events.711.d.APG: "Sau khi quân Liên bang rút khỏi vùng Đồng bằng hạ, Thống đốc Đảng Cộng hòa Carr của Colorado đã triệu tập cuộc họp các thống đốc Kansas, Colorado và Nebraska tại Denver. Dù thống đốc Colorado và Nebraska là những nhân vật thuộc cơ sở, Thống đốc Ketchum của Kansas là một Dân chủ thân Long. Điều này cho phép linh hoạt hơn trong việc chọn phe trong cuộc xung đột quốc gia đang nhanh chóng chìm vào chiến tranh. Cuối cùng, sau vài ngày căng thẳng, các thống đốc quyết định rằng phe duy nhất thực sự quan tâm giúp đỡ nhân dân Mỹ là chính phủ Huey Long ở Louisiana, và ba bang của họ đã mời Minutemen, cùng đội quân đang phát triển trung thành với Tổng thống Long, vào giữ hòa bình trong các bang."
+american_civil_war_events.711.a: "Những người yêu nước Mỹ chân chính, tất cả các bạn!"
+american_civil_war_events.711.b: "Họ đã chọn... tồi tệ."
+american_civil_war_events.711.c: "Tiến về Đại Tây Dương!"
+american_civil_war_events.711.d: "Dù sao chúng ta cũng cần ổn định mặt trận."
+american_civil_war_events.711.e: "Một quyết định tồi."
+
+american_civil_war_events.712.t: "Trận cầu Eads"
+american_civil_war_events.712.d.WCA: "Dù quân Liên bang đã rời Missouri vài ngày trước, Thống đốc Stark vẫn chưa tuyên bố theo chính phủ đối địch nào. Trong nỗ lực giành vị thế thuận lợi nhất ở Trung Tây, Tướng Butler đã cử dân quân chiếm St. Louis qua sông Missouri từ Illinois. Họ gặp Vệ binh Quốc gia của Thống đốc Stark tại cầu Eads trên biên giới, và giao tranh nổ ra, khi dân quân hai bên cố vượt sông quanh các cây cầu mà không thành công. Cuối cùng, dân quân xã hội chủ nghĩa xoay xở phá vỡ phòng thủ quanh các cây cầu và tràn vào St. Louis và tấn công, nơi một 'chính phủ nhân dân' được thành lập. Thống đốc Stark đã chạy về phía nam đến Baton Rouge, nhưng Missouri nằm trong tay SPA."
+american_civil_war_events.712.d.APG: "Dù quân Liên bang đã rời Missouri vài ngày trước, Thống đốc Stark vẫn chưa tuyên bố theo chính phủ đối địch nào. Trong nỗ lực giành vị thế thuận lợi nhất ở Trung Tây, Tướng Butler đã cử dân quân chiếm St. Louis qua sông Missouri từ Illinois. Họ gặp Vệ binh Quốc gia của Thống đốc Stark tại cầu Eads trên biên giới, và giao tranh nổ ra, khi dân quân hai bên cố vượt sông quanh các cây cầu mà không thành công. Cuối cùng, một nhóm Minutemen Illinois phản loạn từ phía bắc đến và bắt đầu tấn công lực lượng WCA từ phía sau, cho phép Vệ binh Quốc gia của Thống đốc Stark tiến lên và buộc dân quân WCA đầu hàng. Thống đốc Stark nay đã tuyên bố Huey Long là Tổng thống hợp hiến, và quân Liên minh đã vào bang để canh biên giới."
+american_civil_war_events.712.a: "Cách mạng ngày càng mạnh!"
+american_civil_war_events.712.b: "Chết tiệt bọn phản bội!"
+american_civil_war_events.712.c: "Con sông đã chặn chúng."
+american_civil_war_events.712.d: "Cướp, tội phạm, phản bội!"
+american_civil_war_events.712.e: "Chết tiệt bọn chúng!"
+
+american_civil_war_events.713.t: "Viện binh đến miền Đông"
+american_civil_war_events.713.d: "Dù miền Tây có thể đã bị quân nổi loạn chiếm nhanh hơn MacArthur tưởng, miền Đông nay có thể bảo đảm hơn, với hàng chục ngàn quân Liên bang đã đến Virginia, cùng nhiều tình nguyện viên từ miền Tây đổ về nhập ngũ ở miền Đông. Quân ta ngày càng mạnh."
+american_civil_war_events.713.a: "Những người yêu nước, hãy cầm vũ khí!"
+
+american_civil_war_events.714.t.USA: "Thắng lợi của Liên bang ở Tennessee"
+american_civil_war_events.714.t.APG: "Thắng lợi của Long ở Tennessee"
+american_civil_war_events.714.d.USA: "Hôm nay, lúc 8 giờ 45 phút sáng, dân quân Long tấn công phòng thủ Liên bang ở Nashville, nhưng họ không địch nổi một đội quân chuyên nghiệp, có tổ chức. Quân Liên bang dễ dàng đẩy lui họ, và bắt đầu truy lùng du kích địa phương trong bang. Với thắng lợi này, quyền kiểm soát Tennessee của MacArthur hiện không bị thách thức."
+american_civil_war_events.714.d.APG: "Hôm nay, lúc 8 giờ 45 phút sáng, dân quân Long tấn công phòng thủ Liên bang ở Nashville khi họ vẫn đang tổ chức lại sau cuộc rút về phía đông. Vệ binh Quốc gia mất tổ chức và số ít đơn vị quân đội có mặt nhanh chóng bị bao vây và buộc đầu hàng, và chẳng bao lâu thành phố Nashville đã đầu hàng lực lượng của Tổng thống Long. Khắp bang, Minutemen địa phương và những người đồng tình Long đã bảo đảm vùng nông thôn và hầu hết thị trấn, và hầu hết đồng ý quyền kiểm soát Tennessee của Huey Long không bị thách thức."
+american_civil_war_events.714.a: "Dễ hơn mong đợi."
+american_civil_war_events.714.b: "Sao lại xảy ra vậy?"
+american_civil_war_events.714.c: "Điều đó cho thấy sự bất tài của lũ liên bang tham nhũng."
+american_civil_war_events.714.d: "Không quan trọng, chúng ta sẽ chiếm nó, sớm hay muộn."
+american_civil_war_events.714.e: "Không phải việc của chúng ta."
+
+american_civil_war_events.715.t.WCA: "Liên bang bị đánh tan ở Kentucky"
+american_civil_war_events.715.t.APG: "Liên bang bị đánh tan ở Kentucky"
+american_civil_war_events.715.d.WCA: "Sau khi mất Tennessee, Kentucky trở nên không thể phòng thủ với quân Liên bang. Vì vậy, Tướng MacArthur quyết định rút về phía đông và từ bỏ bang, hy vọng chiếm lại càng sớm càng tốt. Hiện tại, Quốc hội chỉ có thể nhìn dân quân Long và Công đoàn phủ máu các đường phố Louisville và Frankfort, một cuộc tắm máu sớm chuyển sang phe Công đoàn. Dân quân của họ xoay xở bao vây Frankfort sau khi Louisville thất thủ, và sớm chiếm phần còn lại của bang."
+american_civil_war_events.715.d.APG: "Sau khi mất Tennessee, Kentucky trở nên không thể phòng thủ với quân Liên bang. Vì vậy, Tướng MacArthur quyết định rút về phía đông và từ bỏ bang, hy vọng chiếm lại càng sớm càng tốt. Tuy nhiên, hiện tại có vẻ lực lượng của Long đã đẩy dân quân và binh lính Công đoàn khỏi Kentucky, sau một trận đánh ngắn ở Louisville kết thúc với việc phá hủy các cây cầu qua sông Ohio và đánh tan dân quân của Reed."
+american_civil_war_events.715.a: "Chúng ta đã đuổi gã từ Louisiana khỏi Louisville!"
+american_civil_war_events.715.b: "Chúng ta sẽ sớm trở lại bên kia sông."
+american_civil_war_events.715.c: "Một thắng lợi lớn!"
+american_civil_war_events.715.d: "Sao chúng ta có thể làm hỏng chuyện đó?"
+american_civil_war_events.715.e: "Tất cả những gì có thể làm lúc này là chờ..."
+american_civil_war_events.715.f: "Đáng lo ngại."
+
+american_civil_war_events.716.t.USA: "Lực lượng Long bị đẩy lui khỏi Bắc Carolina"
+american_civil_war_events.716.d.USA: "Với hầu hết lực lượng Long tiến ở miền Tây, giữ Bắc Carolina không khó chút nào. Quân Liên bang dễ dàng đẩy lui số ít dân quân Long tấn công Charlotte, và có thể giả định rằng có lẽ cũng có ít phòng thủ của Long ở Nam Carolina."
+american_civil_war_events.716.t.APG: "Bắc Carolina rơi vào tay chính phủ Baton Rouge"
+american_civil_war_events.716.d.APG: "Dù nhiều nguồn lực của Long đã bị chuyển về miền Tây, chính phủ Baton Rouge rõ ràng vẫn có đủ dân quân để bao vây thành phố Charlotte ở Bắc Carolina, và sau giao tranh đường phố ngắn, chiếm nó. Khắp bang, dân quân Bắc Carolina tuân lệnh thống đốc bù nhìn mới của họ đầu hàng lực lượng Huey Long."
+american_civil_war_events.716.a: "Không bất ngờ."
+american_civil_war_events.716.b: "Chết tiệt!"
+american_civil_war_events.716.c: "Sẵn sàng ở biên giới Virginia!"
+american_civil_war_events.716.d: "Chúng ta đã sập bẫy!"
+american_civil_war_events.716.e: "Phe Long đã bị đẩy lui."
+american_civil_war_events.716.f: "Chính phủ Liên bang có vẻ chao đảo."
+
+american_civil_war_events.717.t.USA: "Chiếm Charleston"
+american_civil_war_events.717.t.APG: "Xâm nhập của Liên bang bị đánh bại ở Nam Carolina"
+american_civil_war_events.717.d.USA: "Đúng khi cho rằng quân Long vẫn mất tổ chức và không thể đẩy lui một cuộc tấn công quyết tâm, quân USMC điều từ Arizona đã thực hiện thành công cuộc đổ bộ hải quân vào Charleston với sự hợp tác của dân quân địa phương. Vệ binh Quốc gia của Tổng thống Long trong thành phố bị bối rối bởi các báo cáo trái chiều và sớm bị áp đảo, cuối cùng đầu hàng sau một trận đánh ngắn. Động thái của Tổng thống MacArthur được hoan nghênh ở Washington như một hành động thiên tài quân sự, trong khi các báo cáo từ Sacramento và Baton Rouge tuyên bố đây là một cuộc tấn công công khai vào nhân dân Hoa Kỳ."
+american_civil_war_events.717.d.APG: "Sai khi cho rằng quân Long vẫn quá mất tổ chức để phòng thủ Charleston, Tướng MacArthur phát động cuộc tấn công phối hợp hải quân và du kích vào Charleston. Thật không may, tàu đổ bộ USMC bị thổi lệch hướng trong thuyền tạm bợ trước khi bị tuần dương hạm Long bắn phá trong cảng Charleston, trong khi du kích quanh thành phố bị trấn áp và buộc phải ẩn náu mà không có tiếp tế mới. Nam Carolina nay càng nằm chắc trong tay chính phủ Huey Long."
+american_civil_war_events.717.a: "Tướng MacArthur đã làm được!"
+american_civil_war_events.717.b: "Dù sao đó cũng là một canh bạc."
+american_civil_war_events.717.c: "Một thắng lợi tự nhiên."
+american_civil_war_events.717.d: "Chúng ta sẽ trở lại!"
+american_civil_war_events.717.e: "Chiến đấu có hại cho mọi người."
+
+american_civil_war_events.718.t: "Vây hãm thành phố New York"
+american_civil_war_events.718.d: "Có vẻ các phần tử kích động nước ngoài đã hoạt động ở Mỹ, khi các gián điệp và kẻ khiêu khích Pháp và Anh đã xúi giục các khu nghèo của thành phố New York nổi dậy. Nhiều doanh nhân không thoát được đã bị treo cổ, nhưng bạo lực đám đông đã dịu đi nhờ sự xuất hiện của các nhà tổ chức được huấn luyện, cả dân sự và quân sự, từ Anh và Pháp. Vệ binh Quốc gia đã bao vây thành phố trong một vòng vây lỏng lẻo từ Newark đến Yonkers, ngăn dân quân xã hội chủ nghĩa vào hoặc ra khỏi thành phố, nhưng chưa thử tấn công Manhattan."
+american_civil_war_events.718.a: "Giữ cảng mở!"
+american_civil_war_events.718.b: "Chúng ta có thể chờ."
+american_civil_war_events.718.c: "Một số phận buồn cho một thành phố vĩ đại."
+
+american_civil_war_events.719.t.USA: "Cuộc đình công ở Philadelphia"
+american_civil_war_events.719.t.WCA: "Trận Philadelphia"
+american_civil_war_events.719.d.USA: "Tướng MacArthur biết, như Lee và Howe trước ông, rằng Philadelphia là chìa khóa của vùng Trung Đại Tây Dương. Các đơn vị của Sư đoàn Bộ binh 3 đã vào Pennsylvania đầu tuần này qua West Chester, và phối hợp với các trung đoàn khác tập hợp ở Camden và Vệ binh Quốc gia tập hợp ở Havertown bắt đầu tấn công trung tâm Philadelphia, thành công vượt cả sông Schuylkill và Delaware trong nỗ lực chiếm Tòa án Liên bang và Xưởng vũ khí Frankford trước khi kháng cự đường phố địa phương có thể tập hợp để chặn họ. Chiến dịch thành công rực rỡ, nhưng một cuộc phản công xã hội chủ nghĩa sớm được cảm nhận khi quân Liên bang chiếm được thành phố và tiến dọc xa lộ Ship-to-Shore về phía tây bắc. Một trận đánh ác liệt bắt đầu giữa lực lượng của Tướng Butler, đóng ở Allentown, và Tướng Bowley ở Philadelphia gần Lansdale. Các nỗ lực sơ tán dân thường đã được thực hiện, nhưng chẳng bao lâu hàng ngàn người chết sau khi pháo kích bắt đầu, và rõ ràng việc tái chiếm Pennsylvania sẽ không dễ dàng.\n\nKhắp quốc gia rạn nứt và tan vỡ, các phe phái nhỏ đã thấy cơ hội bắt đầu các chiến dịch tấn công chống mọi chính phủ đối địch, và từ Minnesota đến Bắc Carolina, từ thành phố New York đến New Mexico, giao tranh và bất ổn dân sự cuối cùng đã leo thang thành các trận chiến. Mọi người đều rõ Nội chiến Mỹ lần thứ hai đã bắt đầu."
+american_civil_war_events.719.d.WCA: "Tướng MacArthur biết, như Lee và Howe trước ông, rằng Philadelphia là chìa khóa của vùng Trung Đại Tây Dương. Các đơn vị của Sư đoàn Bộ binh 3 đã vào Pennsylvania đầu tuần này qua West Chester, và phối hợp với các trung đoàn khác tập hợp ở Camden và Vệ binh Quốc gia tập hợp ở Havertown bắt đầu tấn công trung tâm Philadelphia. Thành viên công đoàn chuẩn bị các đại lộ đông-tây chính, với các tuyến lui tới tận Broad Street, cắt các cây cầu qua Delaware và Schuylkill, và gọi điện cho lực lượng của Tướng Butler ở Allentown để phối hợp phản công. Dù cuộc tấn công ban đầu của Liên bang tiến dọc Main Line với ít trở ngại, các nỗ lực vượt sông của Liên bang gần cầu Market Street bị gián đoạn mạnh bởi hoạt động địa phương của phe Công đoàn, và chẳng bao lâu pháo tầm xa của Tướng Butler, được sơ tán khỏi Xưởng vũ khí Frankford tuần trước, đã gây hỗn loạn trong tuyến tiếp tế Liên bang. Tổng thống MacArthur bực tức đã xóa bỏ mọi hạn chế với quân mình trong vùng, và giao tranh ngày càng lộn xộn. Tuy vậy, quân Liên bang phần lớn bị đẩy lui qua biên giới về Maryland.\n\nKhắp quốc gia rạn nứt và tan vỡ, các phe phái nhỏ đã thấy cơ hội bắt đầu các chiến dịch tấn công chống mọi chính phủ đối địch, và từ Minnesota đến Bắc Carolina, từ thành phố New York đến New Mexico, giao tranh và bất ổn dân sự cuối cùng đã leo thang thành các trận chiến. Mọi người đều rõ Nội chiến Mỹ lần thứ hai đã bắt đầu."
+#USA wins:
+american_civil_war_events.719.a: "Bây giờ hoặc không bao giờ! Ra trận, vì nước Mỹ!"
+#USA loses:
+american_civil_war_events.719.b: "Chúng ta sẽ trở lại! Không còn hạn chế, chúng ta đang chiến tranh!"
+#WCA wins:
+american_civil_war_events.719.c: "Phát huy lợi thế! Ra trận!"
+#WCA loses:
+american_civil_war_events.719.d: "Chúng ta cần đến New York, và sớm! Ra trận!"
+american_civil_war_events.719.e: "Đây là thời điểm để tấn công! Cầm vũ khí!"
+
+american_civil_war_events.720.t: "Tướng MacArthur động binh chống New England"
+american_civil_war_events.720.d: "Dù Hoàng gia Anh trước đây từ chối can thiệp vào Mỹ, các thống đốc Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, New York và Connecticut đã gia hạn yêu cầu bảo vệ sau tối hậu thư của Tổng thống MacArthur với các thống đốc New England, yêu cầu cho quân Liên bang vào bang của họ để chiến đấu với phiến quân công đoàn ở phía bắc. Dù hỗ trợ chính phủ Liên bang là kế hoạch ban đầu của chúng ta, có thể chính phủ MacArthur không ổn định như chúng ta tưởng. Ta có nên đưa ra tối hậu thư đối kháng?"
+american_civil_war_events.720.a: "MacArthur có thể làm như ông ta muốn."
+american_civil_war_events.720.b: "Chúng ta phải bảo vệ New England!"
+
+american_civil_war_events.721.t: "Canada chiếm New England"
+american_civil_war_events.721.d: "Tin đáng lo từ mặt trận phía bắc! Canada chiếm và chiếm đóng New England khi quân Liên bang vẫn đang tổ chức lại sau cuộc rút về phía đông. Đây không phải động thái đáng ngạc nhiên vì các thống đốc New England đã yêu cầu Canada làm vậy, nhưng không có New England, vị thế Liên bang bị suy yếu nghiêm trọng."
+american_civil_war_events.721.a: "Hiện tại chúng ta cần tập trung vào bọn phản bội."
+american_civil_war_events.721.b: "Khi chiến tranh kết thúc, chúng ta sẽ lấy lại!"
+
+american_civil_war_events.722.t: "Thảm bại Newark"
+american_civil_war_events.722.d: "Sau khi mất New England, quân Liên bang cũng bị đẩy lui khỏi New Jersey. Phiến quân công đoàn từ New York phá vây và tràn qua lực lượng của Tướng MacArthur ở Newark, và nhận viện binh của Tướng Smedley Butler từ Pennsylvania, người sau đó tiến chiếm nửa phía đông bang đó. Tuy nhiên, Tướng MacArthur cũng đã gửi viện binh đến New Jersey, và khi họ cố vượt Delaware, họ gặp kháng cự xã hội chủ nghĩa mạnh ở Camden. Nhanh chóng chiếm vị trí dưới quyền Trung úy Daniel Daly, hai bên bắt đầu cuộc đấu súng quy mô lớn, và khi thêm viện binh vào vùng, một xung đột biên giới nhỏ cuối cùng đã nở thành trận chiến toàn diện.\n\nKhắp quốc gia rạn nứt, các phe phái nhỏ đã thấy cơ hội bắt đầu các chiến dịch tấn công chống mọi chính phủ đối địch, và từ Minnesota đến Bắc Carolina, từ thành phố New York đến New Mexico, giao tranh và bất ổn dân sự đã leo thang thành các trận chiến toàn diện. Mọi người đều rõ Nội chiến Mỹ lần thứ hai đã bắt đầu."
+american_civil_war_events.722.a: "Chúng ta không thể mất lợi thế! Ra trận!"
+american_civil_war_events.722.b: "'Tiến lên, lũ khốn, các người muốn sống mãi sao?!'"
+american_civil_war_events.722.c: "Đây là thời điểm để tấn công! Cầm vũ khí!"
+
+american_civil_war_events.723.t: "New England quy phục MacArthur"
+american_civil_war_events.723.d: "Chúng ta nhận tin các thống đốc New England đã yêu cầu Canada bảo vệ, nhưng chính phủ Ottawa từ chối. Không có bảo vệ Canada, các thống đốc đã yêu cầu Tướng MacArthur bảo vệ khỏi lực lượng công đoàn. Dù các bang có thể không hoàn toàn ủng hộ MacArthur, ít nhất họ quyết tâm coi ông là cơ hội tốt nhất để tránh chiến tranh."
+american_civil_war_events.723.a: "Với New England đã bảo đảm, nay chúng ta có thể tập trung vây hãm New York."
+american_civil_war_events.723.b: "Điều này không tốt..."
+american_civil_war_events.723.c: "Chết tiệt."
+
+american_civil_war_events.724.t: "Du kích WCA ở Buffalo"
+american_civil_war_events.724.d.macarthur: "Dù quân của Tổng thống MacArthur đã buộc Thống đốc Lehman của New York ở Albany phải phục tùng và trung thành, có vẻ nhiều phần của bang hơn cả thành phố New York đã tuột khỏi tay ông. Những công nhân đình công còn lại từ các cuộc bất ổn gần đây ở Rochester và Buffalo đã được du kích của chính phủ Reed ở Chicago tham gia, những người đã hợp nhất để lật đổ chính quyền thành phố và mời binh lính WCA bảo vệ bang. Nhận thấy cơ hội đến gần thành phố New York, Tướng Butler đã lệnh tiến lên nguồn sông Susquehanna và thác Niagara."
+american_civil_war_events.724.d.canada: "Dù chính phủ Anh-Canada đã chấp nhận yêu cầu của thống đốc New York để bảo đảm trung lập cho bang, ở phía tây bang, quân Anh-Canada đến quá chậm để ngăn binh lính WCA của Tướng Butler tiến vào các thành phố Buffalo và Rochester, gặp du kích thân xã hội chủ nghĩa ở đó, và tiến đến một tuyến phòng thủ từ cửa sông Susquehanna đến thác Niagara. WCA đã lập chính quyền bang riêng ở Buffalo, và có vẻ bang sẽ bị chia cắt cho đến khi WCA hoặc Canada chiếm phần còn lại trong chiến tranh."
+american_civil_war_events.724.a: "Tuyệt!"
+american_civil_war_events.724.b: "Ít nhất chúng ta vẫn bao vây thành phố New York."
+american_civil_war_events.724.c: "Kinh khủng."
+
+american_civil_war_events.725.t: "Nổi dậy của Long bị trấn áp ở New Jersey"
+american_civil_war_events.725.d: "Ngay cả khi Charles Lindbergh chạy sang Baton Rouge, một nỗ lực của Long nhằm chiếm Newark và bờ biển phía bắc Jersey làm căn cứ cầm cự cho đến khi viện binh từ phía nam đến vẫn đủ mạnh để chuyển hướng quân Liên bang khỏi vây hãm New York. Tuy vậy, nó đã bị dập tắt, và dù kháng cự dữ dội trên đường phố Newark, quân của MacArthur đã tái lập kiểm soát. Những quân này nay đã trở về Yonkers và Philadelphia, và các cuộc tấn công có tổ chức vào các bang nổi loạn đang được lên kế hoạch."
+american_civil_war_events.725.a: "Chúng ta đã làm điều phải làm."
+american_civil_war_events.725.b: "Chúng ta sẽ sớm trả thù cho họ!"
+american_civil_war_events.725.c: "Chúng ta sẽ tự nghiền nát bạo chúa!"
+
+american_civil_war_events.750.t: "Quốc hội dời đến Denver"
+american_civil_war_events.750.d: "Việc sơ tán bờ biển phía đông bắt đầu hôm qua khi Tướng MacArthur, nội các, Chủ tịch Hạ viện tạm quyền và nhiều nghị sĩ lên máy bay đến Denver, thủ đô tạm thời của Hoa Kỳ. Nhiều thành viên chính phủ cấp dưới, bị bỏ lại hiện tại, không rõ phản ứng thế nào với tình hình, một số đốt tài liệu mật từ các bộ và cả Thư viện Quốc hội, nơi Hiến pháp gốc được đưa đến Denver. Người biểu tình trên đường vẫn bị cảnh sát địa phương trấn áp, nhưng hầu hết Vệ binh Quốc gia và Lục quân đã lên tàu hướng về phía tây. Sáng nay Tướng MacArthur phát biểu trước Quốc hội còn lại trong phiên họp chung bí mật, phác thảo kế hoạch trấn áp bất ổn dân sự ở miền Tây trước khi đánh bại Reed và Long ở miền Đông."
+american_civil_war_events.750.a: "Ta sẽ trở lại!"
+
+american_civil_war_events.751.t: "Con đường dài về phía Tây"
+american_civil_war_events.751.d: "Tướng MacArthur đã quyết định từ bỏ chỗ ngồi quyền lực cũ ở bờ biển phía đông, nghĩa là chuyển mọi thứ đến Denver - toàn bộ lực lượng vũ trang, toàn bộ đạn dược, mọi thứ có thể di chuyển bằng đường bộ. Chúng ta chỉ có thể hy vọng mọi thứ sẽ diễn ra theo kế hoạch bí mật của Tướng MacArthur, và bọn phản bội ở phía bắc và nam sẽ không tấn công quân ta trong cuộc rút về phía tây."
+american_civil_war_events.751.a: "Không thể quay đầu lại nữa."
+
+american_civil_war_events.752.t: "Giao tranh Vệ binh Quốc gia gia tăng"
+american_civil_war_events.752.d.USA: "Sự thống nhất của nước Mỹ đang nhanh chóng tan vỡ khi Tổng thống MacArthur tái củng cố ở miền Tây. Bạo loạn ở vùng Trung Đại Tây Dương và Appalachian đang lan không kiểm soát, và miền Đông có thể rơi vào tay phiến quân trước khi chúng ta trấn áp bất đồng ở miền Tây. Trong khi đó, bất ổn ở Bờ Đông che giấu việc tái triển khai về phía tây khỏi truyền thông thù địch, và các phe nổi loạn ở miền Tây và Đồng bằng đang đối mặt với bất ổn nội bộ riêng: công nhân đình công ở Oregon và Washington đụng độ với Vệ binh Quốc gia, một số trung thành với Denver, số khác theo thống đốc công nhận phiến loạn Sacramento, trong khi dân quân trung thành Texas tập hợp ở San Antonio."
+american_civil_war_events.752.d.APG: "Sự thống nhất của nước Mỹ đang nhanh chóng tan vỡ khi chế độ độc tài của Tướng MacArthur xa lánh ngày càng nhiều công dân. Chúng ta có cơ hội vàng ở miền Đông để chiếm Tennessee, Kentucky và Virginia từ chính phủ Liên bang đang chao đảo, với Tướng Patton đề nghị một cuộc tiến công mạnh mẽ. Tuy nhiên, báo cáo cho thấy kháng cự của Liên bang ở Texas và Oklahoma đang tăng cường, nên tiến về phía đông có thể khiến chúng ta bị tấn công ở phía tây."
+american_civil_war_events.752.d.ACC: "Sự thống nhất của nước Mỹ đang nhanh chóng tan vỡ khi chế độ độc tài của Tướng MacArthur xa lánh ngày càng nhiều công dân. Có vẻ chúng ta là mục tiêu đầu tiên của quân ông ta đang tập hợp ở Đồng bằng Lớn, và kháng cự phổ biến đã nổi lên chống quyết định của các thống đốc chúng ta liên kết với Sacramento ở Oregon và Washington. Một số đại diện bang của [ACC.GetNameDef] được cho là hối hận về quyết định tuyên bố chính phủ đối địch. Liên minh của chúng ta đang bị đe dọa lớn."
+american_civil_war_events.752.d.WCA: "Sự thống nhất của nước Mỹ đang nhanh chóng tan vỡ khi các phong trào quần chúng tìm cách lật đổ kẻ áp bức ở Washington, Denver, Sacramento và Baton Rouge. Quân Liên bang có vẻ không có động thái tấn công ở miền Đông chống công nhân đình công, nhưng khó xác định chính xác kế hoạch hành động. Tướng Smedley Butler mới đào ngũ đề nghị một cuộc tấn công để bảo đảm thủ đô cũ và Virginia, trước khi chiếm New England và Kentucky. Những nơi này được coi là chiến lợi phẩm giá trị hơn Trung Tây, cũng như đe dọa nhất nếu bạo chúa Long chiếm chúng trước chúng ta."
+american_civil_war_events.752.a: "Có lẽ là tin tốt?"
+american_civil_war_events.752.b: "Chúng ta phải tiến về đông bắc trước."
+american_civil_war_events.752.c: "Kẻ phản bội dân chủ ngay giữa chúng ta!"
+american_civil_war_events.752.d: "Chúng ta phải chiếm D.C.!"
+
+american_civil_war_events.753.t: "Đi qua Chattanooga"
+american_civil_war_events.753.d: "Các sư đoàn Liên bang đi qua thành phố Chattanooga, Tennessee, bằng tàu để đến Denver. Dù thành phố nằm trên biên giới với Mississippi, hiện do bọn phản bội miền nam kiểm soát, quân ta đến Missouri mà không bắn một phát nào. Điều này khả thi nhờ bộ tham mưu phe Long đang chuẩn bị tấn công Bắc Carolina, coi đó là khu vực yếu hơn và có giá trị hơn để bảo đảm. Vì vậy, quân ta đi về phía tây với không thương vong."
+american_civil_war_events.753.a: "Tất cả theo kế hoạch."
+
+american_civil_war_events.754.t: "Dân quân Liên bang chiếm Nam Texas"
+american_civil_war_events.754.d: "Dù Texas đã dứt khoát tuyên bố trung thành với Huey Long, lực lượng trung thành với chính phủ Liên bang đã tranh giành quyết liệt quyền kiểm soát và đến nay giành thắng lợi khắp các vùng phía nam của bang. Thống đốc James Allred bị các thị trưởng miền nam tuyên bố là kẻ phản bội, những người có vẻ quyết tâm đối đầu với đồng bào ở phần còn lại của bang nếu nội chiến leo thang."
+american_civil_war_events.754.a: "Chắc chắn là bất ngờ, nhưng đáng hoan nghênh."
+american_civil_war_events.754.b: "Phản bội khắp nơi!"
+american_civil_war_events.754.c: "Sự nghiệp của Long có vẻ đang mất ủng hộ."
+
+american_civil_war_events.755.t: "Chiến dịch sông Arkansas"
+american_civil_war_events.755.d: "Sau khi Nam Texas thất thủ, Arkansas và Oklahoma cũng bị dân quân Liên bang tràn qua, dù thống đốc các bang đã tuyên bố ủng hộ Huey Long. Với các bang này và San Antonio nằm chắc trong tay Liên bang, Houston và Austin có lẽ sẽ sớm thất thủ, và MacArthur sẽ có quyền tiếp cận các mỏ dầu Texas cho quân đội."
+american_civil_war_events.755.a: "Chúng ta cần di chuyển nhanh trước khi Patton củng cố vị trí."
+american_civil_war_events.755.b: "Họ mong đạt được gì với việc đó?"
+
+american_civil_war_events.756.t: "Quân Liên bang vượt sông Mississippi"
+american_civil_war_events.756.d: "Dù Thống đốc Stark của Missouri đã liên kết với Huey Long trong hai cuộc bầu cử qua, trước viễn cảnh một đội quân dân quân và binh lính Liên bang tràn vào bang để tỏa về phía tây, ông đã lên án chính phủ Baton Rouge vì mưu đồ độc tài, và khẳng định trung thành với Tổng thống MacArthur. Với gần như toàn bộ đất phía tây sông Mississippi ở phía bắc Texas đã bảo đảm, quân Liên bang nay sẵn sàng bao vây Texas và tấn công qua dãy Rockies chống Sacramento. Vị thế của chúng ta ở miền Tây có vẻ vững chắc."
+american_civil_war_events.756.a: "Cuộc tiến công bắt đầu từ đây!"
+
+american_civil_war_events.757.t: "Houston thất thủ"
+american_civil_war_events.757.d: "Đúng như dự đoán, dân quân trung thành từ San Antonio và Oklahoma đã tràn qua dân quân Long mất tổ chức ở Houston và Austin trước khi Tướng Danford có thể củng cố vị trí. Dallas thất thủ ngay sau đó, và với sự thất thủ của ba thành phố then chốt này, toàn bộ Texas nằm chắc trong tay Liên bang, và Thống đốc James Allred bị bắt trước khi kịp trốn thoát."
+american_civil_war_events.757.a: "Baton Rouge đã gần."
+american_civil_war_events.757.b: "Không quan trọng; họ sẽ không kiểm soát các mỏ dầu đó lâu."
+
+american_civil_war_events.758.t: "Hỗn loạn ở miền Đông"
+american_civil_war_events.758.d: "Khi quân ta rời đi, mọi thứ về phía đông đến Saint Louis đã sụp đổ thành hỗn loạn hoàn toàn, và chúng ta dự kiến dân quân Long và Công đoàn sẽ chia chiến lợi phẩm ở miền Đông. Tuy nhiên, điều đó có nghĩa họ sẽ bận đánh nhau ở đó, và chúng ta nay có thể tập trung hoàn toàn vào việc đối phó phiến quân Lập hiến."
+american_civil_war_events.758.a: "Chúng ta sẽ sớm chiếm California."
+
+american_civil_war_events.759.t: "Bắc Carolina tuyên bố theo Huey Long"
+american_civil_war_events.759.d: "Thống đốc mới đắc cử Bắc Carolina Clyde Hoey, sau khi thấy quân Liên bang rời bờ biển phía đông, đã cam kết ủng hộ chính phủ Huey Long, tìm cả sự bảo vệ khỏi lực lượng Công đoàn ở phía bắc và khỏi bạo loạn đã hoành hành bang từ khi quân Tướng MacArthur rút. Tuy nhiên, theo cách này, quân của Tướng Patton rất gần thành phố chiến lược Norfolk, và nay cuộc đua chiếm Virginia trước đã bắt đầu."
+american_civil_war_events.759.a: "Trạm tiếp theo: Virginia!"
+american_civil_war_events.759.b: "Cuộc đua giành Virginia đã bắt đầu."
+
+american_civil_war_events.760.t: "Cuộc đua giành Virginia"
+american_civil_war_events.760.d.WCA: "Sau khi vượt Bắc Carolina, quân của Tướng Patton gặp điều họ không ngờ - quân của Tướng Butler ở Richmond. Có vẻ họ hội quân từ Tây Virginia và chiếm Virginia không kháng cự trước khi Tướng Patton kịp hành động. Patton đã rút qua biên giới, để lại một đội cảnh vệ nhỏ ở Norfolk."
+american_civil_war_events.760.d.APG: "Sáng sớm nay, quân của Tướng Butler bị quân của Tướng Patton đẩy lui khỏi Richmond, sau khi vượt một khoảng cách lớn bất ngờ trong thời gian ngắn, so với lực lượng công đoàn. Với thắng lợi này, Virginia nằm chắc trong tay Huey Long, hiện tại."
+american_civil_war_events.760.a: "Làm tốt lắm, Tướng Butler."
+american_civil_war_events.760.b: "Lần sau chúng ta cần nhanh hơn."
+american_civil_war_events.760.c: "Làm tốt lắm, Tướng Patton."
+american_civil_war_events.760.d: "Sao cũng được; nghĩa là chúng ta sẽ trở lại lấy nó sau."
+american_civil_war_events.760.e: "Không phải việc của chúng ta."
+
+american_civil_war_events.761.t: "Tranh giành hành lang"
+american_civil_war_events.761.d.WCA: "Sau giao tranh ác liệt, lực lượng Công đoàn chiếm quyền kiểm soát Tennessee và Kentucky, giành được thắng lợi quan trọng trước lực lượng Long. Với diễn biến mới này, lực lượng thù địch với Tướng MacArthur nay kiểm soát mọi thứ phía đông sông Mississippi."
+american_civil_war_events.761.d.APG: "Sau giao tranh ác liệt, lực lượng Long chiếm quyền kiểm soát Tennessee và Kentucky, giành được thắng lợi quan trọng trước lực lượng Công đoàn. Với diễn biến mới này, lực lượng thù địch với Tướng MacArthur nay kiểm soát mọi thứ phía đông sông Mississippi."
+american_civil_war_events.761.a: "Một bước gần hơn đến giải phóng toàn bộ công nhân nước Mỹ!"
+american_civil_war_events.761.b: "Chúng ta cần sớm đẩy lui bạo chúa tham nhũng đó!"
+american_civil_war_events.761.c: "Một bước gần hơn đến phá hủy chế độ tham nhũng cũ!"
+american_civil_war_events.761.d: "Chúng ta cần sớm đẩy lui lũ công đoàn vô thần đó!"
+american_civil_war_events.761.e: "Sông Mississippi sẽ lại nhuốm máu."
+
+american_civil_war_events.762.t: "Cờ đỏ trên Washington"
+american_civil_war_events.762.d: "Khi lực lượng xã hội chủ nghĩa và Long giao chiến ở biên giới Virginia, dân quân liên kết SPA cuối cùng đã đến thủ đô bị bỏ hoang. Thành phố, không có bất kỳ hiện diện quân sự nào, bị chiếm dễ dàng, với các di tích lịch sử và các con sông qua Potomac đến Alexandria được dân quân bảo đảm trước. Vì có vẻ không có dấu hiệu phản công, dân quân sớm bắt đầu biến đổi National Mall và các địa điểm khác, với sự chú ý nhất dành cho Điện Capitol. Kéo lá cờ cũ khỏi nơi ở của Quốc hội đã bỏ chạy, binh lính dừng lại chụp ảnh và phỏng vấn với báo chí xã hội chủ nghĩa và địa phương trước khi tập hợp reo hò khi lá cờ WCA cuối cùng được kéo lên trên D.C."
+american_civil_war_events.762.a: "Quốc hội sẽ không còn áp bức công nhân!"
+american_civil_war_events.762.b: "Thủ đô phải sớm được giải phóng!"
+
+american_civil_war_events.763.t: "MacArthur đẩy lui tấn công WCA ở Minnesota"
+american_civil_war_events.763.d: "Dù SPA chiếm cơ quan lập pháp bang Minnesota trong bầu cử 1936, họ không thể thực hiện lời hứa về một Minnesota xã hội chủ nghĩa, khi Thống đốc Peterson của Đảng Nông dân-Lao động dùng Vệ binh Quốc gia bang cầm cự ở Minneapolis đủ lâu để binh lính MacArthur đến bang, đẩy lui dân quân từ Wisconsin và nghiền nát công nhân đình công ở Minnesota. Đại hội Công nhân đã bị chặn trong cuộc tiến về phía tây, và bộ tham mưu mới thành lập được cho là đang cân nhắc các cuộc tấn công phía nam và đông thay vào đó, để phát huy lợi thế trước lực lượng Huey Long."
+american_civil_war_events.763.a: "Tiếp theo: Chicago!"
+american_civil_war_events.763.b: "Tin xấu."
+
+american_civil_war_events.764.t: "New England trong tình thế tuyệt vọng"
+american_civil_war_events.764.d: "Dù Hoàng gia trước đây đã từ chối yêu cầu của các thống đốc New England để bảo đảm trung lập, vì nội các cho rằng gây nguy hiểm thêm cho vị thế quân sự của chính phủ Liên bang là không khôn ngoan, yêu cầu gia hạn đêm qua đã mang lại phản ứng khác. Với lựa chọn duy nhất thay cho can thiệp của Anh-Canada trong vùng là bị lực lượng [WCA.GetNameDef] chiếm đóng, ngay cả những người thân Mỹ trong nội các và Hội đồng Cơ mật cũng đã ấm lòng với ý tưởng can thiệp. Chính phủ Anh-Canada có nên hành động?"
+american_civil_war_events.764.a: "Chúng ta phải giữ trung lập."
+american_civil_war_events.764.b: "Người dân New England cần chúng ta; chúng ta phải giúp họ!"
+
+american_civil_war_events.765.t: "Canada chiếm New England"
+american_civil_war_events.765.d.WCA: "Cuộc tiến công vào D.C. có vẻ đã khiến Đế quốc Anh ở phía bắc chúng ta nghĩ rằng chúng ta là mối đe dọa. Họ đã chấp nhận yêu cầu bảo vệ của các thống đốc phản bội New England. Lực lượng của chúng ta không thể tiến được ở Đông Bắc trước khi gặp quân Canada. Tuy nhiên, New Jersey đã rơi vào tay dân quân và đồng minh Quốc tế ở thành phố New York trước khi lực lượng Entente có thể tăng viện."
+american_civil_war_events.765.d.others: "Cuộc tiến công của phe xã hội chủ nghĩa vào D.C. có vẻ đã khiến Đế quốc Anh ở phía bắc chúng ta nghĩ rằng họ là mối đe dọa thực sự. Họ đã chấp nhận yêu cầu bảo vệ của các thống đốc New England, và nay đang để mắt đến phe xã hội chủ nghĩa bên kia biên giới. Lực lượng WCA không thể tiến trước khi gặp quân Canada. Tuy nhiên, bang New Jersey đã rơi vào tay dân quân và đồng minh Quốc tế ở thành phố New York trước khi chúng ta có thể tăng viện."
+american_civil_war_events.765.a: "Người Anh đã trở lại Boston!"
+american_civil_war_events.765.b: "Ít nhất phe xã hội chủ nghĩa không chiếm Boston."
+
+american_civil_war_events.766.t: "Phe xã hội chủ nghĩa tiến vào New England"
+american_civil_war_events.766.d: "Dân quân và binh lính xã hội chủ nghĩa đã nhanh chóng chiếm New England sau cuộc tấn công vào Washington, D.C. Dù có ít kháng cự, rõ ràng có ít bạn của chế độ mới ở vùng trung tâm lịch sử của Đảng Cộng hòa, và nhiều người vẫn hy vọng Canada sẽ cứu họ. Tuy nhiên, hiện tại WCA kiểm soát hoàn toàn New England."
+american_civil_war_events.766.a: "Tuyệt!"
+american_civil_war_events.766.b: "Chúng ta sẽ sớm trở lại vì họ!"
+american_civil_war_events.766.c: "Phe xã hội chủ nghĩa ngày càng mạnh."
+
+american_civil_war_events.767.t: "Chiến tranh bắt đầu ở Oregon"
+american_civil_war_events.767.d.USA: "Với việc chính phủ Liên bang rút về phía tây, rõ ràng Tướng MacArthur định tấn công [ACC.GetNameDef] trước, coi họ là mối đe dọa cô lập nhất. Vượt dãy Rocky Mountains với những trận tuyết cuối đông, Sư đoàn Lục quân 2 và 14 bắt đầu cuộc tấn công có tổ chức vào Oregon và phần phía nam Washington. Vệ binh Quốc gia ở các bang đó hoặc theo Tổng thống MacArthur hoặc bị buộc đầu hàng. Lực lượng chính phủ Denver sớm chiếm Portland và Yakima, và thống đốc Washington và Oregon đầu hàng để tránh bất ổn công đoàn và chiến tranh. Sư đoàn 3, 2 và 14 nay đang chuẩn bị chiếm California, nhưng người California đã bắt đầu phản công, đúng lúc phe Long lại tấn công Arkansas, và WCA tiến vào Bắc Carolina.\n\nKhắp quốc gia rạn nứt và tan vỡ, các phe phái nhỏ đã thấy cơ hội bắt đầu các chiến dịch tấn công chống mọi chính phủ đối địch, và từ Minnesota đến Bắc Carolina, từ thành phố New York đến New Mexico, giao tranh và bất ổn dân sự cuối cùng đã leo thang thành các trận chiến. Mọi người đều rõ Nội chiến Mỹ lần thứ hai đã bắt đầu."
+american_civil_war_events.767.d.ACC: "Với việc chính phủ Liên bang rút về phía tây, rõ ràng Tướng MacArthur định tấn công [ACC.GetNameDef] trước, coi họ là mối đe dọa cô lập nhất. Vượt dãy Rocky Mountains với những trận tuyết cuối đông, Sư đoàn Lục quân 2 bắt đầu cuộc tấn công có tổ chức vào Oregon và phần phía nam Washington. May mắn cho quân phòng thủ, cảnh báo sớm qua dân quân ở Oregon đã đánh thức Vệ binh California ra bảo vệ La Grande, xoay xở đẩy quân đội khỏi bang. Sư đoàn 3, 2 và 14 nay đang chuẩn bị phòng thủ ở Idaho và Nevada, nhưng người California đã bắt đầu phản công, đúng lúc phe Long lại tấn công Arkansas, và WCA tiến vào Bắc Carolina.\n\nKhắp quốc gia rạn nứt và tan vỡ, các phe phái nhỏ đã thấy cơ hội bắt đầu các chiến dịch tấn công chống mọi chính phủ đối địch, và từ Minnesota đến Bắc Carolina, từ thành phố New York đến New Mexico, giao tranh và bất ổn dân sự cuối cùng đã leo thang thành các trận chiến. Mọi người đều rõ Nội chiến Mỹ lần thứ hai đã bắt đầu."
+american_civil_war_events.767.a: "California không thể chống lại chúng ta một mình."
+american_civil_war_events.767.b: "Chúng ta phải tấn công Portland!"
+american_civil_war_events.767.c: "Chúng ta đã cho họ thấy!"
+american_civil_war_events.767.d: "Phản bội khắp nơi!"
+american_civil_war_events.767.e: "Ra trận!"
+
+american_civil_war_events.768.t: "Xét xử Bộ tham mưu New England"
+american_civil_war_events.768.d: "Với cuộc nổi loạn của New England chống lại sự cai trị của chúng ta bị nghiền nát, chúng ta đã bảo đảm vùng ly khai tìm nơi ẩn náu dưới cánh tay Canada năm 1937. Hai tướng lĩnh nổi bật của phe đối lập là Leslie Groves và Mark Clark của New England. Khi họ chờ số phận, nhiều người bắt đầu tự hỏi liệu những người này có đơn giản bị người Canada, những kẻ không muốn thấy phần nước Mỹ của họ trở về nhà, buộc phải chiến đấu chống chúng ta không. Không có bằng chứng nào cho thấy tội ác nghiêm trọng nào do hai người phạm trong việc bảo vệ New England. Hơn nữa, cả hai hứa sẽ trung thành phục vụ lá cờ [ROOT.GetNameDef] nếu nhận được ân xá chính thức từ chính phủ."
+american_civil_war_events.768.a: "Ban ân xá cho họ"
+american_civil_war_events.768.b: "Họ không thể tin được"
+
+# ACW Desertions
+ACW_unit_desertion_tt: "Một phần nhỏ quân đội sẽ đào ngũ sang [FROM.GetNameDef]!\n\n§gĐiều này sẽ dẫn đến giảm 25% tổ chức và 5% sức mạnh trên toàn mặt trận. Chúng ta cần tiến vào đất địch để tránh đào ngũ lặp lại trong tương lai!§!"
+ACW_state_desertion_tooltip: "Một phần nhỏ quân đội sẽ đào ngũ sang [FROM.GetNameDef]!\n\n§gĐiều này sẽ dẫn đến giảm 25% tổ chức và 10% sức mạnh cho các đơn vị ở [acw_state_control_changed.GetName]. Chúng ta cần ngăn địch chiếm thủ phủ các bang để tránh đào ngũ lặp lại trong tương lai!§!"
+
+american_civil_war_events.801.t: "Đào ngũ ở mặt trận"
+american_civil_war_events.801.d: "Với việc [acw_state_control_changed.GetName] gần đây rơi vào tay [acw_new_controller.GetNameDef], tinh thần quân [acw_old_controller.GetAdjective] đã xuống mức thấp mới. Thậm chí có báo cáo rằng một số nhỏ quân đã bắt đầu đào ngũ khỏi quân đội [acw_old_controller.GetAdjective] và vượt qua chiến tuyến [acw_new_controller.GetAdjective] để chiến đấu cùng [acw_new_controller.GetNameDef]."
+american_civil_war_events.801.a: "Chúng ta cần củng cố tinh thần!"
+
+american_civil_war_events.802.t: "Đào ngũ ở mặt trận"
+american_civil_war_events.802.d: "Với việc [acw_state_control_changed.GetName] gần đây rơi vào tay [acw_new_controller.GetNameDef], tinh thần quân [acw_old_controller.GetAdjective] đã xuống mức thấp mới. Thậm chí có báo cáo rằng một số nhỏ quân đã bắt đầu đào ngũ khỏi quân đội [acw_old_controller.GetAdjective] và vượt qua chiến tuyến [acw_new_controller.GetAdjective] để chiến đấu cùng [acw_new_controller.GetNameDef]."
+american_civil_war_events.802.a: "Chào mừng đến với giải phóng!"
+
+american_civil_war_events.805.t: "Đào ngũ gia tăng trên tiền tuyến"
+american_civil_war_events.805.d: "Dù ban đầu họ có thể nuôi ý tưởng hão huyền về thắng lợi, quân đội [acw_losing_side.GetNameDef] đã chịu các vấn đề hậu cần và tinh thần do mất kiểm soát lãnh thổ gần đây. Kết quả là, tình báo của chúng ta báo cáo rằng dù tuyên truyền của họ tuyên bố thắng lợi toàn diện cuối cùng, hậu phương và tiền tuyến của họ bị tê liệt bởi tinh thần kém và chủ nghĩa thất bại.\n\nKhi nội chiến kéo dài, và người Mỹ đánh người Mỹ - một số nhỏ lực lượng vũ trang của họ đã bắt đầu lén vượt chiến trường vào chiến tuyến của chúng ta để đào ngũ sang lực lượng ta. Coi sự nghiệp của chúng ta là chính nghĩa và có lẽ muốn kết thúc ở phía đúng của lịch sử, họ đã dâng hiến phục vụ cho lực lượng vũ trang [acw_winning_side.GetNameDef], cam kết trung thành với chính phủ chính đáng của nước Mỹ!"
+american_civil_war_events.805.a: "Sự nghiệp của chúng ta là chính nghĩa!"
+
+american_civil_war_events.806.t: "Quân ta đào ngũ!"
+american_civil_war_events.806.d: "Khi chúng ta tham chiến, chúng ta hiểu khó khăn và thử thách phía trước với tư cách phe yếu hơn trong Nội chiến Mỹ. Bất chấp nỗ lực tốt nhất của bộ tham mưu quân sự và ngành công nghiệp dân sự, lực lượng ta đã chịu thất bại liên tiếp trên tiền tuyến, và dân thường bắt đầu trải nghiệm gian khổ chiến tranh. Kết quả là, sĩ quan tiền tuyến báo cáo ngày càng nhiều vấn đề hậu cần và tinh thần lên bộ tham mưu quân sự.\n\nĐáng buồn thay, điều này cũng bao gồm nhiều đơn vị lực lượng vũ trang của ta đã coi sự nghiệp của chúng ta là mất và bắt đầu đào ngũ sang [acw_winning_side.GetNameDef]. Khi người Mỹ đánh người Mỹ trong nội chiến, họ thấy vị thế của chúng ta là không thể thắng và quyết định gia nhập phe họ tin là phía đúng của lịch sử. Dù chúng ta sẽ ban hành lệnh nghiêm khắc để thực thi kỷ luật, tình hình của chúng ta ngày càng vô vọng."
+american_civil_war_events.806.a: "Chúng ta sẽ không dung thứ phản bội trên tiền tuyến!"

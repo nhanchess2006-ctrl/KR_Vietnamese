@@ -1,0 +1,33 @@
+l_english:
+
+###Events###
+east_asia_peace_events.1.t: "Thất bại ở phương Đông"
+east_asia_peace_events.1.d: "Sau một cuộc đấu tranh kéo dài tại các thuộc địa của chúng ta ở Đông Á, có vẻ chúng ta đã mất căn cứ lớn cuối cùng trong vùng.\n\nVới Đông Á đã bị phong tỏa, và việc đối thủ của chúng ta không thực sự có khả năng đánh vào chúng ta ở châu Âu, hành động tốt nhất có vẻ là ký hòa bình với họ và rút khỏi Đông Á."
+east_asia_peace_events.1.a: "Hãy cùng nhau vì hòa bình!"
+east_asia_peace_events.1.b: "Chúng ta sẽ giải phóng thuộc địa của mình kịp lúc!"
+
+east_asia_peace_events.2.t: "[From.GetNameDefCap] đầu hàng!"
+east_asia_peace_events.2.d: "Với việc chúng ta đã loại bỏ thành công các căn cứ của [From.GetNameDef] trong vùng, họ muốn đàm phán, tìm cách rút hoàn toàn khỏi Đông Á, để mặc chúng ta thu hoạch chiến lợi phẩm cùng với những người khác đã chiến đấu chống Reichspakt trong khu vực này."
+east_asia_peace_events.2.a: "Đi cho khuất mắt!"
+east_asia_peace_events.2.b: "Không, chúng ta sẽ không nghỉ ngơi cho đến khi hành quân vào Berlin!"
+
+east_asia_peace_events.3.t: "[From.GetNameDefCap] không chấp nhận!"
+east_asia_peace_events.3.d: "Bất chấp thiện chí của chúng ta trong việc sơ tán khỏi khu vực, điều có vẻ là mục tiêu của họ, [From.GetNameDef] đã cho chúng ta biết rằng họ sẽ không dừng lại cho đến khi hành quân qua thủ đô của chúng ta.\n\nCó vẻ cuộc chiến ở phương Đông vẫn chưa kết thúc."
+east_asia_peace_events.3.a: "Cai trị trực tiếp từ [From.Capital.GetCapitalVictoryPointName] nghe không hấp dẫn chút nào!"
+
+east_asia_peace_events.4.t: "Thất bại ở phương Đông"
+east_asia_peace_events.4.d: "Sau một cuộc đấu tranh kéo dài tại các thuộc địa của chúng ta ở Đông Á, có vẻ chúng ta đã mất căn cứ lớn cuối cùng trong vùng.\n\nVới Đông Á đã bị phong tỏa, và việc đối thủ của chúng ta không thực sự có khả năng đánh vào chúng ta ở châu Âu, hành động tốt nhất có vẻ là ký hòa bình với họ và rút khỏi Đông Á."
+east_asia_peace_events.4.a: "Hãy cùng nhau vì hòa bình!"
+east_asia_peace_events.4.b: "Chúng ta sẽ giải phóng thuộc địa của mình kịp lúc!"
+
+east_asia_peace_events.5.t: "[From.GetNameDefCap] đầu hàng!"
+east_asia_peace_events.5.d: "Với việc chúng ta đã loại bỏ thành công các căn cứ của [From.GetNameDef] trong vùng, họ muốn đàm phán, tìm cách rút hoàn toàn khỏi Đông Á, để mặc chúng ta thu hoạch chiến lợi phẩm cùng với những người khác đã chiến đấu chống Hà Lan trong khu vực này."
+east_asia_peace_events.5.a: "Đi cho khuất mắt!"
+east_asia_peace_events.5.b: "Không, chúng ta sẽ không nghỉ ngơi cho đến khi hành quân vào Amsterdam!"
+
+east_asia_peace_events.6.t: "[From.GetNameDefCap] không chấp nhận!"
+east_asia_peace_events.6.d: "Bất chấp thiện chí của chúng ta trong việc sơ tán khỏi khu vực, điều có vẻ là mục tiêu của họ, [From.GetNameDef] đã cho chúng ta biết rằng họ sẽ không dừng lại cho đến khi hành quân qua thủ đô của chúng ta.\n\nCó vẻ cuộc chiến ở phương Đông vẫn chưa kết thúc."
+east_asia_peace_events.6.a: "Cai trị trực tiếp từ [From.Capital.GetCapitalVictoryPointName] nghe không hấp dẫn chút nào!"
+
+asian_hol_will_proceed_to_peacedeal_we_white_peace: "Các thuộc địa và đồng minh Đông Á của Hà Lan sẽ được đưa vào một thỏa thuận hòa bình, và phần còn lại của Hà Lan sẽ rút khỏi chiến tranh.\n"
+asian_reichspakt_will_proceed_to_peacedeal_we_white_peace: "Các thuộc địa và đồng minh Đông Á của Đức sẽ được đưa vào một thỏa thuận hòa bình, và phần còn lại của Reichspakt sẽ rút khỏi chiến tranh.\n"

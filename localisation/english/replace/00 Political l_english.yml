@@ -1,0 +1,322 @@
+﻿l_english:
+
+### Generic Faction Joining ###
+ generic_events.10.t: "Liên minh với [FROM.GetNonIdeologyNameDef]?"
+ generic_events.10.d: "Quan hệ quốc tế thường linh hoạt, với các thỏa thuận và liên kết nhanh chóng thay đổi từ thế hệ này sang thế hệ khác. Đôi khi ngay cả trong cùng một thế hệ, các hiệp ước được ký kết rồi bị gạt bỏ khi lợi ích thay đổi. Sự bất ổn sau Thứ Hai Đen và những diễn biến chính trị khác trên khắp thế giới đã làm gia tăng nỗi sợ hãi ở nhiều quốc gia yếu rằng khi các cường quốc giao chiến, họ sẽ bị kẹt trong làn đạn.\n\nTrong khi một số nước quay sang chủ nghĩa biệt lập vì hỗn loạn nội bộ hoặc với hy vọng rằng sự trung lập sẽ khiến họ không đáng để các cường quốc nhòm ngó, [FROM.GetNameDefCap] đã chọn con đường ngược lại. Với mọi vấn đề nội bộ giờ đây đã được giải quyết, người dân ở [FROM.GetNameDefCap] đang hướng ra bên ngoài với hy vọng tìm được sự bảo vệ mà các liên minh mang lại. Có lẽ nhờ điều kiện địa lý vượt trội, sức mạnh quân sự hay sự nhất quán về hệ tư tưởng, chúng ta là lựa chọn đồng minh của [ROOT.GetFactionName].\n\nCâu hỏi còn lại là, chúng ta có chấp nhận họ không? Một đồng minh nữa trong khối của chúng ta đồng nghĩa với việc đóng góp thêm nguồn lực cho lực lượng chung, dù mọi nguy hiểm bổ sung mà họ mang lại cho phe của chúng ta sẽ được chia sẻ chung. Mọi yêu sách cạnh tranh cần được xem xét, và mọi bất hòa họ có thể gây ra giữa các thành viên phe phái. Quyết định của chúng ta nên là gì?"
+ generic_events.10.srd: "Một công hàm mới đầy thú vị đã đến với chúng ta từ [ITA.GetNonIdeologyNameDef]: thấy cuộc chiến chung hiện tại chống lại Chủ nghĩa Xã hội và mục tiêu chung là cải thiện tổ quốc, họ đã chọn đề xuất nâng Vua Amedeo lên làm nguyên thủ quốc gia, thực chất là hợp nhất hai nước chúng ta. Dù [ITA_GetNatPopLeader] sẽ vẫn là người đứng đầu Chính phủ, thủ tướng của chúng ta đã được đề nghị tư cách thành viên cấp cao trong ANI và ảnh hưởng đáng kể đối với các chính sách quân sự."
+ generic_events.10.a: "Cùng nhau mạnh mẽ hơn!"
+ generic_events.10.b: "Một đề xuất hay, hãy chuyển nó cho [ROOT.FactionLeader.GetNonIdeologyNameDef]!"
+ generic_events.10.c: "Nghĩ lại thì, không..."
+
+ generic_events.11.t: "[FROM.GetNonIdeologyNameDefCap] Đã Chấp nhận!"
+ generic_events.11.d: "Sau khi nghe yêu cầu gia nhập liên minh của họ, [FROM.GetNameDef] đã chấp nhận đơn của chúng ta và giờ chúng ta sẽ trở thành thành viên của [FROM.GetFactionName]. Điều này hy vọng sẽ tăng cường an toàn của chúng ta trong thời kỳ khó khăn này, khi chúng ta nỗ lực đảm bảo an toàn cho người dân trước các thế lực bên ngoài và sự can thiệp của nước ngoài.\n\nTuy nhiên, điều đó không có nghĩa là thỏa thuận này miễn phí. Giờ đây chúng ta có những kỳ vọng nhất định đặt lên vai để đóng góp vào nền phòng thủ chung của các quốc gia trong [FROM.GetFactionName] và có khả năng bị kéo vào các cuộc xung đột liên quan đến khối này. Điều này bao gồm khả năng bị lôi kéo vào các cuộc chiến do các thành viên của khối này khởi xướng.\n\nGiờ chúng ta bước vào tương lai cùng nhau, vận mệnh của chúng ta giờ đây gắn bó cả bằng lời nói lẫn vũ lực. Với chút may mắn, chúng ta sẽ thu được nhiều hơn từ thỏa thuận này so với những gì đã mất về quyền tự chủ."
+ generic_events.11.a: "Tuyệt vời!"
+
+ generic_events.12.t: "[negotiator.GetNonIdeologyNameDefCap] Đề xuất Liên minh với [potential_ally.GetNonIdeologyNameDef]"
+ generic_events.12.d: "Một thông báo khẩn vừa đến từ bộ ngoại giao: [negotiator.GetNonIdeologyNameDef] đã yêu cầu chúng ta xem xét đưa [potential_ally.GetNonIdeologyNameDef] vào liên minh quân sự của chúng ta. Có vẻ như [potential_ally.GetNonIdeologyNameDef] ban đầu đã đề xuất ý tưởng này với [negotiator.GetNonIdeologyNameDef], người tin rằng ý tưởng này đủ giá trị để chuyển đến chúng ta.\n\nLợi ích khá rõ ràng. Về chiến lược, có thêm lực lượng sẵn có hầu như luôn là điều tốt, và [potential_ally.GetNonIdeologyNameDef] đã thừa nhận rằng họ có khả năng sẽ buộc phải tham gia vào tất cả các cuộc xung đột mà chúng ta có thể dính líu, bất kể nguồn gốc của chúng. Tuy nhiên, ý tưởng này không phải không có rủi ro — chúng ta cũng sẽ được kỳ vọng tham gia vào các cuộc chiến của [potential_ally.GetNonIdeologyNameDef], và việc lập liên minh với họ có thể trái với mục tiêu chiến lược hiện có của chúng ta. Những câu hỏi như vậy luôn phải được cân nhắc khi có một liên minh mới trên bàn.\n\nTất cả những điều đó nói lên rằng, quyết định của chúng ta là gì?"
+ generic_events.12.a: "Hãy để họ tham gia."
+ generic_events.12.b: "Chúng ta không muốn họ."
+
+ generic_events.13.t: "[FROM.GetNonIdeologyNameDefCap] Đã Chấp nhận!"
+ generic_events.13.d: "Tin tốt! Sau khi xem xét đề xuất của [negotiator.GetNonIdeologyNameDef], [FROM.GetNonIdeologyNameDef] đã chấp nhận yêu cầu gia nhập liên minh của chúng ta. Với những người bạn như thế này, chắc chắn chúng ta sẽ ngủ ngon hơn nhiều."
+ generic_events.13.a: "Tuyệt vời."
+
+ generic_events.14.t: "[FROM.GetNonIdeologyNameDefCap] Đã Chấp nhận!"
+ generic_events.14.d: "Tin tốt! Sau khi xem xét đề xuất của chúng ta, [FROM.GetNonIdeologyNameDef] đã đồng ý cho [potential_ally.GetNonIdeologyNameDef] vào liên minh. Cả hai chúng ta chắc chắn sẽ hưởng lợi từ thỏa thuận này."
+ generic_events.14.a: "Tuyệt vời."
+
+ generic_events.15.t: "[FROM.GetNonIdeologyNameDefCap] Đã Từ chối!"
+ generic_events.15.d: "Tin không vui: bất chấp sự bảo trợ của [negotiator.GetNonIdeologyNameDef], [FROM.GetNonIdeologyNameDef] đã từ chối đề nghị gia nhập liên minh của chúng ta. Có vẻ như mục tiêu của họ không ăn khớp như chúng ta từng nghĩ."
+ generic_events.15.a: "Tổn thất của họ."
+
+ generic_events.16.t: "[FROM.GetNonIdeologyNameDefCap] Đã Từ chối!"
+ generic_events.16.d: "Tin gây sốc: bất chấp việc chúng ta lập luận thay cho họ, [FROM.GetNonIdeologyNameDef] đã từ chối cho [potential_ally.GetNonIdeologyNameDef] vào liên minh. Bộ ngoại giao của chúng ta hoàn toàn bị bất ngờ bởi diễn biến này — họ tin rằng tư duy chiến lược của chúng ta gần gũi hơn nhiều so với vẻ ngoài."
+ generic_events.16.a: "Cái gì?"
+
+ generic_events.17.t: "[FROM.GetNonIdeologyNameDefCap] Đã Từ chối!"
+ generic_events.17.d: "Bất chấp những lời kêu gọi thuyết phục của chúng ta rằng chúng ta có thể là một người đóng góp và thành viên hiệu quả của liên minh của họ, trước sự thất vọng của chúng ta, [FROM.GetNameDef] đã từ chối yêu cầu gia nhập [FROM.GetFactionName] của chúng ta. Theo một số cách, điều này có thể đoán trước được: các liên minh thường mong manh và đầy nguy hiểm, và một số thận trọng là điều dễ hiểu khi lập chúng. Tuy nhiên, sự từ chối này khiến chúng ta ở vào tình thế khó khăn. Hoặc họ không có ý định bảo vệ chúng ta, hoặc một cách hoài nghi hơn, họ coi chúng ta là mục tiêu tương lai trên chiến trường.\n\nVậy chúng ta phải nhanh chóng tìm ra một phương tiện hữu hiệu để bảo đảm an ninh quốc gia. Dù điều này có nghĩa là tìm một liên minh khác để che chắn chúng ta khỏi xâm lược, kêu gọi nhiều phe phái như một người hòa giải trung lập nhân từ, hay quay vào trong để phòng thủ vũ trang, chúng ta cần đảm bảo an ninh cho người dân. [FROM.GetFactionName] có thể hối tiếc hoặc không về việc từ chối chúng ta, nhưng điều thiết yếu là chúng ta không hối tiếc về kết quả này."
+ generic_events.17.a: "Tổn thất của họ."
+
+ generic_events.18.t: "Liên minh với [FROM.GetFactionName]?"
+ generic_events.18.d.generic: "Quan hệ quốc tế thường linh hoạt, với các thỏa thuận và liên kết nhanh chóng thay đổi từ thế hệ này sang thế hệ khác. Đôi khi ngay cả trong cùng một thế hệ, các hiệp ước được ký kết rồi bị gạt bỏ khi lợi ích thay đổi. Sự bất ổn sau Thứ Hai Đen và những diễn biến chính trị khác trên khắp thế giới đã làm gia tăng nỗi sợ hãi ở nhiều quốc gia yếu rằng khi các cường quốc giao chiến, họ sẽ bị kẹt ở giữa.\n\nTrong nỗ lực theo đuổi lợi ích chung, [FROM.GetFactionName] đã tập hợp lại thành một liên minh quân sự toàn diện. Họ đã tìm kiếm tư cách thành viên của chúng ta, đề nghị tiềm năng bảo vệ thêm (dù khỏi mối đe dọa bên ngoài hay từ chính họ), và để đổi lấy quan hệ quân sự và kinh tế sâu sắc hơn, chúng ta sẽ trở thành một phần của một khối mạnh mẽ và thống nhất hơn.\n\nTuy nhiên, việc gia nhập không phải không có rủi ro. Chúng ta có khả năng bị kéo vào bất kỳ xung đột nào phát sinh liên quan đến liên minh này, và có thể những đóng góp của chúng ta sẽ lớn hơn lợi ích chúng ta nhận được từ tư cách thành viên. Điều thiết yếu là với tư cách một quốc gia, chúng ta phải cân nhắc cẩn thận chi phí và lợi ích của một thỏa thuận như vậy."
+ generic_events.18.d.INT: "Quốc tế Cộng sản, liên minh quân sự của các cường quốc xã hội chủ nghĩa hàng đầu thế giới, đã kín đáo tiếp cận chúng ta với lời đề nghị gia nhập hàng ngũ của họ, coi liên minh với quốc gia chúng ta là vì lợi ích của tất cả và là một bước tiến lớn trong cuộc đấu tranh lâu dài hướng tới giải phóng giai cấp vô sản quốc tế. Lời đề nghị này đi kèm với những lợi ích không thể phủ nhận, chúng ta chắc chắn có thể mong đợi một lượng lớn hỗ trợ: giúp đỡ chống lại kẻ thù và hướng tới hiện thực hóa các mục tiêu quân sự của chúng ta, bảo vệ nếu cần, và quan trọng không kém, hỗ trợ phát triển lực lượng vũ trang và thậm chí cả nền kinh tế của chúng ta thông qua chương trình Phalanstère. Tuy nhiên, nó đi kèm với những nghĩa vụ có lẽ đáng sợ, đặt chúng ta vào con đường xung đột cuối cùng nhưng chắc chắn với Kaiser và các đồng minh của ông ta. Chúng ta nên phản hồi lời đề nghị của họ như thế nào?"
+ generic_events.18.a: "Cùng nhau mạnh mẽ hơn!"
+ generic_events.18.b: "Nghĩ lại thì, không..."
+
+ generic_events.19.t: "[FROM.GetNonIdeologyNameDefCap] Đã Chấp nhận!"
+ generic_events.19.d.generic: "Sau một số thảo luận, [FROM.GetNameDefCap] đã chấp nhận lời mời gia nhập [ROOT.GetFactionName] của chúng ta, như chúng ta hằng mong mỏi. Một thành viên mới của liên minh thường được hoan nghênh, mang lại an toàn hơn cho nhau và ít nhất đảm bảo hòa bình giữa các thành viên trong đó. Những đóng góp về lực lượng quân sự, tài chính và trọng lượng ngoại giao của họ hy vọng sẽ thúc đẩy lợi ích chung của [ROOT.GetFactionName], nhưng có một số lo ngại phía trước.\n\nMột đồng minh nữa trong khối của chúng ta đồng nghĩa với việc đóng góp thêm nguồn lực cho lực lượng chung, dù mọi nguy hiểm bổ sung mà họ mang lại cho phe của chúng ta sẽ được chia sẻ chung. Mọi yêu sách cạnh tranh cần được xem xét, và mọi bất hòa họ có thể gây ra giữa các thành viên phe phái.\n\nChúng ta sẽ cần làm việc siêng năng để đảm bảo những vấn đề này được giải quyết êm thấm, để liên minh này có lợi cho mọi người (hoặc ít nhất là chính chúng ta). Tuy nhiên, điều này không nên làm lu mờ chiến thắng ngoại giao mà chúng ta đã giành được hôm nay cho tất cả người dân của chúng ta."
+ generic_events.19.d.INT: "Đã đến lúc vui mừng! [From.GetNameDefCap] đã chấp nhận lời đề nghị gia nhập liên minh quân sự của chúng ta, như chúng ta hằng mong mỏi. Với quyết định này, họ đã được đảm bảo sự hỗ trợ bất diệt của chúng ta như những đồng minh trong cuộc đấu tranh toàn cầu vì giải phóng giai cấp công nhân, và chúng ta đã có được một đồng minh quý giá chống lại những kẻ thù hùng mạnh không thể phủ nhận của chúng ta. Chẳng mấy chốc, nhiều người khác sẽ theo họ: “Quốc tế Cộng sản sẽ là loài người”!"
+ generic_events.19.a: "Tuyệt vời!"
+
+ generic_events.20.t: "[FROM.GetNonIdeologyNameDefCap] Đã Từ chối!"
+ generic_events.20.d.generic: "Sau một số thảo luận, trước sự thất vọng của chúng ta, [FROM.GetNameDef] đã từ chối lời mời gia nhập [ROOT.GetFactionName] của chúng ta. Thật không may, đây không phải là chuyện hiếm khi xây dựng liên minh. Một số quốc gia sợ mất đi sự linh hoạt ngoại giao mà một cam kết chính thức sẽ tạo ra, hy vọng tránh bị kéo vào một cuộc xung đột thất bại hoặc muốn gia nhập một liên minh phù hợp hơn. Cũng có thể họ có những toan tính loại trừ lẫn nhau với mục tiêu của chúng ta, dù hy vọng không phải theo cách thù địch.\n\nDù thế nào đi nữa, [FROM.GetNameDef] sẽ không tạo nên hay phá vỡ liên minh của chúng ta. Hoặc ít nhất đó phải là trường hợp nếu phe của chúng ta có trọng lượng. Chúng ta sẽ tiếp tục đạt được mục tiêu bằng cách này hay cách khác, và nếu họ may mắn, [FROM.GetNameDef] sẽ không hối tiếc quá nhiều về quyết định tồi tệ của mình."
+ generic_events.20.d.INT: "Trước sự thất vọng của chúng ta, [From.GetNameDef] đã từ chối lời đề nghị gia nhập liên minh quân sự của chúng ta. Có lẽ quá sợ hãi trước sức mạnh không thể phủ nhận của kẻ thù, hoặc đơn giản là chưa đủ cam kết với cuộc chiến vì giải phóng giai cấp vô sản. Dù thế nào, dù đây chắc chắn là kết quả đáng tiếc từ nỗ lực ngoại giao của chúng ta, nhiều người khác sẽ cùng chúng ta trong cuộc đấu tranh này: “Quốc tế Cộng sản sẽ là loài người”!"
+ generic_events.20.a: "Tổn thất của họ."
+
+### Incoming War-ning ###
+ generic_events.30.t: "Chuẩn bị cho Chiến tranh!"
+ generic_events.30.d: "Chúng ta đã nhận được nhiều báo cáo rằng quân đội [From.GetAdjective] hiện đang tập trung, và một lượng lớn trinh sát đang diễn ra dọc biên giới [Root.GetAdjective]. Các quan chức quân sự nói rõ ràng [From.GetNameDef] đang lên kế hoạch xâm lược [Root.GetNameDef], một cuộc xâm lược có thể bắt đầu bất cứ lúc nào trong vài tuần tới."
+ generic_events.30.a: "Chúng ta phải sẵn sàng!"
+ generic_events.31.d: "Chúng ta đã nhận được tin báo động từ [From.GetNameDef] rằng quân đội [From.From.GetAdjective] hiện đang tập trung, và một lượng lớn trinh sát đang diễn ra dọc biên giới [From.GetAdjective]. Các quan chức quân sự nói rõ ràng [From.From.GetNameDef] đang lên kế hoạch xâm lược [From.GetNameDef], một cuộc xâm lược có thể bắt đầu bất cứ lúc nào trong vài tuần tới."
+ generic_events.32.d: "Chúng ta đã nhận được tin từ các đồng minh của chúng ta ở [From.GetNameDef] rằng quân đội của họ hiện đang tập trung, và một lượng lớn trinh sát đang diễn ra dọc biên giới [attack_target.GetAdjective]. [From.GetNameDefCap] đang lên kế hoạch xâm lược [attack_target.GetNameDef], một cuộc xâm lược có thể bắt đầu bất cứ lúc nào trong vài tuần tới."
+
+### Returning Cores ###
+ return_cores_to_ally: "Trả lại Lãnh thổ [From.GetAdjective]"
+ return_cores_to_ally_desc: "Chính phủ [Root.GetAdjective] đã thảo luận về việc phải làm gì với các vùng đất [From.GetAdjective] mà chúng ta hiện đang chiếm đóng - vùng đất mà chúng ta không có yêu sách chính đáng. Chúng ta có nên trả lại đất cho các đồng minh [From.GetAdjective] của mình không?"
+ return_cores_to_subject: "Trả lại Lãnh thổ [From.GetAdjective]"
+ return_cores_to_subject_desc: "Chính phủ [Root.GetAdjective] đã thảo luận về việc phải làm gì với các vùng đất [From.GetAdjective] mà chúng ta hiện đang chiếm đóng - vùng đất mà chúng ta không có yêu sách chính đáng. Chúng ta có nên trả lại đất cho các chư hầu của mình ở [From.GetNameDef] không?"
+
+ generic_events.75.t: "Lãnh thổ [From.From.GetAdjective]"
+ generic_events.75.d: "Chính phủ [Root.GetAdjective] đã thảo luận về việc phải làm gì với các vùng đất [return_to.GetAdjective] mà chúng ta hiện đang chiếm đóng - vùng đất mà chúng ta không có yêu sách chính đáng. Chúng ta có nên trả lại vùng đất này cho họ không?"
+ generic_events.75.a: "Đúng, trả lại tất cả đất cho họ"
+ KR_will_return_all: "Tất cả các bang ven biển hoặc liền kề thuộc sở hữu là lãnh thổ cốt lõi hoặc yêu sách của [return_to.GetAdjective] sẽ được trả lại cho §Y[return_to.GetNameDef]§!.\n\nLưu ý điều này sẽ §Rkhông§! bao gồm các bang là lãnh thổ §Yyêu sách§! hoặc §Ycốt lõi§! của [Root.GetAdjective]."
+ generic_events.75.b: "Đúng, trả lại đất cho họ... nhưng giữ những bang quan trọng nhất"
+ KR_will_return_rest: "Tất cả các bang ven biển hoặc liền kề thuộc sở hữu là lãnh thổ cốt lõi hoặc yêu sách của [return_to.GetAdjective] sẽ được trả lại cho §Y[return_to.GetNameDef]§!.\n\nLưu ý điều này sẽ §Rkhông§! bao gồm các bang là lãnh thổ §Yyêu sách§! hoặc §Ycốt lõi§! của [Root.GetAdjective], cũng sẽ không bao gồm các bang §Yquan trọng§! như kênh đào."
+ generic_events.75.c: "Chỉ trả lại lãnh thổ cốt lõi của họ"
+ KR_will_return_cores: "Tất cả các bang ven biển hoặc liền kề thuộc sở hữu là lãnh thổ cốt lõi của [return_to.GetAdjective] sẽ được trả lại cho §Y[return_to.GetNameDef]§!.\n\nLưu ý điều này sẽ §Rkhông§! bao gồm các bang là lãnh thổ §Yyêu sách§! hoặc §Ycốt lõi§! của [Root.GetAdjective], cũng không bao gồm các bang §Yquan trọng§! như kênh đào. Mọi §Yyêu sách§! của [return_to.GetAdjective] cũng sẽ được giữ lại."
+ generic_events.75.e: "Chúng ta sẽ giữ tất cả!"
+ KR_will_not_return: "Chúng ta sẽ §Rkhông§! trả lại bất kỳ vùng đất nào của họ, và cũng sẽ không bị yêu cầu làm vậy lần nữa."
+
+ generic_events.76.t: "[From.GetNameDefCap] Trả lại Lãnh thổ [Root.GetAdjective]"
+ generic_events.76.d: "Các đồng minh của chúng ta ở [From.GetNameDefCap] đã trả lại một số vùng đất chính đáng của chúng ta!"
+ generic_events.76.a: "Tuyệt!"
+
+### Ideology ###
+ government_is_loc: "Đảng cầm quyền hiện tại là "
+ government_is_not_loc: "Đảng cầm quyền hiện tại không phải là "
+
+### Party Popularity Tooltips ###
+ popularity_ideology_tooltip: "[GetPopularityTooltip]"
+ popularity_ideology_tooltip_default: "Đảng cầm quyền hiện tại của bạn là §H[?current_party_ideology_group.GetTokenLocalizedKey]§!."
+ popularity_ideology_tooltip_mapped: "$popularity_ideology_tooltip_default$\n$MODIFIER_POLITICAL_POWER_GAIN$ mặc định của bạn gắn với Độ phổ biến của Đảng của §H[?global.ideology_groups^political_power_ideology.GetTokenLocalizedKey]s§!."
+ popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
+ party_popularity_delayed_tooltip: "Độ phổ biến của đảng thể hiện mức độ kiểm soát của chính phủ hiện tại đối với quốc gia và sự ủng hộ của họ với người dân. Các đảng chính trị có độ phổ biến cao hơn có khả năng thúc đẩy chương trình nghị sự chính trị của họ và ổn định quốc gia tốt hơn."
+
+ party_popularity_tooltip: "§HĐộ phổ biến của Đảng§![GetPopularityPPGain]"
+ party_popularity_tooltip_long: "§H\n\nHiệu ứng từ Độ phổ biến của Đảng hiện tại của chúng ta:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionPartyPop]"
+
+ party_popularity_dynamic_modifier: "Độ phổ biến của Đảng"
+ party_popularity_dynamic_modifier_ideology_mapped: "Độ phổ biến của Đảng"
+ party_popularity_dynamic_modifier_coalition: "Các liên minh"
+
+ party_popularity_value_default: "[?party_popularity@ruling_party|%0]"
+ party_popularity_value_mapped: "[?party_popularity@var:temp|%0]"
+
+ party_popularity_gain_value_default: "[?party_popularity@ruling_party|2=+]"
+ party_popularity_gain_value_mapped: "[?party_popularity@var:temp|2=+]"
+ party_popularity_gain_value_disabled: "[?0|2=+]"
+
+ party_pop_coalition: "\n\n§HHiệu ứng từ các Đối tác Liên minh:§!\n$MODIFIER_POLITICAL_POWER_GAIN$: [?coalition_pp_gain|+=2]\n"
+ party_pop_coalition_pp_gain: "[?coalition_pp|+2]"
+ party_pop_coalition_stability: "[?coalition_stab|Y0%]"
+
+ party_pop_coalition_ideology: "- [?global.ideology_groups^ideology_index_current.GetTokenLocalizedKey] ([GetCoalitionStability] - [GetCoalitionPPGain])\n[GetCoalitionPartyPop]"
+
+ add_to_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! sẽ tham gia liên minh."
+ remove_from_coalition: "§[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! sẽ rời khỏi liên minh."
+ end_coalition_tt: "§YLiên minh§! sẽ kết thúc hoàn toàn."
+
+ is_in_coalition_with: "Đang trong liên minh với §H[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]s§!."
+ is_in_coalition_with_NOT: "Không ở trong liên minh với §H[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]s§!."
+
+ coalition_stability_tooltip: "Các đối tác liên minh giờ đây cung cấp $RIGHT|G%0$ độ phổ biến của họ như §H$MODIFIER_POLITICAL_POWER_GAIN$§! bổ sung."
+
+ coalition_stability_pp_change: "§$COLOUR$[?global.ideology_groups^$INDEX$.GetTokenLocalizedKey]§! các đối tác liên minh giờ đây đóng góp [?coalition_stability_var|Y0%] độ phổ biến đảng của họ vào $MODIFIER_POLITICAL_POWER_GAIN$ của chúng ta."
+
+### At War Notice ###
+ has_scripted_peace: "Chúng ta Đang Chiến tranh"
+ has_scripted_peace_desc: "Quốc gia đang có chiến tranh, và quyết tâm giành chiến thắng - dù có khả năng sự kháng cự của chúng ta mong manh hơn vẻ ngoài. (Lưu ý: điều này tồn tại cho các cuộc chiến có sự kiện hòa bình theo kịch bản, và có khả năng sự kiện sẽ kích hoạt lâu trước khi giới hạn đầu hàng tăng cao này bị chạm tới, chỉ để bạn biết.)"
+ has_scripted_peace_2: "Chúng ta Đang Chiến tranh 2"
+ has_scripted_peace_2_desc: "Quốc gia đang có chiến tranh, và quyết tâm giành chiến thắng - dù có khả năng sự kháng cự của chúng ta mong manh hơn vẻ ngoài. (Lưu ý: điều này tồn tại cho các cuộc chiến có sự kiện hòa bình theo kịch bản, và có khả năng sự kiện sẽ kích hoạt lâu trước khi giới hạn đầu hàng tăng cao này bị chạm tới, chỉ để bạn biết. Đây là một phiên bản khác của cùng một tinh thần quốc gia phòng trường hợp nhiều hòa bình theo kịch bản kích hoạt cùng lúc.)"
+
+### Demobilisation ###
+ mobilisation_penalty_modifier: "Vượt quá Giới hạn Sư đoàn"
+
+ unit_limit_title: "Số Sư đoàn Tối đa Được Hỗ trợ"
+
+ unit_limit_count: "[unit_limit_count_loc]"
+ unit_limit_count_disabled: "KHÔNG GIỚI HẠN"
+ unit_limit_count_above: "[?num_actual_divisions|R0]/[?max_divisions|Y0]"
+ unit_limit_count_equal: "[?num_actual_divisions|Y0]/[?max_divisions|Y0]"
+ unit_limit_count_below: "[?num_actual_divisions|G0]/[?max_divisions|Y0]"
+
+ unit_limit_law_bonus: "Giới hạn Sư đoàn"
+
+ unit_limit_bonus: "Giới hạn Sư đoàn"
+ unit_limit_bonus_tooltip: "$unit_limit_bonus$: $RIGHT|+=0$"
+
+ unit_limit_factor: "Giới hạn Sư đoàn"
+ unit_limit_factor_tooltip: "$unit_limit_factor$: $RIGHT|+=0%$"
+
+ unit_limit_subject_bonus: "Đóng góp Giới hạn Sư đoàn cho Lãnh chúa"
+
+ unit_limit_breakdown: "[unit_limit_breakdown]"
+ unit_limit_breakdown_default: "§HSố Sư đoàn Tối đa Được Hỗ trợ§!\nTối đa Hiện tại: [?uncapped_max_divisions|H0][unit_limit_reached_floor]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_states][unit_limit_factories][unit_limit_subject_bonus][unit_limit_additional_multipliers][unit_limit_faction_leader][unit_limit_factor]\n\nCác Sửa đổi Bổ sung:[unit_limit_base][unit_limit_economy_law][unit_limit_bonus][unit_limit_above_limit]"
+
+ unit_limit_list_item: "\n   - "
+ unit_limit_list_item_detailed: "\n      - "
+
+ unit_limit_reached_floor_desc: "\n(Giới hạn tối thiểu là [?constant:unit_limits.base|H0])"
+ unit_limit_base_value_desc: "\nGiá trị Cơ bản: [?base_units|G2]"
+ unit_limit_core_population_desc: "$unit_limit_list_item$Dân số Cốt lõi: [?core_base|G2=]"
+ unit_limit_noncore_population_desc: "$unit_limit_list_item$Dân số Không Cốt lõi: [?non_core_base|G2=]"
+ unit_limit_states_desc: "$unit_limit_list_item$Các bang Sở hữu: [?base_states?num_owned_states|G0=]"
+ unit_limit_factories_low_desc: "$unit_limit_list_item$[?factory_delta|-0]/[?factory_cutoff|-0] Nhà máy: [?base_factories|+=2]"
+ unit_limit_factories_high_desc: "$unit_limit_list_item$[?factory_delta|+0]/[?factory_cutoff|+0] Nhà máy: [?base_factories|+=2]"
+ unit_limit_factories_equalised_desc: "$unit_limit_list_item$[?factory_delta|Y0]/[?factory_cutoff|Y0] Nhà máy: §HKhông thay đổi§!"
+ unit_limit_subject_bonus_desc: "$unit_limit_list_item$§HChư hầu§!: [?base_subjects|G2=][unit_limit_subject_bonus_breakdown]"
+ unit_limit_subject_bonus_breakdown_desc: "$unit_limit_list_item_detailed$[?scope.GetNameWithFlag]: [?scope:divisions_from_subject|G2=][unit_limit_subject_bonus_breakdown]"
+ unit_limit_additional_multipliers_desc: "\n\nCác Hệ số Bổ sung:"
+ unit_limit_faction_leader_desc: "$unit_limit_list_item$Lãnh đạo Phe phái: [?constant:unit_limits.faction_leader_bonus|+=%0]"
+ unit_limit_factor_desc: "$unit_limit_list_item$£pol_idea Tinh thần Quốc gia: [?modifier@unit_limit_factor|=+0%]"
+ unit_limit_base_desc: "$unit_limit_list_item$Cơ bản: [?constant:unit_limits.base|=+0]"
+ unit_limit_economy_law_desc: "$unit_limit_list_item$£pol_idea §H[?law.GetTokenLocalizedKey]§!: [?modifier@unit_limit_law_bonus|+=0]"
+ unit_limit_bonus_desc: "$unit_limit_list_item$£pol_idea Tinh thần Quốc gia: [?modifier@unit_limit_bonus|=+0]"
+
+ unit_limit_above_limit_desc: "\n--------------\n$unit_limit_above_limit_text$"
+ unit_limit_above_limit_text: "§RChúng ta hiện đã vượt quá khả năng của mình, và cách duy nhất để giảm bớt áp lực lên đất nước là giải tán một số sư đoàn của chúng ta.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+
+ unit_limit_breakdown_desc: "[unit_limit_breakdown_desc]"
+ unit_limit_breakdown_desc_enabled: "Mỗi quốc gia chỉ có khả năng hỗ trợ một số lượng sư đoàn quân sự nhất định trước khi nền kinh tế và cơ sở hạ tầng của họ gặp khó khăn trong việc duy trì chúng.\n\nSố đơn vị tối đa được hỗ trợ dựa trên §Ydân số§!, §Ysố bang sở hữu§! và §Ysố lượng nhà máy§! của quốc gia so với hai yếu tố trước.\n\nTrong §Rnội chiến§!, các giá trị cơ bản được tính từ tổng tất cả các bang thuộc sở hữu của tất cả các bên tham gia.\n\nBộ Tư lệnh Lục quân luôn được loại trừ khỏi giới hạn sư đoàn."
+ unit_limit_breakdown_desc_disabled: "§HSố Sư đoàn Tối đa Được Hỗ trợ§! đã bị vô hiệu hóa bởi quy tắc trò chơi."
+
+### Tooltips ###
+ KR_party_pop_less_than: "Ít hơn $RIGHT|%0Y$ ủng hộ cho [ROOT.GetRulingParty]"
+ KR_party_pop_more_than: "Nhiều hơn $RIGHT|%0Y$ ủng hộ cho [ROOT.GetRulingParty]"
+ is_ally_of_ROOT: "Là đồng minh của [ROOT.GetNameDef]"
+ has_coalition_with: "Đang trong liên minh với §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
+
+ KR_getting_faction_invite: "Chúng ta hiện đang được mời vào một phe phái."
+ KR_getting_faction_invite_NOT: "Chúng ta hiện §Rkhông§! được mời vào một phe phái."
+
+### Decisions ###
+ generic_raise_stability: "[generic_raise_stability_text]"
+ generic_raise_stability_desc: "[generic_raise_stability_desc_text]"
+
+ generic_raise_stability_socialist: "Cải thiện Điều kiện Công nhân"
+ generic_raise_stability_socialist_desc: "Công việc nhà máy vất vả và đầy rẫy nhiều nguy hiểm. Cải thiện điều kiện cho công nhân nhà máy của chúng ta sẽ giảm sản lượng trong ngắn hạn, nhưng lợi ích dài hạn là xứng đáng."
+
+ generic_raise_stability_liberal: "Lập pháp các Quyền tự do"
+ generic_raise_stability_liberal_desc: "Có lẽ cách dễ nhất để cải thiện sự ổn định của đất nước là cho người dân những gì họ muốn. Nó sẽ bao gồm một số thỏa hiệp không thoải mái, nhưng lý tưởng nhất, những biện pháp này chỉ là tạm thời và được thiết kế để xoa dịu họ cho đến khi trật tự có thể được khôi phục đúng cách."
+
+ generic_raise_stability_conservative: "Đàn áp của Cảnh sát"
+ generic_raise_stability_conservative_desc: "Tình trạng mất trật tự đã trở nên tràn lan. Chúng ta phải nới lỏng các hạn chế đối với lực lượng cảnh sát, và cho họ quyền tự do làm công việc của mình trong việc bắt giữ những kẻ phạm tội tồi tệ nhất."
+
+ generic_raise_stability_authoritarian: "Điều Quân đội"
+ generic_raise_stability_authoritarian_desc: "Cách đối phó với tình trạng mất trật tự trong quốc gia là điều quân đội và đàn áp hoàn toàn. Không phải ai cũng sẽ hài lòng về điều đó, đúng vậy, nhưng đôi khi thiết quân luật là lựa chọn duy nhất."
+
+ generic_raise_support: "[generic_raise_support_text]"
+ generic_raise_support_desc: "[generic_raise_support_desc_text]"
+
+ rally_public_support: "Tập hợp Ủng hộ Công chúng"
+ rally_public_support_desc: "Với một chút quyền lực chính trị và một số hỗ trợ công nghiệp, chúng ta sẽ tập hợp những người ủng hộ về phía mình. Dù điều này sẽ mất thời gian và nguồn lực, nó sẽ cải thiện vị thế chính trị của chúng ta về lâu dài."
+
+ solidify_control: "Củng cố Kiểm soát"
+ solidify_control_desc: "Một chút sử dụng khéo léo quyền lực chính trị ở đây và một số nguồn lực ở kia và chúng ta sẽ loại bỏ các trở ngại chính trị; chúng ta có thể không loại bỏ được tất cả, nhưng ngay cả việc loại bỏ một số sẽ mở đường và cải thiện quyền lực chính trị của chúng ta về lâu dài."
+
+ restructure_supply_system: "Tổ chức lại Hệ thống Đường sắt"
+ restructure_supply_system_desc: "Bằng cách chuyển hướng vật liệu xây dựng và công nhân đường sắt, chúng ta có thể nhanh chóng tạo ra một số lượng nhỏ kho tiếp tế tạm thời dọc theo một số tuyến đường sắt của chúng ta. Tuy nhiên, điều này không bền vững.\n\n§RQuyết định này chỉ có thể được thực hiện một lần. Phần thưởng sẽ biến mất nếu bạn xây dựng thêm hơn 3 trung tâm tiếp tế.§!"
+
+ debug_decisions: "Quyết định Gỡ lỗi"
+ turn_off_plpc_debug: "Tắt Hội nghị do Người chơi Dẫn dắt"
+ turn_off_plpc_debug_desc: "Điều này sẽ tạm thời tắt hội nghị hòa bình do người chơi dẫn dắt -- nghĩa là hội nghị hòa bình sẽ diễn ra như bình thường, và các quốc gia AI sẽ không rút lui nếu có người chơi tham gia."
+ turn_on_plpc_debug: "Bật Hội nghị do Người chơi Dẫn dắt"
+ turn_on_plpc_debug_desc: "Điều này sẽ khôi phục chức năng bình thường của hội nghị hòa bình do người chơi dẫn dắt. Các quốc gia AI sẽ luôn rút lui khỏi hội nghị hòa bình nếu có người chơi tham gia ở phía thắng."
+ KR_player_leads_conferences: "Quy tắc trò chơi §YƯu tiên Người chơi§! cho Hội nghị Hòa bình đang hoạt động và §Gđược bật§!\n"
+ KR_plpc_disable_tt: "Quy tắc trò chơi §YƯu tiên Người chơi§! sẽ tạm thời bị §Rvô hiệu hóa§!\n"
+ KR_plpc_enable_tt: "Quy tắc trò chơi §YƯu tiên Người chơi§! sẽ một lần nữa §Gđược bật§!\n"
+ KR_plpc_turned_off: "Quy tắc trò chơi §YƯu tiên Người chơi§! cho Hội nghị Hòa bình đang hoạt động nhưng hiện đang bị §Rvô hiệu hóa§!\n"
+ stt_highlight_states: "Các bang Được đánh dấu"
+ AI_dont_spend_PP: "AI Không Tiêu PP"
+
+### Modifiers ###
+ generic_development_efforts_modifier: "Nỗ lực Phát triển"
+ generic_development_efforts_modifier_desc: "Là một phần của kế hoạch cơ sở hạ tầng quốc gia, chính phủ [ROOT.GetAdjective] đã hỗ trợ các nỗ lực phát triển lớn ở bang này, với mục tiêu hy vọng đưa quốc gia đến gần hơn với một tương lai công nghiệp hóa."
+
+##################
+### Ideologies ###
+##################
+
+### Names ###
+ totalist: "Toàn trị chủ nghĩa"
+ syndicalist: "Công đoàn chủ nghĩa"
+ radical_socialist: "Xã hội chủ nghĩa Cấp tiến"
+ social_democrat: "Dân chủ Xã hội"
+ social_liberal: "Tự do Xã hội"
+ market_liberal: "Tự do Thị trường"
+ social_conservative: "Bảo thủ Xã hội"
+ authoritarian_democrat: "Dân chủ Độc tài"
+ paternal_autocrat: "Chuyên chế Gia trưởng"
+ national_populist: "Dân túy Quốc gia"
+
+### Names Coloured ###
+ totalist_coloured: "§oToàn trị chủ nghĩa§!"
+ syndicalist_coloured: "§rCông đoàn chủ nghĩa§!"
+ radical_socialist_coloured: "§RXã hội chủ nghĩa Cấp tiến§!"
+ social_democrat_coloured: "§SDân chủ Xã hội§!"
+ social_liberal_coloured: "§lTự do Xã hội§!"
+ market_liberal_coloured: "§mTự do Thị trường§!"
+ social_conservative_coloured: "§cBảo thủ Xã hội§!"
+ authoritarian_democrat_coloured: "§aDân chủ Độc tài§!"
+ paternal_autocrat_coloured: "§PChuyên chế Gia trưởng§!"
+ national_populist_coloured: "§nDân túy Quốc gia§!"
+
+### Nouns ###
+ totalist_noun: "Toàn trị chủ nghĩa"
+ syndicalist_noun: "Công đoàn chủ nghĩa"
+ radical_socialist_noun: "Xã hội chủ nghĩa Cấp tiến"
+ social_democrat_noun: "Dân chủ Xã hội"
+ social_liberal_noun: "Tự do Xã hội"
+ market_liberal_noun: "Tự do Thị trường"
+ social_conservative_noun: "Bảo thủ Xã hội"
+ authoritarian_democrat_noun: "Dân chủ Độc tài"
+ paternal_autocrat_noun: "Chuyên chế Gia trưởng"
+ national_populist_noun: "Dân túy Quốc gia"
+
+### Ideology Grouping ###
+ kr_government_grouping: "Nhóm Hệ tư tưởng"
+ totalist_desc: "Xã hội chủ nghĩa"
+ syndicalist_desc: "Xã hội chủ nghĩa"
+ radical_socialist_desc: "Xã hội chủ nghĩa"
+ social_democrat_desc: "Tự do"
+ social_liberal_desc: "Tự do"
+ market_liberal_desc: "Tự do"
+ social_conservative_desc: "Bảo thủ"
+ authoritarian_democrat_desc: "Bảo thủ"
+ paternal_autocrat_desc: "Phản động"
+ national_populist_desc: "Phản động"
+
+### Subtype Descriptions ###
+ totalist_subtype_desc: "Toàn trị chủ nghĩa là một cách gọi khái quát cho các chính phủ lấy cảm hứng từ các nhánh toàn trị, tiên phong hoặc cực kỳ độc tài của chủ nghĩa xã hội. Được đặt tên theo các đảng xã hội chủ nghĩa dân tộc khác nhau đã cùng nhau ký Hiến chương Toàn trị, nhiều phong trào xã hội chủ nghĩa độc tài khác trên toàn cầu đã được liên kết với họ, đôi khi khiến họ bực bội."
+ syndicalist_subtype_desc: "Công đoàn chủ nghĩa là hệ tư tưởng cách mạng hàng đầu trên thế giới, một sự tiến hóa của các dòng xã hội chủ nghĩa tập trung vào công đoàn cũ đã đi từ một hình thức hành động trực tiếp nổi dậy đến một hệ thống chính phủ. Thường kết hợp chủ nghĩa xã hội công nghiệp và tự do nguyện, nhiều chính phủ công đoàn chủ nghĩa hiện đại lấy cảm hứng từ các hệ thống tiên phong ở Pháp và Anh, dù nhiều nước đưa vào những ý tưởng mới hoặc địa phương của riêng mình."
+ radical_socialist_subtype_desc: "Xã hội chủ nghĩa Cấp tiến bao gồm một loạt các chính phủ cánh tả cách mạng, và các phe phái này bác bỏ chủ nghĩa cải cách chính trị trong các cấu trúc phản động như phương tiện tối thượng để thay đổi hiện trạng. Các dòng đa dạng của Xã hội chủ nghĩa Cấp tiến có thể khác nhau đáng kể về niềm tin, nhưng chia sẻ mong muốn chung là thấy một tương lai khác biệt hoàn toàn so với những gì trật tự cũ mang lại."
+ social_democrat_subtype_desc: "Dân chủ Xã hội đại diện cho các chính phủ khác nhau do các nhóm cánh tả cải cách lãnh đạo, những người bác bỏ nhu cầu cố hữu về đấu tranh giai cấp bạo lực để đạt được mục tiêu của họ, đôi khi xung đột với các đồng nghiệp cấp tiến hơn trong quá trình đó. Nhiều người thay vào đó kêu gọi thay đổi thông qua lá phiếu, dù nếu bị dồn ép, những nhà cách mạng kiểu này không phải là không có."
+ social_liberal_subtype_desc: "Tự do Xã hội phản ánh nhiều phong cách cai trị của truyền thống tự do tiến bộ, thường thúc đẩy thay đổi trong khế ước xã hội để đáp ứng nhu cầu ngày càng tăng của người dân. Các chính phủ này có xu hướng tập trung vào việc mở rộng hoặc bảo vệ các quyền tự do dân sự thông qua cả cải cách chính trị và kinh tế, dù mục tiêu của họ khác nhau giữa các quốc gia."
+ market_liberal_subtype_desc: "Các chính phủ Tự do Thị trường bắt nguồn từ chủ nghĩa tự do cổ điển, và có gốc rễ trong nhiều triết lý Khai sáng. Đề cao tính thiêng liêng của tự do cá nhân và thường ủng hộ chính phủ đại diện và doanh nghiệp tự do, loại này đại diện cho một loạt các nhóm bao gồm những người tự do thị trường tự do, những người tự do quốc gia và những người tự do bảo thủ."
+ social_conservative_subtype_desc: "Bảo thủ Xã hội bao gồm nhiều chính phủ dân chủ tìm cách bảo tồn, duy trì hoặc củng cố các giá trị truyền thống của người dân trước những hoàn cảnh thay đổi. Những người theo đuổi nó không phải là phản động cứng nhắc, thường ủng hộ pháp quyền và dân chủ, và sẵn sàng tìm kiếm những thay đổi có chừng mực, gia tăng phù hợp với đạo đức của họ trong các hệ thống chính trị mà họ sống."
+ authoritarian_democrat_subtype_desc: "Dân chủ Độc tài mô tả một loạt rộng các hệ thống chính phủ bán đại diện được đặc trưng bởi những nhân vật và nhóm lợi ích quyền lực cai trị thông qua vẻ ngoài của cơ quan lập pháp tự do. Đôi khi là sản phẩm của niềm tin hệ tư tưởng hoặc chủ nghĩa thực dụng thuần túy, những lần khác cấu trúc chính trị này xuất hiện do các thể chế dân cử yếu hoặc chuyển tiếp."
+ paternal_autocrat_subtype_desc: "Chuyên chế Gia trưởng thường là một tư duy hơn là một hệ tư tưởng, và các chính phủ chuyên chế gia trưởng đôi khi công khai tố cáo đảng phái hệ tư tưởng. Thường kêu gọi một nhà lãnh đạo mạnh mẽ, khôn ngoan như một Vị Vua, Tướng lĩnh hoặc Giáo sĩ để bảo vệ và hướng dẫn người dân, bản chất độc đoán của nó đã không ngăn cản những người thực hành nắm giữ ảnh hưởng đối với quần chúng."
+ national_populist_subtype_desc: "Dân túy Quốc gia là sản phẩm của sự hội tụ của các phong trào dân tộc cực đoan cánh hữu nảy sinh trong một thế giới đang thay đổi và mô tả các chính phủ tìm cách khai thác năng lượng của người dân cho những mục tiêu thường là cấp tiến. Thường mang mối khinh miệt đối với nền dân chủ truyền thống và khai thác sự bất mãn của quần chúng với cơ sở, nhiều người quay sang những nguồn cảm hứng chiết trung để giải quyết các vấn đề hàng đầu."
+
+### Drift ###
+ totalist_drift: "Ủng hộ Toàn trị chủ nghĩa Hàng ngày"
+ syndicalist_drift: "Ủng hộ Công đoàn chủ nghĩa Hàng ngày"
+ radical_socialist_drift: "Ủng hộ Xã hội chủ nghĩa Cấp tiến Hàng ngày"
+ social_democrat_drift: "Ủng hộ Dân chủ Xã hội Hàng ngày"
+ social_liberal_drift: "Ủng hộ Tự do Xã hội Hàng ngày"
+ market_liberal_drift: "Ủng hộ Tự do Thị trường Hàng ngày"
+ social_conservative_drift: "Ủng hộ Bảo thủ Xã hội Hàng ngày"
+ authoritarian_democrat_drift: "Ủng hộ Dân chủ Độc tài Hàng ngày"
+ paternal_autocrat_drift: "Ủng hộ Chuyên chế Gia trưởng Hàng ngày"
+ national_populist_drift: "Ủng hộ Dân túy Quốc gia Hàng ngày"
+
+ totalist_acceptance: "Chấp nhận Ngoại giao Toàn trị chủ nghĩa"
+ syndicalist_acceptance: "Chấp nhận Ngoại giao Công đoàn chủ nghĩa"
+ radical_socialist_acceptance: "Chấp nhận Ngoại giao Xã hội chủ nghĩa Cấp tiến"
+ social_democrat_acceptance: "Chấp nhận Ngoại giao Dân chủ Xã hội"
+ social_liberal_acceptance: "Chấp nhận Ngoại giao Tự do Xã hội"
+ market_liberal_acceptance: "Chấp nhận Ngoại giao Tự do Thị trường"
+ social_conservative_acceptance: "Chấp nhận Ngoại giao Bảo thủ Xã hội"
+ authoritarian_democrat_acceptance: "Chấp nhận Ngoại giao Dân chủ Độc tài"
+ paternal_autocrat_acceptance: "Chấp nhận Ngoại giao Chuyên chế Gia trưởng"
+ national_populist_acceptance: "Chấp nhận Ngoại giao Dân túy Quốc gia"

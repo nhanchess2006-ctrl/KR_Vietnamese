@@ -1,0 +1,23 @@
+﻿﻿l_english:
+
+#################
+### Bookmarks ###
+#################
+
+### Name and Description ###
+ KR_history_title: "Lịch Sử Tóm Tắt"
+ KR_scenario_name: "Di Sản của Đại Chiến Thế Giới"
+ KR_scenario_desc: "Khi năm 1936 đến gần, di sản của Đại Chiến Thế Giới đè nặng lên vai một thế hệ mới. Đức đứng sừng sững giữa trung tâm thế giới, một cường quốc không có đối thủ, nhưng dưới chân nó là những kẻ thù cả cũ lẫn mới; từ Quốc tế Cộng sản đang trỗi dậy của Pháp đến khối Entente cũ, đến một nước Nga chưa bị khuất phục và một mặt trời mọc không hề hối cải. Trong khi đó, tầm với rộng lớn của Đức đã khiến nó bị kéo căng nguy hiểm, các đồng minh của nó ở Constantinople và Vienna đã trở nên xa cách, và bên kia Đại Tây Dương, gã khổng lồ nước Mỹ đang chao đảo. Mười bảy năm đã trôi qua kể từ khi chiến tranh kết thúc, và ít ai mong đợi năm mới sẽ mang đến một bước ngoặt; nhưng chẳng mấy chốc, một tia lửa duy nhất có thể là tất cả những gì cần để thắp lại thùng thuốc súng..."
+
+### Nation Selection Screen ###
+ new_this_patch_title: "MỚI TRONG BẢN VÁ NÀY"
+ new_this_patch_title_b: "§b$new_this_patch_title$§!"
+
+### Labels ###
+ new_content_label: "Nội Dung Mới"
+ recommended_label: "Đề Xuất"
+
+### Other ###
+ Debug_KR_gathering_storm_desc: "Nếu bạn thấy điều này, vui lòng tạo báo cáo lỗi"
+ 
+ OTHER_KR_gathering_storm_desc: "Các quốc gia trên thế giới, lớn và nhỏ, đang chờ đợi đến lượt mình vươn lên thành một cường quốc chính của thế giới này. Từ các cường quốc đang cố gắng giữ vững đế chế của mình đến nhiều quốc gia đang cố gắng giành lại những gì họ đã mất trong Đại Chiến Thế Giới, tất cả đều sẽ phải đưa ra những quyết định khó khăn và cân bằng giữa lý tưởng với chủ nghĩa thực dụng để có thể tác động đến tương lai của thế giới..."
